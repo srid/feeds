@@ -520,6 +520,191 @@
           "title": "olivierverdier /\n\n      zsh-git-prompt"
         }
       ]
+    },
+    {
+      "href": "https://hnrss.org/frontpage",
+      "articles": [
+        {
+          "description": "Article URL: https://www.theverge.com/2021/5/1/22414185/california-appeals-court-amazon-marketplace-responsible-third-party-hoverboard\nComments URL: https://news.ycombinator.com/item?id=27010976\nPoints: 28\n# Comments: 7",
+          "link": "https://www.theverge.com/2021/5/1/22414185/california-appeals-court-amazon-marketplace-responsible-third-party-hoverboard",
+          "publishedOn": "2021-05-01T23:40:19.000Z",
+          "wordCount": 672,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "California appeals court finds Amazon responsible for 3rd party sellers products"
+        },
+        {
+          "description": "Article URL: https://www.sciencedirect.com/science/article/abs/pii/S0031938417304328\nComments URL: https://news.ycombinator.com/item?id=27010904\nPoints: 31\n# Comments: 2",
+          "link": "https://www.sciencedirect.com/science/article/abs/pii/S0031938417304328",
+          "publishedOn": "2021-05-01T23:28:55.000Z",
+          "wordCount": 413,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Comparative assessments of dietary sugars on cognitive performance (2018)"
+        },
+        {
+          "description": "Article URL: https://elevation.fandom.com/wiki/Sabbath_service_(SHO)\nComments URL: https://news.ycombinator.com/item?id=27010617\nPoints: 11\n# Comments: 9",
+          "link": "https://elevation.fandom.com/wiki/Sabbath_service_(SHO)",
+          "publishedOn": "2021-05-01T22:51:37.000Z",
+          "wordCount": 823,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Elevator Sabbath service mode (SHO)"
+        },
+        {
+          "description": "Article URL: https://commonsware.com/blog/2021/05/01/google-io-2021-uncomfortable-questions.html\nComments URL: https://news.ycombinator.com/item?id=27010463\nPoints: 56\n# Comments: 14",
+          "link": "https://commonsware.com/blog/2021/05/01/google-io-2021-uncomfortable-questions.html",
+          "publishedOn": "2021-05-01T22:28:29.000Z",
+          "wordCount": 460,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Google I|O 2021 and Uncomfortable Questions"
+        },
+        {
+          "description": "Article URL: https://www.bbc.com/news/science-environment-56951752\nComments URL: https://news.ycombinator.com/item?id=27010451\nPoints: 14\n# Comments: 1",
+          "link": "https://www.bbc.com/news/science-environment-56951752",
+          "publishedOn": "2021-05-01T22:27:26.000Z",
+          "wordCount": 1178,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Mars Ingenuity helicopter mission extended by NASA"
+        },
+        {
+          "description": "Article URL: https://github.com/osmoscraft/osmosfeed\nComments URL: https://news.ycombinator.com/item?id=27010144\nPoints: 38\n# Comments: 24",
+          "link": "https://github.com/osmoscraft/osmosfeed",
+          "publishedOn": "2021-05-01T21:42:42.000Z",
+          "wordCount": 1228,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Turn GitHub into an RSS Reader"
+        },
+        {
+          "description": "Article URL: https://chrisgliddon.com/the-tragic-story-of-vernon-and-oswald-7540fa359509\nComments URL: https://news.ycombinator.com/item?id=27010066\nPoints: 49\n# Comments: 5",
+          "link": "https://chrisgliddon.com/the-tragic-story-of-vernon-and-oswald-7540fa359509",
+          "publishedOn": "2021-05-01T21:33:56.000Z",
+          "wordCount": 1177,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "The Tragic Story of the Creator of Oswald and Pacifico Fonts (2016)"
+        },
+        {
+          "description": "Article URL: https://www.reuters.com/lifestyle/oddly-enough/high-anxiety-worlds-longest-pedestrian-suspension-bridge-opens-portugal-2021-04-29/\nComments URL: https://news.ycombinator.com/item?id=27009978\nPoints: 36\n# Comments: 9",
+          "link": "https://www.reuters.com/lifestyle/oddly-enough/high-anxiety-worlds-longest-pedestrian-suspension-bridge-opens-portugal-2021-04-29/",
+          "publishedOn": "2021-05-01T21:25:40.000Z",
+          "wordCount": 714,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Longest pedestrian suspension bridge opens in Portugal"
+        },
+        {
+          "description": "Article URL: https://www.ben-evans.com/benedictevans/2021/4/30/resetting-the-app-store\nComments URL: https://news.ycombinator.com/item?id=27009876\nPoints: 15\n# Comments: 13",
+          "link": "https://www.ben-evans.com/benedictevans/2021/4/30/resetting-the-app-store",
+          "publishedOn": "2021-05-01T21:13:45.000Z",
+          "wordCount": 1577,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Resetting the App Store"
+        },
+        {
+          "description": "Article URL: https://www.sirum.org/about#careers\nComments URL: https://news.ycombinator.com/item?id=27009749\nPoints: 1\n# Comments: 0",
+          "link": "https://www.sirum.org/about#careers",
+          "publishedOn": "2021-05-01T21:00:29.000Z",
+          "wordCount": 384,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Sirum (YC W15) is hiring: join a fast-growing, mission-driven healthcare team"
+        },
+        {
+          "description": "Article URL: https://emutos.sourceforge.io/\nComments URL: https://news.ycombinator.com/item?id=27009522\nPoints: 41\n# Comments: 4",
+          "link": "https://emutos.sourceforge.io/",
+          "publishedOn": "2021-05-01T20:26:22.000Z",
+          "wordCount": 379,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "EmuTOS: A Free OS for computers based on M68K processors including the Atari ST"
+        },
+        {
+          "description": "Article URL: https://fediverse.party/en/miscellaneous\nComments URL: https://news.ycombinator.com/item?id=27009468\nPoints: 100\n# Comments: 25",
+          "link": "https://fediverse.party/en/miscellaneous",
+          "publishedOn": "2021-05-01T20:20:09.000Z",
+          "wordCount": 1813,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Fediverse.Party – Explore Federated Networks"
+        },
+        {
+          "description": "Article URL: https://lore.kernel.org/lkml/CAHk-=whs8QZf3YnifdLv57+FhBi5_WeNTG1B-suOES=RcUSmQg@mail.gmail.com/\nComments URL: https://news.ycombinator.com/item?id=27009044\nPoints: 375\n# Comments: 216",
+          "link": "https://lore.kernel.org/lkml/CAHk-=whs8QZf3YnifdLv57+FhBi5_WeNTG1B-suOES=RcUSmQg@mail.gmail.com/",
+          "publishedOn": "2021-05-01T19:22:32.000Z",
+          "wordCount": 805,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Torvalds: Shared libraries are not a good thing in general"
+        },
+        {
+          "description": "Article URL: http://www.segmentel.com\nComments URL: https://news.ycombinator.com/item?id=27008767\nPoints: 22\n# Comments: 8",
+          "link": "http://www.segmentel.com",
+          "publishedOn": "2021-05-01T18:51:44.000Z",
+          "wordCount": 61,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Show HN: Segmentel – Let AI segment videos for you"
+        },
+        {
+          "description": "Article URL: https://www.smithsonianmag.com/science-nature/story-one-whale-who-tried-bridge-linguistic-divide-between-animals-humans-180951437/\nComments URL: https://news.ycombinator.com/item?id=27008743\nPoints: 132\n# Comments: 59",
+          "link": "https://www.smithsonianmag.com/science-nature/story-one-whale-who-tried-bridge-linguistic-divide-between-animals-humans-180951437/",
+          "publishedOn": "2021-05-01T18:48:45.000Z",
+          "wordCount": 3419,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "A whale who tried to mimic human speech (2014)"
+        },
+        {
+          "description": "Article URL: https://www.nytimes.com/2021/04/30/technology/google-back-to-office-workers.html\nComments URL: https://news.ycombinator.com/item?id=27007898\nPoints: 92\n# Comments: 125",
+          "link": "https://www.nytimes.com/2021/04/30/technology/google-back-to-office-workers.html",
+          "publishedOn": "2021-05-01T17:12:19.000Z",
+          "wordCount": 1992,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Over the next year or so, Google will try out new office designs"
+        },
+        {
+          "description": "Article URL: https://github.com/banga/git-split-diffs\nComments URL: https://news.ycombinator.com/item?id=27007844\nPoints: 68\n# Comments: 25",
+          "link": "https://github.com/banga/git-split-diffs",
+          "publishedOn": "2021-05-01T17:05:03.000Z",
+          "wordCount": 1001,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Show HN: GitHub style split diffs in your terminal"
+        },
+        {
+          "description": "Article URL: http://ideasfilter.com/\nComments URL: https://news.ycombinator.com/item?id=27007767\nPoints: 416\n# Comments: 164",
+          "link": "http://ideasfilter.com/",
+          "publishedOn": "2021-05-01T16:53:05.000Z",
+          "wordCount": 10,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "List of apps people pay for but have low rating"
+        },
+        {
+          "description": "Article URL: https://readme.so/\nComments URL: https://news.ycombinator.com/item?id=27006740\nPoints: 230\n# Comments: 47",
+          "link": "https://readme.so/",
+          "publishedOn": "2021-05-01T14:46:34.000Z",
+          "wordCount": 39,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Readme.so – Easiest Way to Create a Readme"
+        },
+        {
+          "description": "Article URL: http://justinjaffray.com/query-engines-push-vs.-pull/\nComments URL: https://news.ycombinator.com/item?id=27006476\nPoints: 117\n# Comments: 22",
+          "link": "http://justinjaffray.com/query-engines-push-vs.-pull/",
+          "publishedOn": "2021-05-01T14:12:18.000Z",
+          "wordCount": 2586,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Query Engines: Push vs. Pull"
+        }
+      ]
     }
   ],
   "cliVersion": "1.2.3"
