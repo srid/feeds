@@ -2,8 +2,8 @@ cacheUrl: https://srid.github.io/feeds/cache.json
 sources:
   - href: https://css-tricks.com/feed/
   - href: https://serokell.io/blog.rss.xml
-  - href: https://rsshub.app/github/trending/daily/haskell
   - href: https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day
   - href: https://www.reddit.com/r/TheMotte/top/.rss?sort=top&t=day
   - href: https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day
   - href: https://www.reddit.com/r/redscarepod/top/.rss?sort=top&t=day&limit=3
+  - href: https://rsshub.app/github/trending/daily/haskell
