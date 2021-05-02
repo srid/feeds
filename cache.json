@@ -189,6 +189,47 @@
           "title": "Parser Combinators in Elixir"
         }
       ]
+    },
+    {
+      "href": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
+      "articles": [
+        {
+          "description": "This is your opportunity to ask any questions you feel don&#39;t deserve their own threads, no matter how small or simple they might be!\n  &#32; submitted by &#32;  /u/taylorfausak  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/n2s8yk/monthly_hask_anything_may_2021/",
+          "publishedOn": "2021-05-01T21:43:18.000Z",
+          "wordCount": 166,
+          "sourceHref": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : haskell",
+          "title": "Monthly Hask Anything (May 2021)"
+        },
+        {
+          "description": "Hi all,\n I&#39;m developing a reflex application (not using obelisk; I only need a frontend and it seems like obelisk does not have a straight forward way of doing frontend only), and previously, I was able to use the web inspector in the webkitgtk window that my app produced. This was pretty helpful to track down CSS errors. Unfortunately, it stopped working about 6 months back, and now when you try to inspect an element, the area where the inspector should be is just some code with a copyright notice at t…",
+          "link": "https://www.reddit.com/r/haskell/comments/n2s1gg/reflex_app_and_web_inspector/",
+          "publishedOn": "2021-05-01T21:32:56.000Z",
+          "wordCount": 221,
+          "sourceHref": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : haskell",
+          "title": "Reflex App and Web Inspector?"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/gtboy1994  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/n2auh9/would_you_recommend_a_course_on_functional/",
+          "publishedOn": "2021-05-01T04:07:21.000Z",
+          "wordCount": 540,
+          "sourceHref": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : haskell",
+          "title": "Would you recommend a course on Functional Programming or a course on Data Structures and Algorithms for a person who's already learned some python but wants to get better at thinking like a programmer?"
+        },
+        {
+          "description": "Apologies if this has been answered elsewhere, but a Google search yielded nothing.\n I just found about the 1999 Lightweight Extensible Records for Haskell paper my Mark P Jones and Simon Peyton Jones.\n To the oldtimers who were around at that time, I&#39;m curious, what happened? Why wasn&#39;t it implemented in GHC? Apparently, it&#39;s a development of a previous implementation in Hugs, so it wasn&#39;t even purely academical at that point.\n Was the main obstacle backwards compatibility? Was it deemed un…",
+          "link": "https://www.reddit.com/r/haskell/comments/n2af6l/lightweight_extensible_records_for_haskell_1999/",
+          "publishedOn": "2021-05-01T03:38:59.000Z",
+          "wordCount": 692,
+          "sourceHref": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : haskell",
+          "title": "Lightweight Extensible Records for Haskell (1999)"
+        }
+      ]
     }
   ],
   "cliVersion": "1.2.3"
