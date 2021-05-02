@@ -191,6 +191,236 @@
       ]
     },
     {
+      "href": "https://rsshub.app/github/trending/daily/haskell",
+      "articles": [
+        {
+          "description": "An implementation of the Ouroboros family of consensus algorithms, with its networking support\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/input-output-hk/ouroboros-network",
+          "publishedOn": "2021-05-02T01:04:05.735Z",
+          "wordCount": 1461,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "input-output-hk /\n\n      ouroboros-network"
+        },
+        {
+          "description": "A strongly-typed language that compiles to JavaScript\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/purescript/purescript",
+          "publishedOn": "2021-05-02T01:04:05.691Z",
+          "wordCount": 796,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "purescript /\n\n      purescript"
+        },
+        {
+          "description": "Successor of ghcide & haskell-ide-engine. One IDE to rule them all.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/haskell/haskell-language-server",
+          "publishedOn": "2021-05-02T01:04:05.630Z",
+          "wordCount": 5017,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "haskell /\n\n      haskell-language-server"
+        },
+        {
+          "description": "Haskell ODBC binding with SQL Server support\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/fpco/odbc",
+          "publishedOn": "2021-05-02T01:04:05.409Z",
+          "wordCount": 1160,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "fpco /\n\n      odbc"
+        },
+        {
+          "description": "Reference DAML application demonstrating a healthcare use case.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/digital-asset/ex-healthcare-claims-processing",
+          "publishedOn": "2021-05-02T01:04:05.377Z",
+          "wordCount": 1896,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "digital-asset /\n\n      ex-healthcare-claims-processing"
+        },
+        {
+          "description": "A formal specification and executable model of the ledger rules introduced by the Shelley release\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/input-output-hk/cardano-ledger-specs",
+          "publishedOn": "2021-05-02T01:04:05.343Z",
+          "wordCount": 1865,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "input-output-hk /\n\n      cardano-ledger-specs"
+        },
+        {
+          "description": "The core of xmonad, a small but functional ICCCM-compliant tiling window manager\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/xmonad/xmonad",
+          "publishedOn": "2021-05-02T01:04:05.307Z",
+          "wordCount": 1090,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "xmonad /\n\n      xmonad"
+        },
+        {
+          "description": "The core component that is used to participate in a Cardano decentralised blockchain.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/input-output-hk/cardano-node",
+          "publishedOn": "2021-05-02T01:04:05.275Z",
+          "wordCount": 2878,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "input-output-hk /\n\n      cardano-node"
+        },
+        {
+          "description": "REST API for any Postgres database\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/PostgREST/postgrest",
+          "publishedOn": "2021-05-02T01:04:05.230Z",
+          "wordCount": 1069,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "PostgREST /\n\n      postgrest"
+        },
+        {
+          "description": "HTTP server & command-line for managing UTxOs and HD wallets in Cardano.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/input-output-hk/cardano-wallet",
+          "publishedOn": "2021-05-02T01:04:05.191Z",
+          "wordCount": 1232,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "input-output-hk /\n\n      cardano-wallet"
+        },
+        {
+          "description": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/hasura/graphql-engine",
+          "publishedOn": "2021-05-02T01:04:05.155Z",
+          "wordCount": 1772,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "hasura /\n\n      graphql-engine"
+        },
+        {
+          "description": "How to learn front-end or back-end development\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/fullstack-development/developers-roadmap",
+          "publishedOn": "2021-05-02T01:04:05.112Z",
+          "wordCount": 1001,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "fullstack-development /\n\n      developers-roadmap"
+        },
+        {
+          "description": "Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/facebook/duckling",
+          "publishedOn": "2021-05-02T01:04:05.056Z",
+          "wordCount": 1271,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "facebook /\n\n      duckling"
+        },
+        {
+          "description": "Beginnings of a parser for a new functional language\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/benwbooth/cleo",
+          "publishedOn": "2021-05-02T01:04:05.020Z",
+          "wordCount": 436,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "benwbooth /\n\n      cleo"
+        },
+        {
+          "description": "Future-proof note-taking and publishing based on Zettelkasten\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/srid/neuron",
+          "publishedOn": "2021-05-02T01:04:05.004Z",
+          "wordCount": 587,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "srid /\n\n      neuron"
+        },
+        {
+          "description": "Language: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/PedroDCN/chess-game-haskell",
+          "publishedOn": "2021-05-02T01:04:04.972Z",
+          "wordCount": 458,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "PedroDCN /\n\n      chess-game-haskell"
+        },
+        {
+          "description": "Visualizing kubernetes capacity.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/Shopify/kubepacity",
+          "publishedOn": "2021-05-02T01:04:04.944Z",
+          "wordCount": 433,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "Shopify /\n\n      kubepacity"
+        },
+        {
+          "description": "Informative git prompt for zsh\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/olivierverdier/zsh-git-prompt",
+          "publishedOn": "2021-05-02T01:04:04.925Z",
+          "wordCount": 1031,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "olivierverdier /\n\n      zsh-git-prompt"
+        },
+        {
+          "description": "Reference DAML application demonstrating a bond issuance use case.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/digital-asset/ex-bond-issuance",
+          "publishedOn": "2021-05-02T01:04:04.893Z",
+          "wordCount": 2840,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "digital-asset /\n\n      ex-bond-issuance"
+        },
+        {
+          "description": "ShellCheck, a static analysis tool for shell scripts\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/koalaman/shellcheck",
+          "publishedOn": "2021-05-02T01:04:04.851Z",
+          "wordCount": 3063,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "koalaman /\n\n      shellcheck"
+        },
+        {
+          "description": "Dapp, Seth, Hevm, and more\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/dapphub/dapptools",
+          "publishedOn": "2021-05-02T01:04:04.800Z",
+          "wordCount": 902,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "dapphub /\n\n      dapptools"
+        },
+        {
+          "description": "Language: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/input-output-hk/plutus-pioneer-program",
+          "publishedOn": "2021-05-02T01:04:04.764Z",
+          "wordCount": 800,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "input-output-hk /\n\n      plutus-pioneer-program"
+        },
+        {
+          "description": "Haskell static site generator that is change-aware\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/srid/ema",
+          "publishedOn": "2021-05-02T01:04:04.702Z",
+          "wordCount": 507,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "srid /\n\n      ema"
+        },
+        {
+          "description": "Functional Programming Course\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/system-f/fp-course",
+          "publishedOn": "2021-05-02T01:04:04.667Z",
+          "wordCount": 2771,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "system-f /\n\n      fp-course"
+        },
+        {
+          "description": "Official upstream development repository for Cabal and cabal-install\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/haskell/cabal",
+          "publishedOn": "2021-05-02T01:04:04.581Z",
+          "wordCount": 684,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "haskell /\n\n      cabal"
+        }
+      ]
+    },
+    {
       "href": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
       "articles": [
         {
@@ -228,6 +458,34 @@
           "sourceHref": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
           "sourceTitle": "top scoring links : haskell",
           "title": "Lightweight Extensible Records for Haskell (1999)"
+        }
+      ]
+    },
+    {
+      "href": "https://www.reddit.com/r/TheMotte/top/.rss?sort=top&t=day",
+      "articles": [
+        {
+          "description": "Since it came up multiple times in the discussions on my last post (about the estimated QALY benefits of weight loss drugs), I figured I’d go over some details on what the current crop of non-shitty FDA-approved weight loss drugs look like, in terms of side effects, typical weight lost, and other factors.\n I’m not a doctor. You should talk to one before taking any of these, since if you don’t, your eyes will start weeping pitch; the sky will become as sackcloth, and the moon will be as blood; and when the S…",
+          "link": "https://www.reddit.com/r/TheMotte/comments/n1xnth/weight_loss_drugs_part_v_drugalug/",
+          "publishedOn": "2021-04-30T16:33:15.000Z",
+          "wordCount": 1796,
+          "sourceHref": "https://www.reddit.com/r/TheMotte/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : TheMotte",
+          "title": "Weight Loss Drugs, Part V: Drug-a-lug"
+        }
+      ]
+    },
+    {
+      "href": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+      "articles": [
+        {
+          "description": "&#32; submitted by &#32;  /u/adamaero  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n2o68z/macronutrient_metabolism_by_the_human_gut/",
+          "publishedOn": "2021-05-01T18:26:32.000Z",
+          "wordCount": 434,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "Macronutrient metabolism by the human gut microbiome: major fermentation by-products and their impact on host health (2019)"
         }
       ]
     },
@@ -458,34 +716,6 @@
           "sourceHref": "https://www.reddit.com/r/redscarepod/top/.rss?sort=top&t=day",
           "sourceTitle": "top scoring links : redscarepod",
           "title": "Before and after listening to redscare"
-        }
-      ]
-    },
-    {
-      "href": "https://www.reddit.com/r/TheMotte/top/.rss?sort=top&t=day",
-      "articles": [
-        {
-          "description": "Since it came up multiple times in the discussions on my last post (about the estimated QALY benefits of weight loss drugs), I figured I’d go over some details on what the current crop of non-shitty FDA-approved weight loss drugs look like, in terms of side effects, typical weight lost, and other factors.\n I’m not a doctor. You should talk to one before taking any of these, since if you don’t, your eyes will start weeping pitch; the sky will become as sackcloth, and the moon will be as blood; and when the S…",
-          "link": "https://www.reddit.com/r/TheMotte/comments/n1xnth/weight_loss_drugs_part_v_drugalug/",
-          "publishedOn": "2021-04-30T16:33:15.000Z",
-          "wordCount": 1796,
-          "sourceHref": "https://www.reddit.com/r/TheMotte/top/.rss?sort=top&t=day",
-          "sourceTitle": "top scoring links : TheMotte",
-          "title": "Weight Loss Drugs, Part V: Drug-a-lug"
-        }
-      ]
-    },
-    {
-      "href": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
-      "articles": [
-        {
-          "description": "&#32; submitted by &#32;  /u/adamaero  \n [link] &#32; [comments]",
-          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n2o68z/macronutrient_metabolism_by_the_human_gut/",
-          "publishedOn": "2021-05-01T18:26:32.000Z",
-          "wordCount": 434,
-          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
-          "sourceTitle": "top scoring links : ScientificNutrition",
-          "title": "Macronutrient metabolism by the human gut microbiome: major fermentation by-products and their impact on host health (2019)"
         }
       ]
     }
