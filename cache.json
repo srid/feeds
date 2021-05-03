@@ -194,6 +194,78 @@
       "href": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
       "articles": [
         {
+          "description": "Hello /r/haskell\n I&#39;ve been working on a library that allows you to stream changes in your PostgreSQL database into your Haskell program. I recently created a candidate package that you can check out here: https://hackage.haskell.org/package/postgresql-replicant-0.1.0.0/candidate\n With a library like this we should be able to build web-socket streaming servers, conduit and pipes wrappers, etc.\n With this candidate release I&#39;d like to collect some initial feedback from developers and squash any immed…",
+          "link": "https://www.reddit.com/r/haskell/comments/n3hvtw/announce_postgresqlreplicant0100candidate/",
+          "publishedOn": "2021-05-02T22:41:46.000Z",
+          "wordCount": 253,
+          "sourceHref": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : haskell",
+          "title": "[Announce] postgresql-replicant-0.1.0.0-candidate: streaming PostgreSQL changes"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/jaspervdj  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/n3d0b3/zurihac_2021_1820_june_registration_now_open/",
+          "publishedOn": "2021-05-02T18:49:22.000Z",
+          "wordCount": 128,
+          "sourceHref": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : haskell",
+          "title": "ZuriHac 2021 (18-20 June): Registration now open"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/n00bomb  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/n3a28q/quick_and_dirty_backpropagation_in_haskell/",
+          "publishedOn": "2021-05-02T16:29:08.000Z",
+          "wordCount": 125,
+          "sourceHref": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : haskell",
+          "title": "Quick and dirty backpropagation in Haskell"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/binaryfor  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/n3973h/we_got_an_interview_with_avi_press_avi_is_a/",
+          "publishedOn": "2021-05-02T15:50:49.000Z",
+          "wordCount": 260,
+          "sourceHref": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : haskell",
+          "title": "We got an interview with Avi Press! Avi is a Haskeller who’s working on a suite of tools to provide insight into how your open source project is being used, called Scarf. We talked about Haskell, how the idea for Scarf came about, and what he’s has been listening to lately!"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/n00bomb  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/n35q7o/simon_michael_inside_hledger_an_architectural/",
+          "publishedOn": "2021-05-02T12:47:13.000Z",
+          "wordCount": 296,
+          "sourceHref": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : haskell",
+          "title": "Simon Michael - Inside hledger: an architectural tour and how-to - April 2021 - HaskellerZ"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/n00bomb  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/n35h55/gradual_tensor_typing_for_practical_machine/",
+          "publishedOn": "2021-05-02T12:31:03.000Z",
+          "wordCount": 161,
+          "sourceHref": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : haskell",
+          "title": "Gradual tensor typing for practical machine learning in Haskell with Hasktorch"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/vaibhavsagar  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/n31997/updating_ihaskell_to_a_newer_ghc/",
+          "publishedOn": "2021-05-02T07:17:51.000Z",
+          "wordCount": 123,
+          "sourceHref": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : haskell",
+          "title": "Updating IHaskell to a Newer GHC"
+        },
+        {
+          "description": "Just learning haskell, and thought write some simple applications is the best way to learn. So I started to write a basic application which grabs HTTP content from the web.\n I need a HTTP client library as the first requiement, and took a look at the http-client and wreq, but found that they are too low level, or too complicated (need to learn lens, which is hard for begainers like me). Then I found http-dispatch, which is almost what I want, but that library is broken on hackage and not been maintained for…",
+          "link": "https://www.reddit.com/r/haskell/comments/n3047i/simple_http_client_library/",
+          "publishedOn": "2021-05-02T05:46:40.000Z",
+          "wordCount": 989,
+          "sourceHref": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : haskell",
+          "title": "Simple HTTP client library"
+        },
+        {
           "description": "This is your opportunity to ask any questions you feel don&#39;t deserve their own threads, no matter how small or simple they might be!\n  &#32; submitted by &#32;  /u/taylorfausak  \n [link] &#32; [comments]",
           "link": "https://www.reddit.com/r/haskell/comments/n2s8yk/monthly_hask_anything_may_2021/",
           "publishedOn": "2021-05-01T21:43:18.000Z",
@@ -235,6 +307,15 @@
       "href": "https://www.reddit.com/r/TheMotte/top/.rss?sort=top&t=day",
       "articles": [
         {
+          "description": "Do you have a dumb question that you&#39;re kind of embarrassed to ask in the main thread? Is there something you&#39;re just not sure about? \n This is your opportunity to ask questions. No question too simple or too silly. \n Culture war topics are accepted, and proposals for a better intro post are appreciated.\n  &#32; submitted by &#32;  /u/AutoModerator  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/TheMotte/comments/n30h9b/smallscale_question_sunday_for_may_02_2021/",
+          "publishedOn": "2021-05-02T06:15:13.000Z",
+          "wordCount": 2038,
+          "sourceHref": "https://www.reddit.com/r/TheMotte/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : TheMotte",
+          "title": "Small-Scale Question Sunday for May 02, 2021"
+        },
+        {
           "description": "Since it came up multiple times in the discussions on my last post (about the estimated QALY benefits of weight loss drugs), I figured I’d go over some details on what the current crop of non-shitty FDA-approved weight loss drugs look like, in terms of side effects, typical weight lost, and other factors.\n I’m not a doctor. You should talk to one before taking any of these, since if you don’t, your eyes will start weeping pitch; the sky will become as sackcloth, and the moon will be as blood; and when the S…",
           "link": "https://www.reddit.com/r/TheMotte/comments/n1xnth/weight_loss_drugs_part_v_drugalug/",
           "publishedOn": "2021-04-30T16:33:15.000Z",
@@ -249,6 +330,42 @@
       "href": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
       "articles": [
         {
+          "description": "ncbi.nlm.nih.gov/pmc/articles/PMC6786897\n Wikipedia of key words\n  \ncarotenoids | simpleWiki\n fiber| simpleWiki\n five-a-day\n flavonoids\n fructose| simpleWiki\n fruit juice\n polyphenols\n self-efficacy\n sugar | simpleWiki\n vitamin C | simpleWiki\n  \nINTRODUCTION\n  \nIn many countries, although not all, half or 1 glass of unsweetened 100% fruit or vegetable juice counts toward 5 portions a day. [...]\n  \nFACTORS INFLUENCING WHETHER INDIVIDUALS ACHIEVE 5 SERVINGS A DAY\n Psychosocial factors\n  \nA review of psycholog…",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n3avm4/role_of_fruit_juice_in_achieving_the_5aday/",
+          "publishedOn": "2021-05-02T17:06:45.000Z",
+          "wordCount": 1612,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "Role of fruit juice in achieving the 5-a-day recommendation for fruit and vegetable intake"
+        },
+        {
+          "description": "ncbi.nlm.nih.gov/pmc/articles/PMC5359417\n &quot;Eat your vegetables!&quot;\n Wikipedia of key words\n  \nOnline support group\n Quantified self (or self-tracking)\n Social comparison\n Similarity)\n Social modeling: social learning theory | observational learning | modeling (psychology))\n  \n Incrementalism\n  \n---\n Introduction\n  \nExtensive evidence suggests that fruit and vegetable consumption prevents obesity [1,2], reduces cardiovascular disease risk [3,4], and decreases the risk of certain cancers [5,6]. Althou…",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n3a48o/online_selftracking_groups_to_increase_fruit_and/",
+          "publishedOn": "2021-05-02T16:31:44.000Z",
+          "wordCount": 1684,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "Online Self-Tracking Groups to Increase Fruit and Vegetable Intake: A Small-Scale Study on Mechanisms of Group Effect on Behavior Change (2017)"
+        },
+        {
+          "description": "ncbi.nlm.nih.gov/pmc/articles/PMC4676868\n Wikipedia of key words\n  \nMicrobiome| SimpleWiki1\n Quantified self (or self-tracking)\n Self-experimentation and in medicine\n Personalized medicine\n Citizen science | SimpleWiki2 | List of citizen science projects\n  \nBackground\n  \n[...] Although it is currently impossible to monitor the microbiome at home, some crowdfunded biotech start-ups [8, 9] are offering a paying service to analyze one’s microbiome as part of a larger citizen science movement [10]. [...] In thi…",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n38igb/selftracking_the_microbiome_where_do_we_go_from/",
+          "publishedOn": "2021-05-02T15:20:32.000Z",
+          "wordCount": 877,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "Self-tracking the microbiome: where do we go from here? (2015)"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/Englishfucker  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n31qix/remodeling_of_the_gut_microbiome_during/",
+          "publishedOn": "2021-05-02T07:56:29.000Z",
+          "wordCount": 443,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "Remodeling of the gut microbiome during Ramadan-associated intermittent fasting"
+        },
+        {
           "description": "&#32; submitted by &#32;  /u/adamaero  \n [link] &#32; [comments]",
           "link": "https://www.reddit.com/r/ScientificNutrition/comments/n2o68z/macronutrient_metabolism_by_the_human_gut/",
           "publishedOn": "2021-05-01T18:26:32.000Z",
@@ -262,6 +379,33 @@
     {
       "href": "https://www.reddit.com/r/redscarepod/top/.rss?sort=top&t=day&limit=3",
       "articles": [
+        {
+          "description": "&#32; submitted by &#32;  /u/frenziedpony  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/n38s77/think_about_this_post_i_saw_in_pics_back_in/",
+          "publishedOn": "2021-05-02T15:32:00.000Z",
+          "wordCount": 576,
+          "sourceHref": "https://www.reddit.com/r/redscarepod/top/.rss?sort=top&t=day&limit=3",
+          "sourceTitle": "top scoring links : redscarepod",
+          "title": "Think about this post I saw in pics back in January a lot"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/WaspQuaker  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/n33791/red_scare_meetup/",
+          "publishedOn": "2021-05-02T09:55:46.000Z",
+          "wordCount": 390,
+          "sourceHref": "https://www.reddit.com/r/redscarepod/top/.rss?sort=top&t=day&limit=3",
+          "sourceTitle": "top scoring links : redscarepod",
+          "title": "Red scare meetup"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/iwanttobeapencil  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/n2yoi8/redscare_gf_cumtown_bf/",
+          "publishedOn": "2021-05-02T04:04:12.000Z",
+          "wordCount": 592,
+          "sourceHref": "https://www.reddit.com/r/redscarepod/top/.rss?sort=top&t=day&limit=3",
+          "sourceTitle": "top scoring links : redscarepod",
+          "title": "Redscare gf, cumtown bf"
+        },
         {
           "description": "It took approximately five drinks for the entire table to start going off criticizing cancel culture/wokeness. Most of them work in academia/journalism and the trigger was that someone mentioned that they were asked to do a land acknowledgement before a zoom webinar\n Three drinks later someone said the n-word in reference to some dumb rightoid gag about pronouns (my pronouns are nick/her) and everyone was dying laughing\n For what its worth most of these people are on the older side (50-60) and not really ra…",
           "link": "https://www.reddit.com/r/redscarepod/comments/n2k1h7/last_night_i_was_at_a_dinner_party_with_my/",
@@ -294,6 +438,123 @@
     {
       "href": "https://rsshub.app/github/trending/daily/haskell",
       "articles": [
+        {
+          "description": "The engine for haskell ide-integration. Not an IDE\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/haskell/haskell-ide-engine",
+          "publishedOn": "2021-05-03T00:09:42.578Z",
+          "wordCount": 4278,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "haskell /\n\n      haskell-ide-engine"
+        },
+        {
+          "description": "A comprehensive Amazon Web Services SDK for Haskell.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/brendanhay/amazonka",
+          "publishedOn": "2021-05-03T00:09:42.485Z",
+          "wordCount": 907,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "brendanhay /\n\n      amazonka"
+        },
+        {
+          "description": "Find your open-soulmate \n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/haskellfoundation/matchmaker",
+          "publishedOn": "2021-05-03T00:09:41.269Z",
+          "wordCount": 702,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "haskellfoundation /\n\n      matchmaker"
+        },
+        {
+          "description": "Fork of Hlint (https://github.com/ndmitchell/hlint)\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/digital-asset/hlint",
+          "publishedOn": "2021-05-03T00:09:41.208Z",
+          "wordCount": 4452,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "digital-asset /\n\n      hlint"
+        },
+        {
+          "description": "Easy dependency management for Nix projects\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/nmattia/niv",
+          "publishedOn": "2021-05-03T00:09:41.154Z",
+          "wordCount": 2307,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "nmattia /\n\n      niv"
+        },
+        {
+          "description": "A statically typed lisp, without a GC, for real-time applications.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/carp-lang/Carp",
+          "publishedOn": "2021-05-03T00:09:41.058Z",
+          "wordCount": 890,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "carp-lang /\n\n      Carp"
+        },
+        {
+          "description": "The Haskell Tool Stack\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/commercialhaskell/stack",
+          "publishedOn": "2021-05-03T00:09:41.014Z",
+          "wordCount": 666,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "commercialhaskell /\n\n      stack"
+        },
+        {
+          "description": "Reference DAML application demonstrating the use case of repackaging Mortgage Based Securities. \n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/digital-asset/ex-mortgage-repackaging",
+          "publishedOn": "2021-05-03T00:09:40.988Z",
+          "wordCount": 810,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "digital-asset /\n\n      ex-mortgage-repackaging"
+        },
+        {
+          "description": "Universal markup converter\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/jgm/pandoc",
+          "publishedOn": "2021-05-03T00:09:40.944Z",
+          "wordCount": 1580,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "jgm /\n\n      pandoc"
+        },
+        {
+          "description": "Language: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/digital-asset/lib-finance",
+          "publishedOn": "2021-05-03T00:09:40.884Z",
+          "wordCount": 1363,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "digital-asset /\n\n      lib-finance"
+        },
+        {
+          "description": "A friendly programming language from the future\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/unisonweb/unison",
+          "publishedOn": "2021-05-03T00:09:40.837Z",
+          "wordCount": 799,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "unisonweb /\n\n      unison"
+        },
+        {
+          "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/krispo/awesome-haskell",
+          "publishedOn": "2021-05-03T00:09:40.749Z",
+          "wordCount": 2493,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "krispo /\n\n      awesome-haskell"
+        },
+        {
+          "description": "Compiler for Elm, a functional language for reliable webapps.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/elm/compiler",
+          "publishedOn": "2021-05-03T00:09:40.645Z",
+          "wordCount": 702,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "elm /\n\n      compiler"
+        },
         {
           "description": "A formal specification and executable model of the ledger rules introduced by the Shelley release\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
           "link": "https://github.com/input-output-hk/cardano-ledger-specs",
@@ -525,6 +786,186 @@
       "href": "https://hnrss.org/frontpage",
       "articles": [
         {
+          "description": "Article URL: https://www.scientificamerican.com/article/stars-that-race-through-space-at-nearly-the-speed-of-light/\nComments URL: https://news.ycombinator.com/item?id=27019843\nPoints: 10\n# Comments: 9",
+          "link": "https://www.scientificamerican.com/article/stars-that-race-through-space-at-nearly-the-speed-of-light/",
+          "publishedOn": "2021-05-02T22:56:59.000Z",
+          "wordCount": 1433,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Stars That Race Through Space at Nearly the Speed of Light"
+        },
+        {
+          "description": "Article URL: https://rosenzweig.io/blog/asahi-gpu-part-4.html\nComments URL: https://news.ycombinator.com/item?id=27019249\nPoints: 46\n# Comments: 4",
+          "link": "https://rosenzweig.io/blog/asahi-gpu-part-4.html",
+          "publishedOn": "2021-05-02T21:33:34.000Z",
+          "wordCount": 1367,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Dissecting the Apple M1 GPU, Part IV"
+        },
+        {
+          "description": "Article URL: https://substack.com/jobs\nComments URL: https://news.ycombinator.com/item?id=27018970\nPoints: 1\n# Comments: 0",
+          "link": "https://substack.com/jobs",
+          "publishedOn": "2021-05-02T21:01:14.000Z",
+          "wordCount": 390,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Substack (YC W18) is hiring to build a better business model for writing"
+        },
+        {
+          "description": "Article URL: https://github.com/mneuroth/SciTEQt\nComments URL: https://news.ycombinator.com/item?id=27018742\nPoints: 18\n# Comments: 0",
+          "link": "https://github.com/mneuroth/SciTEQt",
+          "publishedOn": "2021-05-02T20:32:07.000Z",
+          "wordCount": 636,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "SciteQt: A Port of the SciTE Editor to Qt/Quick – Android App and WASM available"
+        },
+        {
+          "description": "Article URL: https://skytransfer.hns.siasky.net/#/\nComments URL: https://news.ycombinator.com/item?id=27017805\nPoints: 34\n# Comments: 9",
+          "link": "https://skytransfer.hns.siasky.net/#/",
+          "publishedOn": "2021-05-02T18:53:56.000Z",
+          "wordCount": 9,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "SkyTransfer – Free, Open-Source, Decentralized and Encrypted File-Sharing"
+        },
+        {
+          "description": "Article URL: https://setosa.io/ev/principal-component-analysis/\nComments URL: https://news.ycombinator.com/item?id=27017675\nPoints: 98\n# Comments: 21",
+          "link": "https://setosa.io/ev/principal-component-analysis/",
+          "publishedOn": "2021-05-02T18:37:56.000Z",
+          "wordCount": 542,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Principal Component Analysis Explained Visually"
+        },
+        {
+          "description": "Article URL: https://www.cigionline.org/articles/4-billion-app-doesnt-value-privacy-security-or-accessibility\nComments URL: https://news.ycombinator.com/item?id=27017650\nPoints: 98\n# Comments: 75",
+          "link": "https://www.cigionline.org/articles/4-billion-app-doesnt-value-privacy-security-or-accessibility",
+          "publishedOn": "2021-05-02T18:35:47.000Z",
+          "wordCount": 2222,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Clubhouse doesn’t value privacy, security or accessibility"
+        },
+        {
+          "description": "Article URL: https://simonwillison.net/2021/May/2/one-year-of-tils/\nComments URL: https://news.ycombinator.com/item?id=27017604\nPoints: 119\n# Comments: 24",
+          "link": "https://simonwillison.net/2021/May/2/one-year-of-tils/",
+          "publishedOn": "2021-05-02T18:31:20.000Z",
+          "wordCount": 333,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "One Year of TILs"
+        },
+        {
+          "description": "Article URL: https://www.staycaffeinated.com/2021/05/02/designing-a-guitar-with-hot-swappable-pickups\nComments URL: https://news.ycombinator.com/item?id=27017176\nPoints: 93\n# Comments: 73",
+          "link": "https://www.staycaffeinated.com/2021/05/02/designing-a-guitar-with-hot-swappable-pickups",
+          "publishedOn": "2021-05-02T17:44:55.000Z",
+          "wordCount": 1153,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Designing a guitar with hot-swappable pickups"
+        },
+        {
+          "description": "Article URL: https://www.regulations.gov/document/FTC-2021-0019-0001/comment\nComments URL: https://news.ycombinator.com/item?id=27017041\nPoints: 514\n# Comments: 336",
+          "link": "https://www.regulations.gov/document/FTC-2021-0019-0001/comment",
+          "publishedOn": "2021-05-02T17:29:21.000Z",
+          "wordCount": 3,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Request for comments regarding topics to be discussed at Dark Patterns workshop"
+        },
+        {
+          "description": "Article URL: https://www.dw.com/en/green-gold-avocado-farming-on-the-rise-in-africa/a-57390367\nComments URL: https://news.ycombinator.com/item?id=27016778\nPoints: 110\n# Comments: 99",
+          "link": "https://www.dw.com/en/green-gold-avocado-farming-on-the-rise-in-africa/a-57390367",
+          "publishedOn": "2021-05-02T17:00:05.000Z",
+          "wordCount": 1676,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Green gold: Avocado farming on the rise in Africa"
+        },
+        {
+          "description": "Article URL: https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/\nComments URL: https://news.ycombinator.com/item?id=27016630\nPoints: 698\n# Comments: 110",
+          "link": "https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/",
+          "publishedOn": "2021-05-02T16:43:15.000Z",
+          "wordCount": 1701,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Hosting SQLite databases on GitHub Pages or any static file hoster"
+        },
+        {
+          "description": "Article URL: https://retool.com/blog/salesforce-for-engineers/\nComments URL: https://news.ycombinator.com/item?id=27016600\nPoints: 211\n# Comments: 122",
+          "link": "https://retool.com/blog/salesforce-for-engineers/",
+          "publishedOn": "2021-05-02T16:39:42.000Z",
+          "wordCount": 2294,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "What's Salesforce? (2019)"
+        },
+        {
+          "description": "Article URL: https://www.why-compost.org\nComments URL: https://news.ycombinator.com/item?id=27016319\nPoints: 66\n# Comments: 78",
+          "link": "https://www.why-compost.org",
+          "publishedOn": "2021-05-02T15:58:04.000Z",
+          "wordCount": 314,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "My oldest kid made this to raise awareness for composting"
+        },
+        {
+          "description": "Article URL: https://nakamotoinstitute.org/static/docs/cyphernomicon.txt\nComments URL: https://news.ycombinator.com/item?id=27015743\nPoints: 62\n# Comments: 1",
+          "link": "https://nakamotoinstitute.org/static/docs/cyphernomicon.txt",
+          "publishedOn": "2021-05-02T14:47:09.000Z",
+          "wordCount": 125481,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "The Cyphernomicon: Cypherpunks FAQ and More (1994) [Txt]"
+        },
+        {
+          "description": "Article URL: https://dmitryelj.medium.com/howto-using-a-pager-in-the-21st-century-6a57454ecde8\nComments URL: https://news.ycombinator.com/item?id=27015556\nPoints: 116\n# Comments: 112",
+          "link": "https://dmitryelj.medium.com/howto-using-a-pager-in-the-21st-century-6a57454ecde8",
+          "publishedOn": "2021-05-02T14:23:01.000Z",
+          "wordCount": 2873,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Using a Pager in the 21st Century"
+        },
+        {
+          "description": "Article URL: https://berthub.eu/articles/posts/how-tech-loses-out/\nComments URL: https://news.ycombinator.com/item?id=27015327\nPoints: 117\n# Comments: 40",
+          "link": "https://berthub.eu/articles/posts/how-tech-loses-out/",
+          "publishedOn": "2021-05-02T13:56:41.000Z",
+          "wordCount": 6291,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "How Tech Loses Out"
+        },
+        {
+          "description": "Article URL: https://cybergibbons.com/security-2/what3words-the-algorithm/\nComments URL: https://news.ycombinator.com/item?id=27015046\nPoints: 220\n# Comments: 131",
+          "link": "https://cybergibbons.com/security-2/what3words-the-algorithm/",
+          "publishedOn": "2021-05-02T13:19:35.000Z",
+          "wordCount": 3946,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "What3Words – The Algorithm"
+        },
+        {
+          "description": "Article URL: https://www.theatlantic.com/ideas/archive/2018/12/what-its-like-to-deliver-packages-for-amazon/578986/\nComments URL: https://news.ycombinator.com/item?id=27014859\nPoints: 161\n# Comments: 231",
+          "link": "https://www.theatlantic.com/ideas/archive/2018/12/what-its-like-to-deliver-packages-for-amazon/578986/",
+          "publishedOn": "2021-05-02T12:53:05.000Z",
+          "wordCount": 2430,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "I Used to Write for Sports Illustrated. Now I Deliver Packages for Amazon (2018)"
+        },
+        {
+          "description": "Article URL: http://www.lighterra.com/papers/modernmicroprocessors/\nComments URL: https://news.ycombinator.com/item?id=27014027\nPoints: 103\n# Comments: 18",
+          "link": "http://www.lighterra.com/papers/modernmicroprocessors/",
+          "publishedOn": "2021-05-02T10:55:35.000Z",
+          "wordCount": 15676,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Modern Microprocessors a 90-Minute Guide"
+        },
+        {
           "description": "Article URL: https://www.theverge.com/2021/5/1/22414185/california-appeals-court-amazon-marketplace-responsible-third-party-hoverboard\nComments URL: https://news.ycombinator.com/item?id=27010976\nPoints: 28\n# Comments: 7",
           "link": "https://www.theverge.com/2021/5/1/22414185/california-appeals-court-amazon-marketplace-responsible-third-party-hoverboard",
           "publishedOn": "2021-05-01T23:40:19.000Z",
@@ -707,5 +1148,5 @@
       ]
     }
   ],
-  "cliVersion": "1.2.3"
+  "cliVersion": "1.3.0"
 }
