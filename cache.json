@@ -4,6 +4,33 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
+          "description": "In June of 2006, web developers and designers from around the world came to London for the second annual @media conference. The first had been a huge success, and @media 2006 had even more promise. Its speaker lineup was pulled &#8230;\nThe post Chapter 8: CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/chapter-8-css/",
+          "publishedOn": "2021-05-03T21:52:08.000Z",
+          "wordCount": 6272,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Chapter 8: CSS"
+        },
+        {
+          "description": "I hope people think of SVG as a vector format that is good for drawing things. There is plenty more to know, but here&#8217;s one more: SVG is good for composition. You draw things at very specific coordinates &#8230;\nThe post Swipey Image Grids appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.cassie.codes/posts/swipey-image-grids/",
+          "publishedOn": "2021-05-03T14:35:07.000Z",
+          "wordCount": 908,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Swipey Image Grids"
+        },
+        {
+          "description": "I&#8217;m willing to bet you know WebPageTest. It is the premier tool in the toolbox of web performance people. Maybe you didn&#8217;t know that WebPageTest was a side project of one fella, Patrick Meenan, for most of its lifetime, &#8230;\nThe post WebPageTest API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/webpagetest-api/",
+          "publishedOn": "2021-05-03T14:34:53.000Z",
+          "wordCount": 8905,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "WebPageTest API"
+        },
+        {
           "description": "Yay, it&#8217;s here! Safari 14.1 reportedly adds support for the gap property in flexbox layouts. We&#8217;ve had grid-gap support for some time, but true to its name, it&#8217;s limited to grid layouts. Now we can use gap in either type &#8230;\nThe post Safari 14.1 Adds Support for Flexbox Gaps appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/safari-14-1-adds-support-for-flexbox-gaps/",
           "publishedOn": "2021-04-30T21:51:08.000Z",
@@ -194,6 +221,15 @@
       "href": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
       "articles": [
         {
+          "description": "What do people use when using GHCI &amp; Windows?\n I use Powershell - but.. input often goes wonky. Characters go missing when typing etc.\n I often use WSL also, but I want to build something to run under Windows..\n  &#32; submitted by &#32;  /u/johnorford  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/n3qn54/ghci_on_windows/",
+          "publishedOn": "2021-05-03T07:48:07.000Z",
+          "wordCount": 340,
+          "sourceHref": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : haskell",
+          "title": "GHCI on Windows?"
+        },
+        {
           "description": "Hello /r/haskell\n I&#39;ve been working on a library that allows you to stream changes in your PostgreSQL database into your Haskell program. I recently created a candidate package that you can check out here: https://hackage.haskell.org/package/postgresql-replicant-0.1.0.0/candidate\n With a library like this we should be able to build web-socket streaming servers, conduit and pipes wrappers, etc.\n With this candidate release I&#39;d like to collect some initial feedback from developers and squash any immed…",
           "link": "https://www.reddit.com/r/haskell/comments/n3hvtw/announce_postgresqlreplicant0100candidate/",
           "publishedOn": "2021-05-02T22:41:46.000Z",
@@ -307,6 +343,24 @@
       "href": "https://www.reddit.com/r/TheMotte/top/.rss?sort=top&t=day",
       "articles": [
         {
+          "description": "This weekly roundup thread is intended for all culture war posts. &#39;Culture war&#39; is vaguely defined, but it basically means controversial issues that fall along set tribal lines. Arguments over culture war issues generate a lot of heat and little light, and few deeply entrenched people ever change their minds. This thread is for voicing opinions and analyzing the state of the discussion while trying to optimize for light over heat.\n Optimistically, we think that engaging with people you disagree with…",
+          "link": "https://www.reddit.com/r/TheMotte/comments/n3pe45/culture_war_roundup_for_the_week_of_may_03_2021/",
+          "publishedOn": "2021-05-03T06:15:17.000Z",
+          "wordCount": 5199,
+          "sourceHref": "https://www.reddit.com/r/TheMotte/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : TheMotte",
+          "title": "Culture War Roundup for the week of May 03, 2021"
+        },
+        {
+          "description": "I checked, it seems like no-one on this sub has mentioned the Pentagon confirming that yet another UFO video is genuine. In June, US intelligence agencies will be releasing a dossier disclosing what they know about the phenomenon.\n I&#39;m really struggling to figure out how I feel about this. I very heavily doubt any power on Earth would/would be capable of developing technology like this while also having the ability and inclination to keep it secret.\n At the same time, I am deeply skeptical of the idea o…",
+          "link": "https://www.reddit.com/r/TheMotte/comments/n3lueo/help_me_make_sense_of_this_ufo_business/",
+          "publishedOn": "2021-05-03T02:27:02.000Z",
+          "wordCount": 1445,
+          "sourceHref": "https://www.reddit.com/r/TheMotte/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : TheMotte",
+          "title": "Help me make sense of this UFO business."
+        },
+        {
           "description": "Do you have a dumb question that you&#39;re kind of embarrassed to ask in the main thread? Is there something you&#39;re just not sure about? \n This is your opportunity to ask questions. No question too simple or too silly. \n Culture war topics are accepted, and proposals for a better intro post are appreciated.\n  &#32; submitted by &#32;  /u/AutoModerator  \n [link] &#32; [comments]",
           "link": "https://www.reddit.com/r/TheMotte/comments/n30h9b/smallscale_question_sunday_for_may_02_2021/",
           "publishedOn": "2021-05-02T06:15:13.000Z",
@@ -329,6 +383,177 @@
     {
       "href": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
       "articles": [
+        {
+          "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n44chk/highfat_dietinduced_activation_of_sgk1_promotes/",
+          "publishedOn": "2021-05-03T19:02:05.000Z",
+          "wordCount": 371,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "High-fat diet-induced activation of SGK1 promotes Alzheimer's disease-associated tau pathology (2021)"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n44ae1/nutritional_status_impacts_epigenetic_regulation/",
+          "publishedOn": "2021-05-03T19:00:01.000Z",
+          "wordCount": 451,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "Nutritional Status Impacts Epigenetic Regulation in Early Embryo Development: A Scoping Review (2021)"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n43fcc/vitamin_b12_status_in_health_and_disease_a/",
+          "publishedOn": "2021-05-03T18:26:24.000Z",
+          "wordCount": 615,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "Vitamin B12 status in health and disease: a critical review. Diagnosis of deficiency and insufficiency – clinical and laboratory pitfalls (2021)"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n43d9z/secondary_coq10_deficiency_bioenergetics/",
+          "publishedOn": "2021-05-03T18:24:07.000Z",
+          "wordCount": 442,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "Secondary CoQ10 deficiency, bioenergetics unbalance in disease and aging (2021)"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n43azp/administration_of_quercetin_improves_mitochondria/",
+          "publishedOn": "2021-05-03T18:21:34.000Z",
+          "wordCount": 369,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "Administration of quercetin improves mitochondria quality control and protects the neurons in 6-OHDA-lesioned Parkinson's disease models (2021)"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n4394y/curcumin_prevents_obesity_by_targeting/",
+          "publishedOn": "2021-05-03T18:19:39.000Z",
+          "wordCount": 395,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "Curcumin prevents obesity by targeting TRAF4‐induced ubiquitylation in m6A‐dependent manner (2021)"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n436lx/betaguanidinopropionic_acid_has_agespecific/",
+          "publishedOn": "2021-05-03T18:16:46.000Z",
+          "wordCount": 444,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "Beta-guanidinopropionic acid has age-specific effects on markers of health and function in mice (2021)"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n435cw/riboflavin_in_neurological_diseases_a_narrative/",
+          "publishedOn": "2021-05-03T18:15:19.000Z",
+          "wordCount": 591,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "Riboflavin in Neurological Diseases: A Narrative Review (2021)"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n433jp/effects_of_different_standard_and_special_diets/",
+          "publishedOn": "2021-05-03T18:13:07.000Z",
+          "wordCount": 479,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "Effects of different standard and special diets on cognition and brain mitochondrial function in mice (2021)"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n42w4j/arginine_is_an_epigenetic_regulator_targeting/",
+          "publishedOn": "2021-05-03T18:05:24.000Z",
+          "wordCount": 390,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "Arginine is an epigenetic regulator targeting TEAD4 to modulate OXPHOS in prostate cancer cells (2021)"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n42t7r/shortterm_highfat_feeding_does_not_alter/",
+          "publishedOn": "2021-05-03T18:02:15.000Z",
+          "wordCount": 506,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "Short-Term High-Fat Feeding Does Not Alter Mitochondrial Lipid Respiratory Capacity but Triggers Mitophagy Response in Skeletal Muscle of Mice (2021)"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n425xt/the_adverse_metabolic_effects_of_branchedchain/",
+          "publishedOn": "2021-05-03T17:37:17.000Z",
+          "wordCount": 418,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "The adverse metabolic effects of branched-chain amino acids are mediated by isoleucine and valine (2021)"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n41qz7/caloric_restriction_creates_a_metabolic_pattern/",
+          "publishedOn": "2021-05-03T17:21:01.000Z",
+          "wordCount": 466,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "Caloric restriction creates a metabolic pattern of chronological aging delay that in budding yeast differs from the metabolic design established by two other geroprotectors (2021)"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n41aga/advances_in_understanding_of_the_role_of_lipid/",
+          "publishedOn": "2021-05-03T17:02:24.000Z",
+          "wordCount": 405,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "Advances in Understanding of the Role of Lipid Metabolism in Aging (2021)"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n40wdk/branched_chain_amino_acids_selectively_promote/",
+          "publishedOn": "2021-05-03T16:46:17.000Z",
+          "wordCount": 548,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "Branched chain amino acids selectively promote cardiac growth at the end of the awake period (2021)"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n3zdjz/sulforaphane_balances_ca2_homeostasis_injured_by/",
+          "publishedOn": "2021-05-03T15:45:29.000Z",
+          "wordCount": 386,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "Sulforaphane Balances Ca2+ Homeostasis Injured by Excessive Fat via Mitochondria‐Associated Membrane (MAM) (2021)"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n3z763/nutrition_and_pi3kakt_signaling_are_required_for/",
+          "publishedOn": "2021-05-03T15:38:14.000Z",
+          "wordCount": 377,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "Nutrition and PI3K/Akt signaling are required for p38-dependent regeneration (2021)"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n3z5gu/methionine_restriction_breaks_obligatory_coupling/",
+          "publishedOn": "2021-05-03T15:36:18.000Z",
+          "wordCount": 392,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "Methionine restriction breaks obligatory coupling of cell proliferation and death by an oncogene Src in Drosophila (2021)"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/dreiter  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n3jek3/effect_of_dietary_sodium_restriction_on_blood/",
+          "publishedOn": "2021-05-03T00:07:00.000Z",
+          "wordCount": 1221,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "Effect of dietary sodium restriction on blood pressure in type 2 diabetes: A meta-analysis of RCTs [Ren et al., 2021]"
+        },
         {
           "description": "ncbi.nlm.nih.gov/pmc/articles/PMC6786897\n Wikipedia of key words\n  \ncarotenoids | simpleWiki\n fiber| simpleWiki\n five-a-day\n flavonoids\n fructose| simpleWiki\n fruit juice\n polyphenols\n self-efficacy\n sugar | simpleWiki\n vitamin C | simpleWiki\n  \nINTRODUCTION\n  \nIn many countries, although not all, half or 1 glass of unsweetened 100% fruit or vegetable juice counts toward 5 portions a day. [...]\n  \nFACTORS INFLUENCING WHETHER INDIVIDUALS ACHIEVE 5 SERVINGS A DAY\n Psychosocial factors\n  \nA review of psycholog…",
           "link": "https://www.reddit.com/r/ScientificNutrition/comments/n3avm4/role_of_fruit_juice_in_achieving_the_5aday/",
@@ -379,6 +604,33 @@
     {
       "href": "https://www.reddit.com/r/redscarepod/top/.rss?sort=top&t=day&limit=3",
       "articles": [
+        {
+          "description": "&#32; submitted by &#32;  /u/Ok-Original-598  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/n3vymo/the_contrast/",
+          "publishedOn": "2021-05-03T13:24:47.000Z",
+          "wordCount": 488,
+          "sourceHref": "https://www.reddit.com/r/redscarepod/top/.rss?sort=top&t=day&limit=3",
+          "sourceTitle": "top scoring links : redscarepod",
+          "title": "The contrast"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/janealofsin  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/n3obz8/legends/",
+          "publishedOn": "2021-05-03T05:01:21.000Z",
+          "wordCount": 399,
+          "sourceHref": "https://www.reddit.com/r/redscarepod/top/.rss?sort=top&t=day&limit=3",
+          "sourceTitle": "top scoring links : redscarepod",
+          "title": "Legends"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/duckypout420  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/n3hohz/agree/",
+          "publishedOn": "2021-05-02T22:31:20.000Z",
+          "wordCount": 370,
+          "sourceHref": "https://www.reddit.com/r/redscarepod/top/.rss?sort=top&t=day&limit=3",
+          "sourceTitle": "top scoring links : redscarepod",
+          "title": "Agree ?"
+        },
         {
           "description": "&#32; submitted by &#32;  /u/frenziedpony  \n [link] &#32; [comments]",
           "link": "https://www.reddit.com/r/redscarepod/comments/n38s77/think_about_this_post_i_saw_in_pics_back_in/",
@@ -438,6 +690,69 @@
     {
       "href": "https://rsshub.app/github/trending/daily/haskell",
       "articles": [
+        {
+          "description": "A fourk of ormolu that uses four space indentation and allows arbitrary configuration. Don't like it? PRs welcome!\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/parsonsmatt/fourmolu",
+          "publishedOn": "2021-05-04T00:05:46.305Z",
+          "wordCount": 1269,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "parsonsmatt /\n\n      fourmolu"
+        },
+        {
+          "description": "🇪🇺 Wire back-end services\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/wireapp/wire-server",
+          "publishedOn": "2021-05-04T00:05:46.273Z",
+          "wordCount": 1811,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "wireapp /\n\n      wire-server"
+        },
+        {
+          "description": "Reach: The Safest and Easiest DApp Programming Language\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/reach-sh/reach-lang",
+          "publishedOn": "2021-05-04T00:05:46.211Z",
+          "wordCount": 822,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "reach-sh /\n\n      reach-lang"
+        },
+        {
+          "description": "Yet another ORM for haskell\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/flipstone/orville",
+          "publishedOn": "2021-05-04T00:05:46.189Z",
+          "wordCount": 423,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "flipstone /\n\n      orville"
+        },
+        {
+          "description": "Cryptographic currency implementing Ouroboros PoS protocol\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/input-output-hk/cardano-sl",
+          "publishedOn": "2021-05-04T00:05:46.133Z",
+          "wordCount": 1090,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "input-output-hk /\n\n      cardano-sl"
+        },
+        {
+          "description": "SystemVerilog to Verilog conversion\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/zachjs/sv2v",
+          "publishedOn": "2021-05-04T00:05:46.088Z",
+          "wordCount": 1214,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "zachjs /\n\n      sv2v"
+        },
+        {
+          "description": "Exploring calendar outlining\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/srid/orgself",
+          "publishedOn": "2021-05-04T00:05:46.046Z",
+          "wordCount": 578,
+          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
+          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "title": "srid /\n\n      orgself"
+        },
         {
           "description": "The engine for haskell ide-integration. Not an IDE\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
           "link": "https://github.com/haskell/haskell-ide-engine",
@@ -785,6 +1100,186 @@
     {
       "href": "https://hnrss.org/frontpage",
       "articles": [
+        {
+          "description": "Article URL: https://arstechnica.com/gadgets/2021/05/apple-hires-yet-another-ex-google-ai-leader/\nComments URL: https://news.ycombinator.com/item?id=27032066\nPoints: 21\n# Comments: 3",
+          "link": "https://arstechnica.com/gadgets/2021/05/apple-hires-yet-another-ex-google-ai-leader/",
+          "publishedOn": "2021-05-03T23:08:15.000Z",
+          "wordCount": 721,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Google AI leader has defected to Apple"
+        },
+        {
+          "description": "Article URL: https://spectrum.ieee.org/view-from-the-valley/artificial-intelligence/machine-learning/andrew-ng-xrays-the-ai-hype\nComments URL: https://news.ycombinator.com/item?id=27031332\nPoints: 49\n# Comments: 21",
+          "link": "https://spectrum.ieee.org/view-from-the-valley/artificial-intelligence/machine-learning/andrew-ng-xrays-the-ai-hype",
+          "publishedOn": "2021-05-03T21:59:36.000Z",
+          "wordCount": 44,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Andrew Ng says AI has a proof-of-concept-to-production gap"
+        },
+        {
+          "description": "Article URL: https://twitter.com/EricLengyel/status/1389106103179378689\nComments URL: https://news.ycombinator.com/item?id=27031242\nPoints: 201\n# Comments: 66",
+          "link": "https://twitter.com/EricLengyel/status/1389106103179378689",
+          "publishedOn": "2021-05-03T21:53:22.000Z",
+          "wordCount": 196,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Back in 1993, I was taking a number theory class"
+        },
+        {
+          "description": "Article URL: https://replpad.com/\nComments URL: https://news.ycombinator.com/item?id=27031198\nPoints: 20\n# Comments: 11",
+          "link": "https://replpad.com/",
+          "publishedOn": "2021-05-03T21:49:40.000Z",
+          "wordCount": 50,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Show HN: ReplPad – Javascript Repl/Scratchpad"
+        },
+        {
+          "description": "Article URL: https://mux.com/jobs?hnj=full-stack\nComments URL: https://news.ycombinator.com/item?id=27030574\nPoints: 1\n# Comments: 0",
+          "link": "https://mux.com/jobs?hnj=full-stack",
+          "publishedOn": "2021-05-03T21:00:14.000Z",
+          "wordCount": 425,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Mux (YC W16) is hiring full-stack developers to focus on Elixir and TS/React apps"
+        },
+        {
+          "description": "Article URL: https://www.shellcheck.net/\nComments URL: https://news.ycombinator.com/item?id=27030504\nPoints: 110\n# Comments: 19",
+          "link": "https://www.shellcheck.net/",
+          "publishedOn": "2021-05-03T20:54:43.000Z",
+          "wordCount": 354,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "ShellCheck: Finds bugs in your shell scripts"
+        },
+        {
+          "description": "Article URL: https://www.mercatus.org/publications/urban-economics/liberalizing-land-use-regulations-case-houston\nComments URL: https://news.ycombinator.com/item?id=27030399\nPoints: 53\n# Comments: 103",
+          "link": "https://www.mercatus.org/publications/urban-economics/liberalizing-land-use-regulations-case-houston",
+          "publishedOn": "2021-05-03T20:45:02.000Z",
+          "wordCount": 2614,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Liberalizing Land Use Regulations: The Case of Houston (2020)"
+        },
+        {
+          "description": "Article URL: https://soundshader.github.io/hss/gallery/index.html\nComments URL: https://news.ycombinator.com/item?id=27030171\nPoints: 55\n# Comments: 29",
+          "link": "https://soundshader.github.io/hss/gallery/index.html",
+          "publishedOn": "2021-05-03T20:22:51.000Z",
+          "wordCount": 422,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Highres Spectrograms with the DFT Shift Theorem"
+        },
+        {
+          "description": "Article URL: https://github.com/kpdemetriou/fuuid\nComments URL: https://news.ycombinator.com/item?id=27030088\nPoints: 49\n# Comments: 32",
+          "link": "https://github.com/kpdemetriou/fuuid",
+          "publishedOn": "2021-05-03T20:14:59.000Z",
+          "wordCount": 800,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Sortable Collision-Free UUIDs"
+        },
+        {
+          "description": "Article URL: https://thoughtspile.github.io/grafar?new\nComments URL: https://news.ycombinator.com/item?id=27029776\nPoints: 100\n# Comments: 15",
+          "link": "https://thoughtspile.github.io/grafar?new",
+          "publishedOn": "2021-05-03T19:42:44.000Z",
+          "wordCount": 3,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Show HN: I built Grafar, a visualization library"
+        },
+        {
+          "description": "Article URL: https://mattbutterfield.com/blog/2021-05-02-adding-video-chat\nComments URL: https://news.ycombinator.com/item?id=27029502\nPoints: 105\n# Comments: 40",
+          "link": "https://mattbutterfield.com/blog/2021-05-02-adding-video-chat",
+          "publishedOn": "2021-05-03T19:19:40.000Z",
+          "wordCount": 1335,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Building video chat into my personal website using WebRTC, WebSockets, and Go"
+        },
+        {
+          "description": "Article URL: https://wejn.org/2021/04/multi-weekend-project-reversing-yamaha-yas-207-remote-control/\nComments URL: https://news.ycombinator.com/item?id=27029478\nPoints: 36\n# Comments: 7",
+          "link": "https://wejn.org/2021/04/multi-weekend-project-reversing-yamaha-yas-207-remote-control/",
+          "publishedOn": "2021-05-03T19:17:32.000Z",
+          "wordCount": 498,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Putting the fear of AirPlay into Yamaha YAS-207 soundbar"
+        },
+        {
+          "description": "Article URL: https://jpmens.net/2021/04/09/the-unix-magic-poster/\nComments URL: https://news.ycombinator.com/item?id=27029196\nPoints: 359\n# Comments: 71",
+          "link": "https://jpmens.net/2021/04/09/the-unix-magic-poster/",
+          "publishedOn": "2021-05-03T18:54:49.000Z",
+          "wordCount": 335,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "The Unix Magic Poster"
+        },
+        {
+          "description": "Article URL: https://www.femfosec.com/what-nobody-says-about-startup-moms/\nComments URL: https://news.ycombinator.com/item?id=27028157\nPoints: 146\n# Comments: 214",
+          "link": "https://www.femfosec.com/what-nobody-says-about-startup-moms/",
+          "publishedOn": "2021-05-03T17:40:30.000Z",
+          "wordCount": 832,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "What nobody says about startup moms"
+        },
+        {
+          "description": "Please state the location and include REMOTE, INTERNS and/or VISA\nwhen that sort of candidate is welcome. When remote work is not an option,\ninclude ONSITE.\nPlease only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. Only one post per company. If it isn't a household name,\nplease explain what your company does.\nCommenters: please don't reply to job posts to complain about\nsomething. It's off topic here.\nReaders: please only email if you are personally interested in t…",
+          "link": "https://news.ycombinator.com/item?id=27025922",
+          "publishedOn": "2021-05-03T15:01:19.000Z",
+          "wordCount": 38844,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Ask HN: Who is hiring? (May 2021)"
+        },
+        {
+          "description": "Share your information if you are looking for work. Please use this format:\n  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé/CV:\n  Email:\n\nComments URL: https://news.ycombinator.com/item?id=27025920\nPoints: 96\n# Comments: 148",
+          "link": "https://news.ycombinator.com/item?id=27025920",
+          "publishedOn": "2021-05-03T15:01:18.000Z",
+          "wordCount": 12626,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Ask HN: Who wants to be hired? (May 2021)"
+        },
+        {
+          "description": "Article URL: https://hakibenita.com/sql-for-data-analysis\nComments URL: https://news.ycombinator.com/item?id=27025829\nPoints: 439\n# Comments: 153",
+          "link": "https://hakibenita.com/sql-for-data-analysis",
+          "publishedOn": "2021-05-03T14:55:14.000Z",
+          "wordCount": 9858,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Practical SQL for Data Analysis"
+        },
+        {
+          "description": "Article URL: https://bellmar.medium.com/programming-in-z3-by-learning-to-think-like-a-compiler-401fd46828d5\nComments URL: https://news.ycombinator.com/item?id=27025289\nPoints: 153\n# Comments: 13",
+          "link": "https://bellmar.medium.com/programming-in-z3-by-learning-to-think-like-a-compiler-401fd46828d5",
+          "publishedOn": "2021-05-03T14:10:32.000Z",
+          "wordCount": 2412,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Programming in Z3 by learning to think like a compiler"
+        },
+        {
+          "description": "Article URL: https://plzoo.andrej.com/\nComments URL: https://news.ycombinator.com/item?id=27024804\nPoints: 115\n# Comments: 11",
+          "link": "https://plzoo.andrej.com/",
+          "publishedOn": "2021-05-03T13:28:20.000Z",
+          "wordCount": 471,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "The Programming Languages Zoo"
+        },
+        {
+          "description": "Article URL: https://www.reuters.com/article/us-microsoft-idUSWNAS894220080201\nComments URL: https://news.ycombinator.com/item?id=27024319\nPoints: 211\n# Comments: 173",
+          "link": "https://www.reuters.com/article/us-microsoft-idUSWNAS894220080201",
+          "publishedOn": "2021-05-03T12:45:07.000Z",
+          "wordCount": 1214,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Microsoft bids $44.6B to buy Yahoo (2008)"
+        },
         {
           "description": "Article URL: https://www.scientificamerican.com/article/stars-that-race-through-space-at-nearly-the-speed-of-light/\nComments URL: https://news.ycombinator.com/item?id=27019843\nPoints: 10\n# Comments: 9",
           "link": "https://www.scientificamerican.com/article/stars-that-race-through-space-at-nearly-the-speed-of-light/",
