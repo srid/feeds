@@ -4,6 +4,42 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
+          "description": "This was a great &#8220;Today I Learned&#8221; for me from Josh W. Comeau. If the font-size of an &#60;input&#62; is 16px or larger, Safari on iOS will focus into the input normally. But as soon as the font-size is &#8230;\nThe post 16px or Larger Text Prevents iOS Form Zoom appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/",
+          "publishedOn": "2021-05-04T21:16:04.000Z",
+          "wordCount": 590,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "16px or Larger Text Prevents iOS Form Zoom"
+        },
+        {
+          "description": "Here&#8217;s a dilemma: what happens if your WooCommerce site has a problem and the quickest and best way to fix it is to roll back to a previous version? The dilemma is, if you roll back the database, you would &#8230;\nThe post Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/jetpack-backup-roll-back-your-woocommerce-site-without-losing-orders/",
+          "publishedOn": "2021-05-04T21:15:57.000Z",
+          "wordCount": 450,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders"
+        },
+        {
+          "description": "I was just chatting with Eric Meyer the other day and I remembered an Eric Meyer story from my formative years. I wrote a blog post about CSS specificity, and Eric took the time to point out the misleading nature &#8230;\nThe post Let’s use (X, X, X, X) for talking about specificity appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/lets-use-x-x-x-x-for-talking-about-specificity/",
+          "publishedOn": "2021-05-04T14:19:55.000Z",
+          "wordCount": 861,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Let’s use (X, X, X, X) for talking about specificity"
+        },
+        {
+          "description": "A bona fide CSS trick from Kirupa Chinnathambi here. To match a colored shadow with the colors in the background-image of an element, you inherit the background in a pseudo-element, kick it behind the original, then blur and filter it. &#8230;\nThe post Creating Colorful, Smart Shadows appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.kirupa.com/html5/creating_colorful_smart_shadows.htm",
+          "publishedOn": "2021-05-04T14:19:48.000Z",
+          "wordCount": 1279,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Creating Colorful, Smart Shadows"
+        },
+        {
           "description": "In June of 2006, web developers and designers from around the world came to London for the second annual @media conference. The first had been a huge success, and @media 2006 had even more promise. Its speaker lineup was pulled &#8230;\nThe post Chapter 8: CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/chapter-8-css/",
           "publishedOn": "2021-05-03T21:52:08.000Z",
@@ -221,6 +257,42 @@
       "href": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
       "articles": [
         {
+          "description": "&#32; submitted by &#32;  /u/InducedWit  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/n4vww0/please_find_the_great_talks_of_the_2_global_ihp/",
+          "publishedOn": "2021-05-04T19:29:58.000Z",
+          "wordCount": 196,
+          "sourceHref": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : haskell",
+          "title": "Please find the great talks of the #2 Global IHP Meetup - If you want to be with us at our #3 IHP Meetup sign up here: https://ihp-community-events.mailchimpsites.com/"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/Kyraimion  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/n4oxyo/video_tutorial_existentials_and_writing_functions/",
+          "publishedOn": "2021-05-04T13:57:20.000Z",
+          "wordCount": 313,
+          "sourceHref": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : haskell",
+          "title": "Video Tutorial: \"Existentials and writing functions for length-indexed vectors\" (Richard Eisenberg)"
+        },
+        {
+          "description": "&#32; submitted by &#32;  /u/haskellweekly  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/n4nwfj/haskell_foundation_with_andrew_boardman_haskell/",
+          "publishedOn": "2021-05-04T13:07:06.000Z",
+          "wordCount": 132,
+          "sourceHref": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : haskell",
+          "title": "Haskell Foundation with Andrew Boardman :: Haskell Weekly podcast"
+        },
+        {
+          "description": "Hi,\n I&#39;m fairly new to Haskell and currently going through Simon Marlow&#39;s book on Parallel/Concurrent programming and stuck on some dependency issues. I&#39;m working through the &quot;Trivial Server&quot; in Chapter 12.\n import ConcurrentUtils import Network import Control.Monad import Control.Concurrent (forkIO) import System.IO import Text.Printf import Control.Exception -- &lt;&lt;main main = withSocketsDo $ do sock &lt;- listenOn (PortNumber (fromIntegral port)) -- &lt;1&gt; printf &quot;Listen…",
+          "link": "https://www.reddit.com/r/haskell/comments/n4hoe5/exposing_network_package/",
+          "publishedOn": "2021-05-04T06:29:12.000Z",
+          "wordCount": 1272,
+          "sourceHref": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : haskell",
+          "title": "Exposing network package"
+        },
+        {
           "description": "What do people use when using GHCI &amp; Windows?\n I use Powershell - but.. input often goes wonky. Characters go missing when typing etc.\n I often use WSL also, but I want to build something to run under Windows..\n  &#32; submitted by &#32;  /u/johnorford  \n [link] &#32; [comments]",
           "link": "https://www.reddit.com/r/haskell/comments/n3qn54/ghci_on_windows/",
           "publishedOn": "2021-05-03T07:48:07.000Z",
@@ -343,6 +415,15 @@
       "href": "https://www.reddit.com/r/TheMotte/top/.rss?sort=top&t=day",
       "articles": [
         {
+          "description": "&#32; submitted by &#32;  /u/qqqqquinnnnn  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/TheMotte/comments/n47z24/the_hysteresis_of_fear_are_humans_ready_for_an/",
+          "publishedOn": "2021-05-03T21:32:29.000Z",
+          "wordCount": 1691,
+          "sourceHref": "https://www.reddit.com/r/TheMotte/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : TheMotte",
+          "title": "The Hysteresis of Fear: Are Humans Ready for An Age of Optimism?"
+        },
+        {
           "description": "This weekly roundup thread is intended for all culture war posts. &#39;Culture war&#39; is vaguely defined, but it basically means controversial issues that fall along set tribal lines. Arguments over culture war issues generate a lot of heat and little light, and few deeply entrenched people ever change their minds. This thread is for voicing opinions and analyzing the state of the discussion while trying to optimize for light over heat.\n Optimistically, we think that engaging with people you disagree with…",
           "link": "https://www.reddit.com/r/TheMotte/comments/n3pe45/culture_war_roundup_for_the_week_of_may_03_2021/",
           "publishedOn": "2021-05-03T06:15:17.000Z",
@@ -383,6 +464,24 @@
     {
       "href": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
       "articles": [
+        {
+          "description": "I’m specifically curious if creatine will halt autophagy. I heard Dr. Rhonda Patrick say that autophagy is regulated by ATP status.\n I’ve seen great cognitive/energy improvements with creatine use. \n Any information/link is appreciated.\n  &#32; submitted by &#32;  /u/18127153  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n4unae/can_anyone_point_to_resources_on_the_link_between/",
+          "publishedOn": "2021-05-04T17:53:11.000Z",
+          "wordCount": 375,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "Can anyone point to resources on the link between ATP and autophagy?"
+        },
+        {
+          "description": "Doing research on SFN and am finding multiple studies on its powerful effect on nerves and the brain \n This study showed SFN specifically stimulated neural stem cells to differenciate \n https://pubmed.ncbi.nlm.nih.gov/28142224/\n  \nSFN of low concentrations stimulated cell proliferation and prominently increased neurosphere formation and neural stem cells (NSC) differentiation to neurons. SFN treatment upregulated Wnt signaling in the NSCs, whereas DKK-1 attenuated the effects of SFN. SFN is a drug to promot…",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n4dq38/the_evidence_for_sulforaphane_being_not_just/",
+          "publishedOn": "2021-05-04T02:16:37.000Z",
+          "wordCount": 757,
+          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+          "sourceTitle": "top scoring links : ScientificNutrition",
+          "title": "The evidence for sulforaphane being not just neuroprotective, but stimulating neurogenesis and skin renewal is super intriguing!"
+        },
         {
           "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
           "link": "https://www.reddit.com/r/ScientificNutrition/comments/n44chk/highfat_dietinduced_activation_of_sgk1_promotes/",
@@ -604,6 +703,33 @@
     {
       "href": "https://www.reddit.com/r/redscarepod/top/.rss?sort=top&t=day&limit=3",
       "articles": [
+        {
+          "description": "&#32; submitted by &#32;  /u/Kingschlonglongdong  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/n4vi7s/case_closed/",
+          "publishedOn": "2021-05-04T19:14:01.000Z",
+          "wordCount": 513,
+          "sourceHref": "https://www.reddit.com/r/redscarepod/top/.rss?sort=top&t=day&limit=3",
+          "sourceTitle": "top scoring links : redscarepod",
+          "title": "Case closed."
+        },
+        {
+          "description": "You don&#39;t have access to other people&#39;s thoughts. \n It is natural and human to view yourself with more grace and understanding than you view other people. It is part of what our brains are always doing. Our conscious mind is non-stop creating narratives that put ourselves in a good light, while simultaneously putting other people&#39;s narratives into an acid bath. Now this is natural, but part of growing up is realizing this and trying to be aware of it.\n &quot;I wish I was just a stupid normie&quo…",
+          "link": "https://www.reddit.com/r/redscarepod/comments/n4qwe3/the_narcissism_of_some_of_these_posts_and/",
+          "publishedOn": "2021-05-04T15:19:11.000Z",
+          "wordCount": 863,
+          "sourceHref": "https://www.reddit.com/r/redscarepod/top/.rss?sort=top&t=day&limit=3",
+          "sourceTitle": "top scoring links : redscarepod",
+          "title": "The narcissism of some of these posts and comments is off the hook."
+        },
+        {
+          "description": "hahahahahaha\n  &#32; submitted by &#32;  /u/ChefGoldbloom  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/n4csfj/imagine_being_dumb_enough_to_take_your_baby_to_a/",
+          "publishedOn": "2021-05-04T01:26:23.000Z",
+          "wordCount": 472,
+          "sourceHref": "https://www.reddit.com/r/redscarepod/top/.rss?sort=top&t=day&limit=3",
+          "sourceTitle": "top scoring links : redscarepod",
+          "title": "imagine being dumb enough to take your baby to a chiropractor"
+        },
         {
           "description": "&#32; submitted by &#32;  /u/Ok-Original-598  \n [link] &#32; [comments]",
           "link": "https://www.reddit.com/r/redscarepod/comments/n3vymo/the_contrast/",
@@ -1100,6 +1226,186 @@
     {
       "href": "https://hnrss.org/frontpage",
       "articles": [
+        {
+          "description": "Article URL: https://me2ba.org/me2ba-product-testing-spotlight-report-published-data-sharing-in-primary-secondary-school-mobile-apps-2/\nComments URL: https://news.ycombinator.com/item?id=27044459\nPoints: 70\n# Comments: 4",
+          "link": "https://me2ba.org/me2ba-product-testing-spotlight-report-published-data-sharing-in-primary-secondary-school-mobile-apps-2/",
+          "publishedOn": "2021-05-05T00:07:27.000Z",
+          "wordCount": 1049,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "60% of school apps are sending student data with third parties without consent"
+        },
+        {
+          "description": "Article URL: https://cloudirregular.substack.com/p/please-fix-the-aws-free-tier-before\nComments URL: https://news.ycombinator.com/item?id=27044371\nPoints: 41\n# Comments: 10",
+          "link": "https://cloudirregular.substack.com/p/please-fix-the-aws-free-tier-before",
+          "publishedOn": "2021-05-04T23:54:23.000Z",
+          "wordCount": 850,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Please fix the AWS free tier before somebody gets hurt"
+        },
+        {
+          "description": "Article URL: https://www.wsj.com/articles/berkshire-hathaways-stock-price-is-too-much-for-computers-11620168548\nComments URL: https://news.ycombinator.com/item?id=27044044\nPoints: 72\n# Comments: 75",
+          "link": "https://www.wsj.com/articles/berkshire-hathaways-stock-price-is-too-much-for-computers-11620168548",
+          "publishedOn": "2021-05-04T23:16:19.000Z",
+          "wordCount": 317,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Berkshire Hathaway’s stock price is too high for Nasdaq computers"
+        },
+        {
+          "description": "Article URL: https://blog.drewolson.org/declarative-validation\nComments URL: https://news.ycombinator.com/item?id=27043574\nPoints: 22\n# Comments: 9",
+          "link": "https://blog.drewolson.org/declarative-validation",
+          "publishedOn": "2021-05-04T22:19:17.000Z",
+          "wordCount": 1459,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Declarative Validation in Python"
+        },
+        {
+          "description": "Article URL: https://jcs.org/2021/04/23/wifistation\nComments URL: https://news.ycombinator.com/item?id=27043352\nPoints: 22\n# Comments: 0",
+          "link": "https://jcs.org/2021/04/23/wifistation",
+          "publishedOn": "2021-05-04T21:53:18.000Z",
+          "wordCount": 1526,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "WiFiStation: A WiFi Interface for the Cidco MailStation"
+        },
+        {
+          "description": "Article URL: https://github.com/facebookincubator/cinder\nComments URL: https://news.ycombinator.com/item?id=27043217\nPoints: 252\n# Comments: 88",
+          "link": "https://github.com/facebookincubator/cinder",
+          "publishedOn": "2021-05-04T21:38:14.000Z",
+          "wordCount": 2681,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Cinder: Instagram's performance-oriented fork of CPython"
+        },
+        {
+          "description": "Article URL: https://blog.neotree.uber.space/posts/kolmogorov-complexity\nComments URL: https://news.ycombinator.com/item?id=27043153\nPoints: 42\n# Comments: 2",
+          "link": "https://blog.neotree.uber.space/posts/kolmogorov-complexity",
+          "publishedOn": "2021-05-04T21:32:37.000Z",
+          "wordCount": 978,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Kolmogorov Complexity: Extensions and Applications"
+        },
+        {
+          "description": "Article URL: https://compose-web.ui.pages.jetbrains.team/\nComments URL: https://news.ycombinator.com/item?id=27043067\nPoints: 28\n# Comments: 7",
+          "link": "https://compose-web.ui.pages.jetbrains.team/",
+          "publishedOn": "2021-05-04T21:23:30.000Z",
+          "wordCount": 15,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Compose for Web"
+        },
+        {
+          "description": "Article URL: https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead\nComments URL: https://news.ycombinator.com/item?id=27042841\nPoints: 1\n# Comments: 0",
+          "link": "https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead",
+          "publishedOn": "2021-05-04T21:00:47.000Z",
+          "wordCount": 673,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "TrueVault (YC W14) is hiring an engineering lead to lead new privacy product"
+        },
+        {
+          "description": "Article URL: https://neal.fun/logos-from-memory/\nComments URL: https://news.ycombinator.com/item?id=27042786\nPoints: 18\n# Comments: 7",
+          "link": "https://neal.fun/logos-from-memory/",
+          "publishedOn": "2021-05-04T20:56:20.000Z",
+          "wordCount": 9,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Draw Logos from Memory"
+        },
+        {
+          "description": "Article URL: https://github.com/rastapasta/mapscii\nComments URL: https://news.ycombinator.com/item?id=27042629\nPoints: 80\n# Comments: 18",
+          "link": "https://github.com/rastapasta/mapscii",
+          "publishedOn": "2021-05-04T20:40:58.000Z",
+          "wordCount": 1300,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "MapSCII – The Whole World in Your Console"
+        },
+        {
+          "description": "Article URL: https://www.usenix.org/conference/osdi16/technical-sessions/presentation/li\nComments URL: https://news.ycombinator.com/item?id=27042568\nPoints: 58\n# Comments: 18",
+          "link": "https://www.usenix.org/conference/osdi16/technical-sessions/presentation/li",
+          "publishedOn": "2021-05-04T20:35:48.000Z",
+          "wordCount": 468,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Just Say No to Paxos Overhead: Replacing Consensus with Network Ordering (2016)"
+        },
+        {
+          "description": "Article URL: https://www.linkedin.com/pulse/why-successful-people-dont-multitask-dr-travis-bradberry/\nComments URL: https://news.ycombinator.com/item?id=27042151\nPoints: 224\n# Comments: 160",
+          "link": "https://www.linkedin.com/pulse/why-successful-people-dont-multitask-dr-travis-bradberry/",
+          "publishedOn": "2021-05-04T19:56:44.000Z",
+          "wordCount": 935,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Multitasking hurts performance and may even damage the brain (2018)"
+        },
+        {
+          "description": "Article URL: https://github.com/rururu/sail-pro\nComments URL: https://news.ycombinator.com/item?id=27041679\nPoints: 66\n# Comments: 8",
+          "link": "https://github.com/rururu/sail-pro",
+          "publishedOn": "2021-05-04T19:15:59.000Z",
+          "wordCount": 881,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Sail-pro – Simulation and modelling environment for virtual sailing"
+        },
+        {
+          "description": "Article URL: https://petapixel.com/2018/08/02/this-guy-flipped-an-element-in-an-old-lens-and-got-magic-bokeh/\nComments URL: https://news.ycombinator.com/item?id=27041508\nPoints: 149\n# Comments: 77",
+          "link": "https://petapixel.com/2018/08/02/this-guy-flipped-an-element-in-an-old-lens-and-got-magic-bokeh/",
+          "publishedOn": "2021-05-04T19:03:17.000Z",
+          "wordCount": 1147,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Flipped an element in an old lens and got 'magic' bokeh (2018)"
+        },
+        {
+          "description": "Article URL: https://boardroom.mirror.xyz/N0kJ-y_5wvPR0H1MMNFb531MOKEE4LKWxepzQLj18sw\nComments URL: https://news.ycombinator.com/item?id=27041011\nPoints: 50\n# Comments: 65",
+          "link": "https://boardroom.mirror.xyz/N0kJ-y_5wvPR0H1MMNFb531MOKEE4LKWxepzQLj18sw",
+          "publishedOn": "2021-05-04T18:31:26.000Z",
+          "wordCount": 1635,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "D(?)A(?)O – Decentralization and Autonomy in “DAOs”"
+        },
+        {
+          "description": "Article URL: https://jmw.name/projects/linear-clock/\nComments URL: https://news.ycombinator.com/item?id=27040791\nPoints: 53\n# Comments: 16",
+          "link": "https://jmw.name/projects/linear-clock/",
+          "publishedOn": "2021-05-04T18:17:11.000Z",
+          "wordCount": 2033,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Linear Clock: Solar"
+        },
+        {
+          "description": "Article URL: https://mattnakama.com/blog/go-branchless-coding/\nComments URL: https://news.ycombinator.com/item?id=27038606\nPoints: 72\n# Comments: 21",
+          "link": "https://mattnakama.com/blog/go-branchless-coding/",
+          "publishedOn": "2021-05-04T15:26:53.000Z",
+          "wordCount": 2705,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Branchless Coding in Go"
+        },
+        {
+          "description": "Article URL: https://labs.sentinelone.com/cve-2021-21551-hundreds-of-millions-of-dell-computers-at-risk-due-to-multiple-bios-driver-privilege-escalation-flaws/\nComments URL: https://news.ycombinator.com/item?id=27038441\nPoints: 131\n# Comments: 24",
+          "link": "https://labs.sentinelone.com/cve-2021-21551-hundreds-of-millions-of-dell-computers-at-risk-due-to-multiple-bios-driver-privilege-escalation-flaws/",
+          "publishedOn": "2021-05-04T15:10:51.000Z",
+          "wordCount": 2190,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Dell patches 12-year-old driver vulnerability impacting millions of PCs"
+        },
+        {
+          "description": "Article URL: https://www.bbc.co.uk/news/world-europe-56978344\nComments URL: https://news.ycombinator.com/item?id=27037667\nPoints: 259\n# Comments: 220",
+          "link": "https://www.bbc.co.uk/news/world-europe-56978344",
+          "publishedOn": "2021-05-04T14:01:06.000Z",
+          "wordCount": 865,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Belgian farmer accidentally moves French border"
+        },
         {
           "description": "Article URL: https://arstechnica.com/gadgets/2021/05/apple-hires-yet-another-ex-google-ai-leader/\nComments URL: https://news.ycombinator.com/item?id=27032066\nPoints: 21\n# Comments: 3",
           "link": "https://arstechnica.com/gadgets/2021/05/apple-hires-yet-another-ex-google-ai-leader/",
@@ -1643,5 +1949,5 @@
       ]
     }
   ],
-  "cliVersion": "1.3.0"
+  "cliVersion": "1.3.1"
 }
