@@ -1,17 +1,44 @@
 {
   "sources": [
     {
-      "href": "https://css-tricks.com/feed/",
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=340020",
+          "author": "Chris Coyier",
+          "description": "This is extremely fun. Jeff Lindsay has created Topframe, and writes:\nAnybody that knows how to mess around with HTML can now mess around with their desktop computing experience.&#160;Topframe&#160;is an open source tool that lets you \n&#8230;\nThe post Topframe appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/topframe/",
+          "publishedOn": "2021-05-10T21:14:15.000Z",
+          "wordCount": 568,
+          "title": "Topframe"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340208",
+          "author": "Chris Coyier",
+          "description": "I find build tooling endlessly interesting, especially right now as we&#8217;re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we&#8217;ve chatted on &#8230;\nThe post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/",
+          "publishedOn": "2021-05-10T21:13:23.000Z",
+          "wordCount": 2948,
+          "title": "Migrating from Parcel to Snowpack"
+        },
+        {
+          "id": "https://css-tricks.com/?p=339203",
+          "author": "Ana Tudor",
+          "description": "I recently came across an interesting problem. I had to implement a grid of cards with a variable (user-set) aspect ratio that was stored in a --ratio custom property. Boxes with a certain aspect ratio are a classic problem in &#8230;\nThe post Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/",
+          "publishedOn": "2021-05-10T14:13:12.000Z",
+          "wordCount": 2838,
+          "title": "Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal"
+        },
         {
           "id": "https://css-tricks.com/?p=339781",
           "author": "Chris Coyier",
           "description": "I have a real distaste for this question. It might seem like a fun question to dig into on the surface, but the way it enters public discourse rarely seems to be in good faith. There are ulterior motives at &#8230;\nThe post Is CSS a Programming Language? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/is-css-a-programming-language/",
           "publishedOn": "2021-05-07T13:56:17.000Z",
-          "wordCount": 1677,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
+          "wordCount": 3313,
           "title": "Is CSS a Programming Language?"
         },
         {
@@ -21,8 +48,6 @@
           "link": "https://css-tricks.com/links-on-typography/",
           "publishedOn": "2021-05-07T13:54:01.000Z",
           "wordCount": 952,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Links on Typography"
         },
         {
@@ -32,8 +57,6 @@
           "link": "https://www.caniemail.com/",
           "publishedOn": "2021-05-07T02:38:56.000Z",
           "wordCount": 324,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Can I Email…"
         },
         {
@@ -42,9 +65,7 @@
           "description": "Route53 is DNS management service by AWS. DNS is absolutely not a database, and yet here&#8217;s Nicholas Martin writing up some very clever trickery originally done by Corey Quinn:\nWhen you think about it, DNS configuration is actually a \n&#8230;\nThe post Apparently, You Can Use Route53 as a Blazingly Fast Database appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://betterprogramming.pub/apparently-you-can-use-route53-as-a-blazingly-fast-database-dd416b56b005",
           "publishedOn": "2021-05-06T20:03:26.000Z",
-          "wordCount": 1547,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
+          "wordCount": 1523,
           "title": "Apparently, You Can Use Route53 as a Blazingly Fast Database"
         },
         {
@@ -53,9 +74,7 @@
           "description": "It’s easy to forget that, as a search engine, Google doesn’t just compare keywords to generate search results. Google knows that if people don’t enjoy their experience on a web page, they won’t stay on the page long enough to &#8230;\nThe post What Google’s New Page Experience Update Means for Images on Your Website appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/what-googles-new-page-experience-update-means-for-images-on-your-website/",
           "publishedOn": "2021-05-06T19:57:40.000Z",
-          "wordCount": 2518,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
+          "wordCount": 2599,
           "title": "What Google’s New Page Experience Update Means for Images on Your Website"
         },
         {
@@ -65,8 +84,6 @@
           "link": "https://css-tricks.com/custom-state-pseudo-classes-in-chrome/",
           "publishedOn": "2021-05-06T14:28:53.000Z",
           "wordCount": 1025,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Custom State Pseudo-Classes in Chrome"
         },
         {
@@ -76,8 +93,6 @@
           "link": "https://css-tricks.com/astro/",
           "publishedOn": "2021-05-05T21:49:23.000Z",
           "wordCount": 920,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Astro"
         },
         {
@@ -87,8 +102,6 @@
           "link": "https://infrequently.org/2021/04/progress-delayed/",
           "publishedOn": "2021-05-05T16:51:23.000Z",
           "wordCount": 6686,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Progress Delayed Is Progress Denied"
         },
         {
@@ -97,9 +110,7 @@
           "description": "Let‘s take a quick stroll down memory-lane to revisit how vendor prefixing CSS properties came to be. I hope I don’t trigger PTSD for anyone!\nIt‘s not clear who started prefixing, or when it began exactly. What is clear, is &#8230;\nThe post Is Vendor Prefixing Dead? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/is-vendor-prefixing-dead/",
           "publishedOn": "2021-05-05T14:18:28.000Z",
-          "wordCount": 3101,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
+          "wordCount": 3140,
           "title": "Is Vendor Prefixing Dead?"
         },
         {
@@ -108,9 +119,7 @@
           "description": "This was a great &#8220;Today I Learned&#8221; for me from Josh W. Comeau. If the font-size of an &#60;input&#62; is 16px or larger, Safari on iOS will focus into the input normally. But as soon as the font-size is &#8230;\nThe post 16px or Larger Text Prevents iOS Form Zoom appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/",
           "publishedOn": "2021-05-04T21:16:04.000Z",
-          "wordCount": 676,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
+          "wordCount": 758,
           "title": "16px or Larger Text Prevents iOS Form Zoom"
         },
         {
@@ -120,8 +129,6 @@
           "link": "https://css-tricks.com/jetpack-backup-roll-back-your-woocommerce-site-without-losing-orders/",
           "publishedOn": "2021-05-04T21:15:57.000Z",
           "wordCount": 450,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders"
         },
         {
@@ -131,47 +138,14 @@
           "link": "https://css-tricks.com/lets-use-x-x-x-x-for-talking-about-specificity/",
           "publishedOn": "2021-05-04T14:19:55.000Z",
           "wordCount": 970,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Let’s use (X, X, X, X) for talking about specificity"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339742",
-          "author": "Chris Coyier",
-          "description": "A bona fide CSS trick from Kirupa Chinnathambi here. To match a colored shadow with the colors in the background-image of an element, you inherit the background in a pseudo-element, kick it behind the original, then blur and filter it. &#8230;\nThe post Creating Colorful, Smart Shadows appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.kirupa.com/html5/creating_colorful_smart_shadows.htm",
-          "publishedOn": "2021-05-04T14:19:48.000Z",
-          "wordCount": 1276,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Creating Colorful, Smart Shadows"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339419",
-          "author": "Jay Hoffmann",
-          "description": "In June of 2006, web developers and designers from around the world came to London for the second annual @media conference. The first had been a huge success, and @media 2006 had even more promise. Its speaker lineup was pulled &#8230;\nThe post Chapter 8: CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/chapter-8-css/",
-          "publishedOn": "2021-05-03T21:52:08.000Z",
-          "wordCount": 6672,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Chapter 8: CSS"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339384",
-          "author": "Chris Coyier",
-          "description": "I hope people think of SVG as a vector format that is good for drawing things. There is plenty more to know, but here&#8217;s one more: SVG is good for composition. You draw things at very specific coordinates &#8230;\nThe post Swipey Image Grids appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.cassie.codes/posts/swipey-image-grids/",
-          "publishedOn": "2021-05-03T14:35:07.000Z",
-          "wordCount": 908,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Swipey Image Grids"
         }
       ]
     },
     {
-      "href": "https://serokell.io/blog.rss.xml",
+      "title": "Serokell Blog",
+      "feedUrl": "https://serokell.io/blog.rss.xml",
+      "siteUrl": "https://serokell.io/blog",
       "articles": [
         {
           "id": "https://serokell.io/blog/practical-nix-flakes",
@@ -179,9 +153,7 @@
           "description": "Learn about Nix, Nix flakes, and how to use Nix flakes to build applications in various languages.",
           "link": "https://serokell.io/blog/practical-nix-flakes",
           "publishedOn": "2021-05-04T00:00:00.000Z",
-          "wordCount": 3823,
-          "sourceHref": "https://serokell.io/blog.rss.xml",
-          "sourceTitle": "Serokell Blog",
+          "wordCount": 3854,
           "title": "Practical Nix Flakes"
         },
         {
@@ -191,8 +163,6 @@
           "link": "https://serokell.io/blog/lorentz-upgradeable-storage",
           "publishedOn": "2021-04-27T00:00:00.000Z",
           "wordCount": 2842,
-          "sourceHref": "https://serokell.io/blog.rss.xml",
-          "sourceTitle": "Serokell Blog",
           "title": "Lorentz: Type-Safe Upgradeable Storage"
         },
         {
@@ -201,9 +171,7 @@
           "description": "Discover how computer vision works, where it is used, and what are the main obstacles ML engineers run into when solving computer vision problems.",
           "link": "https://serokell.io/blog/guide-to-computer-vision",
           "publishedOn": "2021-04-22T00:00:00.000Z",
-          "wordCount": 1741,
-          "sourceHref": "https://serokell.io/blog.rss.xml",
-          "sourceTitle": "Serokell Blog",
+          "wordCount": 1783,
           "title": "What Is Computer Vision and How It Works"
         },
         {
@@ -212,9 +180,7 @@
           "description": "Learn about type families, one of the most powerful type-level programming features in Haskell.",
           "link": "https://serokell.io/blog/type-families-haskell",
           "publishedOn": "2021-04-20T00:00:00.000Z",
-          "wordCount": 4255,
-          "sourceHref": "https://serokell.io/blog.rss.xml",
-          "sourceTitle": "Serokell Blog",
+          "wordCount": 4258,
           "title": "Type Families in Haskell: The Definitive Guide"
         },
         {
@@ -223,714 +189,602 @@
           "description": "Read our interview with Thomas Payet, the co-founder and COO of MeiliSearch, to learn about their experience with Rust and discover tips for starting your own open-source project.",
           "link": "https://serokell.io/blog/rust-in-production-meilisearch",
           "publishedOn": "2021-04-13T00:00:00.000Z",
-          "wordCount": 1533,
-          "sourceHref": "https://serokell.io/blog.rss.xml",
-          "sourceTitle": "Serokell Blog",
+          "wordCount": 1538,
           "title": "Rust in Production: MeiliSearch"
         }
       ]
     },
     {
-      "href": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
+      "title": "top scoring links : haskell",
+      "feedUrl": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
+      "siteUrl": "https://www.reddit.com/r/haskell/top/?sort=top&t=day",
       "articles": [
         {
-          "id": "https://www.reddit.com/r/haskell/comments/n8f22x/implementing_co_a_small_interpreted_language_with/",
-          "author": "top scoring links : haskell",
-          "description": "&#32; submitted by &#32;  /u/abhin4v  \n [link] &#32; [comments]",
-          "link": "https://www.reddit.com/r/haskell/comments/n8f22x/implementing_co_a_small_interpreted_language_with/",
-          "publishedOn": "2021-05-09T14:14:59.000Z",
+          "id": "https://www.reddit.com/r/haskell/comments/n9d4wr/haskell_on_microsoft_azure/",
+          "author": null,
+          "description": "Is it possible to host a Servant app on Azure?\n If I have to do it as a Docker container, could you sent me somewhere to get started?\n  &#32; submitted by &#32;  /u/ChrisWohlert  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/n9d4wr/haskell_on_microsoft_azure/",
+          "publishedOn": "2021-05-10T19:02:18.000Z",
           "wordCount": 145,
-          "sourceHref": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
-          "sourceTitle": "top scoring links : haskell",
-          "title": "Implementing Co, a Small Interpreted Language With Coroutines #1: The Parser"
+          "title": "Haskell on Microsoft Azure"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/n9aq4w/haskell_foundation_board_minutes_may_6_2021/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/TechnoEmpress  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/n9aq4w/haskell_foundation_board_minutes_may_6_2021/",
+          "publishedOn": "2021-05-10T17:25:01.000Z",
+          "wordCount": 124,
+          "title": "Haskell Foundation board minutes, May 6, 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/n970p5/ginger_a_haskell_implementation_of_the_jinja/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/sridqc  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/n970p5/ginger_a_haskell_implementation_of_the_jinja/",
+          "publishedOn": "2021-05-10T15:04:30.000Z",
+          "wordCount": 193,
+          "title": "ginger: A Haskell implementation of the Jinja template language"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/n93pab/avoiding_nested_errors_haskell_weekly_podcast/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/haskellweekly  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/n93pab/avoiding_nested_errors_haskell_weekly_podcast/",
+          "publishedOn": "2021-05-10T12:51:54.000Z",
+          "wordCount": 128,
+          "title": "Avoiding Nested Errors :: Haskell Weekly podcast"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/n92d5g/duplicate_post_spam/",
+          "author": null,
+          "description": "Recently I have noticed many spam posts that either re-post an old link or re-create a text post word for word. For example:\n  \nhttps://www.reddit.com/r/haskell/comments/n8y8xv/template_haskell_getting_out_of_the_q_monad/\n https://www.reddit.com/r/haskell/comments/n8yt75/template_haskell_getting_out_of_the_q_monad/\n https://www.reddit.com/r/haskell/comments/n87ygf/is_there_a_nice_way_to_enumerate_over_the/\n https://www.reddit.com/r/haskell/comments/n1b3n0/matching_in_unification_algorithm_i_dont_know/\n http…",
+          "link": "https://www.reddit.com/r/haskell/comments/n92d5g/duplicate_post_spam/",
+          "publishedOn": "2021-05-10T11:37:59.000Z",
+          "wordCount": 346,
+          "title": "Duplicate post spam"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/n8yyde/how_do_i_write_a_hedgehog_generator_for_a_wrapped/",
+          "author": null,
+          "description": "I&#39;m currently working through the book Thinking with Types. In the third chapter Variance, the author provides an exercise in which the reader should implement the functor instance for T1.\n  newtype T1 a = T1 (Int -&gt; a) \n I found a couple of ways to make this type check, e.g.,\n  instance Functor T1 where fmap f (T1 a) = T1 (f . a) \n …and\n  instance Functor T1 where fmap f (T1 a) = T1 (f &lt;$&gt; a) \n Of course just making the instance type check doesn&#39;t mean that the instance respects the functo…",
+          "link": "https://www.reddit.com/r/haskell/comments/n8yyde/how_do_i_write_a_hedgehog_generator_for_a_wrapped/",
+          "publishedOn": "2021-05-10T07:52:54.000Z",
+          "wordCount": 487,
+          "title": "How do I write a Hedgehog generator for a wrapped function?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/n8yy78/decoding_structured_binary_formats_with_conduit/",
+          "author": null,
+          "description": "Say we have a binary format in which each file is of this form : \n [data type | data size | data entries]\n in which &quot;data size&quot; encodes how long each data entry is, and data type encodes Word8, Word16 etc.\n I would like to decode such files in an incremental fashion with conduit, and have already the Binary instances for the header, but I can&#39;t immediately see how to tell conduit to skip the header and decode chunks of the right size to be passed downstream.\n What are the right combinators in …",
+          "link": "https://www.reddit.com/r/haskell/comments/n8yy78/decoding_structured_binary_formats_with_conduit/",
+          "publishedOn": "2021-05-10T07:52:32.000Z",
+          "wordCount": 385,
+          "title": "Decoding structured binary formats with Conduit"
         }
       ]
     },
     {
-      "href": "https://www.reddit.com/r/TheMotte/top/.rss?sort=top&t=day",
+      "title": "top scoring links : TheMotte",
+      "feedUrl": "https://www.reddit.com/r/TheMotte/top/.rss?sort=top&t=day",
+      "siteUrl": "https://www.reddit.com/r/TheMotte/top/?sort=top&t=day",
       "articles": [
         {
-          "id": "https://www.reddit.com/r/TheMotte/comments/n8850j/smallscale_question_sunday_for_may_09_2021/",
-          "author": "top scoring links : TheMotte",
-          "description": "Do you have a dumb question that you&#39;re kind of embarrassed to ask in the main thread? Is there something you&#39;re just not sure about? \n This is your opportunity to ask questions. No question too simple or too silly. \n Culture war topics are accepted, and proposals for a better intro post are appreciated.\n  &#32; submitted by &#32;  /u/AutoModerator  \n [link] &#32; [comments]",
-          "link": "https://www.reddit.com/r/TheMotte/comments/n8850j/smallscale_question_sunday_for_may_09_2021/",
-          "publishedOn": "2021-05-09T06:15:10.000Z",
-          "wordCount": 1229,
-          "sourceHref": "https://www.reddit.com/r/TheMotte/top/.rss?sort=top&t=day",
-          "sourceTitle": "top scoring links : TheMotte",
-          "title": "Small-Scale Question Sunday for May 09, 2021"
+          "id": "https://www.reddit.com/r/TheMotte/comments/n93zjd/is_gain_of_function_research_a_wmd/",
+          "author": null,
+          "description": "Seems like I&#39;ve seen some banter about this within the SSC community before, but I can&#39;t find it.\n To date, Covid-19 deaths equal 16.5 times the number of people killed by nuclear attacks in human history, and that number is probably low because China is probably hiding a bunch.\n It cost 2.5 billion dollars to develop the first nuclear weapons in 1945 dollars. Adjusted for inflation that&#39;s around $45 billion dollars in current money.\n A lab would probably cost around $10 million dollars to set u…",
+          "link": "https://www.reddit.com/r/TheMotte/comments/n93zjd/is_gain_of_function_research_a_wmd/",
+          "publishedOn": "2021-05-10T13:05:56.000Z",
+          "wordCount": 3355,
+          "title": "Is Gain of Function Research a WMD?"
+        },
+        {
+          "id": "https://www.reddit.com/r/TheMotte/comments/n8xict/culture_war_roundup_for_the_week_of_may_10_2021/",
+          "author": null,
+          "description": "This weekly roundup thread is intended for all culture war posts. &#39;Culture war&#39; is vaguely defined, but it basically means controversial issues that fall along set tribal lines. Arguments over culture war issues generate a lot of heat and little light, and few deeply entrenched people ever change their minds. This thread is for voicing opinions and analyzing the state of the discussion while trying to optimize for light over heat.\n Optimistically, we think that engaging with people you disagree with…",
+          "link": "https://www.reddit.com/r/TheMotte/comments/n8xict/culture_war_roundup_for_the_week_of_may_10_2021/",
+          "publishedOn": "2021-05-10T06:15:13.000Z",
+          "wordCount": 6462,
+          "title": "Culture War Roundup for the week of May 10, 2021"
         }
       ]
     },
     {
-      "href": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+      "title": "top scoring links : ScientificNutrition",
+      "feedUrl": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+      "siteUrl": "https://www.reddit.com/r/ScientificNutrition/top/?sort=top&t=day",
       "articles": [
         {
-          "id": "https://www.reddit.com/r/ScientificNutrition/comments/n8oymz/individualized_nutritional_support_for/",
-          "author": "top scoring links : ScientificNutrition",
-          "description": "&#32; submitted by &#32;  /u/dreiter  \n [link] &#32; [comments]",
-          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n8oymz/individualized_nutritional_support_for/",
-          "publishedOn": "2021-05-09T22:12:04.000Z",
-          "wordCount": 592,
-          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
-          "sourceTitle": "top scoring links : ScientificNutrition",
-          "title": "Individualized Nutritional Support for Hospitalized Patients With Chronic Heart Failure [Hersberger et al., 2021]"
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/n9g8rv/no_difference_between_the_effects_of/",
+          "author": null,
+          "description": "journals.humankinetics.com/view/journals/ijsnem/28/6/article-p674.xml\n  \nNine studies involving 266 participants suitable for inclusion in the meta-analysis were identified. Five studies compared whey with soy protein, and four studies compared soy protein with other proteins (beef, milk, or dairy protein).\n  \n^ 9 quantitative studies\n 6 qualitative studies\n Materials and Methods\n Criteria and Search Strategy\n Data Extraction\n Data Analysis\n Bias and Heterogeneity\n Results\n Whey Versus Soy Protein\n Other Pr…",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n9g8rv/no_difference_between_the_effects_of/",
+          "publishedOn": "2021-05-10T21:12:31.000Z",
+          "wordCount": 797,
+          "title": "No Difference Between the Effects of Supplementing With Soy Protein Versus Animal Protein on Gains in Muscle Mass and Strength in Response to Resistance Exercise (2018)"
         },
         {
-          "id": "https://www.reddit.com/r/ScientificNutrition/comments/n8nls5/evidencebased_recommendations_for_natural/",
-          "author": "top scoring links : ScientificNutrition",
-          "description": "ncbi.nlm.nih.gov/pmc/articles/PMC4033492\n Related to their 2015 training recommendations paper (r/advancedfitness).\n Introduction\n  \nThe popularity of natural bodybuilding is increasing rapidly. In the United States, over 200 amateur natural (drug tested) bodybuilding contests occurred during 2013 and the number of contests is expected to increase in 2014 [1]. Preparation for bodybuilding competition involves drastic reductions in body fat while maintaining muscle mass. This is typically achieved through a …",
-          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n8nls5/evidencebased_recommendations_for_natural/",
-          "publishedOn": "2021-05-09T21:06:53.000Z",
-          "wordCount": 2095,
-          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
-          "sourceTitle": "top scoring links : ScientificNutrition",
-          "title": "Evidence-based recommendations for natural bodybuilding contest preparation: nutrition and supplementation (2014)"
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/n9afyh/beef_liver_supplements_vs_fresh_or_dried_grassfed/",
+          "author": null,
+          "description": "Hi, how do (grass-fed) beef liver supplements compare to grass-fed dried beef liver? The grass-fed dried beef liver has a lot of Vitamin A, Riboflavin, Folate, Vitamin B12, Zinc, Selenium, and Copper. However, the taste is not that great. So I was thinking of supplements instead. I can find them online. But some of them don&#39;t always show their nutrition facts. How do the nutrition facts of supplmenets compare against grass-fed dried beef liver? Is it correct to understand the difference is negligible?Th…",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n9afyh/beef_liver_supplements_vs_fresh_or_dried_grassfed/",
+          "publishedOn": "2021-05-10T17:13:23.000Z",
+          "wordCount": 313,
+          "title": "Beef liver supplements vs (fresh or dried) grass-fed beef liver: any difference?"
         },
         {
-          "id": "https://www.reddit.com/r/ScientificNutrition/comments/n8klwh/human_cytomegalovirus_uses_a_host_stress_response/",
-          "author": "top scoring links : ScientificNutrition",
-          "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
-          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n8klwh/human_cytomegalovirus_uses_a_host_stress_response/",
-          "publishedOn": "2021-05-09T18:46:08.000Z",
-          "wordCount": 602,
-          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
-          "sourceTitle": "top scoring links : ScientificNutrition",
-          "title": "Human Cytomegalovirus Uses a Host Stress Response To Balance the Elongation of Saturated/Monounsaturated and Polyunsaturated Very-Long-Chain Fatty Acids (May 2021)"
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/n94p8t/carbohydrates_insulin_and_obesity_insulin_plays_a/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/sustainablethinking  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n94p8t/carbohydrates_insulin_and_obesity_insulin_plays_a/",
+          "publishedOn": "2021-05-10T13:40:59.000Z",
+          "wordCount": 686,
+          "title": "Carbohydrates, insulin, and obesity - Insulin plays a role in body fat regulation independent of dietary carbohydrates (Speakman & Hall - 2021)"
         },
         {
-          "id": "https://www.reddit.com/r/ScientificNutrition/comments/n8ka78/a_contribution_to_the_estimation_of_the_nutritive/",
-          "author": "top scoring links : ScientificNutrition",
-          "description": "ncbi.nlm.nih.gov/pmc/articles/PMC5174962\n  \nThe well-known division of organic aliments into three classes, as proposed by Prout, has the advantage that it indicates groups which, at least in a chemical point of view, are very well marked. These classes are—1. Albuminous matters [proteins], consisting of, as essential elements, nitrogen, carbon, oxygen, and hydrogen. 2. Fats or glycerides, consisting only of carbon, oxygen, and hydrogen, and being capable of decomposition, by metallic oxides, into glycerin …",
-          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n8ka78/a_contribution_to_the_estimation_of_the_nutritive/",
-          "publishedOn": "2021-05-09T18:30:43.000Z",
-          "wordCount": 4610,
-          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
-          "sourceTitle": "top scoring links : ScientificNutrition",
-          "title": "A Contribution to the Estimation of the Nutritive Value of Foods (1866, yes from the 19th century)"
-        },
-        {
-          "id": "https://www.reddit.com/r/ScientificNutrition/comments/n8frm7/relapse_prevention_by_plantbased_diet/",
-          "author": "top scoring links : ScientificNutrition",
-          "description": "&#32; submitted by &#32;  /u/bubblerboy18  \n [link] &#32; [comments]",
-          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n8frm7/relapse_prevention_by_plantbased_diet/",
-          "publishedOn": "2021-05-09T14:51:18.000Z",
-          "wordCount": 501,
-          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
-          "sourceTitle": "top scoring links : ScientificNutrition",
-          "title": "Relapse Prevention by Plant-Based Diet Incorporated into Induction Therapy for Ulcerative Colitis: A Single-Group Trial - PubMed"
-        },
-        {
-          "id": "https://www.reddit.com/r/ScientificNutrition/comments/n8ajjg/increasing_mtorc1_pathway_activity_or_methionine/",
-          "author": "top scoring links : ScientificNutrition",
-          "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
-          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n8ajjg/increasing_mtorc1_pathway_activity_or_methionine/",
-          "publishedOn": "2021-05-09T09:13:55.000Z",
-          "wordCount": 591,
-          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
-          "sourceTitle": "top scoring links : ScientificNutrition",
-          "title": "Increasing mTORC1 Pathway Activity or Methionine Supplementation during Pregnancy Reverses the Negative Effect of Maternal Malnutrition on the Developing Kidney (May 2021)"
-        },
-        {
-          "id": "https://www.reddit.com/r/ScientificNutrition/comments/n8992p/cell_death_and_mitochondrial_dysfunction_induced/",
-          "author": "top scoring links : ScientificNutrition",
-          "description": "&#32; submitted by &#32;  /u/chromosomalcrossover  \n [link] &#32; [comments]",
-          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n8992p/cell_death_and_mitochondrial_dysfunction_induced/",
-          "publishedOn": "2021-05-09T07:36:51.000Z",
-          "wordCount": 241,
-          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
-          "sourceTitle": "top scoring links : ScientificNutrition",
-          "title": "Cell death and mitochondrial dysfunction induced by the dietary non-proteinogenic amino acid L-azetidine-2-carboxylic acid (Aze) (2019)"
-        },
-        {
-          "id": "https://www.reddit.com/r/ScientificNutrition/comments/n88qc8/hostmicrobial_interactions_in_the_metabolism_of/",
-          "author": "top scoring links : ScientificNutrition",
-          "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
-          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n88qc8/hostmicrobial_interactions_in_the_metabolism_of/",
-          "publishedOn": "2021-05-09T06:59:15.000Z",
-          "wordCount": 319,
-          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
-          "sourceTitle": "top scoring links : ScientificNutrition",
-          "title": "Host-microbial interactions in the metabolism of different dietary fats (May 2021)"
-        },
-        {
-          "id": "https://www.reddit.com/r/ScientificNutrition/comments/n88o6l/vitamin_d_promotes_skeletal_muscle_regeneration/",
-          "author": "top scoring links : ScientificNutrition",
-          "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
-          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n88o6l/vitamin_d_promotes_skeletal_muscle_regeneration/",
-          "publishedOn": "2021-05-09T06:54:44.000Z",
-          "wordCount": 556,
-          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
-          "sourceTitle": "top scoring links : ScientificNutrition",
-          "title": "Vitamin D Promotes Skeletal Muscle Regeneration and Mitochondrial Health (2021)"
-        },
-        {
-          "id": "https://www.reddit.com/r/ScientificNutrition/comments/n88n1u/acetate_induces_growth_arrest_in_colon_cancer/",
-          "author": "top scoring links : ScientificNutrition",
-          "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
-          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n88n1u/acetate_induces_growth_arrest_in_colon_cancer/",
-          "publishedOn": "2021-05-09T06:52:30.000Z",
-          "wordCount": 455,
-          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
-          "sourceTitle": "top scoring links : ScientificNutrition",
-          "title": "Acetate Induces Growth Arrest in Colon Cancer Cells Through Modulation of Mitochondrial Function (2021)"
-        },
-        {
-          "id": "https://www.reddit.com/r/ScientificNutrition/comments/n88ldb/vitamin_b12_induces_hepatic_fatty_infiltration/",
-          "author": "top scoring links : ScientificNutrition",
-          "description": "&#32; submitted by &#32;  /u/basmwklz  \n [link] &#32; [comments]",
-          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n88ldb/vitamin_b12_induces_hepatic_fatty_infiltration/",
-          "publishedOn": "2021-05-09T06:49:02.000Z",
-          "wordCount": 525,
-          "sourceHref": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
-          "sourceTitle": "top scoring links : ScientificNutrition",
-          "title": "Vitamin B12 Induces Hepatic Fatty Infiltration through Altered Fatty Acid Metabolism (May 2021)"
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/n8xrlk/the_displacing_foods_of_modern_commerce_are_the/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/greyuniwave  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n8xrlk/the_displacing_foods_of_modern_commerce_are_the/",
+          "publishedOn": "2021-05-10T06:33:02.000Z",
+          "wordCount": 697,
+          "title": "The 'Displacing Foods of Modern Commerce' Are the Primary and Proximate Cause of Age-Related Macular Degeneration: A Unifying Singular Hypothesis"
         }
       ]
     },
     {
-      "href": "https://www.reddit.com/r/redscarepod/top/.rss?sort=top&t=day&limit=3",
+      "title": "top scoring links : redscarepod",
+      "feedUrl": "https://www.reddit.com/r/redscarepod/top/.rss?sort=top&t=day&limit=3",
+      "siteUrl": "https://www.reddit.com/r/redscarepod/top/?sort=top&t=day&limit=3",
       "articles": [
         {
-          "id": "https://www.reddit.com/r/redscarepod/comments/n8fc0f/mama_mia_issa_tragadia/",
-          "author": "top scoring links : redscarepod",
-          "description": "&#32; submitted by &#32;  /u/CollumMcJingleballs  \n [link] &#32; [comments]",
-          "link": "https://www.reddit.com/r/redscarepod/comments/n8fc0f/mama_mia_issa_tragadia/",
-          "publishedOn": "2021-05-09T14:29:22.000Z",
-          "wordCount": 630,
-          "sourceHref": "https://www.reddit.com/r/redscarepod/top/.rss?sort=top&t=day&limit=3",
-          "sourceTitle": "top scoring links : redscarepod",
-          "title": "mama mia! issa tragadia!"
+          "id": "https://www.reddit.com/r/redscarepod/comments/n953qp/no_hes_not_perfect_yeah_he_makes_mistakes_yeah_he/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/Whole-way-there  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/n953qp/no_hes_not_perfect_yeah_he_makes_mistakes_yeah_he/",
+          "publishedOn": "2021-05-10T14:00:06.000Z",
+          "wordCount": 529,
+          "title": "No he's not 'perfect'. Yeah he makes mistakes. Yeah he has 'fooled around'. But when I want that special something, boo will get it for me 💗💗"
         },
         {
-          "id": "https://www.reddit.com/r/redscarepod/comments/n8chmi/nanette/",
-          "author": "top scoring links : redscarepod",
-          "description": "&#32; submitted by &#32;  /u/earthwormkin  \n [link] &#32; [comments]",
-          "link": "https://www.reddit.com/r/redscarepod/comments/n8chmi/nanette/",
-          "publishedOn": "2021-05-09T11:38:54.000Z",
-          "wordCount": 352,
-          "sourceHref": "https://www.reddit.com/r/redscarepod/top/.rss?sort=top&t=day&limit=3",
-          "sourceTitle": "top scoring links : redscarepod",
-          "title": "Nanette?"
+          "id": "https://www.reddit.com/r/redscarepod/comments/n8yvyc/dont_do_it/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/unitedworms  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/n8yvyc/dont_do_it/",
+          "publishedOn": "2021-05-10T07:48:15.000Z",
+          "wordCount": 896,
+          "title": "don’t do it"
         },
         {
-          "id": "https://www.reddit.com/r/redscarepod/comments/n854r3/study_completed_by_rredscarepod/",
-          "author": "top scoring links : redscarepod",
-          "description": "&#32; submitted by &#32;  /u/scoop813  \n [link] &#32; [comments]",
-          "link": "https://www.reddit.com/r/redscarepod/comments/n854r3/study_completed_by_rredscarepod/",
-          "publishedOn": "2021-05-09T03:12:07.000Z",
-          "wordCount": 571,
-          "sourceHref": "https://www.reddit.com/r/redscarepod/top/.rss?sort=top&t=day&limit=3",
-          "sourceTitle": "top scoring links : redscarepod",
-          "title": "Study completed by r/redscarepod"
+          "id": "https://www.reddit.com/r/redscarepod/comments/n8tbla/what_this_sub_becomes_in_after_hours/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/gay9-11  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/n8tbla/what_this_sub_becomes_in_after_hours/",
+          "publishedOn": "2021-05-10T02:12:40.000Z",
+          "wordCount": 390,
+          "title": "what this sub becomes in after hours"
         }
       ]
     },
     {
-      "href": "https://rsshub.app/github/trending/daily/haskell",
+      "title": "Trending Haskell repositories on GitHub today · GitHub",
+      "feedUrl": "https://rsshub.app/github/trending/daily/haskell",
+      "siteUrl": "https://github.com/trending/haskell?since=daily",
       "articles": [
         {
-          "id": "https://github.com/haskell/haskell-language-server",
-          "author": "haskell",
-          "description": "Successor of ghcide & haskell-ide-engine. One IDE to rule them all.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
-          "link": "https://github.com/haskell/haskell-language-server",
-          "publishedOn": "2021-05-10T00:46:14.481Z",
-          "wordCount": 4940,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
-          "title": "haskell /\n\n      haskell-language-server"
-        },
-        {
-          "id": "https://github.com/input-output-hk/cardano-node",
-          "author": "input-output-hk",
-          "description": "The core component that is used to participate in a Cardano decentralised blockchain.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
-          "link": "https://github.com/input-output-hk/cardano-node",
-          "publishedOn": "2021-05-10T00:46:14.283Z",
-          "wordCount": 2801,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
-          "title": "input-output-hk /\n\n      cardano-node"
-        },
-        {
-          "id": "https://github.com/halacsy/hmake",
-          "author": "halacsy",
-          "description": "make like etl in haskell\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
-          "link": "https://github.com/halacsy/hmake",
-          "publishedOn": "2021-05-10T00:46:14.225Z",
-          "wordCount": 404,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
-          "title": "halacsy /\n\n      hmake"
+          "id": "https://github.com/matterhorn-chat/mattermost-api",
+          "author": "matterhorn-chat",
+          "description": "Client side API for communicating with a mattermost server in Haskell\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/matterhorn-chat/mattermost-api",
+          "publishedOn": "2021-05-11T00:46:08.122Z",
+          "wordCount": 605,
+          "title": "matterhorn-chat /\n\n      mattermost-api"
         },
         {
           "id": "https://github.com/digital-asset/ex-mortgage-repackaging",
           "author": "digital-asset",
           "description": "Reference DAML application demonstrating the use case of repackaging Mortgage Based Securities. \n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
           "link": "https://github.com/digital-asset/ex-mortgage-repackaging",
-          "publishedOn": "2021-05-10T00:46:14.191Z",
+          "publishedOn": "2021-05-11T00:46:07.923Z",
           "wordCount": 803,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
           "title": "digital-asset /\n\n      ex-mortgage-repackaging"
-        },
-        {
-          "id": "https://github.com/hasura/graphql-engine",
-          "author": "hasura",
-          "description": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
-          "link": "https://github.com/hasura/graphql-engine",
-          "publishedOn": "2021-05-10T00:46:14.169Z",
-          "wordCount": 1772,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
-          "title": "hasura /\n\n      graphql-engine"
-        },
-        {
-          "id": "https://github.com/digital-asset/contingent-claims",
-          "author": "digital-asset",
-          "description": "Language: Haskell\n                            \nStar: \n                            \nFork:",
-          "link": "https://github.com/digital-asset/contingent-claims",
-          "publishedOn": "2021-05-10T00:46:14.118Z",
-          "wordCount": 732,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
-          "title": "digital-asset /\n\n      contingent-claims"
-        },
-        {
-          "id": "https://github.com/sdiehl/wiwinwlh",
-          "author": "sdiehl",
-          "description": "What I Wish I Knew When Learning Haskell\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
-          "link": "https://github.com/sdiehl/wiwinwlh",
-          "publishedOn": "2021-05-10T00:46:14.080Z",
-          "wordCount": 1126,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
-          "title": "sdiehl /\n\n      wiwinwlh"
-        },
-        {
-          "id": "https://github.com/kowainik/learn4haskell",
-          "author": "kowainik",
-          "description": "👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
-          "link": "https://github.com/kowainik/learn4haskell",
-          "publishedOn": "2021-05-10T00:46:14.041Z",
-          "wordCount": 2084,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
-          "title": "kowainik /\n\n      learn4haskell"
         },
         {
           "id": "https://github.com/digital-asset/ex-bond-issuance",
           "author": "digital-asset",
           "description": "Reference DAML application demonstrating a bond issuance use case.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
           "link": "https://github.com/digital-asset/ex-bond-issuance",
-          "publishedOn": "2021-05-10T00:46:14.015Z",
-          "wordCount": 2995,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
+          "publishedOn": "2021-05-11T00:46:07.887Z",
+          "wordCount": 2741,
           "title": "digital-asset /\n\n      ex-bond-issuance"
         },
         {
-          "id": "https://github.com/bkomuves/toy-language-server",
-          "author": "bkomuves",
-          "description": "Example language server (LSP) implementation for a toy language\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
-          "link": "https://github.com/bkomuves/toy-language-server",
-          "publishedOn": "2021-05-10T00:46:13.799Z",
-          "wordCount": 1058,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
-          "title": "bkomuves /\n\n      toy-language-server"
+          "id": "https://github.com/jgm/pandoc",
+          "author": "jgm",
+          "description": "Universal markup converter\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/jgm/pandoc",
+          "publishedOn": "2021-05-11T00:46:07.833Z",
+          "wordCount": 1606,
+          "title": "jgm /\n\n      pandoc"
         },
         {
-          "id": "https://github.com/Sentenai/solr-query",
-          "author": "Sentenai",
-          "description": "Language: Haskell\n                            \nStar: \n                            \nFork:",
-          "link": "https://github.com/Sentenai/solr-query",
-          "publishedOn": "2021-05-10T00:46:13.760Z",
-          "wordCount": 418,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
-          "title": "Sentenai /\n\n      solr-query"
+          "id": "https://github.com/hadolint/hadolint",
+          "author": "hadolint",
+          "description": "Dockerfile linter, validate inline bash, written in Haskell\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/hadolint/hadolint",
+          "publishedOn": "2021-05-11T00:46:07.783Z",
+          "wordCount": 2750,
+          "title": "hadolint /\n\n      hadolint"
         },
         {
-          "id": "https://github.com/Sentenai/riak-solr",
-          "author": "Sentenai",
-          "description": "solr-query integration for riak\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
-          "link": "https://github.com/Sentenai/riak-solr",
-          "publishedOn": "2021-05-10T00:46:13.718Z",
-          "wordCount": 482,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
-          "title": "Sentenai /\n\n      riak-solr"
+          "id": "https://github.com/haskell/haskell-language-server",
+          "author": "haskell",
+          "description": "Successor of ghcide & haskell-ide-engine. One IDE to rule them all.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/haskell/haskell-language-server",
+          "publishedOn": "2021-05-11T00:46:07.732Z",
+          "wordCount": 4940,
+          "title": "haskell /\n\n      haskell-language-server"
         },
         {
-          "id": "https://github.com/matterhorn-chat/mattermost-api-qc",
-          "author": "matterhorn-chat",
-          "description": "QuickCheck instance library for the mattermost-api library.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
-          "link": "https://github.com/matterhorn-chat/mattermost-api-qc",
-          "publishedOn": "2021-05-10T00:46:13.691Z",
-          "wordCount": 507,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
-          "title": "matterhorn-chat /\n\n      mattermost-api-qc"
+          "id": "https://github.com/koalaman/shellcheck",
+          "author": "koalaman",
+          "description": "ShellCheck, a static analysis tool for shell scripts\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/koalaman/shellcheck",
+          "publishedOn": "2021-05-11T00:46:07.640Z",
+          "wordCount": 3056,
+          "title": "koalaman /\n\n      shellcheck"
         },
         {
-          "id": "https://github.com/obsidiansystems/nix-thunk",
-          "author": "obsidiansystems",
-          "description": "Language: Haskell\n                            \nStar: \n                            \nFork:",
-          "link": "https://github.com/obsidiansystems/nix-thunk",
-          "publishedOn": "2021-05-10T00:46:13.653Z",
-          "wordCount": 954,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
-          "title": "obsidiansystems /\n\n      nix-thunk"
+          "id": "https://github.com/PostgREST/postgrest",
+          "author": "PostgREST",
+          "description": "REST API for any Postgres database\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/PostgREST/postgrest",
+          "publishedOn": "2021-05-11T00:46:07.555Z",
+          "wordCount": 1296,
+          "title": "PostgREST /\n\n      postgrest"
         },
         {
-          "id": "https://github.com/matterhorn-chat/mattermost-api",
-          "author": "matterhorn-chat",
-          "description": "Client side API for communicating with a mattermost server in Haskell\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
-          "link": "https://github.com/matterhorn-chat/mattermost-api",
-          "publishedOn": "2021-05-10T00:46:13.614Z",
-          "wordCount": 605,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
-          "title": "matterhorn-chat /\n\n      mattermost-api"
+          "id": "https://github.com/hasura/graphql-engine",
+          "author": "hasura",
+          "description": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/hasura/graphql-engine",
+          "publishedOn": "2021-05-11T00:46:07.511Z",
+          "wordCount": 1776,
+          "title": "hasura /\n\n      graphql-engine"
         },
         {
-          "id": "https://github.com/crytic/echidna",
-          "author": "crytic",
-          "description": "Ethereum smart contract fuzzer\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
-          "link": "https://github.com/crytic/echidna",
-          "publishedOn": "2021-05-10T00:46:13.592Z",
-          "wordCount": 2313,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
-          "title": "crytic /\n\n      echidna"
+          "id": "https://github.com/david-janssen/kmonad",
+          "author": "david-janssen",
+          "description": "An advanced keyboard manager\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/david-janssen/kmonad",
+          "publishedOn": "2021-05-11T00:46:07.462Z",
+          "wordCount": 1062,
+          "title": "david-janssen /\n\n      kmonad"
         },
         {
-          "id": "https://github.com/elm/compiler",
-          "author": "elm",
-          "description": "Compiler for Elm, a functional language for reliable webapps.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
-          "link": "https://github.com/elm/compiler",
-          "publishedOn": "2021-05-10T00:46:13.544Z",
-          "wordCount": 695,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
-          "title": "elm /\n\n      compiler"
+          "id": "https://github.com/input-output-hk/cardano-node",
+          "author": "input-output-hk",
+          "description": "The core component that is used to participate in a Cardano decentralised blockchain.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/input-output-hk/cardano-node",
+          "publishedOn": "2021-05-11T00:46:07.423Z",
+          "wordCount": 2798,
+          "title": "input-output-hk /\n\n      cardano-node"
         },
         {
           "id": "https://github.com/hasura/pg-client-hs",
           "author": "hasura",
           "description": "A low level Haskell library to connect to postgres \n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
           "link": "https://github.com/hasura/pg-client-hs",
-          "publishedOn": "2021-05-10T00:46:13.494Z",
+          "publishedOn": "2021-05-11T00:46:07.368Z",
           "wordCount": 446,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
           "title": "hasura /\n\n      pg-client-hs"
         },
         {
-          "id": "https://github.com/srid/neuron",
-          "author": "srid",
-          "description": "Future-proof note-taking and publishing based on Zettelkasten\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
-          "link": "https://github.com/srid/neuron",
-          "publishedOn": "2021-05-10T00:46:13.461Z",
-          "wordCount": 781,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
-          "title": "srid /\n\n      neuron"
+          "id": "https://github.com/sdiehl/wiwinwlh",
+          "author": "sdiehl",
+          "description": "What I Wish I Knew When Learning Haskell\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/sdiehl/wiwinwlh",
+          "publishedOn": "2021-05-11T00:46:07.346Z",
+          "wordCount": 991,
+          "title": "sdiehl /\n\n      wiwinwlh"
         },
         {
-          "id": "https://github.com/hasktorch/hasktorch",
-          "author": "hasktorch",
-          "description": "Tensors and neural networks in Haskell\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
-          "link": "https://github.com/hasktorch/hasktorch",
-          "publishedOn": "2021-05-10T00:46:13.422Z",
-          "wordCount": 2321,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
-          "title": "hasktorch /\n\n      hasktorch"
+          "id": "https://github.com/yesodweb/persistent",
+          "author": "yesodweb",
+          "description": "Persistence interface for Haskell allowing multiple storage methods.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/yesodweb/persistent",
+          "publishedOn": "2021-05-11T00:46:07.306Z",
+          "wordCount": 797,
+          "title": "yesodweb /\n\n      persistent"
         },
         {
-          "id": "https://github.com/fosskers/aura",
-          "author": "fosskers",
-          "description": "A secure, multilingual package manager for Arch Linux and the AUR.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
-          "link": "https://github.com/fosskers/aura",
-          "publishedOn": "2021-05-10T00:46:13.385Z",
-          "wordCount": 1710,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
-          "title": "fosskers /\n\n      aura"
+          "id": "https://github.com/input-output-hk/ouroboros-network",
+          "author": "input-output-hk",
+          "description": "An implementation of the Ouroboros family of consensus algorithms, with its networking support\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/input-output-hk/ouroboros-network",
+          "publishedOn": "2021-05-11T00:46:07.264Z",
+          "wordCount": 1109,
+          "title": "input-output-hk /\n\n      ouroboros-network"
         },
         {
-          "id": "https://github.com/digitallyinduced/ihp",
-          "author": "digitallyinduced",
-          "description": "🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
-          "link": "https://github.com/digitallyinduced/ihp",
-          "publishedOn": "2021-05-10T00:46:13.325Z",
-          "wordCount": 2011,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
-          "title": "digitallyinduced /\n\n      ihp"
+          "id": "https://github.com/wireapp/wire-server",
+          "author": "wireapp",
+          "description": "🇪🇺 Wire back-end services\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/wireapp/wire-server",
+          "publishedOn": "2021-05-11T00:46:07.221Z",
+          "wordCount": 1722,
+          "title": "wireapp /\n\n      wire-server"
+        },
+        {
+          "id": "https://github.com/Sentenai/solr-query",
+          "author": "Sentenai",
+          "description": "Language: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/Sentenai/solr-query",
+          "publishedOn": "2021-05-11T00:46:07.172Z",
+          "wordCount": 412,
+          "title": "Sentenai /\n\n      solr-query"
+        },
+        {
+          "id": "https://github.com/input-output-hk/goblins",
+          "author": "input-output-hk",
+          "description": "Genetic Algorithm based randomized testing\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/input-output-hk/goblins",
+          "publishedOn": "2021-05-11T00:46:07.134Z",
+          "wordCount": 420,
+          "title": "input-output-hk /\n\n      goblins"
+        },
+        {
+          "id": "https://github.com/matterhorn-chat/mattermost-api-qc",
+          "author": "matterhorn-chat",
+          "description": "QuickCheck instance library for the mattermost-api library.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/matterhorn-chat/mattermost-api-qc",
+          "publishedOn": "2021-05-11T00:46:07.117Z",
+          "wordCount": 448,
+          "title": "matterhorn-chat /\n\n      mattermost-api-qc"
+        },
+        {
+          "id": "https://github.com/haskell-gi/haskell-gi",
+          "author": "haskell-gi",
+          "description": "Generate Haskell bindings for GObject-Introspection capable libraries\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/haskell-gi/haskell-gi",
+          "publishedOn": "2021-05-11T00:46:07.070Z",
+          "wordCount": 1383,
+          "title": "haskell-gi /\n\n      haskell-gi"
+        },
+        {
+          "id": "https://github.com/input-output-hk/cardano-wallet",
+          "author": "input-output-hk",
+          "description": "HTTP server & command-line for managing UTxOs and HD wallets in Cardano.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/input-output-hk/cardano-wallet",
+          "publishedOn": "2021-05-11T00:46:07.020Z",
+          "wordCount": 1147,
+          "title": "input-output-hk /\n\n      cardano-wallet"
+        },
+        {
+          "id": "https://github.com/dapphub/dapptools",
+          "author": "dapphub",
+          "description": "Dapp, Seth, Hevm, and more\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/dapphub/dapptools",
+          "publishedOn": "2021-05-11T00:46:06.981Z",
+          "wordCount": 820,
+          "title": "dapphub /\n\n      dapptools"
+        },
+        {
+          "id": "https://github.com/input-output-hk/cardano-prelude",
+          "author": "input-output-hk",
+          "description": "A protolude-based custom prelude for the Cardano project\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/input-output-hk/cardano-prelude",
+          "publishedOn": "2021-05-11T00:46:06.942Z",
+          "wordCount": 424,
+          "title": "input-output-hk /\n\n      cardano-prelude"
         },
         {
           "id": "https://github.com/input-output-hk/cardano-sl",
           "author": "input-output-hk",
           "description": "Cryptographic currency implementing Ouroboros PoS protocol\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
           "link": "https://github.com/input-output-hk/cardano-sl",
-          "publishedOn": "2021-05-10T00:46:13.293Z",
+          "publishedOn": "2021-05-11T00:46:06.924Z",
           "wordCount": 1083,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
           "title": "input-output-hk /\n\n      cardano-sl"
         },
         {
-          "id": "https://github.com/haskell/cabal",
-          "author": "haskell",
-          "description": "Official upstream development repository for Cabal and cabal-install\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
-          "link": "https://github.com/haskell/cabal",
-          "publishedOn": "2021-05-10T00:46:12.487Z",
-          "wordCount": 648,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
-          "title": "haskell /\n\n      cabal"
-        },
-        {
-          "id": "https://github.com/xmonad/xmonad",
-          "author": "xmonad",
-          "description": "The core of xmonad, a small but functional ICCCM-compliant tiling window manager\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
-          "link": "https://github.com/xmonad/xmonad",
-          "publishedOn": "2021-05-10T00:46:12.411Z",
-          "wordCount": 1083,
-          "sourceHref": "https://rsshub.app/github/trending/daily/haskell",
-          "sourceTitle": "Trending Haskell repositories on GitHub today · GitHub",
-          "title": "xmonad /\n\n      xmonad"
+          "id": "https://github.com/input-output-hk/plutus-pioneer-program",
+          "author": "input-output-hk",
+          "description": "Language: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/input-output-hk/plutus-pioneer-program",
+          "publishedOn": "2021-05-11T00:46:06.607Z",
+          "wordCount": 844,
+          "title": "input-output-hk /\n\n      plutus-pioneer-program"
         }
       ]
     },
     {
-      "href": "https://hnrss.org/frontpage",
+      "title": "Hacker News: Front Page",
+      "feedUrl": "https://hnrss.org/frontpage",
+      "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27101092",
-          "author": "selfsimilar",
-          "description": "Article URL: https://www.bbc.com/news/business-57050690\nComments URL: https://news.ycombinator.com/item?id=27101092\nPoints: 29\n# Comments: 11",
-          "link": "https://www.bbc.com/news/business-57050690",
-          "publishedOn": "2021-05-10T00:00:56.000Z",
-          "wordCount": 1620,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "US declares state of emergency in infrastructure cyberattack"
+          "id": "https://news.ycombinator.com/item?id=27111512",
+          "author": "johntfella",
+          "description": "Article URL: http://www.arrl.org/news/a-perfect-coronal-mass-ejection-could-be-a-nightmare\nComments URL: https://news.ycombinator.com/item?id=27111512\nPoints: 32\n# Comments: 17",
+          "link": "http://www.arrl.org/news/a-perfect-coronal-mass-ejection-could-be-a-nightmare",
+          "publishedOn": "2021-05-10T22:11:45.000Z",
+          "wordCount": 1043,
+          "title": "A “Perfect Coronal Mass Ejection” Could Be a Nightmare"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27100974",
-          "author": "vira28",
-          "description": "Article URL: https://viggy28.dev/article/setting-up-ghost-in-raspberry-pi-for-free/\nComments URL: https://news.ycombinator.com/item?id=27100974\nPoints: 5\n# Comments: 1",
-          "link": "https://viggy28.dev/article/setting-up-ghost-in-raspberry-pi-for-free/",
-          "publishedOn": "2021-05-09T23:42:50.000Z",
-          "wordCount": 415,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "Show HN: Run your ghost blog on Raspberry Pi for free"
+          "id": "https://news.ycombinator.com/item?id=27111466",
+          "author": "chr15m",
+          "description": "Article URL: https://mccormick.cx/news/entries/one-million-people-saw-my-dumbest-tweet\nComments URL: https://news.ycombinator.com/item?id=27111466\nPoints: 98\n# Comments: 44",
+          "link": "https://mccormick.cx/news/entries/one-million-people-saw-my-dumbest-tweet",
+          "publishedOn": "2021-05-10T22:07:10.000Z",
+          "wordCount": 680,
+          "title": "One million people saw my dumbest tweet"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27100742",
-          "author": "pseudolus",
-          "description": "Article URL: https://www.nytimes.com/2021/05/09/health/psychedelics-mdma-psilocybin-molly-mental-health.html\nComments URL: https://news.ycombinator.com/item?id=27100742\nPoints: 12\n# Comments: 2",
-          "link": "https://www.nytimes.com/2021/05/09/health/psychedelics-mdma-psilocybin-molly-mental-health.html",
-          "publishedOn": "2021-05-09T23:11:19.000Z",
-          "wordCount": 2739,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "How MDMA and Psilocybin Became Hot Investments"
+          "id": "https://news.ycombinator.com/item?id=27111377",
+          "author": "weare138",
+          "description": "Article URL: https://evoniuk.github.io/posts/pitfall.html\nComments URL: https://news.ycombinator.com/item?id=27111377\nPoints: 6\n# Comments: 0",
+          "link": "https://evoniuk.github.io/posts/pitfall.html",
+          "publishedOn": "2021-05-10T21:58:14.000Z",
+          "wordCount": 2917,
+          "title": "How Atari 2600 Game Pitfall Builds Its World"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27100611",
-          "author": "Kye",
-          "description": "Article URL: https://www.theverge.com/2021/5/9/22427811/simple-bbva-transition-errors-bank-shutdown\nComments URL: https://news.ycombinator.com/item?id=27100611\nPoints: 25\n# Comments: 7",
-          "link": "https://www.theverge.com/2021/5/9/22427811/simple-bbva-transition-errors-bank-shutdown",
-          "publishedOn": "2021-05-09T22:53:45.000Z",
-          "wordCount": 823,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "Simple bank shutdown goes awry, leaving customers without account access"
+          "id": "https://news.ycombinator.com/item?id=27110829",
+          "author": "jstreebin",
+          "description": "Article URL: https://www.easypost.com/careers\nComments URL: https://news.ycombinator.com/item?id=27110829\nPoints: 1\n# Comments: 0",
+          "link": "https://www.easypost.com/careers",
+          "publishedOn": "2021-05-10T21:00:11.000Z",
+          "wordCount": 378,
+          "title": "EasyPost (YC S13) Is Hiring Remote"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27100299",
-          "author": "montenegrohugo",
-          "description": "Article URL: http://www.robinhobb.com/blog/posts/38429\nComments URL: https://news.ycombinator.com/item?id=27100299\nPoints: 249\n# Comments: 87",
-          "link": "http://www.robinhobb.com/blog/posts/38429",
-          "publishedOn": "2021-05-09T22:11:18.000Z",
-          "wordCount": null,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "The Animal Is Tired"
+          "id": "https://news.ycombinator.com/item?id=27110669",
+          "author": "bzbarsky",
+          "description": "Article URL: https://blog.mozilla.org/security/2021/05/10/beware-of-applications-misusing-root-stores/\nComments URL: https://news.ycombinator.com/item?id=27110669\nPoints: 67\n# Comments: 25",
+          "link": "https://blog.mozilla.org/security/2021/05/10/beware-of-applications-misusing-root-stores/",
+          "publishedOn": "2021-05-10T20:42:39.000Z",
+          "wordCount": 1743,
+          "title": "Beware of Applications Misusing Root Stores"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27100272",
+          "id": "https://news.ycombinator.com/item?id=27110493",
+          "author": "cbg0",
+          "description": "Article URL: https://www.kedglobal.com/newsView/ked202105090002\nComments URL: https://news.ycombinator.com/item?id=27110493\nPoints: 163\n# Comments: 115",
+          "link": "https://www.kedglobal.com/newsView/ked202105090002",
+          "publishedOn": "2021-05-10T20:26:13.000Z",
+          "wordCount": 1131,
+          "title": "Samsung to jump into laptop processor market with Exynos chip in H2"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27109960",
+          "author": "cedricd",
+          "description": "Article URL: https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/\nComments URL: https://news.ycombinator.com/item?id=27109960\nPoints: 187\n# Comments: 82",
+          "link": "https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/",
+          "publishedOn": "2021-05-10T19:39:15.000Z",
+          "wordCount": 2227,
+          "title": "Using PostgreSQL as a Data Warehouse"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27109142",
+          "author": "elsewhen",
+          "description": "Article URL: https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html\nComments URL: https://news.ycombinator.com/item?id=27109142\nPoints: 263\n# Comments: 308",
+          "link": "https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html",
+          "publishedOn": "2021-05-10T18:22:45.000Z",
+          "wordCount": 1292,
+          "title": "Game developers sharing their salaries on Twitter"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27109082",
+          "author": "0xmarcin",
+          "description": "Article URL: https://github.com/marcin-chwedczuk/shellcode-tshirt\nComments URL: https://news.ycombinator.com/item?id=27109082\nPoints: 66\n# Comments: 9",
+          "link": "https://github.com/marcin-chwedczuk/shellcode-tshirt",
+          "publishedOn": "2021-05-10T18:17:54.000Z",
+          "wordCount": 1791,
+          "title": "Story of a Tshirt with a Shellcode"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27108593",
+          "author": "praseodym",
+          "description": "Article URL: https://github.com/microsoft/ebpf-for-windows\nComments URL: https://news.ycombinator.com/item?id=27108593\nPoints: 183\n# Comments: 119",
+          "link": "https://github.com/microsoft/ebpf-for-windows",
+          "publishedOn": "2021-05-10T17:35:15.000Z",
+          "wordCount": 1333,
+          "title": "eBPF on Windows"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27108109",
+          "author": "hacka22",
+          "description": "Article URL: https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df\nComments URL: https://news.ycombinator.com/item?id=27108109\nPoints: 199\n# Comments: 103",
+          "link": "https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df",
+          "publishedOn": "2021-05-10T16:55:24.000Z",
+          "wordCount": 5186,
+          "title": "Tracking One Year of Malicious Tor Exit Relay Activities (Part II)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27107820",
+          "author": "dehrmann",
+          "description": "Article URL: https://www.wired.co.uk/article/corporate-memphis-design-tech\nComments URL: https://news.ycombinator.com/item?id=27107820\nPoints: 133\n# Comments: 126",
+          "link": "https://www.wired.co.uk/article/corporate-memphis-design-tech",
+          "publishedOn": "2021-05-10T16:29:09.000Z",
+          "wordCount": 1596,
+          "title": "Why does every advert look the same? Corporate Memphis"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27107647",
+          "author": "tosh",
+          "description": "Article URL: https://pyre-check.org\nComments URL: https://news.ycombinator.com/item?id=27107647\nPoints: 105\n# Comments: 74",
+          "link": "https://pyre-check.org",
+          "publishedOn": "2021-05-10T16:14:44.000Z",
+          "wordCount": 139,
+          "title": "Pyre: A performant type-checker for Python 3"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27107428",
+          "author": "simonw",
+          "description": "Article URL: https://django-sql-dashboard.datasette.io/en/latest/\nComments URL: https://news.ycombinator.com/item?id=27107428\nPoints: 160\n# Comments: 22",
+          "link": "https://django-sql-dashboard.datasette.io/en/latest/",
+          "publishedOn": "2021-05-10T15:53:54.000Z",
+          "wordCount": 385,
+          "title": "Show HN: Django SQL Dashboard"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27107175",
           "author": "ingve",
-          "description": "Article URL: http://objective.st/\nComments URL: https://news.ycombinator.com/item?id=27100272\nPoints: 33\n# Comments: 10",
-          "link": "http://objective.st/",
-          "publishedOn": "2021-05-09T22:05:53.000Z",
-          "wordCount": 368,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "Objective-S: architecture-oriented language based on Smalltalk and Objective-C"
+          "description": "Article URL: https://dl.acm.org/doi/10.1145/3411764.3445642\nComments URL: https://news.ycombinator.com/item?id=27107175\nPoints: 63\n# Comments: 88",
+          "link": "https://dl.acm.org/doi/10.1145/3411764.3445642",
+          "publishedOn": "2021-05-10T15:34:29.000Z",
+          "wordCount": 148,
+          "title": "Perverse Downstream Consequences of Debunking"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27099995",
-          "author": "themdpreneur",
-          "description": "Article URL: https://themdpreneur.com/purchase-future-cash-stop-buying-more-stuff/\nComments URL: https://news.ycombinator.com/item?id=27099995\nPoints: 120\n# Comments: 85",
-          "link": "https://themdpreneur.com/purchase-future-cash-stop-buying-more-stuff/",
-          "publishedOn": "2021-05-09T21:31:24.000Z",
-          "wordCount": 1626,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "Wealthy use debt to buy future cash flow everyone else uses debt to buy stuff"
+          "id": "https://news.ycombinator.com/item?id=27106489",
+          "author": "schultetwin",
+          "description": "Article URL: https://epirhandbook.com/\nComments URL: https://news.ycombinator.com/item?id=27106489\nPoints: 154\n# Comments: 4",
+          "link": "https://epirhandbook.com/",
+          "publishedOn": "2021-05-10T14:43:34.000Z",
+          "wordCount": 896,
+          "title": "Epidemiologist R Handbook"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27099969",
-          "author": "pseudolus",
-          "description": "Article URL: https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork\nComments URL: https://news.ycombinator.com/item?id=27099969\nPoints: 101\n# Comments: 93",
-          "link": "https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork",
-          "publishedOn": "2021-05-09T21:28:03.000Z",
-          "wordCount": 2151,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "Why do we buy into the 'cult' of overwork?"
+          "id": "https://news.ycombinator.com/item?id=27106448",
+          "author": "Reventlov",
+          "description": "Article URL: https://berthub.eu/articles/posts/dont-ruin-the-root/\nComments URL: https://news.ycombinator.com/item?id=27106448\nPoints: 336\n# Comments: 158",
+          "link": "https://berthub.eu/articles/posts/dont-ruin-the-root/",
+          "publishedOn": "2021-05-10T14:39:37.000Z",
+          "wordCount": 2342,
+          "title": "Dear EU: Please Don't Ruin the Root"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27099695",
-          "author": "the_economist",
-          "description": "Article URL: https://jobs.lever.co/buildzoom\nComments URL: https://news.ycombinator.com/item?id=27099695\nPoints: 1\n# Comments: 0",
-          "link": "https://jobs.lever.co/buildzoom",
-          "publishedOn": "2021-05-09T21:00:46.000Z",
-          "wordCount": 109,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "BuildZoom (better way to build custom homes) Is hiring a Principal Engineer"
+          "id": "https://news.ycombinator.com/item?id=27106250",
+          "author": "Anon84",
+          "description": "Article URL: https://www.wondersofphysics.com/2021/05/two-time-nobel-pize-winner-physics.html\nComments URL: https://news.ycombinator.com/item?id=27106250\nPoints: 147\n# Comments: 75",
+          "link": "https://www.wondersofphysics.com/2021/05/two-time-nobel-pize-winner-physics.html",
+          "publishedOn": "2021-05-10T14:22:55.000Z",
+          "wordCount": 742,
+          "title": "Engineer Who Won the Nobel Prize Twice in Physics"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27099536",
-          "author": "jger15",
-          "description": "Article URL: https://www.lynalden.com/inflation/\nComments URL: https://news.ycombinator.com/item?id=27099536\nPoints: 257\n# Comments: 134",
-          "link": "https://www.lynalden.com/inflation/",
-          "publishedOn": "2021-05-09T20:42:17.000Z",
-          "wordCount": 10160,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "The Ultimate Guide to Inflation"
+          "id": "https://news.ycombinator.com/item?id=27106055",
+          "author": "ellegriffin",
+          "description": "Article URL: https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors\nComments URL: https://news.ycombinator.com/item?id=27106055\nPoints: 418\n# Comments: 483",
+          "link": "https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors",
+          "publishedOn": "2021-05-10T14:01:27.000Z",
+          "wordCount": 3155,
+          "title": "Writing books is not really a good idea"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27099025",
-          "author": "zdw",
-          "description": "Article URL: https://dataswamp.org/~solene/2021-05-09-introduction-to-security.html\nComments URL: https://news.ycombinator.com/item?id=27099025\nPoints: 26\n# Comments: 9",
-          "link": "https://dataswamp.org/~solene/2021-05-09-introduction-to-security.html",
-          "publishedOn": "2021-05-09T19:39:41.000Z",
-          "wordCount": 1042,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "Introduction to Security Good Practices"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27098999",
-          "author": "_Microft",
-          "description": "Article URL: https://gaudi.ch/PocketPCR/\nComments URL: https://news.ycombinator.com/item?id=27098999\nPoints: 32\n# Comments: 3",
-          "link": "https://gaudi.ch/PocketPCR/",
-          "publishedOn": "2021-05-09T19:36:33.000Z",
-          "wordCount": 454,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "PocketPCR"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27098978",
-          "author": "royalroad",
-          "description": "Article URL: https://emergencemagazine.org/essay/eleven-ways/\nComments URL: https://news.ycombinator.com/item?id=27098978\nPoints: 6\n# Comments: 0",
-          "link": "https://emergencemagazine.org/essay/eleven-ways/",
-          "publishedOn": "2021-05-09T19:33:27.000Z",
-          "wordCount": 6759,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "Eleven Ways of Smelling a Tree (2020)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27098157",
-          "author": "todsacerdoti",
-          "description": "Article URL: https://www.stevenrbaker.com/tech/history-of-rspec.html\nComments URL: https://news.ycombinator.com/item?id=27098157\nPoints: 78\n# Comments: 23",
-          "link": "https://www.stevenrbaker.com/tech/history-of-rspec.html",
-          "publishedOn": "2021-05-09T18:05:00.000Z",
-          "wordCount": 2581,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "History of RSpec"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27097748",
-          "author": "bcaa7f3a8bbc",
-          "description": "Article URL: https://dsp.stackexchange.com/questions/6220/why-is-it-a-bad-idea-to-filter-by-zeroing-out-fft-bins/\nComments URL: https://news.ycombinator.com/item?id=27097748\nPoints: 20\n# Comments: 3",
-          "link": "https://dsp.stackexchange.com/questions/6220/why-is-it-a-bad-idea-to-filter-by-zeroing-out-fft-bins/",
-          "publishedOn": "2021-05-09T17:19:10.000Z",
-          "wordCount": 2618,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "Why is it a bad idea to filter by zeroing out FFT bins? (2020)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27097719",
-          "author": "thetrustworthy",
-          "description": "Article URL: https://www.dogatekin.com/blog/hypnotic-degenerate-spirals/\nComments URL: https://news.ycombinator.com/item?id=27097719\nPoints: 5\n# Comments: 0",
-          "link": "https://www.dogatekin.com/blog/hypnotic-degenerate-spirals/",
-          "publishedOn": "2021-05-09T17:16:14.000Z",
-          "wordCount": 1208,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "The Hypnotic World of Degenerate Spirals"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27097680",
-          "author": "giuliomagnifico",
-          "description": "Article URL: https://hothardware.com/news/amd-epyc-server-cpu-gains-highest-share-intel-15-years\nComments URL: https://news.ycombinator.com/item?id=27097680\nPoints: 245\n# Comments: 77",
-          "link": "https://hothardware.com/news/amd-epyc-server-cpu-gains-highest-share-intel-15-years",
-          "publishedOn": "2021-05-09T17:10:52.000Z",
-          "wordCount": 1886,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "AMD server CPUs capture highest market share gains from Intel in 15 years"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27097590",
-          "author": "dynm",
-          "description": "Article URL: https://dynomight.net/better-personalities/\nComments URL: https://news.ycombinator.com/item?id=27097590\nPoints: 236\n# Comments: 178",
-          "link": "https://dynomight.net/better-personalities/",
-          "publishedOn": "2021-05-09T17:00:32.000Z",
-          "wordCount": 1746,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "A review of correlations between big five personality types and life outcomes"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27096498",
-          "author": "nradov",
-          "description": "Article URL: https://peterattiamd.com/does-nmn-improve-metabolic-health-in-humans/\nComments URL: https://news.ycombinator.com/item?id=27096498\nPoints: 83\n# Comments: 44",
-          "link": "https://peterattiamd.com/does-nmn-improve-metabolic-health-in-humans/",
-          "publishedOn": "2021-05-09T15:03:17.000Z",
-          "wordCount": 2169,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "Does NMN improve metabolic health in humans?"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27096181",
-          "author": "prostoalex",
-          "description": "Article URL: https://fs.blog/2015/08/how-to-think/\nComments URL: https://news.ycombinator.com/item?id=27096181\nPoints: 153\n# Comments: 34",
-          "link": "https://fs.blog/2015/08/how-to-think/",
-          "publishedOn": "2021-05-09T14:30:50.000Z",
-          "wordCount": 1329,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "Learning how to think (2015)"
+          "id": "https://news.ycombinator.com/item?id=27105813",
+          "author": "rbanffy",
+          "description": "Article URL: https://openpowerfoundation.org/openpower-foundation-announces-librebmc-a-power-based-fully-open-source-bmc/\nComments URL: https://news.ycombinator.com/item?id=27105813\nPoints: 188\n# Comments: 44",
+          "link": "https://openpowerfoundation.org/openpower-foundation-announces-librebmc-a-power-based-fully-open-source-bmc/",
+          "publishedOn": "2021-05-10T13:35:06.000Z",
+          "wordCount": 618,
+          "title": "OpenPOWER Foundation announces LibreBMC, a POWER-based, fully open-source BMC"
         }
       ]
     }
   ],
-  "cliVersion": "1.5.0"
+  "cliVersion": "1.6.0"
 }
