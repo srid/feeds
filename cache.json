@@ -6,6 +6,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340359",
+          "author": "Chris Coyier",
+          "description": "Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function&#8230;\nThe post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/css-pie-timer-re-revisited/",
+          "publishedOn": "2021-05-11T22:00:29.000Z",
+          "wordCount": 441,
+          "title": "CSS Pie Timer Re-Revisited"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340186",
+          "author": "Geoff Graham",
+          "description": "How many times have you heard that (or even uttered it under your own breath)? I know I&#8217;ve heard it in conversations. I also know I&#8217;ve wondered the same thing about a product or two — hey, the idea here &#8230;\nThe post I could build this during the weekend appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://world.hey.com/joaoqalves/i-could-build-this-during-the-weekend-aa093c5e",
+          "publishedOn": "2021-05-11T21:04:32.000Z",
+          "wordCount": 1416,
+          "title": "I could build this during the weekend"
+        },
+        {
+          "id": "https://css-tricks.com/?p=339138",
+          "author": "Una Kravets",
+          "description": "Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to &#8230;\nThe post Next Gen CSS: @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/next-gen-css-container/",
+          "publishedOn": "2021-05-11T14:36:10.000Z",
+          "wordCount": 1266,
+          "title": "Next Gen CSS: @container"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340106",
+          "author": "Chris Coyier",
+          "description": "Like Jamstack, Netlify is coining this term.\nIf your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push &#8230;\nThe post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/distributed-persistent-rendering-dpr/",
+          "publishedOn": "2021-05-11T14:33:10.000Z",
+          "wordCount": 844,
+          "title": "Distributed Persistent Rendering (DPR)"
+        },
+        {
           "id": "https://css-tricks.com/?p=340020",
           "author": "Chris Coyier",
           "description": "This is extremely fun. Jeff Lindsay has created Topframe, and writes:\nAnybody that knows how to mess around with HTML can now mess around with their desktop computing experience.&#160;Topframe&#160;is an open source tool that lets you \n&#8230;\nThe post Topframe appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -148,6 +184,15 @@
       "siteUrl": "https://serokell.io/blog",
       "articles": [
         {
+          "id": "https://serokell.io/blog/top-ml-jobs",
+          "author": "hi+yuliagavrilova@serokell.io (Yulia Gavrilova)",
+          "description": "Learn about awesome artificial intelligence and machine learning jobs that you can pursue in 2021.",
+          "link": "https://serokell.io/blog/top-ml-jobs",
+          "publishedOn": "2021-05-10T00:00:00.000Z",
+          "wordCount": 1955,
+          "title": "Top Machine Learning Career Paths in 2021"
+        },
+        {
           "id": "https://serokell.io/blog/practical-nix-flakes",
           "author": "hi+alexanderbantyev@serokell.io (Alexander Bantyev)",
           "description": "Learn about Nix, Nix flakes, and how to use Nix flakes to build applications in various languages.",
@@ -199,6 +244,60 @@
       "feedUrl": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
       "siteUrl": "https://www.reddit.com/r/haskell/top/?sort=top&t=day",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/na8ykz/a_basic_command_line_plotting_interface_for/",
+          "author": null,
+          "description": "I could not find any quick plotting program to just view tabular data really fast piped in from stdin. So I whipped up a little command line program to do basic plotting with `hvega` and thought it might be useful for people in data science. Check it out here: https://github.com/GregorySchwartz/ploterific.\n  &#32; submitted by &#32;  /u/GregorySchwartz  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/na8ykz/a_basic_command_line_plotting_interface_for/",
+          "publishedOn": "2021-05-11T21:59:57.000Z",
+          "wordCount": 183,
+          "title": "A basic command line plotting interface for tabular data"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/na40qa/console_list_gui_challenge/",
+          "author": null,
+          "description": "https://shiraeeshi.github.io/editable-list/article.html\n &#x200B;\n https://i.redd.it/sll1t7f3cjy61.gif\n Here is a question: which options do we have for designing (an architecture of) an application which shows a list of strings in console gui, allows to edit strings in an edit field that appears next to a list, and shows logs, and which design would you choose?\n Let&#39;s play a game: there are some variations of console list application architecture listed in this article. If you come up with some new arc…",
+          "link": "https://www.reddit.com/r/haskell/comments/na40qa/console_list_gui_challenge/",
+          "publishedOn": "2021-05-11T18:33:18.000Z",
+          "wordCount": 474,
+          "title": "Console List GUI Challenge"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/na1n08/video_tutorial_using_proofs_to_make_functions/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/Kyraimion  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/na1n08/video_tutorial_using_proofs_to_make_functions/",
+          "publishedOn": "2021-05-11T16:55:00.000Z",
+          "wordCount": 344,
+          "title": "Video Tutorial: \"Using proofs to make functions faster over length-indexed vectors\" (Richard Eisenberg)"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/n9uwj7/senior_developer_position_at_typeable/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/dredozubov  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/n9uwj7/senior_developer_position_at_typeable/",
+          "publishedOn": "2021-05-11T11:32:11.000Z",
+          "wordCount": 188,
+          "title": "Senior Developer position at Typeable"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/n9ufa2/simplifyingstandardizing_haskell_deriving_story/",
+          "author": null,
+          "description": "I just came across this blog post with quite some points I agree with. As a haskell beginner, the entire deriving story has been quite complicated for me to grok. Little things like FromJSON and ToJSON instances on a record feel not so straight. forward to understand. Also, with so many. deriving extensions, generics is still something I don&#39;t yet understand. \n I&#39;m curious to hear what people think about the points raised in this article:\n https://www.parsonsmatt.org/2020/11/10/simplifying_deriving.…",
+          "link": "https://www.reddit.com/r/haskell/comments/n9ufa2/simplifyingstandardizing_haskell_deriving_story/",
+          "publishedOn": "2021-05-11T11:03:24.000Z",
+          "wordCount": 231,
+          "title": "Simplifying/Standardizing haskell deriving story"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/n9tkis/ann_a_new_haskell_crypto_lib_zbotan_011/",
+          "author": null,
+          "description": "Dear Haskellers:\n After hundreds of days working. I&#39;m happy to announce that the very first version of Z-Botan is published, It&#39;s a new crypto lib built around the versatile botan C++ crypto lib. Currently, all crypto stuff exported by Botan FFI is implemented, i.e.:\n  \nRandom number generators.\n Block Cipher and symmetric cipher.\n Hash.\n MAC.\n Key derivation functions.\n Password hash.\n Constant time multiple precision integers.\n Public key creation, import and export.\n Public key encryption/decrypt…",
+          "link": "https://www.reddit.com/r/haskell/comments/n9tkis/ann_a_new_haskell_crypto_lib_zbotan_011/",
+          "publishedOn": "2021-05-11T10:06:19.000Z",
+          "wordCount": 309,
+          "title": "[Ann] A new Haskell crypto lib: Z-Botan 0.1.1"
+        },
         {
           "id": "https://www.reddit.com/r/haskell/comments/n9d4wr/haskell_on_microsoft_azure/",
           "author": null,
@@ -295,6 +394,96 @@
       "siteUrl": "https://www.reddit.com/r/ScientificNutrition/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/naavle/what_aspect_of_processed_foods_makes_them/",
+          "author": null,
+          "description": "I&#39;m trying to improve my diet, and often hear the admonition to stay away from &quot;processed foods,&quot; but is there a specific chemical they&#39;re treated with that makes them unhealthy? How does that affect the body? I get the sense it would be easier to avoid a specific chemical, vs. avoiding the vague term &quot;processed foods&quot; as a whole.\n  &#32; submitted by &#32;  /u/wheelsfeels  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/naavle/what_aspect_of_processed_foods_makes_them/",
+          "publishedOn": "2021-05-11T23:29:39.000Z",
+          "wordCount": 543,
+          "title": "What aspect of \"processed foods\" makes them unhealthy?"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/naa198/association_between_age_at_diabetes_onset_and/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/dreiter  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/naa198/association_between_age_at_diabetes_onset_and/",
+          "publishedOn": "2021-05-11T22:49:10.000Z",
+          "wordCount": 604,
+          "title": "Association Between Age at Diabetes Onset and Subsequent Risk of Dementia [Amidei et al., 2021]"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/na9q5y/effect_of_8day_fasting_on_leukocytes_expression/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/dreiter  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/na9q5y/effect_of_8day_fasting_on_leukocytes_expression/",
+          "publishedOn": "2021-05-11T22:34:38.000Z",
+          "wordCount": 465,
+          "title": "Effect of 8-Day Fasting on Leukocytes Expression of Genes and Proteins Involved in Iron Metabolism in Healthy Men [Borkowska et al., 2021]"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/na9547/a_positive_effect_of_egg_consumption_on_macular/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/sridqc  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/na9547/a_positive_effect_of_egg_consumption_on_macular/",
+          "publishedOn": "2021-05-11T22:07:41.000Z",
+          "wordCount": 777,
+          "title": "A positive effect of egg consumption on macular pigment and healthy vision: a systematic review and meta‐analysis of clinical trials [2021]"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/na49h3/editorial_personalized_nutrition_2021/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/adamaero  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/na49h3/editorial_personalized_nutrition_2021/",
+          "publishedOn": "2021-05-11T18:43:33.000Z",
+          "wordCount": 200,
+          "title": "Editorial: Personalized Nutrition (2021)"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/na37e7/the_evolution_and_changing_ecology_of_the_african/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/dreiter  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/na37e7/the_evolution_and_changing_ecology_of_the_african/",
+          "publishedOn": "2021-05-11T17:59:59.000Z",
+          "wordCount": 803,
+          "title": "The evolution and changing ecology of the African hominid oral microbiome [Yates et al., 2021]"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/n9z7dh/statin_treatment_and_muscle_symptoms_series_of/",
+          "author": null,
+          "description": "“ Abstract Objective To establish the effect of statins on muscle symptoms in people who had previously reported muscle symptoms when taking statins.\n Design Series of randomised, placebo controlled n-of-1 trials.\n Setting Primary care across 50 sites in the United Kingdom, December 2016 to April 2018.\n Participants 200 participants who had recently stopped or were considering stopping treatment with statins because of muscle symptoms.\n Interventions Participants were randomised to a sequence of six double …",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n9z7dh/statin_treatment_and_muscle_symptoms_series_of/",
+          "publishedOn": "2021-05-11T15:09:28.000Z",
+          "wordCount": 607,
+          "title": "Statin treatment and muscle symptoms: series of randomised, placebo controlled n-of-1 trials"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/n9z2t9/fastinginduced_transcription_factors_repress/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/ElectronicAd6233  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n9z2t9/fastinginduced_transcription_factors_repress/",
+          "publishedOn": "2021-05-11T15:04:13.000Z",
+          "wordCount": 798,
+          "title": "Fasting-Induced Transcription Factors Repress Vitamin D Bioactivation, a Mechanism for Vitamin D Deficiency in Diabetes"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/n9xm4q/what_is_known_about_the_bioavailability_of/",
+          "author": null,
+          "description": "Specifically an enriched cereal such as this:\n https://www.walmart.com/ip/Great-Value-Bran-Flakes-Cereal-15-6-oz/49303124\n It covers a lot of the bases as far as micronutrients go, and seems like a really convenient option paired with a protein shake or something, but I know that bioavailability is a problem with many multivitamins and was wondering if that&#39;s the case with enriched foods as well.\n  &#32; submitted by &#32;  /u/No_Thank_You_Im_Fine  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n9xm4q/what_is_known_about_the_bioavailability_of/",
+          "publishedOn": "2021-05-11T13:58:38.000Z",
+          "wordCount": 508,
+          "title": "What is known about the bioavailability of micronutrients in enriched foods?"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/n9rf0y/role_of_diet_and_food_intake_in_agerelated/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/greyuniwave  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/n9rf0y/role_of_diet_and_food_intake_in_agerelated/",
+          "publishedOn": "2021-05-11T07:31:27.000Z",
+          "wordCount": 772,
+          "title": "Role of diet and food intake in age-related macular degeneration: a systematic review"
+        },
+        {
           "id": "https://www.reddit.com/r/ScientificNutrition/comments/n9g8rv/no_difference_between_the_effects_of/",
           "author": null,
           "description": "journals.humankinetics.com/view/journals/ijsnem/28/6/article-p674.xml\n  \nNine studies involving 266 participants suitable for inclusion in the meta-analysis were identified. Five studies compared whey with soy protein, and four studies compared soy protein with other proteins (beef, milk, or dairy protein).\n  \n^ 9 quantitative studies\n 6 qualitative studies\n Materials and Methods\n Criteria and Search Strategy\n Data Extraction\n Data Analysis\n Bias and Heterogeneity\n Results\n Whey Versus Soy Protein\n Other Pr…",
@@ -338,6 +527,33 @@
       "siteUrl": "https://www.reddit.com/r/redscarepod/top/?sort=top&t=day&limit=3",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redscarepod/comments/n9zsa3/thank_you_lakeith/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/Sumidiotdude  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/n9zsa3/thank_you_lakeith/",
+          "publishedOn": "2021-05-11T15:34:56.000Z",
+          "wordCount": 477,
+          "title": "thank you Lakeith 🙏"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/n9x0l1/the_requirements_on_job_applications_are_becoming/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/Subeckk  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/n9x0l1/the_requirements_on_job_applications_are_becoming/",
+          "publishedOn": "2021-05-11T13:28:33.000Z",
+          "wordCount": 545,
+          "title": "The requirements on job applications are becoming more and more impossible"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/n9ma38/marianne_had_the_best_take_staunch_followers_of/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/blackberrylacan  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/n9ma38/marianne_had_the_best_take_staunch_followers_of/",
+          "publishedOn": "2021-05-11T02:04:01.000Z",
+          "wordCount": 493,
+          "title": "Marianne had the best take. Staunch followers of intersectional feminism, critical race theory, queer theory, and basically everything else that Foucault spawned only know projection."
+        },
+        {
           "id": "https://www.reddit.com/r/redscarepod/comments/n953qp/no_hes_not_perfect_yeah_he_makes_mistakes_yeah_he/",
           "author": null,
           "description": "&#32; submitted by &#32;  /u/Whole-way-there  \n [link] &#32; [comments]",
@@ -371,6 +587,123 @@
       "feedUrl": "https://rsshub.app/github/trending/daily/haskell",
       "siteUrl": "https://github.com/trending/haskell?since=daily",
       "articles": [
+        {
+          "id": "https://github.com/obsidiansystems/nix-thunk",
+          "author": "obsidiansystems",
+          "description": "Language: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/obsidiansystems/nix-thunk",
+          "publishedOn": "2021-05-12T00:47:53.910Z",
+          "wordCount": 854,
+          "title": "obsidiansystems /\n\n      nix-thunk"
+        },
+        {
+          "id": "https://github.com/reach-sh/reach-lang",
+          "author": "reach-sh",
+          "description": "Reach: The Safest and Easiest DApp Programming Language\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/reach-sh/reach-lang",
+          "publishedOn": "2021-05-12T00:47:53.876Z",
+          "wordCount": 670,
+          "title": "reach-sh /\n\n      reach-lang"
+        },
+        {
+          "id": "https://github.com/digital-asset/contingent-claims",
+          "author": "digital-asset",
+          "description": "Language: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/digital-asset/contingent-claims",
+          "publishedOn": "2021-05-12T00:47:53.833Z",
+          "wordCount": 641,
+          "title": "digital-asset /\n\n      contingent-claims"
+        },
+        {
+          "id": "https://github.com/obsidiansystems/obelisk-oauth",
+          "author": "obsidiansystems",
+          "description": "Language: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/obsidiansystems/obelisk-oauth",
+          "publishedOn": "2021-05-12T00:47:53.802Z",
+          "wordCount": 935,
+          "title": "obsidiansystems /\n\n      obelisk-oauth"
+        },
+        {
+          "id": "https://github.com/digital-asset/lib-finance",
+          "author": "digital-asset",
+          "description": "Language: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/digital-asset/lib-finance",
+          "publishedOn": "2021-05-12T00:47:53.771Z",
+          "wordCount": 1356,
+          "title": "digital-asset /\n\n      lib-finance"
+        },
+        {
+          "id": "https://github.com/flipstone/kioku",
+          "author": "flipstone",
+          "description": "A simple db for ingesting and indexing static datasets on disk\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/flipstone/kioku",
+          "publishedOn": "2021-05-12T00:47:53.742Z",
+          "wordCount": 442,
+          "title": "flipstone /\n\n      kioku"
+        },
+        {
+          "id": "https://github.com/kowainik/learn4haskell",
+          "author": "kowainik",
+          "description": "👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/kowainik/learn4haskell",
+          "publishedOn": "2021-05-12T00:47:53.723Z",
+          "wordCount": 2180,
+          "title": "kowainik /\n\n      learn4haskell"
+        },
+        {
+          "id": "https://github.com/digital-asset/ex-healthcare-claims-processing",
+          "author": "digital-asset",
+          "description": "Reference DAML application demonstrating a healthcare use case.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/digital-asset/ex-healthcare-claims-processing",
+          "publishedOn": "2021-05-12T00:47:53.685Z",
+          "wordCount": 1889,
+          "title": "digital-asset /\n\n      ex-healthcare-claims-processing"
+        },
+        {
+          "id": "https://github.com/elm/compiler",
+          "author": "elm",
+          "description": "Compiler for Elm, a functional language for reliable webapps.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/elm/compiler",
+          "publishedOn": "2021-05-12T00:47:53.644Z",
+          "wordCount": 695,
+          "title": "elm /\n\n      compiler"
+        },
+        {
+          "id": "https://github.com/crytic/echidna",
+          "author": "crytic",
+          "description": "Ethereum smart contract fuzzer\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/crytic/echidna",
+          "publishedOn": "2021-05-12T00:47:53.611Z",
+          "wordCount": 2298,
+          "title": "crytic /\n\n      echidna"
+        },
+        {
+          "id": "https://github.com/koka-lang/koka",
+          "author": "koka-lang",
+          "description": "Koka language compiler and interpreter\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/koka-lang/koka",
+          "publishedOn": "2021-05-12T00:47:53.557Z",
+          "wordCount": 3106,
+          "title": "koka-lang /\n\n      koka"
+        },
+        {
+          "id": "https://github.com/srid/neuron",
+          "author": "srid",
+          "description": "Future-proof note-taking and publishing based on Zettelkasten\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/srid/neuron",
+          "publishedOn": "2021-05-12T00:47:53.513Z",
+          "wordCount": 786,
+          "title": "srid /\n\n      neuron"
+        },
+        {
+          "id": "https://github.com/flipstone/redcard",
+          "author": "flipstone",
+          "description": "Yet another applicative validator for haskell\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/flipstone/redcard",
+          "publishedOn": "2021-05-12T00:47:53.473Z",
+          "wordCount": 446,
+          "title": "flipstone /\n\n      redcard"
+        },
         {
           "id": "https://github.com/matterhorn-chat/mattermost-api",
           "author": "matterhorn-chat",
@@ -603,6 +936,186 @@
       "feedUrl": "https://hnrss.org/frontpage",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=27125200",
+          "author": "tpfour",
+          "description": "Article URL: https://github.com/pallets/flask/pull/4007\nComments URL: https://news.ycombinator.com/item?id=27125200\nPoints: 16\n# Comments: 1",
+          "link": "https://github.com/pallets/flask/pull/4007",
+          "publishedOn": "2021-05-12T00:13:30.000Z",
+          "wordCount": 754,
+          "title": "Flask 2.0.0 has been merged into master"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27124671",
+          "author": "walterbell",
+          "description": "Article URL: https://www.airgradient.com/diy/\nComments URL: https://news.ycombinator.com/item?id=27124671\nPoints: 55\n# Comments: 8",
+          "link": "https://www.airgradient.com/diy/",
+          "publishedOn": "2021-05-11T22:57:02.000Z",
+          "wordCount": 1489,
+          "title": "AirGradient: DIY Air Quality Monitoring with Open-Source Hardware & Firmware"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27123553",
+          "author": "megasquid",
+          "description": "Hi HN. Like many of you I am working remotely due to COVID.\nI want to continue working remotely, but my job wants me in the office next month.\nHow would you negotiate this with your employer?\nHave any of you already had this conversation? How did it go?\nComments URL: https://news.ycombinator.com/item?id=27123553\nPoints: 101\n# Comments: 83",
+          "link": "https://news.ycombinator.com/item?id=27123553",
+          "publishedOn": "2021-05-11T21:09:06.000Z",
+          "wordCount": 5844,
+          "title": "Ask HN: How to negotiate continuing to work remotely?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27123464",
+          "author": "amarkumar81",
+          "description": "Article URL: https://www.workatastartup.com/jobs/43915\nComments URL: https://news.ycombinator.com/item?id=27123464\nPoints: 1\n# Comments: 0",
+          "link": "https://www.workatastartup.com/jobs/43915",
+          "publishedOn": "2021-05-11T21:00:58.000Z",
+          "wordCount": 925,
+          "title": "KaiPod Learning (YC S21) Is Hiring"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27123410",
+          "author": "dgellow",
+          "description": "Article URL: https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/\nComments URL: https://news.ycombinator.com/item?id=27123410\nPoints: 126\n# Comments: 37",
+          "link": "https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/",
+          "publishedOn": "2021-05-11T20:56:08.000Z",
+          "wordCount": 2147,
+          "title": "The Arduino IDE 2.0 beta"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27123389",
+          "author": "srpeck",
+          "description": "Article URL: https://www.justuseemail.com/\nComments URL: https://news.ycombinator.com/item?id=27123389\nPoints: 139\n# Comments: 97",
+          "link": "https://www.justuseemail.com/",
+          "publishedOn": "2021-05-11T20:54:24.000Z",
+          "wordCount": 329,
+          "title": "Just Use Email – How to Use Email for Everything"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27123077",
+          "author": "thg",
+          "description": "Article URL: https://www.techspot.com/news/89639-facebook-ignore-emergency-data-collection-ban-issued-germany.html\nComments URL: https://news.ycombinator.com/item?id=27123077\nPoints: 117\n# Comments: 30",
+          "link": "https://www.techspot.com/news/89639-facebook-ignore-emergency-data-collection-ban-issued-germany.html",
+          "publishedOn": "2021-05-11T20:27:38.000Z",
+          "wordCount": 943,
+          "title": "Facebook will ignore data collection ban issued in Germany over WhatApp rules"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27121918",
+          "author": "sylvainkalache",
+          "description": "Article URL: https://www.fragattacks.com/\nComments URL: https://news.ycombinator.com/item?id=27121918\nPoints: 370\n# Comments: 114",
+          "link": "https://www.fragattacks.com/",
+          "publishedOn": "2021-05-11T18:46:24.000Z",
+          "wordCount": 6526,
+          "title": "FragAttacks: new security vulnerabilities that affect wi-fi devices"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27121586",
+          "author": "tareqak",
+          "description": "Article URL: https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK\nComments URL: https://news.ycombinator.com/item?id=27121586\nPoints: 335\n# Comments: 244",
+          "link": "https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK",
+          "publishedOn": "2021-05-11T18:23:11.000Z",
+          "wordCount": 392,
+          "title": "Tech giants join call for funding U.S. chip production"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27121461",
+          "author": "miles",
+          "description": "Article URL: https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/\nComments URL: https://news.ycombinator.com/item?id=27121461\nPoints: 394\n# Comments: 272",
+          "link": "https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/",
+          "publishedOn": "2021-05-11T18:12:59.000Z",
+          "wordCount": 1849,
+          "title": "I mailed an AirTag and tracked its progress"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27121332",
+          "author": "giuliomagnifico",
+          "description": "Article URL: https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns\nComments URL: https://news.ycombinator.com/item?id=27121332\nPoints: 290\n# Comments: 29",
+          "link": "https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns",
+          "publishedOn": "2021-05-11T18:00:59.000Z",
+          "wordCount": 781,
+          "title": "Germany bans Facebook from handling WhatsApp data over privacy concerns"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27120677",
+          "author": "kaboro",
+          "description": "Article URL: https://stratechery.com/2021/cloudflare-on-the-edge/\nComments URL: https://news.ycombinator.com/item?id=27120677\nPoints: 196\n# Comments: 75",
+          "link": "https://stratechery.com/2021/cloudflare-on-the-edge/",
+          "publishedOn": "2021-05-11T17:14:37.000Z",
+          "wordCount": 3696,
+          "title": "Cloudflare on the edge"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27120557",
+          "author": "fortran77",
+          "description": "Article URL: https://www.thecut.com/2021/05/quitting-your-job-as-self-care.html\nComments URL: https://news.ycombinator.com/item?id=27120557\nPoints: 94\n# Comments: 62",
+          "link": "https://www.thecut.com/2021/05/quitting-your-job-as-self-care.html",
+          "publishedOn": "2021-05-11T17:05:38.000Z",
+          "wordCount": 2417,
+          "title": "For those who can afford it, quitting has become the ultimate form of self-care"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27120460",
+          "author": "crazypython",
+          "description": "Article URL: http://scp-wiki.wikidot.com/scp-2521\nComments URL: https://news.ycombinator.com/item?id=27120460\nPoints: 365\n# Comments: 149",
+          "link": "http://scp-wiki.wikidot.com/scp-2521",
+          "publishedOn": "2021-05-11T16:57:55.000Z",
+          "wordCount": 919,
+          "title": "●●|●●●●●|●●|●"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27120354",
+          "author": "airstrike",
+          "description": "Article URL: https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/\nComments URL: https://news.ycombinator.com/item?id=27120354\nPoints: 81\n# Comments: 71",
+          "link": "https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/",
+          "publishedOn": "2021-05-11T16:47:53.000Z",
+          "wordCount": 2681,
+          "title": "An experiment caught a quantum system in the middle of a jump (2019)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27120231",
+          "author": "ian-whitestone",
+          "description": "Article URL: https://ianwhitestone.work/good-ds-bad-ds/\nComments URL: https://news.ycombinator.com/item?id=27120231\nPoints: 120\n# Comments: 76",
+          "link": "https://ianwhitestone.work/good-ds-bad-ds/",
+          "publishedOn": "2021-05-11T16:36:10.000Z",
+          "wordCount": 912,
+          "title": "Good data scientist, bad data scientist"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27119221",
+          "author": "muramira",
+          "description": "Article URL: https://blog.vamp.io/vamp-is-joining-circleci/\nComments URL: https://news.ycombinator.com/item?id=27119221\nPoints: 64\n# Comments: 7",
+          "link": "https://blog.vamp.io/vamp-is-joining-circleci/",
+          "publishedOn": "2021-05-11T15:24:59.000Z",
+          "wordCount": 1038,
+          "title": "Vamp is joining CircleCI"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27118794",
+          "author": "alymurray",
+          "description": "Hi everyone! My name’s Aly, and I’m the founder of UPchieve (https://upchieve.org). I’m here with UPchieve’s CTO, Dave (thedevelopnik). We’re an edtech nonprofit that provides free, 24/7 online tutoring to low-income high school students.\nThe idea for UPchieve was based on my own personal experience as a low-income student. I was raised by a single mom who was an immigrant to the US and often couldn’t help me with schoolwork and applying to college. So I went to a community college, and from there it took m…",
+          "link": "https://news.ycombinator.com/item?id=27118794",
+          "publishedOn": "2021-05-11T14:53:40.000Z",
+          "wordCount": 5630,
+          "title": "Launch HN: UPchieve (YC W21 Nonprofit) – Live tutoring for low-income students"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27118541",
+          "author": "vquemener",
+          "description": "Article URL: https://eng.uber.com/pprof-go-profiler/\nComments URL: https://news.ycombinator.com/item?id=27118541\nPoints: 206\n# Comments: 33",
+          "link": "https://eng.uber.com/pprof-go-profiler/",
+          "publishedOn": "2021-05-11T14:32:06.000Z",
+          "wordCount": 3572,
+          "title": "Pprof++: A Go Profiler with Hardware Performance Monitoring"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27118117",
+          "author": "bluestreak",
+          "description": "Article URL: https://questdb.slab.com/public/posts/p4aktor4\nComments URL: https://news.ycombinator.com/item?id=27118117\nPoints: 62\n# Comments: 7",
+          "link": "https://questdb.slab.com/public/posts/p4aktor4",
+          "publishedOn": "2021-05-11T13:51:28.000Z",
+          "wordCount": 3,
+          "title": "Building a new vector based storage model"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=27111512",
           "author": "johntfella",

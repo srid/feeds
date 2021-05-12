@@ -2,10 +2,777 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://srid.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-11T00:46:11.545Z</updated>
+    <updated>2021-05-12T00:47:53.916Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://srid.github.io/feeds/index.html"/>
     <link rel="self" href="https://srid.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[obsidiansystems /
+
+      nix-thunk]]></title>
+        <id>https://github.com/obsidiansystems/nix-thunk</id>
+        <link href="https://github.com/obsidiansystems/nix-thunk"/>
+        <updated>2021-05-12T00:47:53.910Z</updated>
+        <summary type="html"><![CDATA[Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>obsidiansystems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[reach-sh /
+
+      reach-lang]]></title>
+        <id>https://github.com/reach-sh/reach-lang</id>
+        <link href="https://github.com/reach-sh/reach-lang"/>
+        <updated>2021-05-12T00:47:53.876Z</updated>
+        <summary type="html"><![CDATA[Reach: The Safest and Easiest DApp Programming Language
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>reach-sh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[digital-asset /
+
+      contingent-claims]]></title>
+        <id>https://github.com/digital-asset/contingent-claims</id>
+        <link href="https://github.com/digital-asset/contingent-claims"/>
+        <updated>2021-05-12T00:47:53.833Z</updated>
+        <summary type="html"><![CDATA[Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>digital-asset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[obsidiansystems /
+
+      obelisk-oauth]]></title>
+        <id>https://github.com/obsidiansystems/obelisk-oauth</id>
+        <link href="https://github.com/obsidiansystems/obelisk-oauth"/>
+        <updated>2021-05-12T00:47:53.802Z</updated>
+        <summary type="html"><![CDATA[Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>obsidiansystems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[digital-asset /
+
+      lib-finance]]></title>
+        <id>https://github.com/digital-asset/lib-finance</id>
+        <link href="https://github.com/digital-asset/lib-finance"/>
+        <updated>2021-05-12T00:47:53.771Z</updated>
+        <summary type="html"><![CDATA[Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>digital-asset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[flipstone /
+
+      kioku]]></title>
+        <id>https://github.com/flipstone/kioku</id>
+        <link href="https://github.com/flipstone/kioku"/>
+        <updated>2021-05-12T00:47:53.742Z</updated>
+        <summary type="html"><![CDATA[A simple db for ingesting and indexing static datasets on disk
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>flipstone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kowainik /
+
+      learn4haskell]]></title>
+        <id>https://github.com/kowainik/learn4haskell</id>
+        <link href="https://github.com/kowainik/learn4haskell"/>
+        <updated>2021-05-12T00:47:53.723Z</updated>
+        <summary type="html"><![CDATA[👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>kowainik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[digital-asset /
+
+      ex-healthcare-claims-processing]]></title>
+        <id>https://github.com/digital-asset/ex-healthcare-claims-processing</id>
+        <link href="https://github.com/digital-asset/ex-healthcare-claims-processing"/>
+        <updated>2021-05-12T00:47:53.685Z</updated>
+        <summary type="html"><![CDATA[Reference DAML application demonstrating a healthcare use case.
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>digital-asset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[elm /
+
+      compiler]]></title>
+        <id>https://github.com/elm/compiler</id>
+        <link href="https://github.com/elm/compiler"/>
+        <updated>2021-05-12T00:47:53.644Z</updated>
+        <summary type="html"><![CDATA[Compiler for Elm, a functional language for reliable webapps.
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>elm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[crytic /
+
+      echidna]]></title>
+        <id>https://github.com/crytic/echidna</id>
+        <link href="https://github.com/crytic/echidna"/>
+        <updated>2021-05-12T00:47:53.611Z</updated>
+        <summary type="html"><![CDATA[Ethereum smart contract fuzzer
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>crytic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[koka-lang /
+
+      koka]]></title>
+        <id>https://github.com/koka-lang/koka</id>
+        <link href="https://github.com/koka-lang/koka"/>
+        <updated>2021-05-12T00:47:53.557Z</updated>
+        <summary type="html"><![CDATA[Koka language compiler and interpreter
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>koka-lang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[srid /
+
+      neuron]]></title>
+        <id>https://github.com/srid/neuron</id>
+        <link href="https://github.com/srid/neuron"/>
+        <updated>2021-05-12T00:47:53.513Z</updated>
+        <summary type="html"><![CDATA[Future-proof note-taking and publishing based on Zettelkasten
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>srid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[flipstone /
+
+      redcard]]></title>
+        <id>https://github.com/flipstone/redcard</id>
+        <link href="https://github.com/flipstone/redcard"/>
+        <updated>2021-05-12T00:47:53.473Z</updated>
+        <summary type="html"><![CDATA[Yet another applicative validator for haskell
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>flipstone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flask 2.0.0 has been merged into master]]></title>
+        <id>https://news.ycombinator.com/item?id=27125200</id>
+        <link href="https://github.com/pallets/flask/pull/4007"/>
+        <updated>2021-05-12T00:13:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/pallets/flask/pull/4007
+Comments URL: https://news.ycombinator.com/item?id=27125200
+Points: 16
+# Comments: 1]]></summary>
+        <author>
+            <name>tpfour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What aspect of "processed foods" makes them unhealthy?]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/naavle/what_aspect_of_processed_foods_makes_them/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/naavle/what_aspect_of_processed_foods_makes_them/"/>
+        <updated>2021-05-11T23:29:39.000Z</updated>
+        <summary type="html"><![CDATA[I&#39;m trying to improve my diet, and often hear the admonition to stay away from &quot;processed foods,&quot; but is there a specific chemical they&#39;re treated with that makes them unhealthy? How does that affect the body? I get the sense it would be easier to avoid a specific chemical, vs. avoiding the vague term &quot;processed foods&quot; as a whole.
+  &#32; submitted by &#32;  /u/wheelsfeels  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirGradient: DIY Air Quality Monitoring with Open-Source Hardware & Firmware]]></title>
+        <id>https://news.ycombinator.com/item?id=27124671</id>
+        <link href="https://www.airgradient.com/diy/"/>
+        <updated>2021-05-11T22:57:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.airgradient.com/diy/
+Comments URL: https://news.ycombinator.com/item?id=27124671
+Points: 55
+# Comments: 8]]></summary>
+        <author>
+            <name>walterbell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Association Between Age at Diabetes Onset and Subsequent Risk of Dementia [Amidei et al., 2021]]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/naa198/association_between_age_at_diabetes_onset_and/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/naa198/association_between_age_at_diabetes_onset_and/"/>
+        <updated>2021-05-11T22:49:10.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/dreiter  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effect of 8-Day Fasting on Leukocytes Expression of Genes and Proteins Involved in Iron Metabolism in Healthy Men [Borkowska et al., 2021]]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/na9q5y/effect_of_8day_fasting_on_leukocytes_expression/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/na9q5y/effect_of_8day_fasting_on_leukocytes_expression/"/>
+        <updated>2021-05-11T22:34:38.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/dreiter  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A positive effect of egg consumption on macular pigment and healthy vision: a systematic review and meta‐analysis of clinical trials [2021]]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/na9547/a_positive_effect_of_egg_consumption_on_macular/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/na9547/a_positive_effect_of_egg_consumption_on_macular/"/>
+        <updated>2021-05-11T22:07:41.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/sridqc  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Pie Timer Re-Revisited]]></title>
+        <id>https://css-tricks.com/?p=340359</id>
+        <link href="https://css-tricks.com/css-pie-timer-re-revisited/"/>
+        <updated>2021-05-11T22:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function&#8230;
+The post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A basic command line plotting interface for tabular data]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/na8ykz/a_basic_command_line_plotting_interface_for/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/na8ykz/a_basic_command_line_plotting_interface_for/"/>
+        <updated>2021-05-11T21:59:57.000Z</updated>
+        <summary type="html"><![CDATA[I could not find any quick plotting program to just view tabular data really fast piped in from stdin. So I whipped up a little command line program to do basic plotting with `hvega` and thought it might be useful for people in data science. Check it out here: https://github.com/GregorySchwartz/ploterific.
+  &#32; submitted by &#32;  /u/GregorySchwartz  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: How to negotiate continuing to work remotely?]]></title>
+        <id>https://news.ycombinator.com/item?id=27123553</id>
+        <link href="https://news.ycombinator.com/item?id=27123553"/>
+        <updated>2021-05-11T21:09:06.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN. Like many of you I am working remotely due to COVID.
+I want to continue working remotely, but my job wants me in the office next month.
+How would you negotiate this with your employer?
+Have any of you already had this conversation? How did it go?
+Comments URL: https://news.ycombinator.com/item?id=27123553
+Points: 101
+# Comments: 83]]></summary>
+        <author>
+            <name>megasquid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I could build this during the weekend]]></title>
+        <id>https://css-tricks.com/?p=340186</id>
+        <link href="https://world.hey.com/joaoqalves/i-could-build-this-during-the-weekend-aa093c5e"/>
+        <updated>2021-05-11T21:04:32.000Z</updated>
+        <summary type="html"><![CDATA[How many times have you heard that (or even uttered it under your own breath)? I know I&#8217;ve heard it in conversations. I also know I&#8217;ve wondered the same thing about a product or two — hey, the idea here &#8230;
+The post I could build this during the weekend appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KaiPod Learning (YC S21) Is Hiring]]></title>
+        <id>https://news.ycombinator.com/item?id=27123464</id>
+        <link href="https://www.workatastartup.com/jobs/43915"/>
+        <updated>2021-05-11T21:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/jobs/43915
+Comments URL: https://news.ycombinator.com/item?id=27123464
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>amarkumar81</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Arduino IDE 2.0 beta]]></title>
+        <id>https://news.ycombinator.com/item?id=27123410</id>
+        <link href="https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/"/>
+        <updated>2021-05-11T20:56:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/
+Comments URL: https://news.ycombinator.com/item?id=27123410
+Points: 126
+# Comments: 37]]></summary>
+        <author>
+            <name>dgellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just Use Email – How to Use Email for Everything]]></title>
+        <id>https://news.ycombinator.com/item?id=27123389</id>
+        <link href="https://www.justuseemail.com/"/>
+        <updated>2021-05-11T20:54:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.justuseemail.com/
+Comments URL: https://news.ycombinator.com/item?id=27123389
+Points: 139
+# Comments: 97]]></summary>
+        <author>
+            <name>srpeck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook will ignore data collection ban issued in Germany over WhatApp rules]]></title>
+        <id>https://news.ycombinator.com/item?id=27123077</id>
+        <link href="https://www.techspot.com/news/89639-facebook-ignore-emergency-data-collection-ban-issued-germany.html"/>
+        <updated>2021-05-11T20:27:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.techspot.com/news/89639-facebook-ignore-emergency-data-collection-ban-issued-germany.html
+Comments URL: https://news.ycombinator.com/item?id=27123077
+Points: 117
+# Comments: 30]]></summary>
+        <author>
+            <name>thg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FragAttacks: new security vulnerabilities that affect wi-fi devices]]></title>
+        <id>https://news.ycombinator.com/item?id=27121918</id>
+        <link href="https://www.fragattacks.com/"/>
+        <updated>2021-05-11T18:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.fragattacks.com/
+Comments URL: https://news.ycombinator.com/item?id=27121918
+Points: 370
+# Comments: 114]]></summary>
+        <author>
+            <name>sylvainkalache</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Editorial: Personalized Nutrition (2021)]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/na49h3/editorial_personalized_nutrition_2021/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/na49h3/editorial_personalized_nutrition_2021/"/>
+        <updated>2021-05-11T18:43:33.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/adamaero  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Console List GUI Challenge]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/na40qa/console_list_gui_challenge/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/na40qa/console_list_gui_challenge/"/>
+        <updated>2021-05-11T18:33:18.000Z</updated>
+        <summary type="html"><![CDATA[https://shiraeeshi.github.io/editable-list/article.html
+ &#x200B;
+ https://i.redd.it/sll1t7f3cjy61.gif
+ Here is a question: which options do we have for designing (an architecture of) an application which shows a list of strings in console gui, allows to edit strings in an edit field that appears next to a list, and shows logs, and which design would you choose?
+ Let&#39;s play a game: there are some variations of console list application architecture listed in this article. If you come up with some new arc…]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech giants join call for funding U.S. chip production]]></title>
+        <id>https://news.ycombinator.com/item?id=27121586</id>
+        <link href="https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK"/>
+        <updated>2021-05-11T18:23:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK
+Comments URL: https://news.ycombinator.com/item?id=27121586
+Points: 335
+# Comments: 244]]></summary>
+        <author>
+            <name>tareqak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I mailed an AirTag and tracked its progress]]></title>
+        <id>https://news.ycombinator.com/item?id=27121461</id>
+        <link href="https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/"/>
+        <updated>2021-05-11T18:12:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/
+Comments URL: https://news.ycombinator.com/item?id=27121461
+Points: 394
+# Comments: 272]]></summary>
+        <author>
+            <name>miles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Germany bans Facebook from handling WhatsApp data over privacy concerns]]></title>
+        <id>https://news.ycombinator.com/item?id=27121332</id>
+        <link href="https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns"/>
+        <updated>2021-05-11T18:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns
+Comments URL: https://news.ycombinator.com/item?id=27121332
+Points: 290
+# Comments: 29]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The evolution and changing ecology of the African hominid oral microbiome [Yates et al., 2021]]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/na37e7/the_evolution_and_changing_ecology_of_the_african/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/na37e7/the_evolution_and_changing_ecology_of_the_african/"/>
+        <updated>2021-05-11T17:59:59.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/dreiter  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare on the edge]]></title>
+        <id>https://news.ycombinator.com/item?id=27120677</id>
+        <link href="https://stratechery.com/2021/cloudflare-on-the-edge/"/>
+        <updated>2021-05-11T17:14:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://stratechery.com/2021/cloudflare-on-the-edge/
+Comments URL: https://news.ycombinator.com/item?id=27120677
+Points: 196
+# Comments: 75]]></summary>
+        <author>
+            <name>kaboro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For those who can afford it, quitting has become the ultimate form of self-care]]></title>
+        <id>https://news.ycombinator.com/item?id=27120557</id>
+        <link href="https://www.thecut.com/2021/05/quitting-your-job-as-self-care.html"/>
+        <updated>2021-05-11T17:05:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.thecut.com/2021/05/quitting-your-job-as-self-care.html
+Comments URL: https://news.ycombinator.com/item?id=27120557
+Points: 94
+# Comments: 62]]></summary>
+        <author>
+            <name>fortran77</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[●●|●●●●●|●●|●]]></title>
+        <id>https://news.ycombinator.com/item?id=27120460</id>
+        <link href="http://scp-wiki.wikidot.com/scp-2521"/>
+        <updated>2021-05-11T16:57:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://scp-wiki.wikidot.com/scp-2521
+Comments URL: https://news.ycombinator.com/item?id=27120460
+Points: 365
+# Comments: 149]]></summary>
+        <author>
+            <name>crazypython</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video Tutorial: "Using proofs to make functions faster over length-indexed vectors" (Richard Eisenberg)]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/na1n08/video_tutorial_using_proofs_to_make_functions/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/na1n08/video_tutorial_using_proofs_to_make_functions/"/>
+        <updated>2021-05-11T16:55:00.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/Kyraimion  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An experiment caught a quantum system in the middle of a jump (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27120354</id>
+        <link href="https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/"/>
+        <updated>2021-05-11T16:47:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/
+Comments URL: https://news.ycombinator.com/item?id=27120354
+Points: 81
+# Comments: 71]]></summary>
+        <author>
+            <name>airstrike</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good data scientist, bad data scientist]]></title>
+        <id>https://news.ycombinator.com/item?id=27120231</id>
+        <link href="https://ianwhitestone.work/good-ds-bad-ds/"/>
+        <updated>2021-05-11T16:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ianwhitestone.work/good-ds-bad-ds/
+Comments URL: https://news.ycombinator.com/item?id=27120231
+Points: 120
+# Comments: 76]]></summary>
+        <author>
+            <name>ian-whitestone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[thank you Lakeith 🙏]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/n9zsa3/thank_you_lakeith/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/n9zsa3/thank_you_lakeith/"/>
+        <updated>2021-05-11T15:34:56.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/Sumidiotdude  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vamp is joining CircleCI]]></title>
+        <id>https://news.ycombinator.com/item?id=27119221</id>
+        <link href="https://blog.vamp.io/vamp-is-joining-circleci/"/>
+        <updated>2021-05-11T15:24:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.vamp.io/vamp-is-joining-circleci/
+Comments URL: https://news.ycombinator.com/item?id=27119221
+Points: 64
+# Comments: 7]]></summary>
+        <author>
+            <name>muramira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statin treatment and muscle symptoms: series of randomised, placebo controlled n-of-1 trials]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/n9z7dh/statin_treatment_and_muscle_symptoms_series_of/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/n9z7dh/statin_treatment_and_muscle_symptoms_series_of/"/>
+        <updated>2021-05-11T15:09:28.000Z</updated>
+        <summary type="html"><![CDATA[“ Abstract Objective To establish the effect of statins on muscle symptoms in people who had previously reported muscle symptoms when taking statins.
+ Design Series of randomised, placebo controlled n-of-1 trials.
+ Setting Primary care across 50 sites in the United Kingdom, December 2016 to April 2018.
+ Participants 200 participants who had recently stopped or were considering stopping treatment with statins because of muscle symptoms.
+ Interventions Participants were randomised to a sequence of six double …]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fasting-Induced Transcription Factors Repress Vitamin D Bioactivation, a Mechanism for Vitamin D Deficiency in Diabetes]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/n9z2t9/fastinginduced_transcription_factors_repress/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/n9z2t9/fastinginduced_transcription_factors_repress/"/>
+        <updated>2021-05-11T15:04:13.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/ElectronicAd6233  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: UPchieve (YC W21 Nonprofit) – Live tutoring for low-income students]]></title>
+        <id>https://news.ycombinator.com/item?id=27118794</id>
+        <link href="https://news.ycombinator.com/item?id=27118794"/>
+        <updated>2021-05-11T14:53:40.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! My name’s Aly, and I’m the founder of UPchieve (https://upchieve.org). I’m here with UPchieve’s CTO, Dave (thedevelopnik). We’re an edtech nonprofit that provides free, 24/7 online tutoring to low-income high school students.
+The idea for UPchieve was based on my own personal experience as a low-income student. I was raised by a single mom who was an immigrant to the US and often couldn’t help me with schoolwork and applying to college. So I went to a community college, and from there it took m…]]></summary>
+        <author>
+            <name>alymurray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next Gen CSS: @container]]></title>
+        <id>https://css-tricks.com/?p=339138</id>
+        <link href="https://css-tricks.com/next-gen-css-container/"/>
+        <updated>2021-05-11T14:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to &#8230;
+The post Next Gen CSS: @container appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Una Kravets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distributed Persistent Rendering (DPR)]]></title>
+        <id>https://css-tricks.com/?p=340106</id>
+        <link href="https://css-tricks.com/distributed-persistent-rendering-dpr/"/>
+        <updated>2021-05-11T14:33:10.000Z</updated>
+        <summary type="html"><![CDATA[Like Jamstack, Netlify is coining this term.
+If your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push &#8230;
+The post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pprof++: A Go Profiler with Hardware Performance Monitoring]]></title>
+        <id>https://news.ycombinator.com/item?id=27118541</id>
+        <link href="https://eng.uber.com/pprof-go-profiler/"/>
+        <updated>2021-05-11T14:32:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://eng.uber.com/pprof-go-profiler/
+Comments URL: https://news.ycombinator.com/item?id=27118541
+Points: 206
+# Comments: 33]]></summary>
+        <author>
+            <name>vquemener</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is known about the bioavailability of micronutrients in enriched foods?]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/n9xm4q/what_is_known_about_the_bioavailability_of/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/n9xm4q/what_is_known_about_the_bioavailability_of/"/>
+        <updated>2021-05-11T13:58:38.000Z</updated>
+        <summary type="html"><![CDATA[Specifically an enriched cereal such as this:
+ https://www.walmart.com/ip/Great-Value-Bran-Flakes-Cereal-15-6-oz/49303124
+ It covers a lot of the bases as far as micronutrients go, and seems like a really convenient option paired with a protein shake or something, but I know that bioavailability is a problem with many multivitamins and was wondering if that&#39;s the case with enriched foods as well.
+  &#32; submitted by &#32;  /u/No_Thank_You_Im_Fine  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a new vector based storage model]]></title>
+        <id>https://news.ycombinator.com/item?id=27118117</id>
+        <link href="https://questdb.slab.com/public/posts/p4aktor4"/>
+        <updated>2021-05-11T13:51:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://questdb.slab.com/public/posts/p4aktor4
+Comments URL: https://news.ycombinator.com/item?id=27118117
+Points: 62
+# Comments: 7]]></summary>
+        <author>
+            <name>bluestreak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The requirements on job applications are becoming more and more impossible]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/n9x0l1/the_requirements_on_job_applications_are_becoming/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/n9x0l1/the_requirements_on_job_applications_are_becoming/"/>
+        <updated>2021-05-11T13:28:33.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/Subeckk  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior Developer position at Typeable]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/n9uwj7/senior_developer_position_at_typeable/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/n9uwj7/senior_developer_position_at_typeable/"/>
+        <updated>2021-05-11T11:32:11.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/dredozubov  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplifying/Standardizing haskell deriving story]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/n9ufa2/simplifyingstandardizing_haskell_deriving_story/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/n9ufa2/simplifyingstandardizing_haskell_deriving_story/"/>
+        <updated>2021-05-11T11:03:24.000Z</updated>
+        <summary type="html"><![CDATA[I just came across this blog post with quite some points I agree with. As a haskell beginner, the entire deriving story has been quite complicated for me to grok. Little things like FromJSON and ToJSON instances on a record feel not so straight. forward to understand. Also, with so many. deriving extensions, generics is still something I don&#39;t yet understand. 
+ I&#39;m curious to hear what people think about the points raised in this article:
+ https://www.parsonsmatt.org/2020/11/10/simplifying_deriving.…]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Ann] A new Haskell crypto lib: Z-Botan 0.1.1]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/n9tkis/ann_a_new_haskell_crypto_lib_zbotan_011/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/n9tkis/ann_a_new_haskell_crypto_lib_zbotan_011/"/>
+        <updated>2021-05-11T10:06:19.000Z</updated>
+        <summary type="html"><![CDATA[Dear Haskellers:
+ After hundreds of days working. I&#39;m happy to announce that the very first version of Z-Botan is published, It&#39;s a new crypto lib built around the versatile botan C++ crypto lib. Currently, all crypto stuff exported by Botan FFI is implemented, i.e.:
+  
+Random number generators.
+ Block Cipher and symmetric cipher.
+ Hash.
+ MAC.
+ Key derivation functions.
+ Password hash.
+ Constant time multiple precision integers.
+ Public key creation, import and export.
+ Public key encryption/decrypt…]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Role of diet and food intake in age-related macular degeneration: a systematic review]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/n9rf0y/role_of_diet_and_food_intake_in_agerelated/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/n9rf0y/role_of_diet_and_food_intake_in_agerelated/"/>
+        <updated>2021-05-11T07:31:27.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/greyuniwave  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marianne had the best take. Staunch followers of intersectional feminism, critical race theory, queer theory, and basically everything else that Foucault spawned only know projection.]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/n9ma38/marianne_had_the_best_take_staunch_followers_of/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/n9ma38/marianne_had_the_best_take_staunch_followers_of/"/>
+        <updated>2021-05-11T02:04:01.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/blackberrylacan  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[matterhorn-chat /
 
@@ -952,6 +1719,16 @@ https://www.reddit.com/r/haskell/comments/n8y8xv/template_haskell_getting_out_of
  [link] &#32; [comments]]]></summary>
         <author>
             <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Machine Learning Career Paths in 2021]]></title>
+        <id>https://serokell.io/blog/top-ml-jobs</id>
+        <link href="https://serokell.io/blog/top-ml-jobs"/>
+        <updated>2021-05-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn about awesome artificial intelligence and machine learning jobs that you can pursue in 2021.]]></summary>
+        <author>
+            <name>hi+yuliagavrilova@serokell.io (Yulia Gavrilova)</name>
         </author>
     </entry>
     <entry>
