@@ -2,10 +2,640 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://srid.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T00:47:53.916Z</updated>
+    <updated>2021-05-13T00:54:43.723Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://srid.github.io/feeds/index.html"/>
     <link rel="self" href="https://srid.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      cardano-ledger-specs]]></title>
+        <id>https://github.com/input-output-hk/cardano-ledger-specs</id>
+        <link href="https://github.com/input-output-hk/cardano-ledger-specs"/>
+        <updated>2021-05-13T00:54:43.711Z</updated>
+        <summary type="html"><![CDATA[A formal specification and executable model of the ledger rules introduced by the Shelley release
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      iohk-monitoring-framework]]></title>
+        <id>https://github.com/input-output-hk/iohk-monitoring-framework</id>
+        <link href="https://github.com/input-output-hk/iohk-monitoring-framework"/>
+        <updated>2021-05-13T00:54:43.664Z</updated>
+        <summary type="html"><![CDATA[This framework provides logging, benchmarking and monitoring.
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      cardano-base]]></title>
+        <id>https://github.com/input-output-hk/cardano-base</id>
+        <link href="https://github.com/input-output-hk/cardano-base"/>
+        <updated>2021-05-13T00:54:43.633Z</updated>
+        <summary type="html"><![CDATA[Code used throughout the Cardano eco-system
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[github /
+
+      semantic]]></title>
+        <id>https://github.com/github/semantic</id>
+        <link href="https://github.com/github/semantic"/>
+        <updated>2021-05-13T00:54:43.604Z</updated>
+        <summary type="html"><![CDATA[Parsing, analyzing, and comparing source code across many languages
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>github</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hasura /
+
+      graphql-parser-hs]]></title>
+        <id>https://github.com/hasura/graphql-parser-hs</id>
+        <link href="https://github.com/hasura/graphql-parser-hs"/>
+        <updated>2021-05-13T00:54:43.563Z</updated>
+        <summary type="html"><![CDATA[A GraphQL query parser for Haskell
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>hasura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[effectfully-ou /
+
+      haskell-challenges]]></title>
+        <id>https://github.com/effectfully-ou/haskell-challenges</id>
+        <link href="https://github.com/effectfully-ou/haskell-challenges"/>
+        <updated>2021-05-13T00:54:43.537Z</updated>
+        <summary type="html"><![CDATA[Code challenges to solve with Haskell
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>effectfully-ou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[carp-lang /
+
+      Carp]]></title>
+        <id>https://github.com/carp-lang/Carp</id>
+        <link href="https://github.com/carp-lang/Carp"/>
+        <updated>2021-05-13T00:54:43.520Z</updated>
+        <summary type="html"><![CDATA[A statically typed lisp, without a GC, for real-time applications.
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>carp-lang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[facebook /
+
+      duckling]]></title>
+        <id>https://github.com/facebook/duckling</id>
+        <link href="https://github.com/facebook/duckling"/>
+        <updated>2021-05-13T00:54:43.484Z</updated>
+        <summary type="html"><![CDATA[Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>facebook</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[digitallyinduced /
+
+      ihp]]></title>
+        <id>https://github.com/digitallyinduced/ihp</id>
+        <link href="https://github.com/digitallyinduced/ihp"/>
+        <updated>2021-05-13T00:54:43.453Z</updated>
+        <summary type="html"><![CDATA[🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>digitallyinduced</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[msiegenthaler /
+
+      serialIO]]></title>
+        <id>https://github.com/msiegenthaler/serialIO</id>
+        <link href="https://github.com/msiegenthaler/serialIO"/>
+        <updated>2021-05-13T00:54:43.414Z</updated>
+        <summary type="html"><![CDATA[Haskelll library for IO with a serial port.
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>msiegenthaler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[system-f /
+
+      fp-course]]></title>
+        <id>https://github.com/system-f/fp-course</id>
+        <link href="https://github.com/system-f/fp-course"/>
+        <updated>2021-05-13T00:54:43.382Z</updated>
+        <summary type="html"><![CDATA[Functional Programming Course
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>system-f</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Executive Order on Improving the Nation’s Cybersecurity]]></title>
+        <id>https://news.ycombinator.com/item?id=27136746</id>
+        <link href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/"/>
+        <updated>2021-05-13T00:04:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/
+Comments URL: https://news.ycombinator.com/item?id=27136746
+Points: 13
+# Comments: 2]]></summary>
+        <author>
+            <name>encryptluks2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JWT should not be your default for sessions]]></title>
+        <id>https://news.ycombinator.com/item?id=27136539</id>
+        <link href="https://evertpot.com/jwt-is-a-bad-default/"/>
+        <updated>2021-05-12T23:35:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://evertpot.com/jwt-is-a-bad-default/
+Comments URL: https://news.ycombinator.com/item?id=27136539
+Points: 29
+# Comments: 11]]></summary>
+        <author>
+            <name>mfbx9da4</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber used 50 Dutch shell companies to dodge taxes on $6B in revenue]]></title>
+        <id>https://news.ycombinator.com/item?id=27136002</id>
+        <link href="https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5"/>
+        <updated>2021-05-12T22:35:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5
+Comments URL: https://news.ycombinator.com/item?id=27136002
+Points: 86
+# Comments: 43]]></summary>
+        <author>
+            <name>kareemm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla has suspended vehicle purchases using Bitcoin]]></title>
+        <id>https://news.ycombinator.com/item?id=27135776</id>
+        <link href="https://twitter.com/elonmusk/status/1392602041025843203"/>
+        <updated>2021-05-12T22:13:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/elonmusk/status/1392602041025843203
+Comments URL: https://news.ycombinator.com/item?id=27135776
+Points: 253
+# Comments: 231]]></summary>
+        <author>
+            <name>seigando</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kobra – visual programming language for machine learning]]></title>
+        <id>https://news.ycombinator.com/item?id=27135573</id>
+        <link href="https://kobra.dev/"/>
+        <updated>2021-05-12T21:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kobra.dev/
+Comments URL: https://news.ycombinator.com/item?id=27135573
+Points: 86
+# Comments: 10]]></summary>
+        <author>
+            <name>amrrs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CP/M for OS X]]></title>
+        <id>https://news.ycombinator.com/item?id=27135421</id>
+        <link href="https://github.com/TomHarte/CP-M-for-OS-X"/>
+        <updated>2021-05-12T21:34:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/TomHarte/CP-M-for-OS-X
+Comments URL: https://news.ycombinator.com/item?id=27135421
+Points: 70
+# Comments: 21]]></summary>
+        <author>
+            <name>bilegeek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relationship Hero is hiring coaches – Full Time Remote]]></title>
+        <id>https://news.ycombinator.com/item?id=27135089</id>
+        <link href="https://relationshiphero.com/careers?role=coach"/>
+        <updated>2021-05-12T21:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://relationshiphero.com/careers?role=coach
+Comments URL: https://news.ycombinator.com/item?id=27135089
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>Liron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The digital natives are not who you think they are]]></title>
+        <id>https://news.ycombinator.com/item?id=27135060</id>
+        <link href="https://blog.torh.net/2021/05/12/the-digital-natives-are-not-who-you-think-it-is/"/>
+        <updated>2021-05-12T20:57:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.torh.net/2021/05/12/the-digital-natives-are-not-who-you-think-it-is/
+Comments URL: https://news.ycombinator.com/item?id=27135060
+Points: 79
+# Comments: 108]]></summary>
+        <author>
+            <name>ingve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardiovascular Risk Factor Trajectories Since Childhood and Cognitive Performance in Midlife: The Cardiovascular Risk in Young Finns Study (May 21)]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/naz10f/cardiovascular_risk_factor_trajectories_since/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/naz10f/cardiovascular_risk_factor_trajectories_since/"/>
+        <updated>2021-05-12T20:49:20.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/TJeezey  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instagram, Twitter blame glitches for deleting Palestinian posts]]></title>
+        <id>https://news.ycombinator.com/item?id=27134995</id>
+        <link href="https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624"/>
+        <updated>2021-05-12T20:48:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624
+Comments URL: https://news.ycombinator.com/item?id=27134995
+Points: 237
+# Comments: 106]]></summary>
+        <author>
+            <name>tareqak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avoid Git LFS if possible]]></title>
+        <id>https://news.ycombinator.com/item?id=27134972</id>
+        <link href="https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn%27t-use-git-lfs/"/>
+        <updated>2021-05-12T20:46:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn%27t-use-git-lfs/
+Comments URL: https://news.ycombinator.com/item?id=27134972
+Points: 76
+# Comments: 55]]></summary>
+        <author>
+            <name>reimbar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cabal unpacks 0.6GB into the home directory]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/naxxyv/cabal_unpacks_06gb_into_the_home_directory/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/naxxyv/cabal_unpacks_06gb_into_the_home_directory/"/>
+        <updated>2021-05-12T20:02:25.000Z</updated>
+        <summary type="html"><![CDATA[A FreeBSD update instructs me to build Xmonad using the Cabal &quot;new-build&quot; mechanism. After doing &quot;cabal new-update&quot; I find that Cabal downloaded a 85MB .tar.gz archive. Having a closer look I detect that it unpacks this file to a plain .tar of 636MB! I have never seen a software unpacking a whole .tar.gz at all, and one of a size of more than a half GB less than ever. I will not condone this kind of behaviour on my machine.
+ First question: Is there a way to inhibit the gunzip?
+ Second q…]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Air Pollution Linked to Increased Mental Health Outpatient Visits]]></title>
+        <id>https://news.ycombinator.com/item?id=27134429</id>
+        <link href="https://medicine.yale.edu/news-article/air-pollution-linked-to-increased-mental-health-outpatient-visits/"/>
+        <updated>2021-05-12T19:56:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://medicine.yale.edu/news-article/air-pollution-linked-to-increased-mental-health-outpatient-visits/
+Comments URL: https://news.ycombinator.com/item?id=27134429
+Points: 35
+# Comments: 3]]></summary>
+        <author>
+            <name>hamilyon2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Way to Manage Dotfiles]]></title>
+        <id>https://news.ycombinator.com/item?id=27134249</id>
+        <link href="https://github.com/kalkayan/dotfiles"/>
+        <updated>2021-05-12T19:31:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/kalkayan/dotfiles
+Comments URL: https://news.ycombinator.com/item?id=27134249
+Points: 43
+# Comments: 27]]></summary>
+        <author>
+            <name>bminusl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural implant lets paralyzed person type by imagining writing]]></title>
+        <id>https://news.ycombinator.com/item?id=27134049</id>
+        <link href="https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/"/>
+        <updated>2021-05-12T19:14:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/
+Comments URL: https://news.ycombinator.com/item?id=27134049
+Points: 259
+# Comments: 109]]></summary>
+        <author>
+            <name>Engineering-MD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benchmarking division and libdivide on Apple M1 and Intel AVX512]]></title>
+        <id>https://news.ycombinator.com/item?id=27133804</id>
+        <link href="https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html"/>
+        <updated>2021-05-12T18:52:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html
+Comments URL: https://news.ycombinator.com/item?id=27133804
+Points: 176
+# Comments: 66]]></summary>
+        <author>
+            <name>ridiculous_fish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SimpleX chat prototype - terminal UI - made in Haskell!]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/naw6lz/simplex_chat_prototype_terminal_ui_made_in_haskell/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/naw6lz/simplex_chat_prototype_terminal_ui_made_in_haskell/"/>
+        <updated>2021-05-12T18:47:09.000Z</updated>
+        <summary type="html"><![CDATA[Since my post about SimpleX Messaging Protocol (SMP) six months ago, Efim (my son) and I have been working to get SimpleX chat prototype ready to use, and this day has come!
+ The terminal chat client is available in https://github.com/simplex-chat/simplex-chat - you can either build it from source or download the binary for Linux, Windows or Mac from the latest release.
+ We’ve been using it between us and some other people for a couple of months now, eating our own “dog food”, and it got to the version 0.3.…]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[virgin vs Chad]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/naw57i/virgin_vs_chad/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/naw57i/virgin_vs_chad/"/>
+        <updated>2021-05-12T18:45:25.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/Xi_Pimping  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replit Apps]]></title>
+        <id>https://news.ycombinator.com/item?id=27132979</id>
+        <link href="https://blog.replit.com/apps"/>
+        <updated>2021-05-12T17:37:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.replit.com/apps
+Comments URL: https://news.ycombinator.com/item?id=27132979
+Points: 93
+# Comments: 37]]></summary>
+        <author>
+            <name>razin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where is the license file for the rts-1.0 module?]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/natklm/where_is_the_license_file_for_the_rts10_module/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/natklm/where_is_the_license_file_for_the_rts10_module/"/>
+        <updated>2021-05-12T16:57:35.000Z</updated>
+        <summary type="html"><![CDATA[I&#39;ve been working on an open-source application that I&#39;m currently writing the installers for, and as part of due diligence I&#39;m trying to include all the open-source licenses that my dependencies have been released under as part of the install.
+ When I do stack ls dependencies the rts 1.0 module is listed as one of the dependencies, but from what I&#39;ve been able to gather it&#39;s not actually a discrete module -- I read that base depends on it and it seems like it&#39;s part of the GHC insta…]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I wrote my own RTS game engine in C]]></title>
+        <id>https://news.ycombinator.com/item?id=27132334</id>
+        <link href="https://github.com/eduard-permyakov/permafrost-engine"/>
+        <updated>2021-05-12T16:44:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/eduard-permyakov/permafrost-engine
+Comments URL: https://news.ycombinator.com/item?id=27132334
+Points: 753
+# Comments: 137]]></summary>
+        <author>
+            <name>epermyakov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calculating percentage growth from a list of Int to a list of Floats.]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nasr14/calculating_percentage_growth_from_a_list_of_int/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nasr14/calculating_percentage_growth_from_a_list_of_int/"/>
+        <updated>2021-05-12T16:23:58.000Z</updated>
+        <summary type="html"><![CDATA[Hello, I am very new to Haskell and I ran into a problem but I&#39;m not sure where or what to search for to solve my problem; so I am here. I am looking to use a list of Integers and iterate through them to find % growth between each index and output them in a list of floats.
+ nums = [4561,3241,2345,3455,4567] 
+ So I need to use this list to find the % growth from nums[4] to nums[3] and output them to a new list.
+ My stackOverflow question
+  &#32; submitted by &#32;  /u/Abishek_MMI  
+ [link] &#32; [comment…]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Houdini]]></title>
+        <id>https://news.ycombinator.com/item?id=27131897</id>
+        <link href="https://developer.mozilla.org/en-US/docs/Web/Houdini"/>
+        <updated>2021-05-12T16:06:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://developer.mozilla.org/en-US/docs/Web/Houdini
+Comments URL: https://news.ycombinator.com/item?id=27131897
+Points: 221
+# Comments: 109]]></summary>
+        <author>
+            <name>mvolfik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vesuvius ancient eruption rescuer identified at Herculaneum, says expert]]></title>
+        <id>https://news.ycombinator.com/item?id=27131744</id>
+        <link href="https://www.bbc.com/news/world-europe-57055163"/>
+        <updated>2021-05-12T15:53:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57055163
+Comments URL: https://news.ycombinator.com/item?id=27131744
+Points: 70
+# Comments: 26]]></summary>
+        <author>
+            <name>harscoat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live presentation involving Haskell code]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/naqzko/live_presentation_involving_haskell_code/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/naqzko/live_presentation_involving_haskell_code/"/>
+        <updated>2021-05-12T15:10:19.000Z</updated>
+        <summary type="html"><![CDATA[I am soon to present something where I want to use interactive Haskell code (actually mostly I&#39;ll be using some quasi-quotations if it matters). I don&#39;t want to switch back and forth between Emacs, GHCi and a PDF-slideshow. Is there something that can do all in one and people have successfully used?
+ I went ahead and installed jupyter with IHaskell (from here) which works to a certain degree:
+  
+Haskell notebooks work
+ exporting via jupyter nbconvert MyFancySlides.ipynb --to slides --post serve work…]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Association between consumption of ultra-processed foods and all cause mortality: SUN prospective cohort study [2019]]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/naqnqk/association_between_consumption_of_ultraprocessed/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/naqnqk/association_between_consumption_of_ultraprocessed/"/>
+        <updated>2021-05-12T14:56:20.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/headzoo  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Disabled Buttons More Inclusive]]></title>
+        <id>https://css-tricks.com/?p=339960</id>
+        <link href="https://css-tricks.com/making-disabled-buttons-more-inclusive/"/>
+        <updated>2021-05-12T14:31:07.000Z</updated>
+        <summary type="html"><![CDATA[Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. &#60;button disabled&#62; ) to mark a button as disabled.
+There are lots of &#8230;
+The post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Sandrina Pereira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emulating AirTags to upload arbitrary data via Apple's FindMy network]]></title>
+        <id>https://news.ycombinator.com/item?id=27130355</id>
+        <link href="https://positive.security/blog/send-my"/>
+        <updated>2021-05-12T13:57:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://positive.security/blog/send-my
+Comments URL: https://news.ycombinator.com/item?id=27130355
+Points: 430
+# Comments: 105]]></summary>
+        <author>
+            <name>kerm1t</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[any dummies?]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/nao98s/any_dummies/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/nao98s/any_dummies/"/>
+        <updated>2021-05-12T13:08:22.000Z</updated>
+        <summary type="html"><![CDATA[anybody else here dumb? i dont understand half the crap you kids are talking about but im having a good time browsing.
+  &#32; submitted by &#32;  /u/croutonhanks37  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Docs will now use canvas based rendering]]></title>
+        <id>https://news.ycombinator.com/item?id=27129858</id>
+        <link href="https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html"/>
+        <updated>2021-05-12T13:05:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html
+Comments URL: https://news.ycombinator.com/item?id=27129858
+Points: 895
+# Comments: 818]]></summary>
+        <author>
+            <name>lewisjoe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transgenerational fitness effects of lifespan extension by dietary restriction in Caenorhabditis elegans (TL/TR: How fasting diets could harm future generations)]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/nakj60/transgenerational_fitness_effects_of_lifespan/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/nakj60/transgenerational_fitness_effects_of_lifespan/"/>
+        <updated>2021-05-12T09:24:32.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/Slight-Peanut5427  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wellness Wednesday for May 12, 2021]]></title>
+        <id>https://www.reddit.com/r/TheMotte/comments/nahyz6/wellness_wednesday_for_may_12_2021/</id>
+        <link href="https://www.reddit.com/r/TheMotte/comments/nahyz6/wellness_wednesday_for_may_12_2021/"/>
+        <updated>2021-05-12T06:15:16.000Z</updated>
+        <summary type="html"><![CDATA[The Wednesday Wellness threads are meant to encourage users to ask for and provide advice and motivation to improve their lives. It isn&#39;t intended as a &#39;containment thread&#39; and if you should feel free to post content which could go here in it&#39;s own thread. You could post:
+  
+Requests for advice and / or encouragement. On basically any topic and for any scale of problem.
+ 
+Updates to let us know how you are doing. This provides valuable feedback on past advice / encouragement and will hopeful…]]></summary>
+        <author>
+            <name>top scoring links : TheMotte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So many bitch ass Israelis crying on twitter]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/naf4ae/so_many_bitch_ass_israelis_crying_on_twitter/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/naf4ae/so_many_bitch_ass_israelis_crying_on_twitter/"/>
+        <updated>2021-05-12T03:13:04.000Z</updated>
+        <summary type="html"><![CDATA[They brag so hard about Iron Dome being unbreachable, well then why cry like a little bitch ass?
+  &#32; submitted by &#32;  /u/Artistic_Anteater628  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Type-guided development and garden paths]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nacwkk/typeguided_development_and_garden_paths/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nacwkk/typeguided_development_and_garden_paths/"/>
+        <updated>2021-05-12T01:14:25.000Z</updated>
+        <summary type="html"><![CDATA[https://frasertweedale.github.io/blog-fp/posts/2021-05-12-types-garden-path.html
+ “Types help you reason about effects”, we declare. And they do! Except when they don’t. “Just follow the types!” we insist. But sometimes the types take you down a garden path.
+ When the type checker is happy but the behaviour is all wrong, it can be hard to find where you took the wrong turn. In this post I’ll share real-world examples of this phenomenon, and offer some tips on how to avoid it.
+  &#32; submitted by &#32;  /u/…]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[obsidiansystems /
 
@@ -1917,16 +2547,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Learn about type families, one of the most powerful type-level programming features in Haskell.]]></summary>
         <author>
             <name>hi+vladislavzavialov@serokell.io (Vladislav Zavialov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust in Production: MeiliSearch]]></title>
-        <id>https://serokell.io/blog/rust-in-production-meilisearch</id>
-        <link href="https://serokell.io/blog/rust-in-production-meilisearch"/>
-        <updated>2021-04-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Read our interview with Thomas Payet, the co-founder and COO of MeiliSearch, to learn about their experience with Rust and discover tips for starting your own open-source project.]]></summary>
-        <author>
-            <name>hi+gintsdreimanis@serokell.io (Gints Dreimanis)</name>
         </author>
     </entry>
 </feed>
