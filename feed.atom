@@ -2,10 +2,528 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://srid.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-13T00:54:43.723Z</updated>
+    <updated>2021-05-14T00:56:15.537Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://srid.github.io/feeds/index.html"/>
     <link rel="self" href="https://srid.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[quickstrom /
+
+      quickstrom]]></title>
+        <id>https://github.com/quickstrom/quickstrom</id>
+        <link href="https://github.com/quickstrom/quickstrom"/>
+        <updated>2021-05-14T00:56:05.236Z</updated>
+        <summary type="html"><![CDATA[High-confidence browser testing
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>quickstrom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simspace /
+
+      on-error]]></title>
+        <id>https://github.com/Simspace/on-error</id>
+        <link href="https://github.com/Simspace/on-error"/>
+        <updated>2021-05-14T00:56:05.053Z</updated>
+        <summary type="html"><![CDATA[Clearly-delineated error-handling
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>Simspace</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wasp-lang /
+
+      wasp]]></title>
+        <id>https://github.com/wasp-lang/wasp</id>
+        <link href="https://github.com/wasp-lang/wasp"/>
+        <updated>2021-05-14T00:56:04.808Z</updated>
+        <summary type="html"><![CDATA[A programming language that understands what a web app is.
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>wasp-lang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cdepillabout /
+
+      servant-rawm]]></title>
+        <id>https://github.com/cdepillabout/servant-rawm</id>
+        <link href="https://github.com/cdepillabout/servant-rawm"/>
+        <updated>2021-05-14T00:56:04.763Z</updated>
+        <summary type="html"><![CDATA[Effectful Raw handler for Servant servers.
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>cdepillabout</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kmonad /
+
+      kmonad]]></title>
+        <id>https://github.com/kmonad/kmonad</id>
+        <link href="https://github.com/kmonad/kmonad"/>
+        <updated>2021-05-14T00:56:04.721Z</updated>
+        <summary type="html"><![CDATA[An advanced keyboard manager
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>kmonad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevTools for CSS layouts 2021 edition]]></title>
+        <id>https://css-tricks.com/?p=340490</id>
+        <link href="https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2"/>
+        <updated>2021-05-13T23:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Chen Hui Jing covers some recent movement in DevTools:
+Firefox’s grid inspector was pretty full-featured from the get-to and&#160;released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a&#160;basic grid inspector 
+&#8230;
+The post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BackBlaze: Privacy Update: Third-Party Tracking]]></title>
+        <id>https://news.ycombinator.com/item?id=27148593</id>
+        <link href="https://www.backblaze.com/blog/privacy-update-third-party-tracking/?date=May13"/>
+        <updated>2021-05-13T23:04:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.backblaze.com/blog/privacy-update-third-party-tracking/?date=May13
+Comments URL: https://news.ycombinator.com/item?id=27148593
+Points: 91
+# Comments: 10]]></summary>
+        <author>
+            <name>busymom0</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Brain Maps Out Ideas and Memories Like Spaces]]></title>
+        <id>https://news.ycombinator.com/item?id=27148529</id>
+        <link href="https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/"/>
+        <updated>2021-05-13T22:56:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/
+Comments URL: https://news.ycombinator.com/item?id=27148529
+Points: 23
+# Comments: 1]]></summary>
+        <author>
+            <name>andyxor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 Design Systems (Survey/Courses)]]></title>
+        <id>https://css-tricks.com/?p=340573</id>
+        <link href="https://css-tricks.com/2021-design-systems-survey-courses/"/>
+        <updated>2021-05-13T22:55:35.000Z</updated>
+        <summary type="html"><![CDATA[My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was &#8230;
+The post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microfarms come to South L.A. frontyards, bringing fresh produce to food deserts]]></title>
+        <id>https://news.ycombinator.com/item?id=27148435</id>
+        <link href="https://www.latimes.com/california/story/2021-05-13/asante-microfarms-jamiah-hargins-south-la-fresh-food-produce"/>
+        <updated>2021-05-13T22:45:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.latimes.com/california/story/2021-05-13/asante-microfarms-jamiah-hargins-south-la-fresh-food-produce
+Comments URL: https://news.ycombinator.com/item?id=27148435
+Points: 9
+# Comments: 4]]></summary>
+        <author>
+            <name>clairity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How SpaceX lands Starship (sort of)]]></title>
+        <id>https://news.ycombinator.com/item?id=27148296</id>
+        <link href="https://thomas-godden.medium.com/how-spacex-lands-starship-sort-of-ee96cdde650b"/>
+        <updated>2021-05-13T22:28:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thomas-godden.medium.com/how-spacex-lands-starship-sort-of-ee96cdde650b
+Comments URL: https://news.ycombinator.com/item?id=27148296
+Points: 58
+# Comments: 6]]></summary>
+        <author>
+            <name>zeristor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Intensive Lifestyle Intervention to Treat Type 2 Diabetes in the Republic of the Marshall Islands: Protocol for a Randomized Controlled Trial]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/nbsbv9/an_intensive_lifestyle_intervention_to_treat_type/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/nbsbv9/an_intensive_lifestyle_intervention_to_treat_type/"/>
+        <updated>2021-05-13T21:47:58.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/ElectronicAd6233  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fly’s Prometheus Metrics]]></title>
+        <id>https://news.ycombinator.com/item?id=27147482</id>
+        <link href="https://fly.io/blog/measuring-fly/"/>
+        <updated>2021-05-13T21:07:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fly.io/blog/measuring-fly/
+Comments URL: https://news.ycombinator.com/item?id=27147482
+Points: 88
+# Comments: 35]]></summary>
+        <author>
+            <name>elithrar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substack is hiring engineers to build a better business model for writing]]></title>
+        <id>https://news.ycombinator.com/item?id=27147408</id>
+        <link href="https://substack.com/jobs"/>
+        <updated>2021-05-13T21:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://substack.com/jobs
+Comments URL: https://news.ycombinator.com/item?id=27147408
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>jairajs89</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selenium supplementation inhibits IGF-1 signaling, and confers Methionine Restriction-like healthspan benefits to mice (2021)]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/nbqlav/selenium_supplementation_inhibits_igf1_signaling/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/nbqlav/selenium_supplementation_inhibits_igf1_signaling/"/>
+        <updated>2021-05-13T20:29:30.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/Regenine  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new era of personalised medicine: or how I got myself sequenced for free]]></title>
+        <id>https://news.ycombinator.com/item?id=27146975</id>
+        <link href="https://souradip.mookerj.ee/blog/free-sequencing"/>
+        <updated>2021-05-13T20:26:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://souradip.mookerj.ee/blog/free-sequencing
+Comments URL: https://news.ycombinator.com/item?id=27146975
+Points: 68
+# Comments: 49]]></summary>
+        <author>
+            <name>souradip</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnerability allows cross-browser tracking in Chrome, Firefox, Safari, and Tor]]></title>
+        <id>https://news.ycombinator.com/item?id=27145911</id>
+        <link href="https://fingerprintjs.com/blog/external-protocol-flooding/"/>
+        <updated>2021-05-13T18:59:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fingerprintjs.com/blog/external-protocol-flooding/
+Comments URL: https://news.ycombinator.com/item?id=27145911
+Points: 256
+# Comments: 132]]></summary>
+        <author>
+            <name>danpinto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dataflow, a self-hosted Observable notebook editor]]></title>
+        <id>https://news.ycombinator.com/item?id=27145515</id>
+        <link href="https://observablehq.com/@asg017/introducing-dataflow"/>
+        <updated>2021-05-13T18:28:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://observablehq.com/@asg017/introducing-dataflow
+Comments URL: https://news.ycombinator.com/item?id=27145515
+Points: 141
+# Comments: 42]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Recap of the Mars Terraforming Debate]]></title>
+        <id>https://news.ycombinator.com/item?id=27145504</id>
+        <link href="https://nautil.us/issue/100/outsiders/should-we-terraform-mars-lets-recap"/>
+        <updated>2021-05-13T18:27:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nautil.us/issue/100/outsiders/should-we-terraform-mars-lets-recap
+Comments URL: https://news.ycombinator.com/item?id=27145504
+Points: 68
+# Comments: 212]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XD]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/nbn82a/xd/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/nbn82a/xd/"/>
+        <updated>2021-05-13T18:12:28.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/bitchyfuxkjngbltch34  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pentagon surveilling Americans without a warrant, Senator Wyden reveals]]></title>
+        <id>https://news.ycombinator.com/item?id=27145263</id>
+        <link href="https://www.vice.com/en/article/88ng8x/pentagon-americans-surveillance-without-warrant-internet-browsing"/>
+        <updated>2021-05-13T18:06:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/88ng8x/pentagon-americans-surveillance-without-warrant-internet-browsing
+Comments URL: https://news.ycombinator.com/item?id=27145263
+Points: 458
+# Comments: 174]]></summary>
+        <author>
+            <name>jbegley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$365B wiped off cryptocurrency market after Tesla stops accepting Bitcoin]]></title>
+        <id>https://news.ycombinator.com/item?id=27145230</id>
+        <link href="https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html"/>
+        <updated>2021-05-13T18:04:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html
+Comments URL: https://news.ycombinator.com/item?id=27145230
+Points: 298
+# Comments: 424]]></summary>
+        <author>
+            <name>awb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three things to never build yourself: auth, notifications, payments]]></title>
+        <id>https://news.ycombinator.com/item?id=27144930</id>
+        <link href="https://www.courier.com/blog/the-three-things-to-never-build-in-your-app"/>
+        <updated>2021-05-13T17:39:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.courier.com/blog/the-three-things-to-never-build-in-your-app
+Comments URL: https://news.ycombinator.com/item?id=27144930
+Points: 154
+# Comments: 155]]></summary>
+        <author>
+            <name>troygoode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enigma: GPT-2 trained on 10K Nature Papers: Can you spot the difference?]]></title>
+        <id>https://news.ycombinator.com/item?id=27144764</id>
+        <link href="https://stefanzukin.com/enigma/"/>
+        <updated>2021-05-13T17:26:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://stefanzukin.com/enigma/
+Comments URL: https://news.ycombinator.com/item?id=27144764
+Points: 136
+# Comments: 82]]></summary>
+        <author>
+            <name>MrUssek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notion API – public beta]]></title>
+        <id>https://news.ycombinator.com/item?id=27144566</id>
+        <link href="https://developers.notion.so"/>
+        <updated>2021-05-13T17:08:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://developers.notion.so
+Comments URL: https://news.ycombinator.com/item?id=27144566
+Points: 385
+# Comments: 185]]></summary>
+        <author>
+            <name>cristinacordova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HF Tech Proposal #1: UTF-8 Encoded Text - Haskell Foundation]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nbkzsk/hf_tech_proposal_1_utf8_encoded_text_haskell/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nbkzsk/hf_tech_proposal_1_utf8_encoded_text_haskell/"/>
+        <updated>2021-05-13T16:41:29.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/emilypii  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Golden Handcuffs]]></title>
+        <id>https://news.ycombinator.com/item?id=27143898</id>
+        <link href="https://avc.com/2021/05/golden-handcuffs-2/"/>
+        <updated>2021-05-13T16:17:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://avc.com/2021/05/golden-handcuffs-2/
+Comments URL: https://news.ycombinator.com/item?id=27143898
+Points: 94
+# Comments: 140]]></summary>
+        <author>
+            <name>bitsweet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[scotty: call for maintainers]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nbitrp/scotty_call_for_maintainers/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nbitrp/scotty_call_for_maintainers/"/>
+        <updated>2021-05-13T15:09:02.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/RyanGlScott  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Ditto (YC W20) – Keep product text in sync from design to production]]></title>
+        <id>https://news.ycombinator.com/item?id=27142930</id>
+        <link href="https://news.ycombinator.com/item?id=27142930"/>
+        <updated>2021-05-13T15:07:30.000Z</updated>
+        <summary type="html"><![CDATA[Jess and Jo here, and we're excited to share Ditto with you all (https://dittowords.com). Ditto is a way to manage product copy—the text found on user interfaces—all the way from design to development. Think of a headless CMS but with the text from your design files.
+We think product copy is one of the highest ROI aspects of product development today, but also one of the most overlooked. Even more so than the visuals, the text users read is critical to shaping their understanding of how things work. Copy of…]]></summary>
+        <author>
+            <name>jessouyang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Memory athletes" and the techniques they use [audio]]]></title>
+        <id>https://news.ycombinator.com/item?id=27142663</id>
+        <link href="https://www.bbc.co.uk/programmes/m000tmm1"/>
+        <updated>2021-05-13T14:47:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/programmes/m000tmm1
+Comments URL: https://news.ycombinator.com/item?id=27142663
+Points: 59
+# Comments: 26]]></summary>
+        <author>
+            <name>open-source-ux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Issue 263 :: Haskell Weekly newsletter]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nbi5t5/issue_263_haskell_weekly_newsletter/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nbi5t5/issue_263_haskell_weekly_newsletter/"/>
+        <updated>2021-05-13T14:39:47.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/haskellweekly  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colonial Pipeline Paid Hackers Nearly $5M in Ransom]]></title>
+        <id>https://news.ycombinator.com/item?id=27142407</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-05-13/colonial-pipeline-paid-hackers-nearly-5-million-in-ransom"/>
+        <updated>2021-05-13T14:26:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-05-13/colonial-pipeline-paid-hackers-nearly-5-million-in-ransom
+Comments URL: https://news.ycombinator.com/item?id=27142407
+Points: 287
+# Comments: 318]]></summary>
+        <author>
+            <name>longdefeat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced CSS Animation Using cubic-bezier()]]></title>
+        <id>https://css-tricks.com/?p=340036</id>
+        <link href="https://css-tricks.com/advanced-css-animation-using-cubic-bezier/"/>
+        <updated>2021-05-13T14:24:42.000Z</updated>
+        <summary type="html"><![CDATA[When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in &#8230;
+The post Advanced CSS Animation Using cubic-bezier() appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features]]></title>
+        <id>https://css-tricks.com/?p=340118</id>
+        <link href="https://css-tricks.com/svgator-3-0-reshapes-the-way-you-create-and-animate-svg-with-extensive-new-features/"/>
+        <updated>2021-05-13T14:24:35.000Z</updated>
+        <summary type="html"><![CDATA[Building animations can get complicated, particularly compelling animations where you aren&#8217;t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI &#8230;
+The post SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I made a platform to publish my Google Docs files as blogs]]></title>
+        <id>https://news.ycombinator.com/item?id=27142146</id>
+        <link href="https://hexo.press"/>
+        <updated>2021-05-13T13:58:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hexo.press
+Comments URL: https://news.ycombinator.com/item?id=27142146
+Points: 132
+# Comments: 43]]></summary>
+        <author>
+            <name>lewisjoe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anamorphisms aka Unfolds Explained | Functional Works]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nbdzou/anamorphisms_aka_unfolds_explained_functional/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nbdzou/anamorphisms_aka_unfolds_explained_functional/"/>
+        <updated>2021-05-13T11:01:50.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/mihaela_workshub  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Those Winter Sundays" Robert Hayden, 1966]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/nbdx25/those_winter_sundays_robert_hayden_1966/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/nbdx25/those_winter_sundays_robert_hayden_1966/"/>
+        <updated>2021-05-13T10:57:20.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/asshufferninekay  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use cryptonite (AES256) with conduit to achieve constant memory encryption?]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nbc8rv/how_to_use_cryptonite_aes256_with_conduit_to/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nbc8rv/how_to_use_cryptonite_aes256_with_conduit_to/"/>
+        <updated>2021-05-13T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello,
+ so I&#39;m working on personal project and I need to encrypt/decrypt large chunks of data using AES256 with constant memory use. I did this previously in Scala using bouncy-castle and akka-streams, but I don&#39;t know how to do this in Haskell. So far I guess for streaming, conduit would be good match and for AES256 the cryptonite would be the pick. However, I cannot find any example how to use these two together. There seems to be library called library called cryptonite-conduit, but it supports o…]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opinion on intermittent fasting?]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/nb9ctl/opinion_on_intermittent_fasting/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/nb9ctl/opinion_on_intermittent_fasting/"/>
+        <updated>2021-05-13T05:32:31.000Z</updated>
+        <summary type="html"><![CDATA[I would like to pose a question to the nutritionists in the group: what is your professional opinion as healthcare workers regarding intermittent fasting? If IF suits my life style and aligns with my natural hunger cues (I eat 3 well and healthy macro-balanced meals and work out 4 times a week), it may be able to be used somewhat successfully as a tool for weight loss/ maintenance? It&#39;s not much different from any other calorically restrictive diet / dietary restriction? Any body fat loss from IF has le…]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goals.]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/nb5cbq/goals/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/nb5cbq/goals/"/>
+        <updated>2021-05-13T01:41:41.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/zara_mf_thustra  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[input-output-hk /
 
@@ -202,6 +720,17 @@ Star:
 Fork:]]></summary>
         <author>
             <name>system-f</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Humans Are Like Water: Order, Surfaces, and Chaos]]></title>
+        <id>https://www.reddit.com/r/TheMotte/comments/nb3mzx/how_humans_are_like_water_order_surfaces_and_chaos/</id>
+        <link href="https://www.reddit.com/r/TheMotte/comments/nb3mzx/how_humans_are_like_water_order_surfaces_and_chaos/"/>
+        <updated>2021-05-13T00:18:14.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/qqqqquinnnnn  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : TheMotte</name>
         </author>
     </entry>
     <entry>

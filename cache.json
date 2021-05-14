@@ -6,6 +6,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340490",
+          "author": "Chris Coyier",
+          "description": "Chen Hui Jing covers some recent movement in DevTools:\nFirefox’s grid inspector was pretty full-featured from the get-to and&#160;released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a&#160;basic grid inspector \n&#8230;\nThe post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2",
+          "publishedOn": "2021-05-13T23:22:45.000Z",
+          "wordCount": 1594,
+          "title": "DevTools for CSS layouts 2021 edition"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340573",
+          "author": "Chris Coyier",
+          "description": "My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was &#8230;\nThe post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/2021-design-systems-survey-courses/",
+          "publishedOn": "2021-05-13T22:55:35.000Z",
+          "wordCount": 557,
+          "title": "2021 Design Systems (Survey/Courses)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340036",
+          "author": "Temani Afif",
+          "description": "When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in &#8230;\nThe post Advanced CSS Animation Using cubic-bezier() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/advanced-css-animation-using-cubic-bezier/",
+          "publishedOn": "2021-05-13T14:24:42.000Z",
+          "wordCount": 2717,
+          "title": "Advanced CSS Animation Using cubic-bezier()"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340118",
+          "author": "Chris Coyier",
+          "description": "Building animations can get complicated, particularly compelling animations where you aren&#8217;t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI &#8230;\nThe post SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/svgator-3-0-reshapes-the-way-you-create-and-animate-svg-with-extensive-new-features/",
+          "publishedOn": "2021-05-13T14:24:35.000Z",
+          "wordCount": 925,
+          "title": "SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features"
+        },
+        {
           "id": "https://css-tricks.com/?p=339960",
           "author": "Sandrina Pereira",
           "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. &#60;button disabled&#62; ) to mark a button as disabled.\nThere are lots of &#8230;\nThe post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -245,6 +281,51 @@
       "siteUrl": "https://www.reddit.com/r/haskell/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/haskell/comments/nbkzsk/hf_tech_proposal_1_utf8_encoded_text_haskell/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/emilypii  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nbkzsk/hf_tech_proposal_1_utf8_encoded_text_haskell/",
+          "publishedOn": "2021-05-13T16:41:29.000Z",
+          "wordCount": 158,
+          "title": "HF Tech Proposal #1: UTF-8 Encoded Text - Haskell Foundation"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nbitrp/scotty_call_for_maintainers/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/RyanGlScott  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nbitrp/scotty_call_for_maintainers/",
+          "publishedOn": "2021-05-13T15:09:02.000Z",
+          "wordCount": 277,
+          "title": "scotty: call for maintainers"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nbi5t5/issue_263_haskell_weekly_newsletter/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/haskellweekly  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nbi5t5/issue_263_haskell_weekly_newsletter/",
+          "publishedOn": "2021-05-13T14:39:47.000Z",
+          "wordCount": 125,
+          "title": "Issue 263 :: Haskell Weekly newsletter"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nbdzou/anamorphisms_aka_unfolds_explained_functional/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/mihaela_workshub  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nbdzou/anamorphisms_aka_unfolds_explained_functional/",
+          "publishedOn": "2021-05-13T11:01:50.000Z",
+          "wordCount": 323,
+          "title": "Anamorphisms aka Unfolds Explained | Functional Works"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nbc8rv/how_to_use_cryptonite_aes256_with_conduit_to/",
+          "author": null,
+          "description": "Hello,\n so I&#39;m working on personal project and I need to encrypt/decrypt large chunks of data using AES256 with constant memory use. I did this previously in Scala using bouncy-castle and akka-streams, but I don&#39;t know how to do this in Haskell. So far I guess for streaming, conduit would be good match and for AES256 the cryptonite would be the pick. However, I cannot find any example how to use these two together. There seems to be library called library called cryptonite-conduit, but it supports o…",
+          "link": "https://www.reddit.com/r/haskell/comments/nbc8rv/how_to_use_cryptonite_aes256_with_conduit_to/",
+          "publishedOn": "2021-05-13T09:00:00.000Z",
+          "wordCount": 279,
+          "title": "How to use cryptonite (AES256) with conduit to achieve constant memory encryption?"
+        },
+        {
           "id": "https://www.reddit.com/r/haskell/comments/naxxyv/cabal_unpacks_06gb_into_the_home_directory/",
           "author": null,
           "description": "A FreeBSD update instructs me to build Xmonad using the Cabal &quot;new-build&quot; mechanism. After doing &quot;cabal new-update&quot; I find that Cabal downloaded a 85MB .tar.gz archive. Having a closer look I detect that it unpacks this file to a plain .tar of 636MB! I have never seen a software unpacking a whole .tar.gz at all, and one of a size of more than a half GB less than ever. I will not condone this kind of behaviour on my machine.\n First question: Is there a way to inhibit the gunzip?\n Second q…",
@@ -423,6 +504,15 @@
       "siteUrl": "https://www.reddit.com/r/TheMotte/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/TheMotte/comments/nb3mzx/how_humans_are_like_water_order_surfaces_and_chaos/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/qqqqquinnnnn  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/TheMotte/comments/nb3mzx/how_humans_are_like_water_order_surfaces_and_chaos/",
+          "publishedOn": "2021-05-13T00:18:14.000Z",
+          "wordCount": 637,
+          "title": "How Humans Are Like Water: Order, Surfaces, and Chaos"
+        },
+        {
           "id": "https://www.reddit.com/r/TheMotte/comments/nahyz6/wellness_wednesday_for_may_12_2021/",
           "author": null,
           "description": "The Wednesday Wellness threads are meant to encourage users to ask for and provide advice and motivation to improve their lives. It isn&#39;t intended as a &#39;containment thread&#39; and if you should feel free to post content which could go here in it&#39;s own thread. You could post:\n  \nRequests for advice and / or encouragement. On basically any topic and for any scale of problem.\n \nUpdates to let us know how you are doing. This provides valuable feedback on past advice / encouragement and will hopeful…",
@@ -456,6 +546,33 @@
       "feedUrl": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
       "siteUrl": "https://www.reddit.com/r/ScientificNutrition/top/?sort=top&t=day",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/nbsbv9/an_intensive_lifestyle_intervention_to_treat_type/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/ElectronicAd6233  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/nbsbv9/an_intensive_lifestyle_intervention_to_treat_type/",
+          "publishedOn": "2021-05-13T21:47:58.000Z",
+          "wordCount": 809,
+          "title": "An Intensive Lifestyle Intervention to Treat Type 2 Diabetes in the Republic of the Marshall Islands: Protocol for a Randomized Controlled Trial"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/nbqlav/selenium_supplementation_inhibits_igf1_signaling/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/Regenine  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/nbqlav/selenium_supplementation_inhibits_igf1_signaling/",
+          "publishedOn": "2021-05-13T20:29:30.000Z",
+          "wordCount": 558,
+          "title": "Selenium supplementation inhibits IGF-1 signaling, and confers Methionine Restriction-like healthspan benefits to mice (2021)"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/nb9ctl/opinion_on_intermittent_fasting/",
+          "author": null,
+          "description": "I would like to pose a question to the nutritionists in the group: what is your professional opinion as healthcare workers regarding intermittent fasting? If IF suits my life style and aligns with my natural hunger cues (I eat 3 well and healthy macro-balanced meals and work out 4 times a week), it may be able to be used somewhat successfully as a tool for weight loss/ maintenance? It&#39;s not much different from any other calorically restrictive diet / dietary restriction? Any body fat loss from IF has le…",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/nb9ctl/opinion_on_intermittent_fasting/",
+          "publishedOn": "2021-05-13T05:32:31.000Z",
+          "wordCount": 1800,
+          "title": "Opinion on intermittent fasting?"
+        },
         {
           "id": "https://www.reddit.com/r/ScientificNutrition/comments/naz10f/cardiovascular_risk_factor_trajectories_since/",
           "author": null,
@@ -617,6 +734,33 @@
       "siteUrl": "https://www.reddit.com/r/redscarepod/top/?sort=top&t=day&limit=3",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redscarepod/comments/nbn82a/xd/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/bitchyfuxkjngbltch34  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/nbn82a/xd/",
+          "publishedOn": "2021-05-13T18:12:28.000Z",
+          "wordCount": 499,
+          "title": "XD"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/nbdx25/those_winter_sundays_robert_hayden_1966/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/asshufferninekay  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/nbdx25/those_winter_sundays_robert_hayden_1966/",
+          "publishedOn": "2021-05-13T10:57:20.000Z",
+          "wordCount": 1092,
+          "title": "\"Those Winter Sundays\" Robert Hayden, 1966"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/nb5cbq/goals/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/zara_mf_thustra  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/nb5cbq/goals/",
+          "publishedOn": "2021-05-13T01:41:41.000Z",
+          "wordCount": 395,
+          "title": "Goals."
+        },
+        {
           "id": "https://www.reddit.com/r/redscarepod/comments/naw57i/virgin_vs_chad/",
           "author": null,
           "description": "&#32; submitted by &#32;  /u/Xi_Pimping  \n [link] &#32; [comments]",
@@ -704,6 +848,51 @@
       "feedUrl": "https://rsshub.app/github/trending/daily/haskell",
       "siteUrl": "https://github.com/trending/haskell?since=daily",
       "articles": [
+        {
+          "id": "https://github.com/quickstrom/quickstrom",
+          "author": "quickstrom",
+          "description": "High-confidence browser testing\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/quickstrom/quickstrom",
+          "publishedOn": "2021-05-14T00:56:05.236Z",
+          "wordCount": 509,
+          "title": "quickstrom /\n\n      quickstrom"
+        },
+        {
+          "id": "https://github.com/Simspace/on-error",
+          "author": "Simspace",
+          "description": "Clearly-delineated error-handling\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/Simspace/on-error",
+          "publishedOn": "2021-05-14T00:56:05.053Z",
+          "wordCount": 2271,
+          "title": "Simspace /\n\n      on-error"
+        },
+        {
+          "id": "https://github.com/wasp-lang/wasp",
+          "author": "wasp-lang",
+          "description": "A programming language that understands what a web app is.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/wasp-lang/wasp",
+          "publishedOn": "2021-05-14T00:56:04.808Z",
+          "wordCount": 1102,
+          "title": "wasp-lang /\n\n      wasp"
+        },
+        {
+          "id": "https://github.com/cdepillabout/servant-rawm",
+          "author": "cdepillabout",
+          "description": "Effectful Raw handler for Servant servers.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/cdepillabout/servant-rawm",
+          "publishedOn": "2021-05-14T00:56:04.763Z",
+          "wordCount": 677,
+          "title": "cdepillabout /\n\n      servant-rawm"
+        },
+        {
+          "id": "https://github.com/kmonad/kmonad",
+          "author": "kmonad",
+          "description": "An advanced keyboard manager\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/kmonad/kmonad",
+          "publishedOn": "2021-05-14T00:56:04.721Z",
+          "wordCount": 1065,
+          "title": "kmonad /\n\n      kmonad"
+        },
         {
           "id": "https://github.com/input-output-hk/cardano-ledger-specs",
           "author": "input-output-hk",
@@ -1152,6 +1341,186 @@
       "feedUrl": "https://hnrss.org/frontpage",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=27148593",
+          "author": "busymom0",
+          "description": "Article URL: https://www.backblaze.com/blog/privacy-update-third-party-tracking/?date=May13\nComments URL: https://news.ycombinator.com/item?id=27148593\nPoints: 91\n# Comments: 10",
+          "link": "https://www.backblaze.com/blog/privacy-update-third-party-tracking/?date=May13",
+          "publishedOn": "2021-05-13T23:04:20.000Z",
+          "wordCount": 941,
+          "title": "BackBlaze: Privacy Update: Third-Party Tracking"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27148529",
+          "author": "andyxor",
+          "description": "Article URL: https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/\nComments URL: https://news.ycombinator.com/item?id=27148529\nPoints: 23\n# Comments: 1",
+          "link": "https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/",
+          "publishedOn": "2021-05-13T22:56:54.000Z",
+          "wordCount": 3239,
+          "title": "The Brain Maps Out Ideas and Memories Like Spaces"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27148435",
+          "author": "clairity",
+          "description": "Article URL: https://www.latimes.com/california/story/2021-05-13/asante-microfarms-jamiah-hargins-south-la-fresh-food-produce\nComments URL: https://news.ycombinator.com/item?id=27148435\nPoints: 9\n# Comments: 4",
+          "link": "https://www.latimes.com/california/story/2021-05-13/asante-microfarms-jamiah-hargins-south-la-fresh-food-produce",
+          "publishedOn": "2021-05-13T22:45:06.000Z",
+          "wordCount": 2957,
+          "title": "Microfarms come to South L.A. frontyards, bringing fresh produce to food deserts"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27148296",
+          "author": "zeristor",
+          "description": "Article URL: https://thomas-godden.medium.com/how-spacex-lands-starship-sort-of-ee96cdde650b\nComments URL: https://news.ycombinator.com/item?id=27148296\nPoints: 58\n# Comments: 6",
+          "link": "https://thomas-godden.medium.com/how-spacex-lands-starship-sort-of-ee96cdde650b",
+          "publishedOn": "2021-05-13T22:28:10.000Z",
+          "wordCount": 2195,
+          "title": "How SpaceX lands Starship (sort of)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27147482",
+          "author": "elithrar",
+          "description": "Article URL: https://fly.io/blog/measuring-fly/\nComments URL: https://news.ycombinator.com/item?id=27147482\nPoints: 88\n# Comments: 35",
+          "link": "https://fly.io/blog/measuring-fly/",
+          "publishedOn": "2021-05-13T21:07:23.000Z",
+          "wordCount": 2214,
+          "title": "Fly’s Prometheus Metrics"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27147408",
+          "author": "jairajs89",
+          "description": "Article URL: https://substack.com/jobs\nComments URL: https://news.ycombinator.com/item?id=27147408\nPoints: 1\n# Comments: 0",
+          "link": "https://substack.com/jobs",
+          "publishedOn": "2021-05-13T21:01:15.000Z",
+          "wordCount": 390,
+          "title": "Substack is hiring engineers to build a better business model for writing"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27146975",
+          "author": "souradip",
+          "description": "Article URL: https://souradip.mookerj.ee/blog/free-sequencing\nComments URL: https://news.ycombinator.com/item?id=27146975\nPoints: 68\n# Comments: 49",
+          "link": "https://souradip.mookerj.ee/blog/free-sequencing",
+          "publishedOn": "2021-05-13T20:26:43.000Z",
+          "wordCount": 1699,
+          "title": "A new era of personalised medicine: or how I got myself sequenced for free"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27145911",
+          "author": "danpinto",
+          "description": "Article URL: https://fingerprintjs.com/blog/external-protocol-flooding/\nComments URL: https://news.ycombinator.com/item?id=27145911\nPoints: 256\n# Comments: 132",
+          "link": "https://fingerprintjs.com/blog/external-protocol-flooding/",
+          "publishedOn": "2021-05-13T18:59:10.000Z",
+          "wordCount": 2069,
+          "title": "Vulnerability allows cross-browser tracking in Chrome, Firefox, Safari, and Tor"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27145515",
+          "author": "tosh",
+          "description": "Article URL: https://observablehq.com/@asg017/introducing-dataflow\nComments URL: https://news.ycombinator.com/item?id=27145515\nPoints: 141\n# Comments: 42",
+          "link": "https://observablehq.com/@asg017/introducing-dataflow",
+          "publishedOn": "2021-05-13T18:28:06.000Z",
+          "wordCount": 14,
+          "title": "Dataflow, a self-hosted Observable notebook editor"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27145504",
+          "author": "rbanffy",
+          "description": "Article URL: https://nautil.us/issue/100/outsiders/should-we-terraform-mars-lets-recap\nComments URL: https://news.ycombinator.com/item?id=27145504\nPoints: 68\n# Comments: 212",
+          "link": "https://nautil.us/issue/100/outsiders/should-we-terraform-mars-lets-recap",
+          "publishedOn": "2021-05-13T18:27:08.000Z",
+          "wordCount": 3315,
+          "title": "A Recap of the Mars Terraforming Debate"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27145263",
+          "author": "jbegley",
+          "description": "Article URL: https://www.vice.com/en/article/88ng8x/pentagon-americans-surveillance-without-warrant-internet-browsing\nComments URL: https://news.ycombinator.com/item?id=27145263\nPoints: 458\n# Comments: 174",
+          "link": "https://www.vice.com/en/article/88ng8x/pentagon-americans-surveillance-without-warrant-internet-browsing",
+          "publishedOn": "2021-05-13T18:06:34.000Z",
+          "wordCount": 1064,
+          "title": "Pentagon surveilling Americans without a warrant, Senator Wyden reveals"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27145230",
+          "author": "awb",
+          "description": "Article URL: https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html\nComments URL: https://news.ycombinator.com/item?id=27145230\nPoints: 298\n# Comments: 424",
+          "link": "https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html",
+          "publishedOn": "2021-05-13T18:04:35.000Z",
+          "wordCount": 696,
+          "title": "$365B wiped off cryptocurrency market after Tesla stops accepting Bitcoin"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27144930",
+          "author": "troygoode",
+          "description": "Article URL: https://www.courier.com/blog/the-three-things-to-never-build-in-your-app\nComments URL: https://news.ycombinator.com/item?id=27144930\nPoints: 154\n# Comments: 155",
+          "link": "https://www.courier.com/blog/the-three-things-to-never-build-in-your-app",
+          "publishedOn": "2021-05-13T17:39:47.000Z",
+          "wordCount": 1287,
+          "title": "Three things to never build yourself: auth, notifications, payments"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27144764",
+          "author": "MrUssek",
+          "description": "Article URL: https://stefanzukin.com/enigma/\nComments URL: https://news.ycombinator.com/item?id=27144764\nPoints: 136\n# Comments: 82",
+          "link": "https://stefanzukin.com/enigma/",
+          "publishedOn": "2021-05-13T17:26:27.000Z",
+          "wordCount": 27,
+          "title": "Enigma: GPT-2 trained on 10K Nature Papers: Can you spot the difference?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27144566",
+          "author": "cristinacordova",
+          "description": "Article URL: https://developers.notion.so\nComments URL: https://news.ycombinator.com/item?id=27144566\nPoints: 385\n# Comments: 185",
+          "link": "https://developers.notion.so",
+          "publishedOn": "2021-05-13T17:08:21.000Z",
+          "wordCount": 363,
+          "title": "Notion API – public beta"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27143898",
+          "author": "bitsweet",
+          "description": "Article URL: https://avc.com/2021/05/golden-handcuffs-2/\nComments URL: https://news.ycombinator.com/item?id=27143898\nPoints: 94\n# Comments: 140",
+          "link": "https://avc.com/2021/05/golden-handcuffs-2/",
+          "publishedOn": "2021-05-13T16:17:31.000Z",
+          "wordCount": 223,
+          "title": "Golden Handcuffs"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27142930",
+          "author": "jessouyang",
+          "description": "Jess and Jo here, and we're excited to share Ditto with you all (https://dittowords.com). Ditto is a way to manage product copy—the text found on user interfaces—all the way from design to development. Think of a headless CMS but with the text from your design files.\nWe think product copy is one of the highest ROI aspects of product development today, but also one of the most overlooked. Even more so than the visuals, the text users read is critical to shaping their understanding of how things work. Copy of…",
+          "link": "https://news.ycombinator.com/item?id=27142930",
+          "publishedOn": "2021-05-13T15:07:30.000Z",
+          "wordCount": 5073,
+          "title": "Launch HN: Ditto (YC W20) – Keep product text in sync from design to production"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27142663",
+          "author": "open-source-ux",
+          "description": "Article URL: https://www.bbc.co.uk/programmes/m000tmm1\nComments URL: https://news.ycombinator.com/item?id=27142663\nPoints: 59\n# Comments: 26",
+          "link": "https://www.bbc.co.uk/programmes/m000tmm1",
+          "publishedOn": "2021-05-13T14:47:29.000Z",
+          "wordCount": 393,
+          "title": "\"Memory athletes\" and the techniques they use [audio]"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27142407",
+          "author": "longdefeat",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2021-05-13/colonial-pipeline-paid-hackers-nearly-5-million-in-ransom\nComments URL: https://news.ycombinator.com/item?id=27142407\nPoints: 287\n# Comments: 318",
+          "link": "https://www.bloomberg.com/news/articles/2021-05-13/colonial-pipeline-paid-hackers-nearly-5-million-in-ransom",
+          "publishedOn": "2021-05-13T14:26:01.000Z",
+          "wordCount": 93,
+          "title": "Colonial Pipeline Paid Hackers Nearly $5M in Ransom"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27142146",
+          "author": "lewisjoe",
+          "description": "Article URL: https://hexo.press\nComments URL: https://news.ycombinator.com/item?id=27142146\nPoints: 132\n# Comments: 43",
+          "link": "https://hexo.press",
+          "publishedOn": "2021-05-13T13:58:17.000Z",
+          "wordCount": 197,
+          "title": "Show HN: I made a platform to publish my Google Docs files as blogs"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=27136746",
           "author": "encryptluks2",
