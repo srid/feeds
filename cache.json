@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340136",
+          "author": "Chris Coyier",
+          "description": "I&#8217;ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You&#8217;re essentially leaving money on the table without them, because they &#8230;\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/auto-generated-social-media-images/",
+          "publishedOn": "2021-05-14T20:34:49.000Z",
+          "wordCount": 1881,
+          "title": "Auto-Generated Social Media Images"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340343",
+          "author": "Nathan Babcock",
+          "description": "!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:\n$variable: 'test' !default;\nTo the Sass compiler, this line &#8230;\nThe post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/",
+          "publishedOn": "2021-05-14T14:14:34.000Z",
+          "wordCount": 1344,
+          "title": "Creating Stylesheet Feature Flags With Sass !default"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340403",
+          "author": "Chris Coyier",
+          "description": "Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It&#8217;s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about &#8230;\nThe post HTML Boilerplates appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/html-boilerplates/",
+          "publishedOn": "2021-05-14T14:13:07.000Z",
+          "wordCount": 749,
+          "title": "HTML Boilerplates"
+        },
+        {
           "id": "https://css-tricks.com/?p=340490",
           "author": "Chris Coyier",
           "description": "Chen Hui Jing covers some recent movement in DevTools:\nFirefox’s grid inspector was pretty full-featured from the get-to and&#160;released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a&#160;basic grid inspector \n&#8230;\nThe post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -281,6 +308,87 @@
       "siteUrl": "https://www.reddit.com/r/haskell/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/haskell/comments/nclqk9/exiting_ghci_with_vim_command/",
+          "author": null,
+          "description": "I saw this great tweet earlier:\n https://twitter.com/polikarn/status/1392945152965021697\n I&#39;d never thought of the :q command&#39;s similarity to vim (possibly because I default to &lt;Ctrl-D&gt; in REPLs). Cool!\n But… that&#39;s not how I exit vim. I use ZZ.\n The following incantation (which requires unix and process packages) is here to save the day.\n import System.Exit import System.IO.Unsafe import System.Posix.Process import System.Process data ExitVim = ZZ | ZQ exitSigTERM :: IO ProcessHandle exit…",
+          "link": "https://www.reddit.com/r/haskell/comments/nclqk9/exiting_ghci_with_vim_command/",
+          "publishedOn": "2021-05-14T23:21:59.000Z",
+          "wordCount": 296,
+          "title": "Exiting ghci with vim command"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/ncl2fm/can_you_ban_cardano_related_posts_here/",
+          "author": null,
+          "description": "Their marketing campaign is creeping into everything Haskell does and it is annoying. I don&#39;t care about gambling/crypto-currencies. Just because something is partly written in Haskell doesn&#39;t make it related to Haskell much. I&#39;m sure the #get-rich-quick people that are interested in Cardano are following the respective subs.\n At this moment IOHK/Cardano people are writing blog posts, Reddit posts, uploading YouTube videos and such all part of their marketing campaign. This campaign involves lin…",
+          "link": "https://www.reddit.com/r/haskell/comments/ncl2fm/can_you_ban_cardano_related_posts_here/",
+          "publishedOn": "2021-05-14T22:45:59.000Z",
+          "wordCount": 795,
+          "title": "Can you ban Cardano related posts here?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nckpbk/moocfis_haskell_course_is_great_and_should_be/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/gnpwhm  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nckpbk/moocfis_haskell_course_is_great_and_should_be/",
+          "publishedOn": "2021-05-14T22:26:50.000Z",
+          "wordCount": 188,
+          "title": "mooc.fi's Haskell course is great and should be talked about more. It has plenty of exercises with useful tests that show how far along your solution is."
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/ncjfrg/list_of_nonconcrete_types/",
+          "author": null,
+          "description": "Beginner here. Why this does not work?\n ```haskell cons :: (Ord a) =&gt; a -&gt; [a] -&gt; [a] cons x xs = x : xs\n cons 1 (cons &#39;a&#39; []) ```\n I can have a list of Int and a list of Char. Since both Int and Char have instances of Ord, I wondered if I could have a list of Ord, or any other class type, a bit like in C#/Java one could have a List&lt;IComparable&gt; holding different types, as long as they implements the specified interface.\n  &#32; submitted by &#32;  /u/jeenajeena  \n [link] &#32; [comme…",
+          "link": "https://www.reddit.com/r/haskell/comments/ncjfrg/list_of_nonconcrete_types/",
+          "publishedOn": "2021-05-14T21:25:29.000Z",
+          "wordCount": 559,
+          "title": "List of non-concrete types"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nchen1/inductive_inference_for_get_from_databinaryget/",
+          "author": null,
+          "description": "This might be a little niche and/or basic, but I thought this was kinda cool.\n Blame me for any mistakes below, but credit to this fantastic blog post by Alexis King where I first learned that you could do this kind of thing: https://lexi-lambda.github.io/blog/2021/03/25/an-introduction-to-typeclass-metaprogramming/\n Basically, I was trying to parse a lazy ByteString into a data structure, say:\n data Tag = Tag Word8 Word8 Word8 Word8 \n using Data.Binary.Get. To do this, I needed to define a Get Tag by\n getT…",
+          "link": "https://www.reddit.com/r/haskell/comments/nchen1/inductive_inference_for_get_from_databinaryget/",
+          "publishedOn": "2021-05-14T19:54:42.000Z",
+          "wordCount": 603,
+          "title": "Inductive inference for Get (from Data.Binary.Get) using type families"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/ncaud3/scala_has_dependent_types_now/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/JeffreyBenjaminBrown  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/ncaud3/scala_has_dependent_types_now/",
+          "publishedOn": "2021-05-14T15:08:59.000Z",
+          "wordCount": 374,
+          "title": "Scala has dependent types now"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nc9mj1/could_cardano_be_the_most_significant_peice_of/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/pritesh_shri  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nc9mj1/could_cardano_be_the_most_significant_peice_of/",
+          "publishedOn": "2021-05-14T14:15:30.000Z",
+          "wordCount": 384,
+          "title": "Could Cardano be the most significant peice of software written in Haskell ?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nc297f/making_map_k_as_functor/",
+          "author": null,
+          "description": "I am trying to make Map k as a instance of a functor. This is an exercise from LYAH\n Here is the code \n import qualified Data.Map as Map instance Functor (Map.Map k) where fmap f (Map.Map k v) = Map.Map k (f v) \n When I run this code, I am getting \n Not in scope: data constructor ‘Map’ │ Perhaps you meant one of these: │ variable ‘map’ (imported from Prelude), │ variable ‘Map.map’ (imported from Data.Map) │ | │ 6 | fmap f (Map k v) = Map k (f v) │ | ^^^ \n Any help/clarification with the error message is app…",
+          "link": "https://www.reddit.com/r/haskell/comments/nc297f/making_map_k_as_functor/",
+          "publishedOn": "2021-05-14T06:45:38.000Z",
+          "wordCount": 1041,
+          "title": "Making Map k as Functor"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nbyj7d/ixset_a_set_with_multiple_indexed_keys/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/sridqc  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nbyj7d/ixset_a_set_with_multiple_indexed_keys/",
+          "publishedOn": "2021-05-14T02:45:38.000Z",
+          "wordCount": 241,
+          "title": "IxSet: a set with multiple indexed keys"
+        },
+        {
           "id": "https://www.reddit.com/r/haskell/comments/nbkzsk/hf_tech_proposal_1_utf8_encoded_text_haskell/",
           "author": null,
           "description": "&#32; submitted by &#32;  /u/emilypii  \n [link] &#32; [comments]",
@@ -504,6 +612,24 @@
       "siteUrl": "https://www.reddit.com/r/TheMotte/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/TheMotte/comments/nc5dkm/on_the_deaging_of_god/",
+          "author": null,
+          "description": "(Found in my Facebook memories. Will try and format it Redditly, but doing so on a phone, so might take a while.)\n On the deaging of God:\n While DragonBall Super has no pretentions of being anything more than fiction to entertain children, Zeno-chan seems to capture the past century of development in terms of Western thought rather well, so we&#39;ll use Zeno as an example. Note that I am in no way suggesting Zenoism be a thing!\n In the Old Testament, God comes across like a Patriarch, only greater and more…",
+          "link": "https://www.reddit.com/r/TheMotte/comments/nc5dkm/on_the_deaging_of_god/",
+          "publishedOn": "2021-05-14T10:26:08.000Z",
+          "wordCount": 3005,
+          "title": "On the Deaging of God"
+        },
+        {
+          "id": "https://www.reddit.com/r/TheMotte/comments/nc1u6v/friday_fun_thread_for_may_14_2021/",
+          "author": null,
+          "description": "Be advised; This thread is not for serious in depth discussion of weighty topics (we have a link for that), this thread is not for anything Culture War related. This thread is for Fun. You got jokes? Share &#39;em. You got silly questions? Ask &#39;em.\n  &#32; submitted by &#32;  /u/AutoModerator  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/TheMotte/comments/nc1u6v/friday_fun_thread_for_may_14_2021/",
+          "publishedOn": "2021-05-14T06:15:12.000Z",
+          "wordCount": 1377,
+          "title": "Friday Fun Thread for May 14, 2021"
+        },
+        {
           "id": "https://www.reddit.com/r/TheMotte/comments/nb3mzx/how_humans_are_like_water_order_surfaces_and_chaos/",
           "author": null,
           "description": "&#32; submitted by &#32;  /u/qqqqquinnnnn  \n [link] &#32; [comments]",
@@ -546,6 +672,60 @@
       "feedUrl": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
       "siteUrl": "https://www.reddit.com/r/ScientificNutrition/top/?sort=top&t=day",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/ncgvfw/is_ifos_testing_trustworthy/",
+          "author": null,
+          "description": "Here is a COA of a recent fish oil bottle I had bought. Everything seems fine, but I can&#39;t find the testing methodologies and standardizations listed on the COA.\n There is some really vague information on the nutrasource site saying how test methods are typically run. Okay, but how was it run specifically for the product I ingested? What methods specifically were used to determine the oxidation and heavy metal levels?\n Is a COA supposed to look this vague? I only started looking into this because I&#39;…",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/ncgvfw/is_ifos_testing_trustworthy/",
+          "publishedOn": "2021-05-14T19:30:21.000Z",
+          "wordCount": 298,
+          "title": "Is IFOS testing trustworthy?"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/ncdzpv/pathways_to_obesity_tltr_the_thermic_effect_of/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/Slight-Peanut5427  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/ncdzpv/pathways_to_obesity_tltr_the_thermic_effect_of/",
+          "publishedOn": "2021-05-14T17:24:31.000Z",
+          "wordCount": 535,
+          "title": "Pathways to obesity (TL/TR: The thermic effect of nutrients is 2-3% for lipids, 6-8% for carbohydrates and 25-30% for proteins."
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/nc80cn/scientific_studies_showing_seed_oils_are_bad/",
+          "author": null,
+          "description": "This is a statement from a well known doctor:\n &#x200B;\n  \nOver the last 100+ years Western society has massively increased its consumption of linoleic acid in the form of seed oils. As a result, we have seen a massive increase in metabolic dysfunction. \n Based on how it is processed at the mitochondrial level, linoleic acid prompts fat cells to grow. Growing fat cells is a bad thing for our body, but at a metabolic level, it quickly becomes very dangerous. \n When fat cells of the visceral adipose tissue ge…",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/nc80cn/scientific_studies_showing_seed_oils_are_bad/",
+          "publishedOn": "2021-05-14T12:58:35.000Z",
+          "wordCount": 2447,
+          "title": "Scientific studies showing seed oils are bad?"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/nc77kl/fruit_and_vegetable_intake_is_inversely/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/nooobiiiiiiiiiii  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/nc77kl/fruit_and_vegetable_intake_is_inversely/",
+          "publishedOn": "2021-05-14T12:16:00.000Z",
+          "wordCount": 806,
+          "title": "Fruit and vegetable intake is inversely associated with perceived stress across the adult lifespan"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/nc4z1q/casual_friday_thread/",
+          "author": null,
+          "description": "The Casual Friday Thread is a place for nutrition related discussion that is not allowed on the main r/ScientificNutrition feed. Talk about what you&#39;re eating. Tell us your personal anecdotes. Link to your favorite blogs and videos. We ask that you still maintain a friendly atmosphere and refrain from giving medical advice (i.e. don&#39;t try to diagnose or tell someone how to treat a medical condition), but nutrition advice is okay.\n  &#32; submitted by &#32;  /u/AutoModerator  \n [link] &#32; [comments…",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/nc4z1q/casual_friday_thread/",
+          "publishedOn": "2021-05-14T10:00:15.000Z",
+          "wordCount": 400,
+          "title": "Casual Friday Thread"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/nc2aoz/effect_of_longterm_exposure_to_lower_lowdensity/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/Runaway4Life  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/nc2aoz/effect_of_longterm_exposure_to_lower_lowdensity/",
+          "publishedOn": "2021-05-14T06:48:38.000Z",
+          "wordCount": 1047,
+          "title": "Effect of Long-Term Exposure to Lower Low-Density Lipoprotein Cholesterol Beginning Early in Life on the Risk of Coronary Heart Disease: A Mendelian Randomization Analysis"
+        },
         {
           "id": "https://www.reddit.com/r/ScientificNutrition/comments/nbsbv9/an_intensive_lifestyle_intervention_to_treat_type/",
           "author": null,
@@ -734,6 +914,33 @@
       "siteUrl": "https://www.reddit.com/r/redscarepod/top/?sort=top&t=day&limit=3",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redscarepod/comments/ncbq4o/this_describes_60_of_you_here/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/bitchyfuxkjngbltch34  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/ncbq4o/this_describes_60_of_you_here/",
+          "publishedOn": "2021-05-14T15:46:41.000Z",
+          "wordCount": 677,
+          "title": "this describes 60% of you here"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/nc41jl/_/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/bitchyfuxkjngbltch34  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/nc41jl/_/",
+          "publishedOn": "2021-05-14T08:57:21.000Z",
+          "wordCount": 697,
+          "title": "🧐"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/nbzo8s/literally_how/",
+          "author": null,
+          "description": "&#32; submitted by &#32;  /u/TheShade77  \n [link] &#32; [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/nbzo8s/literally_how/",
+          "publishedOn": "2021-05-14T03:51:53.000Z",
+          "wordCount": 713,
+          "title": "LITERALLY HOW"
+        },
+        {
           "id": "https://www.reddit.com/r/redscarepod/comments/nbn82a/xd/",
           "author": null,
           "description": "&#32; submitted by &#32;  /u/bitchyfuxkjngbltch34  \n [link] &#32; [comments]",
@@ -848,6 +1055,51 @@
       "feedUrl": "https://rsshub.app/github/trending/daily/haskell",
       "siteUrl": "https://github.com/trending/haskell?since=daily",
       "articles": [
+        {
+          "id": "https://github.com/Simspace/avaleryar",
+          "author": "Simspace",
+          "description": "A logical authorization system\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/Simspace/avaleryar",
+          "publishedOn": "2021-05-15T00:53:43.411Z",
+          "wordCount": 3180,
+          "title": "Simspace /\n\n      avaleryar"
+        },
+        {
+          "id": "https://github.com/erebe/greenclip",
+          "author": "erebe",
+          "description": "Simple clipboard manager to be integrated with rofi - Static binary available\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/erebe/greenclip",
+          "publishedOn": "2021-05-15T00:53:43.374Z",
+          "wordCount": 1230,
+          "title": "erebe /\n\n      greenclip"
+        },
+        {
+          "id": "https://github.com/purescript/purescript",
+          "author": "purescript",
+          "description": "A strongly-typed language that compiles to JavaScript\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/purescript/purescript",
+          "publishedOn": "2021-05-15T00:53:43.310Z",
+          "wordCount": 786,
+          "title": "purescript /\n\n      purescript"
+        },
+        {
+          "id": "https://github.com/brendanhay/amazonka",
+          "author": "brendanhay",
+          "description": "A comprehensive Amazon Web Services SDK for Haskell.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/brendanhay/amazonka",
+          "publishedOn": "2021-05-15T00:53:43.271Z",
+          "wordCount": 934,
+          "title": "brendanhay /\n\n      amazonka"
+        },
+        {
+          "id": "https://github.com/mwotton/squealgen",
+          "author": "mwotton",
+          "description": "generate haskell types for Squeal from a running postgresql database.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/mwotton/squealgen",
+          "publishedOn": "2021-05-15T00:53:43.118Z",
+          "wordCount": 780,
+          "title": "mwotton /\n\n      squealgen"
+        },
         {
           "id": "https://github.com/quickstrom/quickstrom",
           "author": "quickstrom",
@@ -1341,6 +1593,186 @@
       "feedUrl": "https://hnrss.org/frontpage",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=27161011",
+          "author": "demail",
+          "description": "Article URL: https://twitter.com/Iameaschris/status/1391207396979007488\nComments URL: https://news.ycombinator.com/item?id=27161011\nPoints: 22\n# Comments: 0",
+          "link": "https://twitter.com/Iameaschris/status/1391207396979007488",
+          "publishedOn": "2021-05-15T00:06:30.000Z",
+          "wordCount": 196,
+          "title": "TikTok Remix Culture"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27160983",
+          "author": "typeofnandev",
+          "description": "Article URL: https://macwright.com/2021/03/16/return-of-fancy-tools.html\nComments URL: https://news.ycombinator.com/item?id=27160983\nPoints: 42\n# Comments: 5",
+          "link": "https://macwright.com/2021/03/16/return-of-fancy-tools.html",
+          "publishedOn": "2021-05-15T00:03:01.000Z",
+          "wordCount": 529,
+          "title": "The Return of Fancy Tools"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27160734",
+          "author": "DanielKehoe",
+          "description": "Article URL: https://rodencrater.com/\nComments URL: https://news.ycombinator.com/item?id=27160734\nPoints: 6\n# Comments: 2",
+          "link": "https://rodencrater.com/",
+          "publishedOn": "2021-05-14T23:27:21.000Z",
+          "wordCount": 77,
+          "title": "Roden Crater"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27160312",
+          "author": "vuciv1",
+          "description": "Article URL: https://jerseyfonseca.com/blogs/wewatchgrowth\nComments URL: https://news.ycombinator.com/item?id=27160312\nPoints: 47\n# Comments: 33",
+          "link": "https://jerseyfonseca.com/blogs/wewatchgrowth",
+          "publishedOn": "2021-05-14T22:22:43.000Z",
+          "wordCount": 1094,
+          "title": "I got 22k app downloads in one weekend with a $0 budget"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27160049",
+          "author": "kaeruct",
+          "description": "Article URL: https://desk.glitchy.website\nComments URL: https://news.ycombinator.com/item?id=27160049\nPoints: 33\n# Comments: 12",
+          "link": "https://desk.glitchy.website",
+          "publishedOn": "2021-05-14T21:45:13.000Z",
+          "wordCount": 90,
+          "title": "Show HN: A Windows 7 web desktop recreation"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27159906",
+          "author": "pdenton",
+          "description": "Article URL: https://github.com/ec-/Quake3e\nComments URL: https://news.ycombinator.com/item?id=27159906\nPoints: 102\n# Comments: 34",
+          "link": "https://github.com/ec-/Quake3e",
+          "publishedOn": "2021-05-14T21:29:34.000Z",
+          "wordCount": 1305,
+          "title": "Quake3e, a modern Quake III Arena engine"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27159629",
+          "author": "chrisupjohn",
+          "description": "Hello,\nMagicBus is helping more commuters traveling longer distance get into shared vans, in particular for those without good access to public transit or daily access to a car.\nWe have a few roles available:\nFrontend developer (https://www.ycombinator.com/companies/magicbus/jobs/Z5q4bEv-...)\nBackend developer (https://www.ycombinator.com/companies/magicbus/jobs/hesmd99-...)\nDevOps & backend (https://www.ycombinator.com/companies/magicbus/jobs/Ki6bx3i-...)\nComments URL: https://news.ycombinator.com/item?id=…",
+          "link": "https://news.ycombinator.com/item?id=27159629",
+          "publishedOn": "2021-05-14T21:00:29.000Z",
+          "wordCount": 100,
+          "title": "MagicBus (YC W16) Is Hiring Front End/Back End/DevOps"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27159192",
+          "author": "stefan_",
+          "description": "Article URL: https://secret.club/2021/05/13/source-engine-rce-join.html\nComments URL: https://news.ycombinator.com/item?id=27159192\nPoints: 92\n# Comments: 20",
+          "link": "https://secret.club/2021/05/13/source-engine-rce-join.html",
+          "publishedOn": "2021-05-14T20:13:46.000Z",
+          "wordCount": 2586,
+          "title": "Counter-Strike Global Offsets: reliable remote code execution"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27158566",
+          "author": "gmays",
+          "description": "Article URL: https://source.wustl.edu/2021/05/cancer-has-ripple-effect-on-distant-tissues/\nComments URL: https://news.ycombinator.com/item?id=27158566\nPoints: 35\n# Comments: 8",
+          "link": "https://source.wustl.edu/2021/05/cancer-has-ripple-effect-on-distant-tissues/",
+          "publishedOn": "2021-05-14T19:17:57.000Z",
+          "wordCount": 1181,
+          "title": "Study in zebrafish examines how tumors alter whole-body metabolism"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27158277",
+          "author": "andy_herbert",
+          "description": "Article URL: https://www.hyperion-entertainment.com/\nComments URL: https://news.ycombinator.com/item?id=27158277\nPoints: 105\n# Comments: 45",
+          "link": "https://www.hyperion-entertainment.com/",
+          "publishedOn": "2021-05-14T18:53:21.000Z",
+          "wordCount": 1405,
+          "title": "AmigaOS 3.2"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27158088",
+          "author": "tracyhenry",
+          "description": "Article URL: http://www.paulgraham.com/corpdev.html\nComments URL: https://news.ycombinator.com/item?id=27158088\nPoints: 128\n# Comments: 77",
+          "link": "http://www.paulgraham.com/corpdev.html",
+          "publishedOn": "2021-05-14T18:38:50.000Z",
+          "wordCount": 1275,
+          "title": "Don't Talk to Corp Dev (2015)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27157869",
+          "author": "dcminter",
+          "description": "Article URL: https://blogs.bl.uk/sound-and-vision/2018/04/an-elegant-sufficiency-or-the-curious-case-of-a-victorian-meme.html\nComments URL: https://news.ycombinator.com/item?id=27157869\nPoints: 22\n# Comments: 14",
+          "link": "https://blogs.bl.uk/sound-and-vision/2018/04/an-elegant-sufficiency-or-the-curious-case-of-a-victorian-meme.html",
+          "publishedOn": "2021-05-14T18:23:42.000Z",
+          "wordCount": 1057,
+          "title": "An Elegant Sufficiency, or the Curious Case of a Victorian Meme (2018)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27157225",
+          "author": "tmfi",
+          "description": "Article URL: https://www.scs.cmu.edu/news/overcoming-tab-overload\nComments URL: https://news.ycombinator.com/item?id=27157225\nPoints: 114\n# Comments: 150",
+          "link": "https://www.scs.cmu.edu/news/overcoming-tab-overload",
+          "publishedOn": "2021-05-14T17:39:15.000Z",
+          "wordCount": null,
+          "title": "Overcoming Tab Overload"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27157203",
+          "author": "optimalsolver",
+          "description": "Article URL: https://www.forth.com/starting-forth/2-stack-manipulation-operators-arithmetic/\nComments URL: https://news.ycombinator.com/item?id=27157203\nPoints: 86\n# Comments: 31",
+          "link": "https://www.forth.com/starting-forth/2-stack-manipulation-operators-arithmetic/",
+          "publishedOn": "2021-05-14T17:37:27.000Z",
+          "wordCount": 3629,
+          "title": "Forth: Stack-Manipulation Operators"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27156859",
+          "author": "throwkeep",
+          "description": "Article URL: https://www.nature.com/articles/d41586-021-01299-y\nComments URL: https://news.ycombinator.com/item?id=27156859\nPoints: 203\n# Comments: 152",
+          "link": "https://www.nature.com/articles/d41586-021-01299-y",
+          "publishedOn": "2021-05-14T17:17:27.000Z",
+          "wordCount": 1370,
+          "title": "Delaying a Covid vaccine’s second dose boosts immune response"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27156106",
+          "author": "ykdojo",
+          "description": "Article URL: https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/\nComments URL: https://news.ycombinator.com/item?id=27156106\nPoints: 766\n# Comments: 193",
+          "link": "https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/",
+          "publishedOn": "2021-05-14T16:28:21.000Z",
+          "wordCount": 265,
+          "title": "A URL Lengthener"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27155497",
+          "author": "feross",
+          "description": "Article URL: https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/\nComments URL: https://news.ycombinator.com/item?id=27155497\nPoints: 591\n# Comments: 485",
+          "link": "https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/",
+          "publishedOn": "2021-05-14T15:47:30.000Z",
+          "wordCount": 2091,
+          "title": "DarkSide ransomware gang quits after servers, Bitcoin stash seized"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27154368",
+          "author": "Dowwie",
+          "description": "Article URL: https://bfi.uchicago.edu/working-paper/2021-56/\nComments URL: https://news.ycombinator.com/item?id=27154368\nPoints: 111\n# Comments: 84",
+          "link": "https://bfi.uchicago.edu/working-paper/2021-56/",
+          "publishedOn": "2021-05-14T13:58:39.000Z",
+          "wordCount": 362,
+          "title": "Work from Home and Productivity"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27154309",
+          "author": "AllanFischMB",
+          "description": "We are Allan, CJ and Jesus, co-founders of Moonshot Brands (https://www.moonshotbrands.com/). We offer e-commerce founders a simple way to sell their companies, which we then grow.\nThe story behind this began several years ago when CJ and I were trying to sell our e-commerce companies. The process was the most stressful experience of our lives. Drawn-out negotiations. Terrible payment terms. The buyers wanted us gone. We lived with a fear that the businesses we worked so hard to build would be sucked dry an…",
+          "link": "https://news.ycombinator.com/item?id=27154309",
+          "publishedOn": "2021-05-14T13:52:58.000Z",
+          "wordCount": 4234,
+          "title": "Launch HN: Moonshot Brands (YC W21) – We buy and grow e-commerce companies"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27153800",
+          "author": "danso",
+          "description": "Article URL: https://news.yahoo.com/online-mug-shots-forever-states-181700675.html\nComments URL: https://news.ycombinator.com/item?id=27153800\nPoints: 119\n# Comments: 119",
+          "link": "https://news.yahoo.com/online-mug-shots-forever-states-181700675.html",
+          "publishedOn": "2021-05-14T13:04:57.000Z",
+          "wordCount": 2949,
+          "title": "Online, mug shots are forever – some states want to change that"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=27148593",
           "author": "busymom0",
