@@ -2,10 +2,558 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://srid.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-15T00:53:49.270Z</updated>
-    <generator>osmosfeed 1.6.0</generator>
+    <updated>2021-05-16T00:58:46.228Z</updated>
+    <generator>osmosfeed 1.7.0</generator>
     <link rel="alternate" href="https://srid.github.io/feeds/index.html"/>
     <link rel="self" href="https://srid.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[kadena-io /
+
+      chainweaver]]></title>
+        <id>https://github.com/kadena-io/chainweaver</id>
+        <link href="https://github.com/kadena-io/chainweaver"/>
+        <updated>2021-05-16T00:58:40.395Z</updated>
+        <summary type="html"><![CDATA[Kadena Chainweaver desktop wallet and web-based playground for Pact
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>kadena-io</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[obsidiansystems /
+
+      obelisk]]></title>
+        <id>https://github.com/obsidiansystems/obelisk</id>
+        <link href="https://github.com/obsidiansystems/obelisk"/>
+        <updated>2021-05-16T00:58:40.222Z</updated>
+        <summary type="html"><![CDATA[Functional reactive web and mobile applications, with batteries included.
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>obsidiansystems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xmonad /
+
+      xmonad-contrib]]></title>
+        <id>https://github.com/xmonad/xmonad-contrib</id>
+        <link href="https://github.com/xmonad/xmonad-contrib"/>
+        <updated>2021-05-16T00:58:40.152Z</updated>
+        <summary type="html"><![CDATA[Contributed modules for xmonad
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>xmonad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[olivierverdier /
+
+      zsh-git-prompt]]></title>
+        <id>https://github.com/olivierverdier/zsh-git-prompt</id>
+        <link href="https://github.com/olivierverdier/zsh-git-prompt"/>
+        <updated>2021-05-16T00:58:40.127Z</updated>
+        <summary type="html"><![CDATA[Informative git prompt for zsh
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>olivierverdier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mwotton /
+
+      roboservant]]></title>
+        <id>https://github.com/mwotton/roboservant</id>
+        <link href="https://github.com/mwotton/roboservant"/>
+        <updated>2021-05-16T00:58:39.793Z</updated>
+        <summary type="html"><![CDATA[generate contextually sensible fuzz tests for servant apps
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>mwotton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[qnikst /
+
+      HaskellNet]]></title>
+        <id>https://github.com/qnikst/HaskellNet</id>
+        <link href="https://github.com/qnikst/HaskellNet"/>
+        <updated>2021-05-16T00:58:39.754Z</updated>
+        <summary type="html"><![CDATA[Haskell library which provides client support for POP3, SMTP, and IMAP protocols.
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>qnikst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[flipstone /
+
+      orville]]></title>
+        <id>https://github.com/flipstone/orville</id>
+        <link href="https://github.com/flipstone/orville"/>
+        <updated>2021-05-16T00:58:39.728Z</updated>
+        <summary type="html"><![CDATA[Yet another ORM for haskell
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>flipstone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ditching meat isn’t the answer for climate change. Better farming is]]></title>
+        <id>https://news.ycombinator.com/item?id=27169858</id>
+        <link href="https://www.washingtonpost.com/outlook/ditching-meat-isnt-the-answer-for-climate-change-better-farming-is/2021/05/14/86001c36-b426-11eb-ab43-bebddc5a0f65_story.html"/>
+        <updated>2021-05-15T23:24:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.washingtonpost.com/outlook/ditching-meat-isnt-the-answer-for-climate-change-better-farming-is/2021/05/14/86001c36-b426-11eb-ab43-bebddc5a0f65_story.html
+Comments URL: https://news.ycombinator.com/item?id=27169858
+Points: 11
+# Comments: 2]]></summary>
+        <author>
+            <name>mooreds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I Quit DIY]]></title>
+        <id>https://news.ycombinator.com/item?id=27169810</id>
+        <link href="https://schoolofdecorating.com/2014/06/why-i-quit-diy/"/>
+        <updated>2021-05-15T23:15:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://schoolofdecorating.com/2014/06/why-i-quit-diy/
+Comments URL: https://news.ycombinator.com/item?id=27169810
+Points: 17
+# Comments: 21]]></summary>
+        <author>
+            <name>jasonhansel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What libraries have stellar documentation?]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/ndai93/what_libraries_have_stellar_documentation/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/ndai93/what_libraries_have_stellar_documentation/"/>
+        <updated>2021-05-15T22:46:26.000Z</updated>
+        <summary type="html"><![CDATA[Trying to figure out what are the essential aspects of writing good documentation. What libraries do you use that had amazing introductory documentation that the rest of us can learn from?
+    submitted by    /u/captjakk  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What can you do in Haskell that you can't do in Python(for example)?]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nda38v/what_can_you_do_in_haskell_that_you_cant_do_in/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nda38v/what_can_you_do_in_haskell_that_you_cant_do_in/"/>
+        <updated>2021-05-15T22:25:52.000Z</updated>
+        <summary type="html"><![CDATA[I've heard that learning functional programming can make you a better developer and problem solver, why couldn't I just learn those elements of functional programming in Python?
+    submitted by    /u/BigDog1920  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are you hyped about today?]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nd9j7c/what_are_you_hyped_about_today/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nd9j7c/what_are_you_hyped_about_today/"/>
+        <updated>2021-05-15T21:57:54.000Z</updated>
+        <summary type="html"><![CDATA[Just wondering what new exciting developments in the FP community are. What have you been hyped about lately? What are you working on right now? How do you feel about the state and future of FP?
+    submitted by    /u/SrPeixinho  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I struggle with understand datatype,typeclasses and newtypes. What resources would you recommend?]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nd8z0q/i_struggle_with_understand_datatypetypeclasses/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nd8z0q/i_struggle_with_understand_datatypetypeclasses/"/>
+        <updated>2021-05-15T21:29:33.000Z</updated>
+        <summary type="html"><![CDATA[I have googled it around but I need some eli5 explanation when it comes to these topics. Especially considering I have never really worked with classes before Haskell.
+    submitted by    /u/Narxco  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BuildZoom (better way to build custom homes) Is hiring a Principal Engineer]]></title>
+        <id>https://news.ycombinator.com/item?id=27168965</id>
+        <link href="https://jobs.lever.co/buildzoom"/>
+        <updated>2021-05-15T21:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/buildzoom
+Comments URL: https://news.ycombinator.com/item?id=27168965
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>the_economist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Commodore’s Assemblers: Part 1: MOS Cross-Assembler]]></title>
+        <id>https://news.ycombinator.com/item?id=27168035</id>
+        <link href="https://www.pagetable.com/?p=1520"/>
+        <updated>2021-05-15T19:17:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pagetable.com/?p=1520
+Comments URL: https://news.ycombinator.com/item?id=27168035
+Points: 47
+# Comments: 2]]></summary>
+        <author>
+            <name>matt_d</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webscraping - Wait for data to load]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nd65vb/webscraping_wait_for_data_to_load/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nd65vb/webscraping_wait_for_data_to_load/"/>
+        <updated>2021-05-15T19:10:28.000Z</updated>
+        <summary type="html"><![CDATA[I'm using https://hackage.haskell.org/package/scalpel-0.6.2 to scrape a page. However, the URL I want to parse, only returns a spinner, and then gets the rest of the page. I want to wait for the rest of the page to load, before I start scraping.
+ Downloading the page and sending it to the scalpel is also fine, so I looked at this https://hackage.haskell.org/package/download, in the hopes that this may work.
+ However, I am not having any luck. By the looks of it, the JS has to execute, fetching the rest of t…]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TIL: Tcl-inspired command language on top of D]]></title>
+        <id>https://news.ycombinator.com/item?id=27167762</id>
+        <link href="https://til-lang.github.io/til/"/>
+        <updated>2021-05-15T18:40:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://til-lang.github.io/til/
+Comments URL: https://news.ycombinator.com/item?id=27167762
+Points: 71
+# Comments: 3]]></summary>
+        <author>
+            <name>blacksqr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Bibliogram – Open-source front-end for Instagram]]></title>
+        <id>https://news.ycombinator.com/item?id=27167729</id>
+        <link href="https://bibliogram.art"/>
+        <updated>2021-05-15T18:37:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bibliogram.art
+Comments URL: https://news.ycombinator.com/item?id=27167729
+Points: 119
+# Comments: 30]]></summary>
+        <author>
+            <name>commoner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The True Size of Africa (2015)]]></title>
+        <id>https://news.ycombinator.com/item?id=27167604</id>
+        <link href="http://kai.sub.blue/en/africa.html"/>
+        <updated>2021-05-15T18:22:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://kai.sub.blue/en/africa.html
+Comments URL: https://news.ycombinator.com/item?id=27167604
+Points: 166
+# Comments: 104]]></summary>
+        <author>
+            <name>metahost</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is there a term for a fold operation where the result is unaffected by the order of elements in the list?]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nd50sp/is_there_a_term_for_a_fold_operation_where_the/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nd50sp/is_there_a_term_for_a_fold_operation_where_the/"/>
+        <updated>2021-05-15T18:16:45.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/sanity  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why do we need coherence for uniquely specified typeclasses?]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nd4yfl/why_do_we_need_coherence_for_uniquely_specified/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nd4yfl/why_do_we_need_coherence_for_uniquely_specified/"/>
+        <updated>2021-05-15T18:13:41.000Z</updated>
+        <summary type="html"><![CDATA[When we're using typeclasses for genuinely ad-hoc overloading like FromJson, incoherent instances are a complete nonstarter. When we're using them for things like Applicative, which properly speaking are parameterized by some structure not represented in the type, then they're merely very very dangerous. But what about Functor? It seems to me that if I write 
+ instance Bifunctor f => Functor (f x)
+ then the worst case scenario, so long as everything is law-abiding (and you're already playing with fire if yo…]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Your Own Tools]]></title>
+        <id>https://news.ycombinator.com/item?id=27167250</id>
+        <link href="https://futureofcoding.org/episodes/044"/>
+        <updated>2021-05-15T17:40:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://futureofcoding.org/episodes/044
+Comments URL: https://news.ycombinator.com/item?id=27167250
+Points: 31
+# Comments: 1]]></summary>
+        <author>
+            <name>axiomdata316</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryptoqueen: A woman scammed the world, then vanished (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27166271</id>
+        <link href="https://www.bbc.com/news/stories-50435014"/>
+        <updated>2021-05-15T15:49:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/stories-50435014
+Comments URL: https://news.ycombinator.com/item?id=27166271
+Points: 209
+# Comments: 142]]></summary>
+        <author>
+            <name>mgh2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eternally relevant image]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/nd1tnf/eternally_relevant_image/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/nd1tnf/eternally_relevant_image/"/>
+        <updated>2021-05-15T15:48:44.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/stealinoffdeadpeople  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parsix: Parse Don't Validate]]></title>
+        <id>https://news.ycombinator.com/item?id=27166162</id>
+        <link href="https://github.com/parsix/parsix"/>
+        <updated>2021-05-15T15:38:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/parsix/parsix
+Comments URL: https://news.ycombinator.com/item?id=27166162
+Points: 114
+# Comments: 60]]></summary>
+        <author>
+            <name>Iazel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cox Hotspots with Panoramic Wifi]]></title>
+        <id>https://news.ycombinator.com/item?id=27166043</id>
+        <link href="https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html"/>
+        <updated>2021-05-15T15:27:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html
+Comments URL: https://news.ycombinator.com/item?id=27166043
+Points: 50
+# Comments: 44]]></summary>
+        <author>
+            <name>foobarbecue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern Javascript: Everything you missed over the last 10 years (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27165954</id>
+        <link href="https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years"/>
+        <updated>2021-05-15T15:15:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years
+Comments URL: https://news.ycombinator.com/item?id=27165954
+Points: 679
+# Comments: 387]]></summary>
+        <author>
+            <name>EntICOnc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ANN] Copilot 3.3]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nd002g/ann_copilot_33/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nd002g/ann_copilot_33/"/>
+        <updated>2021-05-15T14:23:38.000Z</updated>
+        <summary type="html"><![CDATA[We are pleased to announce the release of Copilot 3.3, a stream-based DSL for writing and monitoring embedded C programs, with an emphasis on correctness and hard realtime requirements. Copilot is typically used as a high-level runtime verification framework, and supports temporal logic (LTL, PTLTL and MTL), clocks and voting algorithms. 
+ Among others, Copilot has been used at the Safety Critical Avionics Systems Branch of NASA Langley Research Center for monitoring test flights of drones. 
+ This new relea…]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nim 2.0 thoughts]]></title>
+        <id>https://news.ycombinator.com/item?id=27165366</id>
+        <link href="https://forum.nim-lang.org/t/7983"/>
+        <updated>2021-05-15T14:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://forum.nim-lang.org/t/7983
+Comments URL: https://news.ycombinator.com/item?id=27165366
+Points: 205
+# Comments: 96]]></summary>
+        <author>
+            <name>michaelsbradley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ML model can classify sex from retinal photograph, clinicians can't]]></title>
+        <id>https://news.ycombinator.com/item?id=27165307</id>
+        <link href="https://rdcu.be/ckFPK"/>
+        <updated>2021-05-15T13:59:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rdcu.be/ckFPK
+Comments URL: https://news.ycombinator.com/item?id=27165307
+Points: 139
+# Comments: 117]]></summary>
+        <author>
+            <name>jeffbee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Offline-First PWA for Plotly Visualization of CSV via SQLite]]></title>
+        <id>https://news.ycombinator.com/item?id=27165192</id>
+        <link href="https://github.com/lana-k/sqliteviz"/>
+        <updated>2021-05-15T13:48:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/lana-k/sqliteviz
+Comments URL: https://news.ycombinator.com/item?id=27165192
+Points: 179
+# Comments: 25]]></summary>
+        <author>
+            <name>lana-k</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiplying Integers Using Fourier Transforms [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27165133</id>
+        <link href="http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf"/>
+        <updated>2021-05-15T13:41:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf
+Comments URL: https://news.ycombinator.com/item?id=27165133
+Points: 55
+# Comments: 14]]></summary>
+        <author>
+            <name>nceqs3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[List Interpreter Problem]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/ncyskm/list_interpreter_problem/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/ncyskm/list_interpreter_problem/"/>
+        <updated>2021-05-15T13:23:10.000Z</updated>
+        <summary type="html"><![CDATA[I was going through this course: https://haskell.mooc.fi/material/#lecture-3-catamorphic and there's this problem:
+ You get to implement an interpreter for a
+ simple language. You should keep track of the x and y coordinates,
+ and interpret the following commands:
+ up -- increment y by one
+ down -- decrement y by one
+ left -- decrement x by one
+ right -- increment x by one
+ printX -- print value of x
+ printY -- print value of y
+ The interpreter will be a function of type [String] -> [String].
+ Its input is …]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design structured diagrams, built to increase your team's trust in your docs]]></title>
+        <id>https://news.ycombinator.com/item?id=27164769</id>
+        <link href="https://icepanel.io/"/>
+        <updated>2021-05-15T12:55:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://icepanel.io/
+Comments URL: https://news.ycombinator.com/item?id=27164769
+Points: 210
+# Comments: 63]]></summary>
+        <author>
+            <name>JacobDesigns</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watches from the Soviet Union]]></title>
+        <id>https://news.ycombinator.com/item?id=27164417</id>
+        <link href="https://www.rbth.com/longreads/soviet-watches/"/>
+        <updated>2021-05-15T11:55:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.rbth.com/longreads/soviet-watches/
+Comments URL: https://news.ycombinator.com/item?id=27164417
+Points: 104
+# Comments: 35]]></summary>
+        <author>
+            <name>gscott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Was cancer less likely in a pre-industrial world?]]></title>
+        <id>https://news.ycombinator.com/item?id=27164171</id>
+        <link href="https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world"/>
+        <updated>2021-05-15T11:04:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world
+Comments URL: https://news.ycombinator.com/item?id=27164171
+Points: 96
+# Comments: 126]]></summary>
+        <author>
+            <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drain brain: The secret life of a gutter enthusiast]]></title>
+        <id>https://news.ycombinator.com/item?id=27164138</id>
+        <link href="https://www.bbc.com/news/uk-england-london-56281464"/>
+        <updated>2021-05-15T10:57:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/uk-england-london-56281464
+Comments URL: https://news.ycombinator.com/item?id=27164138
+Points: 10
+# Comments: 2]]></summary>
+        <author>
+            <name>tmfi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evening Chronotype Is Associated with Poorer Habitual Diet in US Women, with Dietary Energy Density Mediating a Relation of Chronotype with Cardiovascular Health | The Journal of Nutrition]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/ncurzh/evening_chronotype_is_associated_with_poorer/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/ncurzh/evening_chronotype_is_associated_with_poorer/"/>
+        <updated>2021-05-15T09:18:12.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/H_Elizabeth111  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using a data constructor as an argument in a data constructor?]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/ncp9sr/using_a_data_constructor_as_an_argument_in_a_data/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/ncp9sr/using_a_data_constructor_as_an_argument_in_a_data/"/>
+        <updated>2021-05-15T02:51:20.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I was wondering if it's possible to do something like this:
+  data Argument = Register Word8 | Constant Word8 | RegisterOrConstant (Either Register Constant) 
+    submitted by    /u/uranusjones  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yes_chad.png]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/ncnxfn/yes_chadpng/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/ncnxfn/yes_chadpng/"/>
+        <updated>2021-05-15T01:28:12.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Rapsberry  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Simspace /
 
@@ -94,6 +642,17 @@ Star:
 Fork:]]></summary>
         <author>
             <name>mwotton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is how the conflict is going to be resolved]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/ncmp29/this_is_how_the_conflict_is_going_to_be_resolved/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/ncmp29/this_is_how_the_conflict_is_going_to_be_resolved/"/>
+        <updated>2021-05-15T00:15:37.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/awkwardarchie  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
         </author>
     </entry>
     <entry>

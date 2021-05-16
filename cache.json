@@ -308,6 +308,96 @@
       "siteUrl": "https://www.reddit.com/r/haskell/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/haskell/comments/ndai93/what_libraries_have_stellar_documentation/",
+          "author": null,
+          "description": "Trying to figure out what are the essential aspects of writing good documentation. What libraries do you use that had amazing introductory documentation that the rest of us can learn from?\n    submitted by    /u/captjakk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/ndai93/what_libraries_have_stellar_documentation/",
+          "publishedOn": "2021-05-15T22:46:26.000Z",
+          "wordCount": 157,
+          "title": "What libraries have stellar documentation?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nda38v/what_can_you_do_in_haskell_that_you_cant_do_in/",
+          "author": null,
+          "description": "I've heard that learning functional programming can make you a better developer and problem solver, why couldn't I just learn those elements of functional programming in Python?\n    submitted by    /u/BigDog1920  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nda38v/what_can_you_do_in_haskell_that_you_cant_do_in/",
+          "publishedOn": "2021-05-15T22:25:52.000Z",
+          "wordCount": 1009,
+          "title": "What can you do in Haskell that you can't do in Python(for example)?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nd9j7c/what_are_you_hyped_about_today/",
+          "author": null,
+          "description": "Just wondering what new exciting developments in the FP community are. What have you been hyped about lately? What are you working on right now? How do you feel about the state and future of FP?\n    submitted by    /u/SrPeixinho  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nd9j7c/what_are_you_hyped_about_today/",
+          "publishedOn": "2021-05-15T21:57:54.000Z",
+          "wordCount": 285,
+          "title": "What are you hyped about today?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nd8z0q/i_struggle_with_understand_datatypetypeclasses/",
+          "author": null,
+          "description": "I have googled it around but I need some eli5 explanation when it comes to these topics. Especially considering I have never really worked with classes before Haskell.\n    submitted by    /u/Narxco  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nd8z0q/i_struggle_with_understand_datatypetypeclasses/",
+          "publishedOn": "2021-05-15T21:29:33.000Z",
+          "wordCount": 283,
+          "title": "I struggle with understand datatype,typeclasses and newtypes. What resources would you recommend?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nd65vb/webscraping_wait_for_data_to_load/",
+          "author": null,
+          "description": "I'm using https://hackage.haskell.org/package/scalpel-0.6.2 to scrape a page. However, the URL I want to parse, only returns a spinner, and then gets the rest of the page. I want to wait for the rest of the page to load, before I start scraping.\n Downloading the page and sending it to the scalpel is also fine, so I looked at this https://hackage.haskell.org/package/download, in the hopes that this may work.\n However, I am not having any luck. By the looks of it, the JS has to execute, fetching the rest of t…",
+          "link": "https://www.reddit.com/r/haskell/comments/nd65vb/webscraping_wait_for_data_to_load/",
+          "publishedOn": "2021-05-15T19:10:28.000Z",
+          "wordCount": 303,
+          "title": "Webscraping - Wait for data to load"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nd50sp/is_there_a_term_for_a_fold_operation_where_the/",
+          "author": null,
+          "description": "submitted by    /u/sanity  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nd50sp/is_there_a_term_for_a_fold_operation_where_the/",
+          "publishedOn": "2021-05-15T18:16:45.000Z",
+          "wordCount": 265,
+          "title": "Is there a term for a fold operation where the result is unaffected by the order of elements in the list?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nd4yfl/why_do_we_need_coherence_for_uniquely_specified/",
+          "author": null,
+          "description": "When we're using typeclasses for genuinely ad-hoc overloading like FromJson, incoherent instances are a complete nonstarter. When we're using them for things like Applicative, which properly speaking are parameterized by some structure not represented in the type, then they're merely very very dangerous. But what about Functor? It seems to me that if I write \n instance Bifunctor f => Functor (f x)\n then the worst case scenario, so long as everything is law-abiding (and you're already playing with fire if yo…",
+          "link": "https://www.reddit.com/r/haskell/comments/nd4yfl/why_do_we_need_coherence_for_uniquely_specified/",
+          "publishedOn": "2021-05-15T18:13:41.000Z",
+          "wordCount": 690,
+          "title": "Why do we need coherence for uniquely specified typeclasses?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nd002g/ann_copilot_33/",
+          "author": null,
+          "description": "We are pleased to announce the release of Copilot 3.3, a stream-based DSL for writing and monitoring embedded C programs, with an emphasis on correctness and hard realtime requirements. Copilot is typically used as a high-level runtime verification framework, and supports temporal logic (LTL, PTLTL and MTL), clocks and voting algorithms. \n Among others, Copilot has been used at the Safety Critical Avionics Systems Branch of NASA Langley Research Center for monitoring test flights of drones. \n This new relea…",
+          "link": "https://www.reddit.com/r/haskell/comments/nd002g/ann_copilot_33/",
+          "publishedOn": "2021-05-15T14:23:38.000Z",
+          "wordCount": 397,
+          "title": "[ANN] Copilot 3.3"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/ncyskm/list_interpreter_problem/",
+          "author": null,
+          "description": "I was going through this course: https://haskell.mooc.fi/material/#lecture-3-catamorphic and there's this problem:\n You get to implement an interpreter for a\n simple language. You should keep track of the x and y coordinates,\n and interpret the following commands:\n up -- increment y by one\n down -- decrement y by one\n left -- decrement x by one\n right -- increment x by one\n printX -- print value of x\n printY -- print value of y\n The interpreter will be a function of type [String] -> [String].\n Its input is …",
+          "link": "https://www.reddit.com/r/haskell/comments/ncyskm/list_interpreter_problem/",
+          "publishedOn": "2021-05-15T13:23:10.000Z",
+          "wordCount": 814,
+          "title": "List Interpreter Problem"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/ncp9sr/using_a_data_constructor_as_an_argument_in_a_data/",
+          "author": null,
+          "description": "Hi, I was wondering if it's possible to do something like this:\n  data Argument = Register Word8 | Constant Word8 | RegisterOrConstant (Either Register Constant) \n    submitted by    /u/uranusjones  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/ncp9sr/using_a_data_constructor_as_an_argument_in_a_data/",
+          "publishedOn": "2021-05-15T02:51:20.000Z",
+          "wordCount": 489,
+          "title": "Using a data constructor as an argument in a data constructor?"
+        },
+        {
           "id": "https://www.reddit.com/r/haskell/comments/nclqk9/exiting_ghci_with_vim_command/",
           "author": null,
           "description": "I saw this great tweet earlier:\n https://twitter.com/polikarn/status/1392945152965021697\n I&#39;d never thought of the :q command&#39;s similarity to vim (possibly because I default to &lt;Ctrl-D&gt; in REPLs). Cool!\n But… that&#39;s not how I exit vim. I use ZZ.\n The following incantation (which requires unix and process packages) is here to save the day.\n import System.Exit import System.IO.Unsafe import System.Posix.Process import System.Process data ExitVim = ZZ | ZQ exitSigTERM :: IO ProcessHandle exit…",
@@ -673,6 +763,15 @@
       "siteUrl": "https://www.reddit.com/r/ScientificNutrition/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/ncurzh/evening_chronotype_is_associated_with_poorer/",
+          "author": null,
+          "description": "submitted by    /u/H_Elizabeth111  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/ncurzh/evening_chronotype_is_associated_with_poorer/",
+          "publishedOn": "2021-05-15T09:18:12.000Z",
+          "wordCount": 629,
+          "title": "Evening Chronotype Is Associated with Poorer Habitual Diet in US Women, with Dietary Energy Density Mediating a Relation of Chronotype with Cardiovascular Health | The Journal of Nutrition"
+        },
+        {
           "id": "https://www.reddit.com/r/ScientificNutrition/comments/ncgvfw/is_ifos_testing_trustworthy/",
           "author": null,
           "description": "Here is a COA of a recent fish oil bottle I had bought. Everything seems fine, but I can&#39;t find the testing methodologies and standardizations listed on the COA.\n There is some really vague information on the nutrasource site saying how test methods are typically run. Okay, but how was it run specifically for the product I ingested? What methods specifically were used to determine the oxidation and heavy metal levels?\n Is a COA supposed to look this vague? I only started looking into this because I&#39;…",
@@ -914,6 +1013,33 @@
       "siteUrl": "https://www.reddit.com/r/redscarepod/top/?sort=top&t=day&limit=3",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redscarepod/comments/nd1tnf/eternally_relevant_image/",
+          "author": null,
+          "description": "submitted by    /u/stealinoffdeadpeople  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/nd1tnf/eternally_relevant_image/",
+          "publishedOn": "2021-05-15T15:48:44.000Z",
+          "wordCount": 453,
+          "title": "Eternally relevant image"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/ncnxfn/yes_chadpng/",
+          "author": null,
+          "description": "submitted by    /u/Rapsberry  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/ncnxfn/yes_chadpng/",
+          "publishedOn": "2021-05-15T01:28:12.000Z",
+          "wordCount": 368,
+          "title": "Yes_chad.png"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/ncmp29/this_is_how_the_conflict_is_going_to_be_resolved/",
+          "author": null,
+          "description": "submitted by    /u/awkwardarchie  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/ncmp29/this_is_how_the_conflict_is_going_to_be_resolved/",
+          "publishedOn": "2021-05-15T00:15:37.000Z",
+          "wordCount": 401,
+          "title": "This is how the conflict is going to be resolved"
+        },
+        {
           "id": "https://www.reddit.com/r/redscarepod/comments/ncbq4o/this_describes_60_of_you_here/",
           "author": null,
           "description": "&#32; submitted by &#32;  /u/bitchyfuxkjngbltch34  \n [link] &#32; [comments]",
@@ -1055,6 +1181,69 @@
       "feedUrl": "https://rsshub.app/github/trending/daily/haskell",
       "siteUrl": "https://github.com/trending/haskell?since=daily",
       "articles": [
+        {
+          "id": "https://github.com/kadena-io/chainweaver",
+          "author": "kadena-io",
+          "description": "Kadena Chainweaver desktop wallet and web-based playground for Pact\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/kadena-io/chainweaver",
+          "publishedOn": "2021-05-16T00:58:40.395Z",
+          "wordCount": 2368,
+          "title": "kadena-io /\n\n      chainweaver"
+        },
+        {
+          "id": "https://github.com/obsidiansystems/obelisk",
+          "author": "obsidiansystems",
+          "description": "Functional reactive web and mobile applications, with batteries included.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/obsidiansystems/obelisk",
+          "publishedOn": "2021-05-16T00:58:40.222Z",
+          "wordCount": 2936,
+          "title": "obsidiansystems /\n\n      obelisk"
+        },
+        {
+          "id": "https://github.com/xmonad/xmonad-contrib",
+          "author": "xmonad",
+          "description": "Contributed modules for xmonad\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/xmonad/xmonad-contrib",
+          "publishedOn": "2021-05-16T00:58:40.152Z",
+          "wordCount": 720,
+          "title": "xmonad /\n\n      xmonad-contrib"
+        },
+        {
+          "id": "https://github.com/olivierverdier/zsh-git-prompt",
+          "author": "olivierverdier",
+          "description": "Informative git prompt for zsh\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/olivierverdier/zsh-git-prompt",
+          "publishedOn": "2021-05-16T00:58:40.127Z",
+          "wordCount": 960,
+          "title": "olivierverdier /\n\n      zsh-git-prompt"
+        },
+        {
+          "id": "https://github.com/mwotton/roboservant",
+          "author": "mwotton",
+          "description": "generate contextually sensible fuzz tests for servant apps\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/mwotton/roboservant",
+          "publishedOn": "2021-05-16T00:58:39.793Z",
+          "wordCount": 1197,
+          "title": "mwotton /\n\n      roboservant"
+        },
+        {
+          "id": "https://github.com/qnikst/HaskellNet",
+          "author": "qnikst",
+          "description": "Haskell library which provides client support for POP3, SMTP, and IMAP protocols.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/qnikst/HaskellNet",
+          "publishedOn": "2021-05-16T00:58:39.754Z",
+          "wordCount": 531,
+          "title": "qnikst /\n\n      HaskellNet"
+        },
+        {
+          "id": "https://github.com/flipstone/orville",
+          "author": "flipstone",
+          "description": "Yet another ORM for haskell\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/flipstone/orville",
+          "publishedOn": "2021-05-16T00:58:39.728Z",
+          "wordCount": 479,
+          "title": "flipstone /\n\n      orville"
+        },
         {
           "id": "https://github.com/Simspace/avaleryar",
           "author": "Simspace",
@@ -1593,6 +1782,186 @@
       "feedUrl": "https://hnrss.org/frontpage",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=27169858",
+          "author": "mooreds",
+          "description": "Article URL: https://www.washingtonpost.com/outlook/ditching-meat-isnt-the-answer-for-climate-change-better-farming-is/2021/05/14/86001c36-b426-11eb-ab43-bebddc5a0f65_story.html\nComments URL: https://news.ycombinator.com/item?id=27169858\nPoints: 11\n# Comments: 2",
+          "link": "https://www.washingtonpost.com/outlook/ditching-meat-isnt-the-answer-for-climate-change-better-farming-is/2021/05/14/86001c36-b426-11eb-ab43-bebddc5a0f65_story.html",
+          "publishedOn": "2021-05-15T23:24:38.000Z",
+          "wordCount": 1847,
+          "title": "Ditching meat isn’t the answer for climate change. Better farming is"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27169810",
+          "author": "jasonhansel",
+          "description": "Article URL: https://schoolofdecorating.com/2014/06/why-i-quit-diy/\nComments URL: https://news.ycombinator.com/item?id=27169810\nPoints: 17\n# Comments: 21",
+          "link": "https://schoolofdecorating.com/2014/06/why-i-quit-diy/",
+          "publishedOn": "2021-05-15T23:15:12.000Z",
+          "wordCount": 13023,
+          "title": "Why I Quit DIY"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27168965",
+          "author": "the_economist",
+          "description": "Article URL: https://jobs.lever.co/buildzoom\nComments URL: https://news.ycombinator.com/item?id=27168965\nPoints: 1\n# Comments: 0",
+          "link": "https://jobs.lever.co/buildzoom",
+          "publishedOn": "2021-05-15T21:00:51.000Z",
+          "wordCount": 109,
+          "title": "BuildZoom (better way to build custom homes) Is hiring a Principal Engineer"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27168035",
+          "author": "matt_d",
+          "description": "Article URL: https://www.pagetable.com/?p=1520\nComments URL: https://news.ycombinator.com/item?id=27168035\nPoints: 47\n# Comments: 2",
+          "link": "https://www.pagetable.com/?p=1520",
+          "publishedOn": "2021-05-15T19:17:45.000Z",
+          "wordCount": 2029,
+          "title": "Commodore’s Assemblers: Part 1: MOS Cross-Assembler"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27167762",
+          "author": "blacksqr",
+          "description": "Article URL: https://til-lang.github.io/til/\nComments URL: https://news.ycombinator.com/item?id=27167762\nPoints: 71\n# Comments: 3",
+          "link": "https://til-lang.github.io/til/",
+          "publishedOn": "2021-05-15T18:40:30.000Z",
+          "wordCount": 1973,
+          "title": "TIL: Tcl-inspired command language on top of D"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27167729",
+          "author": "commoner",
+          "description": "Article URL: https://bibliogram.art\nComments URL: https://news.ycombinator.com/item?id=27167729\nPoints: 119\n# Comments: 30",
+          "link": "https://bibliogram.art",
+          "publishedOn": "2021-05-15T18:37:11.000Z",
+          "wordCount": 142,
+          "title": "Show HN: Bibliogram – Open-source front-end for Instagram"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27167604",
+          "author": "metahost",
+          "description": "Article URL: http://kai.sub.blue/en/africa.html\nComments URL: https://news.ycombinator.com/item?id=27167604\nPoints: 166\n# Comments: 104",
+          "link": "http://kai.sub.blue/en/africa.html",
+          "publishedOn": "2021-05-15T18:22:20.000Z",
+          "wordCount": 1003,
+          "title": "The True Size of Africa (2015)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27167250",
+          "author": "axiomdata316",
+          "description": "Article URL: https://futureofcoding.org/episodes/044\nComments URL: https://news.ycombinator.com/item?id=27167250\nPoints: 31\n# Comments: 1",
+          "link": "https://futureofcoding.org/episodes/044",
+          "publishedOn": "2021-05-15T17:40:22.000Z",
+          "wordCount": 9956,
+          "title": "Making Your Own Tools"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27166271",
+          "author": "mgh2",
+          "description": "Article URL: https://www.bbc.com/news/stories-50435014\nComments URL: https://news.ycombinator.com/item?id=27166271\nPoints: 209\n# Comments: 142",
+          "link": "https://www.bbc.com/news/stories-50435014",
+          "publishedOn": "2021-05-15T15:49:40.000Z",
+          "wordCount": 8399,
+          "title": "Cryptoqueen: A woman scammed the world, then vanished (2019)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27166162",
+          "author": "Iazel",
+          "description": "Article URL: https://github.com/parsix/parsix\nComments URL: https://news.ycombinator.com/item?id=27166162\nPoints: 114\n# Comments: 60",
+          "link": "https://github.com/parsix/parsix",
+          "publishedOn": "2021-05-15T15:38:43.000Z",
+          "wordCount": 3025,
+          "title": "Parsix: Parse Don't Validate"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27166043",
+          "author": "foobarbecue",
+          "description": "Article URL: https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html\nComments URL: https://news.ycombinator.com/item?id=27166043\nPoints: 50\n# Comments: 44",
+          "link": "https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html",
+          "publishedOn": "2021-05-15T15:27:44.000Z",
+          "wordCount": 1459,
+          "title": "Cox Hotspots with Panoramic Wifi"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27165954",
+          "author": "EntICOnc",
+          "description": "Article URL: https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years\nComments URL: https://news.ycombinator.com/item?id=27165954\nPoints: 679\n# Comments: 387",
+          "link": "https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years",
+          "publishedOn": "2021-05-15T15:15:57.000Z",
+          "wordCount": 1493,
+          "title": "Modern Javascript: Everything you missed over the last 10 years (2020)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27165366",
+          "author": "michaelsbradley",
+          "description": "Article URL: https://forum.nim-lang.org/t/7983\nComments URL: https://news.ycombinator.com/item?id=27165366\nPoints: 205\n# Comments: 96",
+          "link": "https://forum.nim-lang.org/t/7983",
+          "publishedOn": "2021-05-15T14:08:12.000Z",
+          "wordCount": 4,
+          "title": "Nim 2.0 thoughts"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27165307",
+          "author": "jeffbee",
+          "description": "Article URL: https://rdcu.be/ckFPK\nComments URL: https://news.ycombinator.com/item?id=27165307\nPoints: 139\n# Comments: 117",
+          "link": "https://rdcu.be/ckFPK",
+          "publishedOn": "2021-05-15T13:59:34.000Z",
+          "wordCount": 24,
+          "title": "ML model can classify sex from retinal photograph, clinicians can't"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27165192",
+          "author": "lana-k",
+          "description": "Article URL: https://github.com/lana-k/sqliteviz\nComments URL: https://news.ycombinator.com/item?id=27165192\nPoints: 179\n# Comments: 25",
+          "link": "https://github.com/lana-k/sqliteviz",
+          "publishedOn": "2021-05-15T13:48:01.000Z",
+          "wordCount": 691,
+          "title": "Offline-First PWA for Plotly Visualization of CSV via SQLite"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27165133",
+          "author": "nceqs3",
+          "description": "Article URL: http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf\nComments URL: https://news.ycombinator.com/item?id=27165133\nPoints: 55\n# Comments: 14",
+          "link": "http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf",
+          "publishedOn": "2021-05-15T13:41:47.000Z",
+          "wordCount": 14573,
+          "title": "Multiplying Integers Using Fourier Transforms [pdf]"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27164769",
+          "author": "JacobDesigns",
+          "description": "Article URL: https://icepanel.io/\nComments URL: https://news.ycombinator.com/item?id=27164769\nPoints: 210\n# Comments: 63",
+          "link": "https://icepanel.io/",
+          "publishedOn": "2021-05-15T12:55:52.000Z",
+          "wordCount": 19,
+          "title": "Design structured diagrams, built to increase your team's trust in your docs"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27164417",
+          "author": "gscott",
+          "description": "Article URL: https://www.rbth.com/longreads/soviet-watches/\nComments URL: https://news.ycombinator.com/item?id=27164417\nPoints: 104\n# Comments: 35",
+          "link": "https://www.rbth.com/longreads/soviet-watches/",
+          "publishedOn": "2021-05-15T11:55:52.000Z",
+          "wordCount": 1916,
+          "title": "Watches from the Soviet Union"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27164171",
+          "author": "pseudolus",
+          "description": "Article URL: https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world\nComments URL: https://news.ycombinator.com/item?id=27164171\nPoints: 96\n# Comments: 126",
+          "link": "https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world",
+          "publishedOn": "2021-05-15T11:04:34.000Z",
+          "wordCount": 2194,
+          "title": "Was cancer less likely in a pre-industrial world?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27164138",
+          "author": "tmfi",
+          "description": "Article URL: https://www.bbc.com/news/uk-england-london-56281464\nComments URL: https://news.ycombinator.com/item?id=27164138\nPoints: 10\n# Comments: 2",
+          "link": "https://www.bbc.com/news/uk-england-london-56281464",
+          "publishedOn": "2021-05-15T10:57:34.000Z",
+          "wordCount": 2618,
+          "title": "Drain brain: The secret life of a gutter enthusiast"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=27161011",
           "author": "demail",
@@ -2496,5 +2865,5 @@
       ]
     }
   ],
-  "cliVersion": "1.6.0"
+  "cliVersion": "1.7.0"
 }
