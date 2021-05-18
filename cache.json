@@ -1,0 +1,717 @@
+{
+  "sources": [
+    {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=340716",
+          "author": "Chris Coyier",
+          "description": "Addy Osmani on images in HTML:\nThe humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can \n…\nThe post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
+          "publishedOn": "2021-05-17T22:38:06.000Z",
+          "wordCount": 5325,
+          "title": "The Humble `img` Element And Core Web Vitals"
+        },
+        {
+          "id": "https://css-tricks.com/?p=339522",
+          "author": "Ashley Kolodziej",
+          "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-love-letter-to-html-css/",
+          "publishedOn": "2021-05-17T14:27:22.000Z",
+          "wordCount": 1356,
+          "title": "A Love Letter to HTML & CSS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340594",
+          "author": "Chris Coyier",
+          "description": "An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …\nThe post Euismod appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.euismod.dev/",
+          "publishedOn": "2021-05-17T14:27:13.000Z",
+          "wordCount": 3,
+          "title": "Euismod"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340136",
+          "author": "Chris Coyier",
+          "description": "I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/auto-generated-social-media-images/",
+          "publishedOn": "2021-05-14T20:34:49.000Z",
+          "wordCount": 2273,
+          "title": "Auto-Generated Social Media Images"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340343",
+          "author": "Nathan Babcock",
+          "description": "!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:\n$variable: 'test' !default;\nTo the Sass compiler, this line …\nThe post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/",
+          "publishedOn": "2021-05-14T14:14:34.000Z",
+          "wordCount": 1344,
+          "title": "Creating Stylesheet Feature Flags With Sass !default"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340403",
+          "author": "Chris Coyier",
+          "description": "Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It’s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about …\nThe post HTML Boilerplates appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/html-boilerplates/",
+          "publishedOn": "2021-05-14T14:13:07.000Z",
+          "wordCount": 781,
+          "title": "HTML Boilerplates"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340490",
+          "author": "Chris Coyier",
+          "description": "Chen Hui Jing covers some recent movement in DevTools:\nFirefox’s grid inspector was pretty full-featured from the get-to and released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a basic grid inspector \n…\nThe post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2",
+          "publishedOn": "2021-05-13T23:22:45.000Z",
+          "wordCount": 1594,
+          "title": "DevTools for CSS layouts 2021 edition"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340573",
+          "author": "Chris Coyier",
+          "description": "My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was …\nThe post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/2021-design-systems-survey-courses/",
+          "publishedOn": "2021-05-13T22:55:35.000Z",
+          "wordCount": 605,
+          "title": "2021 Design Systems (Survey/Courses)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340036",
+          "author": "Temani Afif",
+          "description": "When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in …\nThe post Advanced CSS Animation Using cubic-bezier() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/advanced-css-animation-using-cubic-bezier/",
+          "publishedOn": "2021-05-13T14:24:42.000Z",
+          "wordCount": 2745,
+          "title": "Advanced CSS Animation Using cubic-bezier()"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340118",
+          "author": "Chris Coyier",
+          "description": "Building animations can get complicated, particularly compelling animations where you aren’t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI …\nThe post SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/svgator-3-0-reshapes-the-way-you-create-and-animate-svg-with-extensive-new-features/",
+          "publishedOn": "2021-05-13T14:24:35.000Z",
+          "wordCount": 986,
+          "title": "SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features"
+        },
+        {
+          "id": "https://css-tricks.com/?p=339960",
+          "author": "Sandrina Pereira",
+          "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. <button disabled> ) to mark a button as disabled.\nThere are lots of …\nThe post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/making-disabled-buttons-more-inclusive/",
+          "publishedOn": "2021-05-12T14:31:07.000Z",
+          "wordCount": 2886,
+          "title": "Making Disabled Buttons More Inclusive"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340359",
+          "author": "Chris Coyier",
+          "description": "Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function…\nThe post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/css-pie-timer-re-revisited/",
+          "publishedOn": "2021-05-11T22:00:29.000Z",
+          "wordCount": 498,
+          "title": "CSS Pie Timer Re-Revisited"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340186",
+          "author": "Geoff Graham",
+          "description": "How many times have you heard that (or even uttered it under your own breath)? I know I’ve heard it in conversations. I also know I’ve wondered the same thing about a product or two — hey, the idea here …\nThe post I could build this during the weekend appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://world.hey.com/joaoqalves/i-could-build-this-during-the-weekend-aa093c5e",
+          "publishedOn": "2021-05-11T21:04:32.000Z",
+          "wordCount": 1416,
+          "title": "I could build this during the weekend"
+        },
+        {
+          "id": "https://css-tricks.com/?p=339138",
+          "author": "Una Kravets",
+          "description": "Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to …\nThe post Next Gen CSS: @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/next-gen-css-container/",
+          "publishedOn": "2021-05-11T14:36:10.000Z",
+          "wordCount": 1498,
+          "title": "Next Gen CSS: @container"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340106",
+          "author": "Chris Coyier",
+          "description": "Like Jamstack, Netlify is coining this term.\nIf your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push …\nThe post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/distributed-persistent-rendering-dpr/",
+          "publishedOn": "2021-05-11T14:33:10.000Z",
+          "wordCount": 1446,
+          "title": "Distributed Persistent Rendering (DPR)"
+        }
+      ]
+    },
+    {
+      "title": "Serokell Blog",
+      "feedUrl": "https://serokell.io/blog.rss.xml",
+      "siteUrl": "https://serokell.io/blog",
+      "articles": [
+        {
+          "id": "https://serokell.io/blog/top-ml-jobs",
+          "author": "hi+yuliagavrilova@serokell.io (Yulia Gavrilova)",
+          "description": "Learn about awesome artificial intelligence and machine learning jobs that you can pursue in 2021.",
+          "link": "https://serokell.io/blog/top-ml-jobs",
+          "publishedOn": "2021-05-10T00:00:00.000Z",
+          "wordCount": 2006,
+          "title": "Top Machine Learning Career Paths in 2021"
+        },
+        {
+          "id": "https://serokell.io/blog/practical-nix-flakes",
+          "author": "hi+alexanderbantyev@serokell.io (Alexander Bantyev)",
+          "description": "Learn about Nix, Nix flakes, and how to use Nix flakes to build applications in various languages.",
+          "link": "https://serokell.io/blog/practical-nix-flakes",
+          "publishedOn": "2021-05-04T00:00:00.000Z",
+          "wordCount": 3954,
+          "title": "Practical Nix Flakes"
+        },
+        {
+          "id": "https://serokell.io/blog/lorentz-upgradeable-storage",
+          "author": "hi+kostyaivanov@serokell.io (Kostya Ivanov)",
+          "description": "Once deployed, large-scale smart contracts can sometimes become outdated and require upgrades. In this part of our Lorentz series, we show how to make a smart contract with upgradeable storage in Lorentz.",
+          "link": "https://serokell.io/blog/lorentz-upgradeable-storage",
+          "publishedOn": "2021-04-27T00:00:00.000Z",
+          "wordCount": 2899,
+          "title": "Lorentz: Type-Safe Upgradeable Storage"
+        },
+        {
+          "id": "https://serokell.io/blog/guide-to-computer-vision",
+          "author": "hi+yuliagavrilova@serokell.io (Yulia Gavrilova)",
+          "description": "Discover how computer vision works, where it is used, and what are the main obstacles ML engineers run into when solving computer vision problems.",
+          "link": "https://serokell.io/blog/guide-to-computer-vision",
+          "publishedOn": "2021-04-22T00:00:00.000Z",
+          "wordCount": 1783,
+          "title": "What Is Computer Vision and How It Works"
+        },
+        {
+          "id": "https://serokell.io/blog/type-families-haskell",
+          "author": "hi+vladislavzavialov@serokell.io (Vladislav Zavialov)",
+          "description": "Learn about type families, one of the most powerful type-level programming features in Haskell.",
+          "link": "https://serokell.io/blog/type-families-haskell",
+          "publishedOn": "2021-04-20T00:00:00.000Z",
+          "wordCount": 4368,
+          "title": "Type Families in Haskell: The Definitive Guide"
+        }
+      ]
+    },
+    {
+      "title": "top scoring links : haskell",
+      "feedUrl": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
+      "siteUrl": "https://www.reddit.com/r/haskell/top/?sort=top&t=day",
+      "articles": [
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/neig8o/screencast_zipping_with_hyperfunctions/",
+          "author": null,
+          "description": "submitted by    /u/foBrowsing  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/neig8o/screencast_zipping_with_hyperfunctions/",
+          "publishedOn": "2021-05-17T14:57:42.000Z",
+          "wordCount": 175,
+          "title": "Screencast: Zipping with Hyperfunctions"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nec622/ive_discovered_the_implementation_of_null/",
+          "author": null,
+          "description": "submitted by    /u/repaj  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nec622/ive_discovered_the_implementation_of_null/",
+          "publishedOn": "2021-05-17T10:02:18.000Z",
+          "wordCount": 417,
+          "title": "I've discovered the implementation of null pointers in Haskell, pure evil ; )"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/ne82b1/status_update_ghc_on_apple_m1_hardware/",
+          "author": null,
+          "description": "submitted by    /u/lehmacdj  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/ne82b1/status_update_ghc_on_apple_m1_hardware/",
+          "publishedOn": "2021-05-17T05:51:05.000Z",
+          "wordCount": 338,
+          "title": "Status update: GHC on Apple M1 hardware"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/ne3c1k/ann_ghctags10_utility_for_generating_ctags_and/",
+          "author": null,
+          "description": "https://hackage.haskell.org/package/ghc-tags-1.0\n Meant as a replacement for hasktags and other tag utilities that aren't using GHC for parsing.\n On my laptop with the i7-8550U processor (4 cores) initial generation of etags for the GHC repository with the configuration from README takes 6.9 seconds, then subsequent runs (when only a few files were modified) around 330 ms.\n Enjoy!\n    submitted by    /u/arybczak  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/ne3c1k/ann_ghctags10_utility_for_generating_ctags_and/",
+          "publishedOn": "2021-05-17T01:31:08.000Z",
+          "wordCount": 282,
+          "title": "[ANN] ghc-tags-1.0 - utility for generating ctags and etags with GHC API"
+        }
+      ]
+    },
+    {
+      "title": "top scoring links : TheMotte",
+      "feedUrl": "https://www.reddit.com/r/TheMotte/top/.rss?sort=top&t=day",
+      "siteUrl": "https://www.reddit.com/r/TheMotte/top/?sort=top&t=day",
+      "articles": [
+        {
+          "id": "https://www.reddit.com/r/TheMotte/comments/ne8ggb/culture_war_roundup_for_the_week_of_may_17_2021/",
+          "author": null,
+          "description": "This weekly roundup thread is intended for all culture war posts. 'Culture war' is vaguely defined, but it basically means controversial issues that fall along set tribal lines. Arguments over culture war issues generate a lot of heat and little light, and few deeply entrenched people ever change their minds. This thread is for voicing opinions and analyzing the state of the discussion while trying to optimize for light over heat.\n Optimistically, we think that engaging with people you disagree with is wort…",
+          "link": "https://www.reddit.com/r/TheMotte/comments/ne8ggb/culture_war_roundup_for_the_week_of_may_17_2021/",
+          "publishedOn": "2021-05-17T06:15:16.000Z",
+          "wordCount": 4630,
+          "title": "Culture War Roundup for the week of May 17, 2021"
+        }
+      ]
+    },
+    {
+      "title": "top scoring links : ScientificNutrition",
+      "feedUrl": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+      "siteUrl": "https://www.reddit.com/r/ScientificNutrition/top/?sort=top&t=day",
+      "articles": []
+    },
+    {
+      "title": "top scoring links : redscarepod",
+      "feedUrl": "https://www.reddit.com/r/redscarepod/top/.rss?sort=top&t=day&limit=3",
+      "siteUrl": "https://www.reddit.com/r/redscarepod/top/?sort=top&t=day&limit=3",
+      "articles": [
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/nelb0l/today_i_learned_in_the_90s_coke_tried_to_create_a/",
+          "author": null,
+          "description": "submitted by    /u/Sumkindofbasterd  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/nelb0l/today_i_learned_in_the_90s_coke_tried_to_create_a/",
+          "publishedOn": "2021-05-17T16:49:21.000Z",
+          "wordCount": 1015,
+          "title": "Today I learned in the 90s Coke tried to create a brand of soda to target GenX apathy called OK with cans by indie comic artists and a manifesto with stuff like: 'What's the point of OK? Well, what's the point of anything?' and 'Don't be fooled into thinking there has to be a reason for anything.'"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/neer7t/yeah/",
+          "author": null,
+          "description": "submitted by    /u/dustcinnamon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/neer7t/yeah/",
+          "publishedOn": "2021-05-17T12:20:43.000Z",
+          "wordCount": 425,
+          "title": "yeah"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/ne2a2b/_/",
+          "author": null,
+          "description": "submitted by    /u/bitchyfuxkjngbltch34  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/ne2a2b/_/",
+          "publishedOn": "2021-05-17T00:36:06.000Z",
+          "wordCount": 624,
+          "title": "😐"
+        }
+      ]
+    },
+    {
+      "title": "Trending Haskell repositories on GitHub today · GitHub",
+      "feedUrl": "https://rsshub.app/github/trending/daily/haskell",
+      "siteUrl": "https://github.com/trending/haskell?since=daily",
+      "articles": [
+        {
+          "id": "https://github.com/GaloisInc/cryptol",
+          "author": "GaloisInc",
+          "description": "Cryptol: The Language of Cryptography\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/GaloisInc/cryptol",
+          "publishedOn": "2021-05-18T00:58:20.192Z",
+          "wordCount": 1817,
+          "title": "GaloisInc /\n\n      cryptol"
+        },
+        {
+          "id": "https://github.com/digital-asset/ex-bond-issuance",
+          "author": "digital-asset",
+          "description": "Reference DAML application demonstrating a bond issuance use case.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/digital-asset/ex-bond-issuance",
+          "publishedOn": "2021-05-18T00:58:20.151Z",
+          "wordCount": 2907,
+          "title": "digital-asset /\n\n      ex-bond-issuance"
+        },
+        {
+          "id": "https://github.com/hadolint/hadolint",
+          "author": "hadolint",
+          "description": "Dockerfile linter, validate inline bash, written in Haskell\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/hadolint/hadolint",
+          "publishedOn": "2021-05-18T00:58:19.927Z",
+          "wordCount": 2828,
+          "title": "hadolint /\n\n      hadolint"
+        },
+        {
+          "id": "https://github.com/jgm/pandoc",
+          "author": "jgm",
+          "description": "Universal markup converter\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/jgm/pandoc",
+          "publishedOn": "2021-05-18T00:58:19.880Z",
+          "wordCount": 1283,
+          "title": "jgm /\n\n      pandoc"
+        },
+        {
+          "id": "https://github.com/input-output-hk/ouroboros-network",
+          "author": "input-output-hk",
+          "description": "An implementation of the Ouroboros family of consensus algorithms, with its networking support\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/input-output-hk/ouroboros-network",
+          "publishedOn": "2021-05-18T00:58:19.841Z",
+          "wordCount": 1425,
+          "title": "input-output-hk /\n\n      ouroboros-network"
+        },
+        {
+          "id": "https://github.com/digital-asset/ex-healthcare-claims-processing",
+          "author": "digital-asset",
+          "description": "Reference DAML application demonstrating a healthcare use case.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/digital-asset/ex-healthcare-claims-processing",
+          "publishedOn": "2021-05-18T00:58:19.440Z",
+          "wordCount": 1897,
+          "title": "digital-asset /\n\n      ex-healthcare-claims-processing"
+        },
+        {
+          "id": "https://github.com/kframework/kore",
+          "author": "kframework",
+          "description": "The symbolic execution engine powering the K Framework\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/kframework/kore",
+          "publishedOn": "2021-05-18T00:58:19.332Z",
+          "wordCount": 1059,
+          "title": "kframework /\n\n      kore"
+        },
+        {
+          "id": "https://github.com/input-output-hk/cardano-sl",
+          "author": "input-output-hk",
+          "description": "Cryptographic currency implementing Ouroboros PoS protocol\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/input-output-hk/cardano-sl",
+          "publishedOn": "2021-05-18T00:58:19.282Z",
+          "wordCount": 1091,
+          "title": "input-output-hk /\n\n      cardano-sl"
+        },
+        {
+          "id": "https://github.com/purescript/purescript",
+          "author": "purescript",
+          "description": "A strongly-typed language that compiles to JavaScript\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/purescript/purescript",
+          "publishedOn": "2021-05-18T00:58:19.228Z",
+          "wordCount": 791,
+          "title": "purescript /\n\n      purescript"
+        },
+        {
+          "id": "https://github.com/haskell/cabal",
+          "author": "haskell",
+          "description": "Official upstream development repository for Cabal and cabal-install\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/haskell/cabal",
+          "publishedOn": "2021-05-18T00:58:19.187Z",
+          "wordCount": 656,
+          "title": "haskell /\n\n      cabal"
+        },
+        {
+          "id": "https://github.com/haskell/haskell-language-server",
+          "author": "haskell",
+          "description": "Successor of ghcide & haskell-ide-engine. One IDE to rule them all.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/haskell/haskell-language-server",
+          "publishedOn": "2021-05-18T00:58:19.143Z",
+          "wordCount": 5134,
+          "title": "haskell /\n\n      haskell-language-server"
+        },
+        {
+          "id": "https://github.com/input-output-hk/cardano-node",
+          "author": "input-output-hk",
+          "description": "The core component that is used to participate in a Cardano decentralised blockchain.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/input-output-hk/cardano-node",
+          "publishedOn": "2021-05-18T00:58:18.628Z",
+          "wordCount": 2832,
+          "title": "input-output-hk /\n\n      cardano-node"
+        },
+        {
+          "id": "https://github.com/xmonad/xmonad-contrib",
+          "author": "xmonad",
+          "description": "Contributed modules for xmonad\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/xmonad/xmonad-contrib",
+          "publishedOn": "2021-05-18T00:58:18.525Z",
+          "wordCount": 727,
+          "title": "xmonad /\n\n      xmonad-contrib"
+        },
+        {
+          "id": "https://github.com/input-output-hk/cardano-base",
+          "author": "input-output-hk",
+          "description": "Code used throughout the Cardano eco-system\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/input-output-hk/cardano-base",
+          "publishedOn": "2021-05-18T00:58:18.493Z",
+          "wordCount": 489,
+          "title": "input-output-hk /\n\n      cardano-base"
+        },
+        {
+          "id": "https://github.com/digital-asset/ex-mortgage-repackaging",
+          "author": "digital-asset",
+          "description": "Reference DAML application demonstrating the use case of repackaging Mortgage Based Securities. \n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/digital-asset/ex-mortgage-repackaging",
+          "publishedOn": "2021-05-18T00:58:18.370Z",
+          "wordCount": 811,
+          "title": "digital-asset /\n\n      ex-mortgage-repackaging"
+        },
+        {
+          "id": "https://github.com/jdnavarro/smallcheck-series",
+          "author": "jdnavarro",
+          "description": "Orphan Series/CoSeries instances for common types\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/jdnavarro/smallcheck-series",
+          "publishedOn": "2021-05-18T00:58:18.331Z",
+          "wordCount": 437,
+          "title": "jdnavarro /\n\n      smallcheck-series"
+        },
+        {
+          "id": "https://github.com/hasura/ci-info-hs",
+          "author": "hasura",
+          "description": "Get details about the current Continuous Integration environment - Haskell port of https://github.com/watson/ci-info\n\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/hasura/ci-info-hs",
+          "publishedOn": "2021-05-18T00:58:18.299Z",
+          "wordCount": 513,
+          "title": "hasura /\n\n      ci-info-hs"
+        },
+        {
+          "id": "https://github.com/hasura/pg-client-hs",
+          "author": "hasura",
+          "description": "A low level Haskell library to connect to postgres \n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/hasura/pg-client-hs",
+          "publishedOn": "2021-05-18T00:58:18.280Z",
+          "wordCount": 454,
+          "title": "hasura /\n\n      pg-client-hs"
+        },
+        {
+          "id": "https://github.com/sdiehl/wiwinwlh",
+          "author": "sdiehl",
+          "description": "What I Wish I Knew When Learning Haskell\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/sdiehl/wiwinwlh",
+          "publishedOn": "2021-05-18T00:58:18.240Z",
+          "wordCount": 999,
+          "title": "sdiehl /\n\n      wiwinwlh"
+        },
+        {
+          "id": "https://github.com/hasura/graphql-parser-hs",
+          "author": "hasura",
+          "description": "A GraphQL query parser for Haskell\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/hasura/graphql-parser-hs",
+          "publishedOn": "2021-05-18T00:58:18.201Z",
+          "wordCount": 418,
+          "title": "hasura /\n\n      graphql-parser-hs"
+        },
+        {
+          "id": "https://github.com/qnikst/HaskellNet",
+          "author": "qnikst",
+          "description": "Haskell library which provides client support for POP3, SMTP, and IMAP protocols.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/qnikst/HaskellNet",
+          "publishedOn": "2021-05-18T00:58:18.169Z",
+          "wordCount": 531,
+          "title": "qnikst /\n\n      HaskellNet"
+        },
+        {
+          "id": "https://github.com/reach-sh/reach-lang",
+          "author": "reach-sh",
+          "description": "Reach: The Safest and Easiest DApp Programming Language\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/reach-sh/reach-lang",
+          "publishedOn": "2021-05-18T00:58:18.147Z",
+          "wordCount": 846,
+          "title": "reach-sh /\n\n      reach-lang"
+        },
+        {
+          "id": "https://github.com/koalaman/shellcheck",
+          "author": "koalaman",
+          "description": "ShellCheck, a static analysis tool for shell scripts\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/koalaman/shellcheck",
+          "publishedOn": "2021-05-18T00:58:18.110Z",
+          "wordCount": 3064,
+          "title": "koalaman /\n\n      shellcheck"
+        },
+        {
+          "id": "https://github.com/hasura/graphql-engine",
+          "author": "hasura",
+          "description": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/hasura/graphql-engine",
+          "publishedOn": "2021-05-18T00:58:18.059Z",
+          "wordCount": 1796,
+          "title": "hasura /\n\n      graphql-engine"
+        },
+        {
+          "id": "https://github.com/input-output-hk/cardano-wallet",
+          "author": "input-output-hk",
+          "description": "HTTP server & command-line for managing UTxOs and HD wallets in Cardano.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/input-output-hk/cardano-wallet",
+          "publishedOn": "2021-05-18T00:58:17.674Z",
+          "wordCount": 1223,
+          "title": "input-output-hk /\n\n      cardano-wallet"
+        }
+      ]
+    },
+    {
+      "title": "Hacker News: Front Page",
+      "feedUrl": "https://hnrss.org/frontpage",
+      "siteUrl": "https://news.ycombinator.com/",
+      "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=27189308",
+          "author": "ethangk",
+          "description": "Article URL: https://ethan.katzenberg.co.uk/posts/saying-difficult-things/\nComments URL: https://news.ycombinator.com/item?id=27189308\nPoints: 19\n# Comments: 5",
+          "link": "https://ethan.katzenberg.co.uk/posts/saying-difficult-things/",
+          "publishedOn": "2021-05-17T22:45:20.000Z",
+          "wordCount": 244,
+          "title": "Saying the Difficult Things"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27189288",
+          "author": "zachlatta",
+          "description": "Article URL: http://jobs.hackclub.com/\nComments URL: https://news.ycombinator.com/item?id=27189288\nPoints: 40\n# Comments: 14",
+          "link": "http://jobs.hackclub.com/",
+          "publishedOn": "2021-05-17T22:42:22.000Z",
+          "wordCount": null,
+          "title": "Show HN: Apply for a job through SSH, $ ssh jobs.hackclub.com"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27189162",
+          "author": "ag8",
+          "description": "Article URL: https://www.nps.gov/articles/000/cicadas-brood-x.htm\nComments URL: https://news.ycombinator.com/item?id=27189162\nPoints: 37\n# Comments: 12",
+          "link": "https://www.nps.gov/articles/000/cicadas-brood-x.htm",
+          "publishedOn": "2021-05-17T22:25:51.000Z",
+          "wordCount": 1001,
+          "title": "Brood X cicadas, which come out ever 17 years, come out in the Eastern U.S."
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27188989",
+          "author": "rajlego",
+          "description": "Article URL: https://cantunsee.space/\nComments URL: https://news.ycombinator.com/item?id=27188989\nPoints: 35\n# Comments: 13",
+          "link": "https://cantunsee.space/",
+          "publishedOn": "2021-05-17T22:05:32.000Z",
+          "wordCount": 19,
+          "title": "Can't Unsee"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27188854",
+          "author": "diplodocusaur",
+          "description": "Article URL: https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand\nComments URL: https://news.ycombinator.com/item?id=27188854\nPoints: 130\n# Comments: 57",
+          "link": "https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand",
+          "publishedOn": "2021-05-17T21:48:54.000Z",
+          "wordCount": 2174,
+          "title": "Positions chess engines don't understand"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27188753",
+          "author": "sova",
+          "description": "Article URL: https://www.nature.com/articles/d41586-021-01332-0\nComments URL: https://news.ycombinator.com/item?id=27188753\nPoints: 38\n# Comments: 7",
+          "link": "https://www.nature.com/articles/d41586-021-01332-0",
+          "publishedOn": "2021-05-17T21:36:43.000Z",
+          "wordCount": 1671,
+          "title": "First nuclear detonation created ‘impossible’ quasicrystals"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27188644",
+          "author": "rbanffy",
+          "description": "Article URL: https://fuse.wikichip.org/news/4897/hot-chips-33-program-alder-lake-sapphire-rapids-zen-3-next-gen-z-neoverse-n2-and-many-more/\nComments URL: https://news.ycombinator.com/item?id=27188644\nPoints: 15\n# Comments: 1",
+          "link": "https://fuse.wikichip.org/news/4897/hot-chips-33-program-alder-lake-sapphire-rapids-zen-3-next-gen-z-neoverse-n2-and-many-more/",
+          "publishedOn": "2021-05-17T21:25:36.000Z",
+          "wordCount": 1900,
+          "title": "Hot Chips 33: Alder Lake, Sapphire Rapids, Zen 3, Next-Gen Z, Neoverse N2"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27188643",
+          "author": "throwkeep",
+          "description": "Article URL: https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/\nComments URL: https://news.ycombinator.com/item?id=27188643\nPoints: 34\n# Comments: 6",
+          "link": "https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/",
+          "publishedOn": "2021-05-17T21:25:28.000Z",
+          "wordCount": 6420,
+          "title": "Why Civilization Is Older Than We Thought"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27188443",
+          "author": "gjvc",
+          "description": "Article URL: https://github.com/jupyterlab/jupyterlab-latex\nComments URL: https://news.ycombinator.com/item?id=27188443\nPoints: 62\n# Comments: 11",
+          "link": "https://github.com/jupyterlab/jupyterlab-latex",
+          "publishedOn": "2021-05-17T21:05:45.000Z",
+          "wordCount": 1067,
+          "title": "JupyterLab LaTeX – live-editing of LaTeX documents in JupyterLab"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27188397",
+          "author": "gdeglin",
+          "description": "Article URL: https://onesignal.com/careers\nComments URL: https://news.ycombinator.com/item?id=27188397\nPoints: 1\n# Comments: 0",
+          "link": "https://onesignal.com/careers",
+          "publishedOn": "2021-05-17T21:01:13.000Z",
+          "wordCount": 460,
+          "title": "OneSignal (YC S11) Is Hiring Engineers in California, New York, Texas, & the UK"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27188188",
+          "author": "throwaway888abc",
+          "description": "Article URL: https://ysamm.com/?p=691\nComments URL: https://news.ycombinator.com/item?id=27188188\nPoints: 27\n# Comments: 1",
+          "link": "https://ysamm.com/?p=691",
+          "publishedOn": "2021-05-17T20:41:30.000Z",
+          "wordCount": 366,
+          "title": "Identify a Facebook user by his phone number despite privacy settings set"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27188130",
+          "author": "sdeframond",
+          "description": "Article URL: https://legalese.com/\nComments URL: https://news.ycombinator.com/item?id=27188130\nPoints: 89\n# Comments: 45",
+          "link": "https://legalese.com/",
+          "publishedOn": "2021-05-17T20:36:44.000Z",
+          "wordCount": 260,
+          "title": "Legalese – Computational Law"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27187896",
+          "author": "macinjosh",
+          "description": "Article URL: https://www.seas.harvard.edu/news/2021/05/long-lasting-stable-solid-state-lithium-battery\nComments URL: https://news.ycombinator.com/item?id=27187896\nPoints: 82\n# Comments: 27",
+          "link": "https://www.seas.harvard.edu/news/2021/05/long-lasting-stable-solid-state-lithium-battery",
+          "publishedOn": "2021-05-17T20:14:30.000Z",
+          "wordCount": 1155,
+          "title": "A long-lasting, stable solid-state lithium battery"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27187522",
+          "author": "chmaynard",
+          "description": "Article URL: https://www.caltech.edu/about/news/historys-mysteries-caltech-professor-helps-solve-hindenburg-disaster\nComments URL: https://news.ycombinator.com/item?id=27187522\nPoints: 86\n# Comments: 41",
+          "link": "https://www.caltech.edu/about/news/historys-mysteries-caltech-professor-helps-solve-hindenburg-disaster",
+          "publishedOn": "2021-05-17T19:44:55.000Z",
+          "wordCount": 2793,
+          "title": "Caltech professor helps solve Hindenburg disaster"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27187435",
+          "author": "scarybeast",
+          "description": "Article URL: https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html\nComments URL: https://news.ycombinator.com/item?id=27187435\nPoints: 168\n# Comments: 26",
+          "link": "https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html",
+          "publishedOn": "2021-05-17T19:38:38.000Z",
+          "wordCount": 4610,
+          "title": "Recovering “lost” treasure-filled floppy discs with an oscilloscope"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27186959",
+          "author": "epa",
+          "description": "Article URL: https://www.sec.gov/news/press-release/2021-84\nComments URL: https://news.ycombinator.com/item?id=27186959\nPoints: 149\n# Comments: 46",
+          "link": "https://www.sec.gov/news/press-release/2021-84",
+          "publishedOn": "2021-05-17T19:01:48.000Z",
+          "wordCount": 962,
+          "title": "SEC Charges S&P Dow Jones for Failures Relating to Volatility-Related Index"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27186778",
+          "author": "IMAYousaf",
+          "description": "Article URL: https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/\nComments URL: https://news.ycombinator.com/item?id=27186778\nPoints: 105\n# Comments: 64",
+          "link": "https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/",
+          "publishedOn": "2021-05-17T18:51:23.000Z",
+          "wordCount": 1206,
+          "title": "Some Night-Shift Workers May Have a 300% Higher Risk of Car Crashes"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27186675",
+          "author": "vanusa",
+          "description": "Article URL: https://www.bbc.com/news/57102499\nComments URL: https://news.ycombinator.com/item?id=27186675\nPoints: 632\n# Comments: 318",
+          "link": "https://www.bbc.com/news/57102499",
+          "publishedOn": "2021-05-17T18:42:45.000Z",
+          "wordCount": 1639,
+          "title": "Why is the Gaza Strip blurry on Google Maps?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27186436",
+          "author": "pessimizer",
+          "description": "Article URL: https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/\nComments URL: https://news.ycombinator.com/item?id=27186436\nPoints: 190\n# Comments: 144",
+          "link": "https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/",
+          "publishedOn": "2021-05-17T18:23:39.000Z",
+          "wordCount": 7113,
+          "title": "A police dog who cried drugs at every traffic stop"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27186385",
+          "author": "andyjih_",
+          "description": "Article URL: https://www.grouparoo.com/blog/varchar-191\nComments URL: https://news.ycombinator.com/item?id=27186385\nPoints: 88\n# Comments: 30",
+          "link": "https://www.grouparoo.com/blog/varchar-191",
+          "publishedOn": "2021-05-17T18:18:18.000Z",
+          "wordCount": 1307,
+          "title": "Why do database columns have a character length of 191?"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.7.2"
+}

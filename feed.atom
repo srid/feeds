@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://srid.github.io/feeds/index.html</id>
+    <title>osmos::feed</title>
+    <updated>2021-05-18T00:58:20.654Z</updated>
+    <generator>osmosfeed 1.7.2</generator>
+    <link rel="alternate" href="https://srid.github.io/feeds/index.html"/>
+    <link rel="self" href="https://srid.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GaloisInc /
+
+      cryptol]]></title>
+        <id>https://github.com/GaloisInc/cryptol</id>
+        <link href="https://github.com/GaloisInc/cryptol"/>
+        <updated>2021-05-18T00:58:20.192Z</updated>
+        <summary type="html"><![CDATA[Cryptol: The Language of Cryptography
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>GaloisInc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[digital-asset /
+
+      ex-bond-issuance]]></title>
+        <id>https://github.com/digital-asset/ex-bond-issuance</id>
+        <link href="https://github.com/digital-asset/ex-bond-issuance"/>
+        <updated>2021-05-18T00:58:20.151Z</updated>
+        <summary type="html"><![CDATA[Reference DAML application demonstrating a bond issuance use case.
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>digital-asset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hadolint /
+
+      hadolint]]></title>
+        <id>https://github.com/hadolint/hadolint</id>
+        <link href="https://github.com/hadolint/hadolint"/>
+        <updated>2021-05-18T00:58:19.927Z</updated>
+        <summary type="html"><![CDATA[Dockerfile linter, validate inline bash, written in Haskell
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>hadolint</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jgm /
+
+      pandoc]]></title>
+        <id>https://github.com/jgm/pandoc</id>
+        <link href="https://github.com/jgm/pandoc"/>
+        <updated>2021-05-18T00:58:19.880Z</updated>
+        <summary type="html"><![CDATA[Universal markup converter
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>jgm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      ouroboros-network]]></title>
+        <id>https://github.com/input-output-hk/ouroboros-network</id>
+        <link href="https://github.com/input-output-hk/ouroboros-network"/>
+        <updated>2021-05-18T00:58:19.841Z</updated>
+        <summary type="html"><![CDATA[An implementation of the Ouroboros family of consensus algorithms, with its networking support
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[digital-asset /
+
+      ex-healthcare-claims-processing]]></title>
+        <id>https://github.com/digital-asset/ex-healthcare-claims-processing</id>
+        <link href="https://github.com/digital-asset/ex-healthcare-claims-processing"/>
+        <updated>2021-05-18T00:58:19.440Z</updated>
+        <summary type="html"><![CDATA[Reference DAML application demonstrating a healthcare use case.
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>digital-asset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kframework /
+
+      kore]]></title>
+        <id>https://github.com/kframework/kore</id>
+        <link href="https://github.com/kframework/kore"/>
+        <updated>2021-05-18T00:58:19.332Z</updated>
+        <summary type="html"><![CDATA[The symbolic execution engine powering the K Framework
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>kframework</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      cardano-sl]]></title>
+        <id>https://github.com/input-output-hk/cardano-sl</id>
+        <link href="https://github.com/input-output-hk/cardano-sl"/>
+        <updated>2021-05-18T00:58:19.282Z</updated>
+        <summary type="html"><![CDATA[Cryptographic currency implementing Ouroboros PoS protocol
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[purescript /
+
+      purescript]]></title>
+        <id>https://github.com/purescript/purescript</id>
+        <link href="https://github.com/purescript/purescript"/>
+        <updated>2021-05-18T00:58:19.228Z</updated>
+        <summary type="html"><![CDATA[A strongly-typed language that compiles to JavaScript
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>purescript</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[haskell /
+
+      cabal]]></title>
+        <id>https://github.com/haskell/cabal</id>
+        <link href="https://github.com/haskell/cabal"/>
+        <updated>2021-05-18T00:58:19.187Z</updated>
+        <summary type="html"><![CDATA[Official upstream development repository for Cabal and cabal-install
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[haskell /
+
+      haskell-language-server]]></title>
+        <id>https://github.com/haskell/haskell-language-server</id>
+        <link href="https://github.com/haskell/haskell-language-server"/>
+        <updated>2021-05-18T00:58:19.143Z</updated>
+        <summary type="html"><![CDATA[Successor of ghcide & haskell-ide-engine. One IDE to rule them all.
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      cardano-node]]></title>
+        <id>https://github.com/input-output-hk/cardano-node</id>
+        <link href="https://github.com/input-output-hk/cardano-node"/>
+        <updated>2021-05-18T00:58:18.628Z</updated>
+        <summary type="html"><![CDATA[The core component that is used to participate in a Cardano decentralised blockchain.
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xmonad /
+
+      xmonad-contrib]]></title>
+        <id>https://github.com/xmonad/xmonad-contrib</id>
+        <link href="https://github.com/xmonad/xmonad-contrib"/>
+        <updated>2021-05-18T00:58:18.525Z</updated>
+        <summary type="html"><![CDATA[Contributed modules for xmonad
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>xmonad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      cardano-base]]></title>
+        <id>https://github.com/input-output-hk/cardano-base</id>
+        <link href="https://github.com/input-output-hk/cardano-base"/>
+        <updated>2021-05-18T00:58:18.493Z</updated>
+        <summary type="html"><![CDATA[Code used throughout the Cardano eco-system
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[digital-asset /
+
+      ex-mortgage-repackaging]]></title>
+        <id>https://github.com/digital-asset/ex-mortgage-repackaging</id>
+        <link href="https://github.com/digital-asset/ex-mortgage-repackaging"/>
+        <updated>2021-05-18T00:58:18.370Z</updated>
+        <summary type="html"><![CDATA[Reference DAML application demonstrating the use case of repackaging Mortgage Based Securities. 
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>digital-asset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jdnavarro /
+
+      smallcheck-series]]></title>
+        <id>https://github.com/jdnavarro/smallcheck-series</id>
+        <link href="https://github.com/jdnavarro/smallcheck-series"/>
+        <updated>2021-05-18T00:58:18.331Z</updated>
+        <summary type="html"><![CDATA[Orphan Series/CoSeries instances for common types
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>jdnavarro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hasura /
+
+      ci-info-hs]]></title>
+        <id>https://github.com/hasura/ci-info-hs</id>
+        <link href="https://github.com/hasura/ci-info-hs"/>
+        <updated>2021-05-18T00:58:18.299Z</updated>
+        <summary type="html"><![CDATA[Get details about the current Continuous Integration environment - Haskell port of https://github.com/watson/ci-info
+
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>hasura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hasura /
+
+      pg-client-hs]]></title>
+        <id>https://github.com/hasura/pg-client-hs</id>
+        <link href="https://github.com/hasura/pg-client-hs"/>
+        <updated>2021-05-18T00:58:18.280Z</updated>
+        <summary type="html"><![CDATA[A low level Haskell library to connect to postgres 
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>hasura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sdiehl /
+
+      wiwinwlh]]></title>
+        <id>https://github.com/sdiehl/wiwinwlh</id>
+        <link href="https://github.com/sdiehl/wiwinwlh"/>
+        <updated>2021-05-18T00:58:18.240Z</updated>
+        <summary type="html"><![CDATA[What I Wish I Knew When Learning Haskell
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>sdiehl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hasura /
+
+      graphql-parser-hs]]></title>
+        <id>https://github.com/hasura/graphql-parser-hs</id>
+        <link href="https://github.com/hasura/graphql-parser-hs"/>
+        <updated>2021-05-18T00:58:18.201Z</updated>
+        <summary type="html"><![CDATA[A GraphQL query parser for Haskell
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>hasura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[qnikst /
+
+      HaskellNet]]></title>
+        <id>https://github.com/qnikst/HaskellNet</id>
+        <link href="https://github.com/qnikst/HaskellNet"/>
+        <updated>2021-05-18T00:58:18.169Z</updated>
+        <summary type="html"><![CDATA[Haskell library which provides client support for POP3, SMTP, and IMAP protocols.
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>qnikst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[reach-sh /
+
+      reach-lang]]></title>
+        <id>https://github.com/reach-sh/reach-lang</id>
+        <link href="https://github.com/reach-sh/reach-lang"/>
+        <updated>2021-05-18T00:58:18.147Z</updated>
+        <summary type="html"><![CDATA[Reach: The Safest and Easiest DApp Programming Language
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>reach-sh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[koalaman /
+
+      shellcheck]]></title>
+        <id>https://github.com/koalaman/shellcheck</id>
+        <link href="https://github.com/koalaman/shellcheck"/>
+        <updated>2021-05-18T00:58:18.110Z</updated>
+        <summary type="html"><![CDATA[ShellCheck, a static analysis tool for shell scripts
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>koalaman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hasura /
+
+      graphql-engine]]></title>
+        <id>https://github.com/hasura/graphql-engine</id>
+        <link href="https://github.com/hasura/graphql-engine"/>
+        <updated>2021-05-18T00:58:18.059Z</updated>
+        <summary type="html"><![CDATA[Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>hasura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      cardano-wallet]]></title>
+        <id>https://github.com/input-output-hk/cardano-wallet</id>
+        <link href="https://github.com/input-output-hk/cardano-wallet"/>
+        <updated>2021-05-18T00:58:17.674Z</updated>
+        <summary type="html"><![CDATA[HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saying the Difficult Things]]></title>
+        <id>https://news.ycombinator.com/item?id=27189308</id>
+        <link href="https://ethan.katzenberg.co.uk/posts/saying-difficult-things/"/>
+        <updated>2021-05-17T22:45:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ethan.katzenberg.co.uk/posts/saying-difficult-things/
+Comments URL: https://news.ycombinator.com/item?id=27189308
+Points: 19
+# Comments: 5]]></summary>
+        <author>
+            <name>ethangk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Apply for a job through SSH, $ ssh jobs.hackclub.com]]></title>
+        <id>https://news.ycombinator.com/item?id=27189288</id>
+        <link href="http://jobs.hackclub.com/"/>
+        <updated>2021-05-17T22:42:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://jobs.hackclub.com/
+Comments URL: https://news.ycombinator.com/item?id=27189288
+Points: 40
+# Comments: 14]]></summary>
+        <author>
+            <name>zachlatta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Humble `img` Element And Core Web Vitals]]></title>
+        <id>https://css-tricks.com/?p=340716</id>
+        <link href="https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
+        <updated>2021-05-17T22:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Addy Osmani on images in HTML:
+The humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can 
+…
+The post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brood X cicadas, which come out ever 17 years, come out in the Eastern U.S.]]></title>
+        <id>https://news.ycombinator.com/item?id=27189162</id>
+        <link href="https://www.nps.gov/articles/000/cicadas-brood-x.htm"/>
+        <updated>2021-05-17T22:25:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nps.gov/articles/000/cicadas-brood-x.htm
+Comments URL: https://news.ycombinator.com/item?id=27189162
+Points: 37
+# Comments: 12]]></summary>
+        <author>
+            <name>ag8</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can't Unsee]]></title>
+        <id>https://news.ycombinator.com/item?id=27188989</id>
+        <link href="https://cantunsee.space/"/>
+        <updated>2021-05-17T22:05:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cantunsee.space/
+Comments URL: https://news.ycombinator.com/item?id=27188989
+Points: 35
+# Comments: 13]]></summary>
+        <author>
+            <name>rajlego</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Positions chess engines don't understand]]></title>
+        <id>https://news.ycombinator.com/item?id=27188854</id>
+        <link href="https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand"/>
+        <updated>2021-05-17T21:48:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand
+Comments URL: https://news.ycombinator.com/item?id=27188854
+Points: 130
+# Comments: 57]]></summary>
+        <author>
+            <name>diplodocusaur</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First nuclear detonation created ‘impossible’ quasicrystals]]></title>
+        <id>https://news.ycombinator.com/item?id=27188753</id>
+        <link href="https://www.nature.com/articles/d41586-021-01332-0"/>
+        <updated>2021-05-17T21:36:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01332-0
+Comments URL: https://news.ycombinator.com/item?id=27188753
+Points: 38
+# Comments: 7]]></summary>
+        <author>
+            <name>sova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hot Chips 33: Alder Lake, Sapphire Rapids, Zen 3, Next-Gen Z, Neoverse N2]]></title>
+        <id>https://news.ycombinator.com/item?id=27188644</id>
+        <link href="https://fuse.wikichip.org/news/4897/hot-chips-33-program-alder-lake-sapphire-rapids-zen-3-next-gen-z-neoverse-n2-and-many-more/"/>
+        <updated>2021-05-17T21:25:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fuse.wikichip.org/news/4897/hot-chips-33-program-alder-lake-sapphire-rapids-zen-3-next-gen-z-neoverse-n2-and-many-more/
+Comments URL: https://news.ycombinator.com/item?id=27188644
+Points: 15
+# Comments: 1]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Civilization Is Older Than We Thought]]></title>
+        <id>https://news.ycombinator.com/item?id=27188643</id>
+        <link href="https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/"/>
+        <updated>2021-05-17T21:25:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/
+Comments URL: https://news.ycombinator.com/item?id=27188643
+Points: 34
+# Comments: 6]]></summary>
+        <author>
+            <name>throwkeep</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JupyterLab LaTeX – live-editing of LaTeX documents in JupyterLab]]></title>
+        <id>https://news.ycombinator.com/item?id=27188443</id>
+        <link href="https://github.com/jupyterlab/jupyterlab-latex"/>
+        <updated>2021-05-17T21:05:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/jupyterlab/jupyterlab-latex
+Comments URL: https://news.ycombinator.com/item?id=27188443
+Points: 62
+# Comments: 11]]></summary>
+        <author>
+            <name>gjvc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneSignal (YC S11) Is Hiring Engineers in California, New York, Texas, & the UK]]></title>
+        <id>https://news.ycombinator.com/item?id=27188397</id>
+        <link href="https://onesignal.com/careers"/>
+        <updated>2021-05-17T21:01:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://onesignal.com/careers
+Comments URL: https://news.ycombinator.com/item?id=27188397
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>gdeglin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Identify a Facebook user by his phone number despite privacy settings set]]></title>
+        <id>https://news.ycombinator.com/item?id=27188188</id>
+        <link href="https://ysamm.com/?p=691"/>
+        <updated>2021-05-17T20:41:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ysamm.com/?p=691
+Comments URL: https://news.ycombinator.com/item?id=27188188
+Points: 27
+# Comments: 1]]></summary>
+        <author>
+            <name>throwaway888abc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Legalese – Computational Law]]></title>
+        <id>https://news.ycombinator.com/item?id=27188130</id>
+        <link href="https://legalese.com/"/>
+        <updated>2021-05-17T20:36:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://legalese.com/
+Comments URL: https://news.ycombinator.com/item?id=27188130
+Points: 89
+# Comments: 45]]></summary>
+        <author>
+            <name>sdeframond</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A long-lasting, stable solid-state lithium battery]]></title>
+        <id>https://news.ycombinator.com/item?id=27187896</id>
+        <link href="https://www.seas.harvard.edu/news/2021/05/long-lasting-stable-solid-state-lithium-battery"/>
+        <updated>2021-05-17T20:14:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.seas.harvard.edu/news/2021/05/long-lasting-stable-solid-state-lithium-battery
+Comments URL: https://news.ycombinator.com/item?id=27187896
+Points: 82
+# Comments: 27]]></summary>
+        <author>
+            <name>macinjosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caltech professor helps solve Hindenburg disaster]]></title>
+        <id>https://news.ycombinator.com/item?id=27187522</id>
+        <link href="https://www.caltech.edu/about/news/historys-mysteries-caltech-professor-helps-solve-hindenburg-disaster"/>
+        <updated>2021-05-17T19:44:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.caltech.edu/about/news/historys-mysteries-caltech-professor-helps-solve-hindenburg-disaster
+Comments URL: https://news.ycombinator.com/item?id=27187522
+Points: 86
+# Comments: 41]]></summary>
+        <author>
+            <name>chmaynard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recovering “lost” treasure-filled floppy discs with an oscilloscope]]></title>
+        <id>https://news.ycombinator.com/item?id=27187435</id>
+        <link href="https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html"/>
+        <updated>2021-05-17T19:38:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html
+Comments URL: https://news.ycombinator.com/item?id=27187435
+Points: 168
+# Comments: 26]]></summary>
+        <author>
+            <name>scarybeast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC Charges S&P Dow Jones for Failures Relating to Volatility-Related Index]]></title>
+        <id>https://news.ycombinator.com/item?id=27186959</id>
+        <link href="https://www.sec.gov/news/press-release/2021-84"/>
+        <updated>2021-05-17T19:01:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.sec.gov/news/press-release/2021-84
+Comments URL: https://news.ycombinator.com/item?id=27186959
+Points: 149
+# Comments: 46]]></summary>
+        <author>
+            <name>epa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Night-Shift Workers May Have a 300% Higher Risk of Car Crashes]]></title>
+        <id>https://news.ycombinator.com/item?id=27186778</id>
+        <link href="https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/"/>
+        <updated>2021-05-17T18:51:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/
+Comments URL: https://news.ycombinator.com/item?id=27186778
+Points: 105
+# Comments: 64]]></summary>
+        <author>
+            <name>IMAYousaf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is the Gaza Strip blurry on Google Maps?]]></title>
+        <id>https://news.ycombinator.com/item?id=27186675</id>
+        <link href="https://www.bbc.com/news/57102499"/>
+        <updated>2021-05-17T18:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/57102499
+Comments URL: https://news.ycombinator.com/item?id=27186675
+Points: 632
+# Comments: 318]]></summary>
+        <author>
+            <name>vanusa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A police dog who cried drugs at every traffic stop]]></title>
+        <id>https://news.ycombinator.com/item?id=27186436</id>
+        <link href="https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/"/>
+        <updated>2021-05-17T18:23:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/
+Comments URL: https://news.ycombinator.com/item?id=27186436
+Points: 190
+# Comments: 144]]></summary>
+        <author>
+            <name>pessimizer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why do database columns have a character length of 191?]]></title>
+        <id>https://news.ycombinator.com/item?id=27186385</id>
+        <link href="https://www.grouparoo.com/blog/varchar-191"/>
+        <updated>2021-05-17T18:18:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.grouparoo.com/blog/varchar-191
+Comments URL: https://news.ycombinator.com/item?id=27186385
+Points: 88
+# Comments: 30]]></summary>
+        <author>
+            <name>andyjih_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today I learned in the 90s Coke tried to create a brand of soda to target GenX apathy called OK with cans by indie comic artists and a manifesto with stuff like: 'What's the point of OK? Well, what's the point of anything?' and 'Don't be fooled into thinking there has to be a reason for anything.']]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/nelb0l/today_i_learned_in_the_90s_coke_tried_to_create_a/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/nelb0l/today_i_learned_in_the_90s_coke_tried_to_create_a/"/>
+        <updated>2021-05-17T16:49:21.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Sumkindofbasterd  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Screencast: Zipping with Hyperfunctions]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/neig8o/screencast_zipping_with_hyperfunctions/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/neig8o/screencast_zipping_with_hyperfunctions/"/>
+        <updated>2021-05-17T14:57:42.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/foBrowsing  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Love Letter to HTML & CSS]]></title>
+        <id>https://css-tricks.com/?p=339522</id>
+        <link href="https://css-tricks.com/a-love-letter-to-html-css/"/>
+        <updated>2021-05-17T14:27:22.000Z</updated>
+        <summary type="html"><![CDATA[I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.
+The post A Love Letter to HTML & CSS appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ashley Kolodziej</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euismod]]></title>
+        <id>https://css-tricks.com/?p=340594</id>
+        <link href="https://www.euismod.dev/"/>
+        <updated>2021-05-17T14:27:13.000Z</updated>
+        <summary type="html"><![CDATA[An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …
+The post Euismod appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yeah]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/neer7t/yeah/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/neer7t/yeah/"/>
+        <updated>2021-05-17T12:20:43.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/dustcinnamon  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I've discovered the implementation of null pointers in Haskell, pure evil ; )]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nec622/ive_discovered_the_implementation_of_null/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nec622/ive_discovered_the_implementation_of_null/"/>
+        <updated>2021-05-17T10:02:18.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/repaj  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Culture War Roundup for the week of May 17, 2021]]></title>
+        <id>https://www.reddit.com/r/TheMotte/comments/ne8ggb/culture_war_roundup_for_the_week_of_may_17_2021/</id>
+        <link href="https://www.reddit.com/r/TheMotte/comments/ne8ggb/culture_war_roundup_for_the_week_of_may_17_2021/"/>
+        <updated>2021-05-17T06:15:16.000Z</updated>
+        <summary type="html"><![CDATA[This weekly roundup thread is intended for all culture war posts. 'Culture war' is vaguely defined, but it basically means controversial issues that fall along set tribal lines. Arguments over culture war issues generate a lot of heat and little light, and few deeply entrenched people ever change their minds. This thread is for voicing opinions and analyzing the state of the discussion while trying to optimize for light over heat.
+ Optimistically, we think that engaging with people you disagree with is wort…]]></summary>
+        <author>
+            <name>top scoring links : TheMotte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Status update: GHC on Apple M1 hardware]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/ne82b1/status_update_ghc_on_apple_m1_hardware/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/ne82b1/status_update_ghc_on_apple_m1_hardware/"/>
+        <updated>2021-05-17T05:51:05.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/lehmacdj  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ANN] ghc-tags-1.0 - utility for generating ctags and etags with GHC API]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/ne3c1k/ann_ghctags10_utility_for_generating_ctags_and/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/ne3c1k/ann_ghctags10_utility_for_generating_ctags_and/"/>
+        <updated>2021-05-17T01:31:08.000Z</updated>
+        <summary type="html"><![CDATA[https://hackage.haskell.org/package/ghc-tags-1.0
+ Meant as a replacement for hasktags and other tag utilities that aren't using GHC for parsing.
+ On my laptop with the i7-8550U processor (4 cores) initial generation of etags for the GHC repository with the configuration from README takes 6.9 seconds, then subsequent runs (when only a few files were modified) around 330 ms.
+ Enjoy!
+    submitted by    /u/arybczak  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😐]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/ne2a2b/_/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/ne2a2b/_/"/>
+        <updated>2021-05-17T00:36:06.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/bitchyfuxkjngbltch34  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auto-Generated Social Media Images]]></title>
+        <id>https://css-tricks.com/?p=340136</id>
+        <link href="https://css-tricks.com/auto-generated-social-media-images/"/>
+        <updated>2021-05-14T20:34:49.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …
+The post Auto-Generated Social Media Images appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Stylesheet Feature Flags With Sass !default]]></title>
+        <id>https://css-tricks.com/?p=340343</id>
+        <link href="https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/"/>
+        <updated>2021-05-14T14:14:34.000Z</updated>
+        <summary type="html"><![CDATA[!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:
+$variable: 'test' !default;
+To the Sass compiler, this line …
+The post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Nathan Babcock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Boilerplates]]></title>
+        <id>https://css-tricks.com/?p=340403</id>
+        <link href="https://css-tricks.com/html-boilerplates/"/>
+        <updated>2021-05-14T14:13:07.000Z</updated>
+        <summary type="html"><![CDATA[Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It’s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about …
+The post HTML Boilerplates appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevTools for CSS layouts 2021 edition]]></title>
+        <id>https://css-tricks.com/?p=340490</id>
+        <link href="https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2"/>
+        <updated>2021-05-13T23:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Chen Hui Jing covers some recent movement in DevTools:
+Firefox’s grid inspector was pretty full-featured from the get-to and released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a basic grid inspector 
+…
+The post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 Design Systems (Survey/Courses)]]></title>
+        <id>https://css-tricks.com/?p=340573</id>
+        <link href="https://css-tricks.com/2021-design-systems-survey-courses/"/>
+        <updated>2021-05-13T22:55:35.000Z</updated>
+        <summary type="html"><![CDATA[My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was …
+The post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced CSS Animation Using cubic-bezier()]]></title>
+        <id>https://css-tricks.com/?p=340036</id>
+        <link href="https://css-tricks.com/advanced-css-animation-using-cubic-bezier/"/>
+        <updated>2021-05-13T14:24:42.000Z</updated>
+        <summary type="html"><![CDATA[When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in …
+The post Advanced CSS Animation Using cubic-bezier() appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features]]></title>
+        <id>https://css-tricks.com/?p=340118</id>
+        <link href="https://css-tricks.com/svgator-3-0-reshapes-the-way-you-create-and-animate-svg-with-extensive-new-features/"/>
+        <updated>2021-05-13T14:24:35.000Z</updated>
+        <summary type="html"><![CDATA[Building animations can get complicated, particularly compelling animations where you aren’t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI …
+The post SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Disabled Buttons More Inclusive]]></title>
+        <id>https://css-tricks.com/?p=339960</id>
+        <link href="https://css-tricks.com/making-disabled-buttons-more-inclusive/"/>
+        <updated>2021-05-12T14:31:07.000Z</updated>
+        <summary type="html"><![CDATA[Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. <button disabled> ) to mark a button as disabled.
+There are lots of …
+The post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Sandrina Pereira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Pie Timer Re-Revisited]]></title>
+        <id>https://css-tricks.com/?p=340359</id>
+        <link href="https://css-tricks.com/css-pie-timer-re-revisited/"/>
+        <updated>2021-05-11T22:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function…
+The post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I could build this during the weekend]]></title>
+        <id>https://css-tricks.com/?p=340186</id>
+        <link href="https://world.hey.com/joaoqalves/i-could-build-this-during-the-weekend-aa093c5e"/>
+        <updated>2021-05-11T21:04:32.000Z</updated>
+        <summary type="html"><![CDATA[How many times have you heard that (or even uttered it under your own breath)? I know I’ve heard it in conversations. I also know I’ve wondered the same thing about a product or two — hey, the idea here …
+The post I could build this during the weekend appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next Gen CSS: @container]]></title>
+        <id>https://css-tricks.com/?p=339138</id>
+        <link href="https://css-tricks.com/next-gen-css-container/"/>
+        <updated>2021-05-11T14:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to …
+The post Next Gen CSS: @container appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Una Kravets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distributed Persistent Rendering (DPR)]]></title>
+        <id>https://css-tricks.com/?p=340106</id>
+        <link href="https://css-tricks.com/distributed-persistent-rendering-dpr/"/>
+        <updated>2021-05-11T14:33:10.000Z</updated>
+        <summary type="html"><![CDATA[Like Jamstack, Netlify is coining this term.
+If your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push …
+The post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Machine Learning Career Paths in 2021]]></title>
+        <id>https://serokell.io/blog/top-ml-jobs</id>
+        <link href="https://serokell.io/blog/top-ml-jobs"/>
+        <updated>2021-05-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn about awesome artificial intelligence and machine learning jobs that you can pursue in 2021.]]></summary>
+        <author>
+            <name>hi+yuliagavrilova@serokell.io (Yulia Gavrilova)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practical Nix Flakes]]></title>
+        <id>https://serokell.io/blog/practical-nix-flakes</id>
+        <link href="https://serokell.io/blog/practical-nix-flakes"/>
+        <updated>2021-05-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn about Nix, Nix flakes, and how to use Nix flakes to build applications in various languages.]]></summary>
+        <author>
+            <name>hi+alexanderbantyev@serokell.io (Alexander Bantyev)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lorentz: Type-Safe Upgradeable Storage]]></title>
+        <id>https://serokell.io/blog/lorentz-upgradeable-storage</id>
+        <link href="https://serokell.io/blog/lorentz-upgradeable-storage"/>
+        <updated>2021-04-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Once deployed, large-scale smart contracts can sometimes become outdated and require upgrades. In this part of our Lorentz series, we show how to make a smart contract with upgradeable storage in Lorentz.]]></summary>
+        <author>
+            <name>hi+kostyaivanov@serokell.io (Kostya Ivanov)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Computer Vision and How It Works]]></title>
+        <id>https://serokell.io/blog/guide-to-computer-vision</id>
+        <link href="https://serokell.io/blog/guide-to-computer-vision"/>
+        <updated>2021-04-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how computer vision works, where it is used, and what are the main obstacles ML engineers run into when solving computer vision problems.]]></summary>
+        <author>
+            <name>hi+yuliagavrilova@serokell.io (Yulia Gavrilova)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Type Families in Haskell: The Definitive Guide]]></title>
+        <id>https://serokell.io/blog/type-families-haskell</id>
+        <link href="https://serokell.io/blog/type-families-haskell"/>
+        <updated>2021-04-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn about type families, one of the most powerful type-level programming features in Haskell.]]></summary>
+        <author>
+            <name>hi+vladislavzavialov@serokell.io (Vladislav Zavialov)</name>
+        </author>
+    </entry>
+</feed>
