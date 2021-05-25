@@ -1,0 +1,790 @@
+{
+  "sources": [
+    {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=340808",
+          "author": "Chris Coyier",
+          "description": "Making GitHub’s new homepage fast and performant — Tobias Ahlin describes how the scrolling effects are done more performantly thanks to IntersectionObserver and the fact that it avoids the use of methods that trigger reflows, like getBoundingClientRect. Also, \n…\nThe post Links on Performance appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/links-on-performance/",
+          "publishedOn": "2021-05-24T22:03:30.000Z",
+          "wordCount": 817,
+          "title": "Links on Performance"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341153",
+          "author": "Chris Coyier",
+          "description": "I like a good trick. What if… a URL was…  a promise… that fetched said URL?\nwww.codepen.io.then((response) ={\n  console.log(response);\n});\nThat’s what @justjavac did with JavaScript Proxys. A clever trick, that. Don’t @ me about the practicality. Trick…\nThe post proxy-www appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://github.com/justjavac/proxy-www",
+          "publishedOn": "2021-05-24T19:09:59.000Z",
+          "wordCount": 527,
+          "title": "proxy-www"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340626",
+          "author": "Raymond Camden",
+          "description": "By our last estimate, there are now more PDFs in the world than atoms in the universe (not verified by outside sources) so chances are, from time to time, you’re going to run into a PDF document or two. Browsers …\nThe post Wrangling Control Over PDFs with the Adobe PDF Embed API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/wrangling-control-over-pdfs-with-the-adobe-pdf-embed-api/",
+          "publishedOn": "2021-05-24T13:57:21.000Z",
+          "wordCount": 2851,
+          "title": "Wrangling Control Over PDFs with the Adobe PDF Embed API"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340991",
+          "author": "Chris Coyier",
+          "description": "Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …\nThe post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/",
+          "publishedOn": "2021-05-21T23:22:54.000Z",
+          "wordCount": 1168,
+          "title": "Should DevTools teach the CSS cascade?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340825",
+          "author": "Adam Rackis",
+          "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
+          "publishedOn": "2021-05-21T14:30:59.000Z",
+          "wordCount": 3530,
+          "title": "Svelte for the Experienced React Dev"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340919",
+          "author": "Chris Coyier",
+          "description": "Collection of common CSS mistakes, and how to fix them\nFrom Stefánia Péter. \nClever idea for a site! Some of them are little mind-twisters that could bite you, and some of them are honing in on best practices that …\nThe post CSS Hell appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://csshell.dev/",
+          "publishedOn": "2021-05-21T14:29:16.000Z",
+          "wordCount": 295,
+          "title": "CSS Hell"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340599",
+          "author": "Chris Coyier",
+          "description": "Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …\nThe post JSON in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/json-in-css/",
+          "publishedOn": "2021-05-20T22:29:53.000Z",
+          "wordCount": 1044,
+          "title": "JSON in CSS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340933",
+          "author": "Chris Coyier",
+          "description": "Ooo look at this mighty SEO flex from Google: Learn CSS! Well deserved — this is great content. Twenty-three chapters taking you through all the fundamentals of CSS with extra content, like relevant podcasts, interactive examples, and even quizzes to …\nThe post Learn CSS! appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://web.dev/learn/css/",
+          "publishedOn": "2021-05-20T21:51:43.000Z",
+          "wordCount": 1040,
+          "title": "Learn CSS!"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340715",
+          "author": "Jhey Tompkins",
+          "description": "If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …\nThe post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/",
+          "publishedOn": "2021-05-20T14:24:12.000Z",
+          "wordCount": 1747,
+          "title": "Can We Create a “Resize Hack” With Container Queries?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340897",
+          "author": "Chris Coyier",
+          "description": "Here’s some hardcore deep-dive CSS nerdery from PPK. If you can wrap your mind around min-content (the smallest an element can be based on the content it contains) and max-content (the largest the content of an element can push it) …\nThe post fit-content and fit-content() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html",
+          "publishedOn": "2021-05-20T14:20:56.000Z",
+          "wordCount": 1196,
+          "title": "fit-content and fit-content()"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340731",
+          "author": "Chris Coyier",
+          "description": "The Public Beta of the Notion API dropped! Woot! Here’s their guide. I’ve been a Notion user and fan for a long time, for both personal and professional team use. They even sponsored a few videos around here a …\nThe post Notion API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/notion-api/",
+          "publishedOn": "2021-05-19T23:18:42.000Z",
+          "wordCount": 1127,
+          "title": "Notion API"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340692",
+          "author": "Shubham Jain",
+          "description": "SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …\nThe post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/",
+          "publishedOn": "2021-05-19T14:28:19.000Z",
+          "wordCount": 1803,
+          "title": "svg-loader: A Different Way to Work With External SVG"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340613",
+          "author": "Chris Coyier",
+          "description": "I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.\nA fella wrote to me a while back outlining a situation he was in. His company has …\nThe post Pinned Audio WordPress Theme appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/pinned-audio-wordpress-theme/",
+          "publishedOn": "2021-05-18T19:14:53.000Z",
+          "wordCount": 1082,
+          "title": "Pinned Audio WordPress Theme"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340420",
+          "author": "Silvia O'Dwyer",
+          "description": "Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …\nThe post How to Create Neon Text With CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-create-neon-text-with-css/",
+          "publishedOn": "2021-05-18T14:31:25.000Z",
+          "wordCount": 2401,
+          "title": "How to Create Neon Text With CSS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340716",
+          "author": "Chris Coyier",
+          "description": "Addy Osmani on images in HTML:\nThe humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can \n…\nThe post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
+          "publishedOn": "2021-05-17T22:38:06.000Z",
+          "wordCount": 5325,
+          "title": "The Humble `img` Element And Core Web Vitals"
+        }
+      ]
+    },
+    {
+      "title": "Serokell Blog",
+      "feedUrl": "https://serokell.io/blog.rss.xml",
+      "siteUrl": "https://serokell.io/blog",
+      "articles": [
+        {
+          "id": "https://serokell.io/blog/elixir-metaprogramming",
+          "author": "hi+gintsdreimanis@serokell.io (Gints Dreimanis)",
+          "description": "In this article, we cover metaprogramming and macros in Elixir. Discover how you can use Elixir to write code that writes code.",
+          "link": "https://serokell.io/blog/elixir-metaprogramming",
+          "publishedOn": "2021-05-21T00:00:00.000Z",
+          "wordCount": 2068,
+          "title": "Metaprogramming in Elixir"
+        },
+        {
+          "id": "https://serokell.io/blog/top-ml-jobs",
+          "author": "hi+yuliagavrilova@serokell.io (Yulia Gavrilova)",
+          "description": "Learn about awesome artificial intelligence and machine learning jobs that you can pursue in 2021.",
+          "link": "https://serokell.io/blog/top-ml-jobs",
+          "publishedOn": "2021-05-10T00:00:00.000Z",
+          "wordCount": 1992,
+          "title": "Top Machine Learning Career Paths in 2021"
+        },
+        {
+          "id": "https://serokell.io/blog/practical-nix-flakes",
+          "author": "hi+alexanderbantyev@serokell.io (Alexander Bantyev)",
+          "description": "Learn about Nix, Nix flakes, and how to use Nix flakes to build applications in various languages.",
+          "link": "https://serokell.io/blog/practical-nix-flakes",
+          "publishedOn": "2021-05-04T00:00:00.000Z",
+          "wordCount": 3950,
+          "title": "Practical Nix Flakes"
+        },
+        {
+          "id": "https://serokell.io/blog/lorentz-upgradeable-storage",
+          "author": "hi+kostyaivanov@serokell.io (Kostya Ivanov)",
+          "description": "Once deployed, large-scale smart contracts can sometimes become outdated and require upgrades. In this part of our Lorentz series, we show how to make a smart contract with upgradeable storage in Lorentz.",
+          "link": "https://serokell.io/blog/lorentz-upgradeable-storage",
+          "publishedOn": "2021-04-27T00:00:00.000Z",
+          "wordCount": 2899,
+          "title": "Lorentz: Type-Safe Upgradeable Storage"
+        }
+      ]
+    },
+    {
+      "title": "top scoring links : haskell",
+      "feedUrl": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
+      "siteUrl": "https://www.reddit.com/r/haskell/top/?sort=top&t=day",
+      "articles": [
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nkapzl/project_from_a_newbie_to_all_newbies_and/",
+          "author": null,
+          "description": "Hi everyone! As above I’m learning Haskell and I would like to find some mates to create projects with on GitHub to enhance our skills and share knowledge. I’m opened to everything, just group up and code together.\n    submitted by    /u/_seeking_answers  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nkapzl/project_from_a_newbie_to_all_newbies_and/",
+          "publishedOn": "2021-05-24T22:53:20.000Z",
+          "wordCount": 173,
+          "title": "Project from a newbie to all newbies (and interested)"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nkanid/the_movement_principle/",
+          "author": null,
+          "description": "submitted by    /u/alantrying  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nkanid/the_movement_principle/",
+          "publishedOn": "2021-05-24T22:50:06.000Z",
+          "wordCount": 169,
+          "title": "The Movement Principle"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nkaeee/machine_learning_in_haskell/",
+          "author": null,
+          "description": "I was curious as to the state of Haskell and machine learning and I found this link: Haskell machine learning.\n Has anyone seen this?\n Is anyone using Haskell in all/part machine learning?\n    submitted by    /u/Puzzleheaded_News647  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nkaeee/machine_learning_in_haskell/",
+          "publishedOn": "2021-05-24T22:38:16.000Z",
+          "wordCount": 169,
+          "title": "Machine learning in Haskell"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nk8wcb/free_webinar_circuit_design_in_haskellclash_may/",
+          "author": null,
+          "description": "submitted by    /u/darchon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nk8wcb/free_webinar_circuit_design_in_haskellclash_may/",
+          "publishedOn": "2021-05-24T21:27:47.000Z",
+          "wordCount": 235,
+          "title": "Free webinar: Circuit design in Haskell/Clash, May 26th"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nk6qzn/is_there_an_appropriate_way_to_do_a_hostile/",
+          "author": null,
+          "description": "I am in a situation where there is a suite of packages that is presently unmaintained by the original author. I have attempted to submit patches back upstream from my fork, however, there has been no response on GitHub, where the repository is currently hosted. I have also separately sent an email to the maintainer address specified in the cabal file and received no response.\n I am generally of the opinion that letting packages fragment due to maintainer absence is a generally bad thing when the ecosystem is small and could otherwise accrete contributions from outsiders. I am now puzzling over how I should proceed. The way I see it my only option left is to republish to hackage under a different name, further exacerbating fragmentation. This also leaves the question of how to name the package, whether naming it as a derivative name is appropriate or whether I should name it something else entirely. Is there any unspoken rules about how package naming should be done in situations like this (or even more generally)?\n    submitted by    /u/captjakk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nk6qzn/is_there_an_appropriate_way_to_do_a_hostile/",
+          "publishedOn": "2021-05-24T19:56:22.000Z",
+          "wordCount": 1497,
+          "title": "Is there an appropriate way to do a \"hostile takeover\" of a package?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nk6azz/i_have_a_fold_function_which_i_need_to_use_on_a/",
+          "author": null,
+          "description": "My code looks as follows:\n  data Network = Empty | Internet | Switch String Network Network Network | Router String Network Network | Pc String Int deriving Show network = Router \"Fritzbox\" Internet (Switch \"Switch\" (Pc \"Gamerkiste\" 500) (Pc \"Mediensklave\" 4000) (Switch \"YetAnotherSwitch\" (Pc \"Hex\" 5) (Pc \"HAL9000\" 90000) Empty ) ) foldNetwork :: t1 -> t1-> (String -> t1 -> t1 -> t1 -> t1) -> (String -> t1 -> t1 -> t1) -> (String -> t2 -> t1) -> (Int -> t2) -> Network -> t1 foldNetwork fe fi fs fr fps fpi Empty = fe foldNetwork fe fi fs fr fps fpi Internet = fi foldNetwork fe fi fs fr fps fpi (Switch s l c r) = fs s (foldNetwork fe fi fs fr fps fpi l) (foldNetwork fe fi fs fr fps fpi c) (foldNetwork fe fi fs fr fps fpi r) foldNetwork fe fi fs fr fps fpi (Router s l r) = fr s (foldNetwork fe fi fs fr fps fpi l) (foldNetwork fe fi fs fr fps fpi r) foldNetwork fe fi fs fr fps fpi (Pc s i) = fps s (fpi i) \n I am trying to use this in a function countCables which should return as follows:\n countCables network 7 \n I am completely stumped on how this could be done. \n I just know that I somehow have to give out a (+1) Whenever it is not Empty and a 0 on the router. My thought process is it gives out (+1) that accumulate on the router that has gives a value of 0 and then all those (+1) act on it. But I am not quite sure.\n    submitted by    /u/_Biological_hazard_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nk6azz/i_have_a_fold_function_which_i_need_to_use_on_a/",
+          "publishedOn": "2021-05-24T19:37:15.000Z",
+          "wordCount": 590,
+          "title": "I have a fold function which I need to use on a self defined datatype to count all the nodes in it."
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/njtswz/can_you_print_a_constructors_name_of_a_data_type/",
+          "author": null,
+          "description": "I have the following data type:\n data Transaction = Deposit {value :: Float} | Withdrawal {value :: Float} deriving Show \n When I create a Deposit, I can do print $ value (Deposit 20.5) to print the value. Can I do something like print $ contructorName (Deposit 20.5) and get \"Deposit\" printed?\n Of course, I can do:\n data Transaction = Deposit {contructorName :: String, value :: Float} | Withdrawal {contructorName :: String, value :: Float} deriving Show \n but that seems redundant because I have to run Deposit \"Deposit\" 20.5 to create a deposit.\n    submitted by    /u/VeryKnave  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/njtswz/can_you_print_a_constructors_name_of_a_data_type/",
+          "publishedOn": "2021-05-24T09:23:58.000Z",
+          "wordCount": 367,
+          "title": "Can you print a constructor's name of a data type?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/njtchq/reverse_of_quickspec/",
+          "author": null,
+          "description": "Quickspec (https://github.com/nick8325/quickspec) is awesome in discovering laws in the code we write. But I am in search for a tool (the reverse) , which given the spec, can it synthesise code ?\n    submitted by    /u/maayon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/njtchq/reverse_of_quickspec/",
+          "publishedOn": "2021-05-24T08:52:52.000Z",
+          "wordCount": 325,
+          "title": "Reverse of quickspec"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/njnh65/using_gloss_on_windows/",
+          "author": null,
+          "description": "Has anyone had success with using gloss on Windows? (I'm using the Haskell Platform, installed through chocolatey.) When I try to run a program using gloss, I get this error:\n  user error (unknown GLUT entry glutInit) \n and with the alternative GLFW backend,\n  user error (unknown GLUT entry glutStrokeCharacter) \n My program works fine on Linux.\n I found some similar questions, but the suggested workarounds have had no visible effect.\n  \nhttps://stackoverflow.com/questions/8956387/cant-get-freeglut-to-work-with-haskell-on-windows\n \nhttps://github.com/haskell-opengl/GLUT/issues/19\n \n    submitted by    /u/TheWakalix  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/njnh65/using_gloss_on_windows/",
+          "publishedOn": "2021-05-24T02:29:42.000Z",
+          "wordCount": 253,
+          "title": "Using gloss on Windows"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/njmr6j/stepulc_efficient_and_singlesteppable_ulc_untyped/",
+          "author": null,
+          "description": "submitted by    /u/Bubbler-4  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/njmr6j/stepulc_efficient_and_singlesteppable_ulc_untyped/",
+          "publishedOn": "2021-05-24T01:50:00.000Z",
+          "wordCount": 471,
+          "title": "StepULC: Efficient and single-steppable ULC (untyped lambda calculus) evaluation algorithm"
+        }
+      ]
+    },
+    {
+      "title": "top scoring links : TheMotte",
+      "feedUrl": "https://www.reddit.com/r/TheMotte/top/.rss?sort=top&t=day",
+      "siteUrl": "https://www.reddit.com/r/TheMotte/top/?sort=top&t=day",
+      "articles": [
+        {
+          "id": "https://www.reddit.com/r/TheMotte/comments/njr5h0/culture_war_roundup_for_the_week_of_may_24_2021/",
+          "author": null,
+          "description": "This weekly roundup thread is intended for all culture war posts. 'Culture war' is vaguely defined, but it basically means controversial issues that fall along set tribal lines. Arguments over culture war issues generate a lot of heat and little light, and few deeply entrenched people ever change their minds. This thread is for voicing opinions and analyzing the state of the discussion while trying to optimize for light over heat.\n Optimistically, we think that engaging with people you disagree with is worth your time, and so is being nice! Pessimistically, there are many dynamics that can lead discussions on Culture War topics to become unproductive. There's a human tendency to divide along tribal lines, praising your ingroup and vilifying your outgroup - and if you think you find it easy…",
+          "link": "https://www.reddit.com/r/TheMotte/comments/njr5h0/culture_war_roundup_for_the_week_of_may_24_2021/",
+          "publishedOn": "2021-05-24T06:15:18.000Z",
+          "wordCount": 4027,
+          "title": "Culture War Roundup for the week of May 24, 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/TheMotte/comments/njl3fm/quality_contributions_report_for_may_2021_12/",
+          "author": null,
+          "description": "This is the Quality Contributions Roundup. It showcases interesting and well-written comments and posts from the period covered. If you want to get an idea of what this community is about or how we want you to participate, look no further (except the rules maybe--those might be important too).\n As a reminder, you can nominate Quality Contributions by hitting the report button and selecting the \"Actually A Quality Contribution!\" option from the \"It breaks r/TheMotte's rules, or is of interest to the mods\" menu. Additionally, links to all of the roundups can be found in the wiki of /r/theThread which can be found here. For a list of other great community content, see here.\n These are mostly chronologically ordered, but I have in some cases tried to cluster comments by topic so if there is so…",
+          "link": "https://www.reddit.com/r/TheMotte/comments/njl3fm/quality_contributions_report_for_may_2021_12/",
+          "publishedOn": "2021-05-24T00:17:51.000Z",
+          "wordCount": 929,
+          "title": "Quality Contributions Report for May 2021 (1/2)"
+        }
+      ]
+    },
+    {
+      "title": "top scoring links : ScientificNutrition",
+      "feedUrl": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
+      "siteUrl": "https://www.reddit.com/r/ScientificNutrition/top/?sort=top&t=day",
+      "articles": [
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/nkbpnn/the_most_effective_ways_of_getting_large_doses_of/",
+          "author": null,
+          "description": "Broccoli contains both sulforaphane (SF) and glucoraphanin (GLU), which, in the presence of myrosinase, can hydrolyze to sulforaphane. So, to get the most SF you need to optimize SF content AND add some myrosinase to convert GLU to SF. \n But here is the dirty little secret, nearly all of the GLU to SF conversion happens in the mouth during the chewing process, not in the stomach, as you can see here \n https://www.sciencedirect.com/science/article/abs/pii/S1756464618301737\n  \nLonger chewing times of raw, 0.5-min and 1-min steamed broccoli, which contained active myrosinase, lead to a higher hydrolysis\n  \nSo then you might think to just chew your broccoli for a long time and then you will get plenty of SF right? Wrong. Because the heat from cooking deactivates nearly ALL the myrosinase prese…",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/nkbpnn/the_most_effective_ways_of_getting_large_doses_of/",
+          "publishedOn": "2021-05-24T23:42:17.000Z",
+          "wordCount": 719,
+          "title": "The most effective ways of getting large doses of Sulforaphane"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/nk44a7/how_long_can_humans_live_without_water/",
+          "author": null,
+          "description": "Recently, I had the discussion about whether or not it's realistic to think asetics are able to live for months without drinking water. My immediate reaction was no, you'd die of dehydration within days... but upon further research (read: searching for case studies and models on google scholar) I came up blank.\n Most sources I can find don't cite any studies on this subject, not even observational ones (e.g. sailors trapped at sea survivng for {x} without fresh water | people surviving in the dessert | studies of tribes in arid areas)\n So I'm curios, do you know of any scientific literature treating this subject?\n    submitted by    /u/elcric_krej  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/nk44a7/how_long_can_humans_live_without_water/",
+          "publishedOn": "2021-05-24T18:02:45.000Z",
+          "wordCount": 1180,
+          "title": "How long can humans live without water?"
+        }
+      ]
+    },
+    {
+      "title": "top scoring links : redscarepod",
+      "feedUrl": "https://www.reddit.com/r/redscarepod/top/.rss?sort=top&t=day&limit=3",
+      "siteUrl": "https://www.reddit.com/r/redscarepod/top/?sort=top&t=day&limit=3",
+      "articles": [
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/nk1mfa/damnit_felix/",
+          "author": null,
+          "description": "submitted by    /u/a_lostgay  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/nk1mfa/damnit_felix/",
+          "publishedOn": "2021-05-24T16:13:59.000Z",
+          "wordCount": 738,
+          "title": "damnit Felix"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/njwv2v/theyre_ready/",
+          "author": null,
+          "description": "submitted by    /u/StonewallBurgundy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/njwv2v/theyre_ready/",
+          "publishedOn": "2021-05-24T12:31:13.000Z",
+          "wordCount": 250,
+          "title": "they’re ready 👍👍"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/njmrsa/do_you_remember_being_a_child_and_staring_at_the/",
+          "author": null,
+          "description": "That was good\n    submitted by    /u/hamtaro-420  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/njmrsa/do_you_remember_being_a_child_and_staring_at_the/",
+          "publishedOn": "2021-05-24T01:50:54.000Z",
+          "wordCount": 504,
+          "title": "Do you remember being a child and staring at the patterns of grain on wood?"
+        }
+      ]
+    },
+    {
+      "title": "Trending Haskell repositories on GitHub today · GitHub",
+      "feedUrl": "https://rsshub.app/github/trending/daily/haskell",
+      "siteUrl": "https://github.com/trending/haskell?since=daily",
+      "articles": [
+        {
+          "id": "https://github.com/github/semantic",
+          "author": "github",
+          "description": "Parsing, analyzing, and comparing source code across many languages\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/github/semantic",
+          "publishedOn": "2021-05-25T00:57:01.284Z",
+          "wordCount": 1401,
+          "title": "github /\n\n      semantic"
+        },
+        {
+          "id": "https://github.com/haskell/haskell-language-server",
+          "author": "haskell",
+          "description": "Successor of ghcide & haskell-ide-engine. One IDE to rule them all.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/haskell/haskell-language-server",
+          "publishedOn": "2021-05-25T00:57:01.230Z",
+          "wordCount": 5158,
+          "title": "haskell /\n\n      haskell-language-server"
+        },
+        {
+          "id": "https://github.com/wireapp/wire-server",
+          "author": "wireapp",
+          "description": "🇪🇺 Wire back-end services\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/wireapp/wire-server",
+          "publishedOn": "2021-05-25T00:57:01.132Z",
+          "wordCount": 1587,
+          "title": "wireapp /\n\n      wire-server"
+        },
+        {
+          "id": "https://github.com/hasura/graphql-engine",
+          "author": "hasura",
+          "description": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/hasura/graphql-engine",
+          "publishedOn": "2021-05-25T00:57:01.082Z",
+          "wordCount": 1799,
+          "title": "hasura /\n\n      graphql-engine"
+        },
+        {
+          "id": "https://github.com/xmonad/xmonad-contrib",
+          "author": "xmonad",
+          "description": "Contributed modules for xmonad\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/xmonad/xmonad-contrib",
+          "publishedOn": "2021-05-25T00:57:00.909Z",
+          "wordCount": 751,
+          "title": "xmonad /\n\n      xmonad-contrib"
+        },
+        {
+          "id": "https://github.com/digitallyinduced/ihp",
+          "author": "digitallyinduced",
+          "description": "🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/digitallyinduced/ihp",
+          "publishedOn": "2021-05-25T00:57:00.868Z",
+          "wordCount": 1839,
+          "title": "digitallyinduced /\n\n      ihp"
+        },
+        {
+          "id": "https://github.com/simonmichael/hledger",
+          "author": "simonmichael",
+          "description": "easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/simonmichael/hledger",
+          "publishedOn": "2021-05-25T00:57:00.820Z",
+          "wordCount": 1219,
+          "title": "simonmichael /\n\n      hledger"
+        },
+        {
+          "id": "https://github.com/matterhorn-chat/mattermost-api-qc",
+          "author": "matterhorn-chat",
+          "description": "QuickCheck instance library for the mattermost-api library.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/matterhorn-chat/mattermost-api-qc",
+          "publishedOn": "2021-05-25T00:57:00.764Z",
+          "wordCount": 458,
+          "title": "matterhorn-chat /\n\n      mattermost-api-qc"
+        },
+        {
+          "id": "https://github.com/matterhorn-chat/mattermost-api",
+          "author": "matterhorn-chat",
+          "description": "Client side API for communicating with a mattermost server in Haskell\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/matterhorn-chat/mattermost-api",
+          "publishedOn": "2021-05-25T00:57:00.729Z",
+          "wordCount": 615,
+          "title": "matterhorn-chat /\n\n      mattermost-api"
+        },
+        {
+          "id": "https://github.com/reach-sh/reach-lang",
+          "author": "reach-sh",
+          "description": "Reach: The Safest and Easiest DApp Programming Language\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/reach-sh/reach-lang",
+          "publishedOn": "2021-05-25T00:57:00.705Z",
+          "wordCount": 667,
+          "title": "reach-sh /\n\n      reach-lang"
+        },
+        {
+          "id": "https://github.com/digital-asset/ex-healthcare-claims-processing",
+          "author": "digital-asset",
+          "description": "Reference DAML application demonstrating a healthcare use case.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/digital-asset/ex-healthcare-claims-processing",
+          "publishedOn": "2021-05-25T00:57:00.663Z",
+          "wordCount": 1927,
+          "title": "digital-asset /\n\n      ex-healthcare-claims-processing"
+        },
+        {
+          "id": "https://github.com/channable/vaultenv",
+          "author": "channable",
+          "description": "Launch processes with Vault secrets in the environment\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/channable/vaultenv",
+          "publishedOn": "2021-05-25T00:57:00.607Z",
+          "wordCount": 2573,
+          "title": "channable /\n\n      vaultenv"
+        },
+        {
+          "id": "https://github.com/kmonad/kmonad",
+          "author": "kmonad",
+          "description": "An advanced keyboard manager\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/kmonad/kmonad",
+          "publishedOn": "2021-05-25T00:57:00.557Z",
+          "wordCount": 1176,
+          "title": "kmonad /\n\n      kmonad"
+        },
+        {
+          "id": "https://github.com/agda/agda",
+          "author": "agda",
+          "description": "Agda is a dependently typed programming language / interactive theorem prover.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/agda/agda",
+          "publishedOn": "2021-05-25T00:57:00.510Z",
+          "wordCount": 576,
+          "title": "agda /\n\n      agda"
+        },
+        {
+          "id": "https://github.com/fullstack-development/developers-roadmap",
+          "author": "fullstack-development",
+          "description": "How to learn front-end or back-end development\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/fullstack-development/developers-roadmap",
+          "publishedOn": "2021-05-25T00:57:00.461Z",
+          "wordCount": 979,
+          "title": "fullstack-development /\n\n      developers-roadmap"
+        },
+        {
+          "id": "https://github.com/phuhl/linux_notification_center",
+          "author": "phuhl",
+          "description": "A notification daemon/center for linux\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/phuhl/linux_notification_center",
+          "publishedOn": "2021-05-25T00:57:00.427Z",
+          "wordCount": 2555,
+          "title": "phuhl /\n\n      linux_notification_center"
+        },
+        {
+          "id": "https://github.com/input-output-hk/cardano-db-sync",
+          "author": "input-output-hk",
+          "description": "A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/input-output-hk/cardano-db-sync",
+          "publishedOn": "2021-05-25T00:57:00.371Z",
+          "wordCount": 1146,
+          "title": "input-output-hk /\n\n      cardano-db-sync"
+        },
+        {
+          "id": "https://github.com/input-output-hk/plutus-starter",
+          "author": "input-output-hk",
+          "description": "A starter project for Plutus apps\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/input-output-hk/plutus-starter",
+          "publishedOn": "2021-05-25T00:57:00.327Z",
+          "wordCount": 1347,
+          "title": "input-output-hk /\n\n      plutus-starter"
+        },
+        {
+          "id": "https://github.com/koalaman/shellcheck",
+          "author": "koalaman",
+          "description": "ShellCheck, a static analysis tool for shell scripts\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/koalaman/shellcheck",
+          "publishedOn": "2021-05-25T00:57:00.291Z",
+          "wordCount": 3066,
+          "title": "koalaman /\n\n      shellcheck"
+        },
+        {
+          "id": "https://github.com/input-output-hk/plutus-pioneer-program",
+          "author": "input-output-hk",
+          "description": "Language: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/input-output-hk/plutus-pioneer-program",
+          "publishedOn": "2021-05-25T00:57:00.244Z",
+          "wordCount": 918,
+          "title": "input-output-hk /\n\n      plutus-pioneer-program"
+        },
+        {
+          "id": "https://github.com/input-output-hk/cardano-sl",
+          "author": "input-output-hk",
+          "description": "Cryptographic currency implementing Ouroboros PoS protocol\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/input-output-hk/cardano-sl",
+          "publishedOn": "2021-05-25T00:56:59.943Z",
+          "wordCount": 619,
+          "title": "input-output-hk /\n\n      cardano-sl"
+        },
+        {
+          "id": "https://github.com/alpacaaa/quad-ci",
+          "author": "alpacaaa",
+          "description": "A CI server written in Simple Haskell.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/alpacaaa/quad-ci",
+          "publishedOn": "2021-05-25T00:56:59.663Z",
+          "wordCount": 967,
+          "title": "alpacaaa /\n\n      quad-ci"
+        },
+        {
+          "id": "https://github.com/haskell/cabal",
+          "author": "haskell",
+          "description": "Official upstream development repository for Cabal and cabal-install\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/haskell/cabal",
+          "publishedOn": "2021-05-25T00:56:59.619Z",
+          "wordCount": 1145,
+          "title": "haskell /\n\n      cabal"
+        },
+        {
+          "id": "https://github.com/unisonweb/unison",
+          "author": "unisonweb",
+          "description": "A friendly programming language from the future\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/unisonweb/unison",
+          "publishedOn": "2021-05-25T00:56:59.558Z",
+          "wordCount": 994,
+          "title": "unisonweb /\n\n      unison"
+        },
+        {
+          "id": "https://github.com/elm/compiler",
+          "author": "elm",
+          "description": "Compiler for Elm, a functional language for reliable webapps.\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/elm/compiler",
+          "publishedOn": "2021-05-25T00:56:59.513Z",
+          "wordCount": 705,
+          "title": "elm /\n\n      compiler"
+        }
+      ]
+    },
+    {
+      "title": "Hacker News: Front Page",
+      "feedUrl": "https://hnrss.org/frontpage",
+      "siteUrl": "https://news.ycombinator.com/",
+      "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=27270928",
+          "author": "dvt",
+          "description": "Article URL: https://thanaverage.xyz/\nComments URL: https://news.ycombinator.com/item?id=27270928\nPoints: 78\n# Comments: 60",
+          "link": "https://thanaverage.xyz/",
+          "publishedOn": "2021-05-24T23:29:03.000Z",
+          "wordCount": 110,
+          "title": "Than Average"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27270662",
+          "author": "lukefreeman",
+          "description": "Article URL: https://80000hours.org/podcast/episodes/depression-anxiety-imposter-syndrome/\nComments URL: https://news.ycombinator.com/item?id=27270662\nPoints: 44\n# Comments: 8",
+          "link": "https://80000hours.org/podcast/episodes/depression-anxiety-imposter-syndrome/",
+          "publishedOn": "2021-05-24T22:57:12.000Z",
+          "wordCount": 40568,
+          "title": "Having a successful career with depression, anxiety and imposter syndrome"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27270070",
+          "author": "RaitoBezarius",
+          "description": "Article URL: https://inkscape.org/news/2021/05/24/welcome-inkscape-11/\nComments URL: https://news.ycombinator.com/item?id=27270070\nPoints: 207\n# Comments: 65",
+          "link": "https://inkscape.org/news/2021/05/24/welcome-inkscape-11/",
+          "publishedOn": "2021-05-24T21:45:05.000Z",
+          "wordCount": 1433,
+          "title": "Inkscape 1.1"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27269639",
+          "author": "FabioFleitas",
+          "description": "Article URL: https://www.tesorio.com/careers#job-openings\nComments URL: https://news.ycombinator.com/item?id=27269639\nPoints: 1\n# Comments: 0",
+          "link": "https://www.tesorio.com/careers#job-openings",
+          "publishedOn": "2021-05-24T21:00:52.000Z",
+          "wordCount": 287,
+          "title": "Tesorio (YC S15) Is Hiring a Principal Data Architect"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27269589",
+          "author": "ushakov",
+          "description": "Article URL: https://elk.audio/audio-os/\nComments URL: https://news.ycombinator.com/item?id=27269589\nPoints: 100\n# Comments: 30",
+          "link": "https://elk.audio/audio-os/",
+          "publishedOn": "2021-05-24T20:54:54.000Z",
+          "wordCount": 529,
+          "title": "Elk OS – Audio Operating System"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27269586",
+          "author": "ingve",
+          "description": "Article URL: https://kevlinhenney.medium.com/need-something-sorted-sleep-on-it-11fdf8453914\nComments URL: https://news.ycombinator.com/item?id=27269586\nPoints: 9\n# Comments: 4",
+          "link": "https://kevlinhenney.medium.com/need-something-sorted-sleep-on-it-11fdf8453914",
+          "publishedOn": "2021-05-24T20:54:38.000Z",
+          "wordCount": 3435,
+          "title": "Need Something Sorted? Sleep on It"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27269292",
+          "author": "bobrenjc93",
+          "description": "Article URL: https://blog.replit.com/nix\nComments URL: https://news.ycombinator.com/item?id=27269292\nPoints: 118\n# Comments: 27",
+          "link": "https://blog.replit.com/nix",
+          "publishedOn": "2021-05-24T20:26:14.000Z",
+          "wordCount": 810,
+          "title": "Replit now supports every programming language in Nix"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27268537",
+          "author": "bmau5",
+          "description": "Article URL: https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/\nComments URL: https://news.ycombinator.com/item?id=27268537\nPoints: 99\n# Comments: 8",
+          "link": "https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/",
+          "publishedOn": "2021-05-24T19:17:49.000Z",
+          "wordCount": 2259,
+          "title": "Scientists use optogenetics to help a blind patient see again"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27268462",
+          "author": "deegles",
+          "description": "Article URL: https://wejn.org/2021/02/urbit-good-bad-insane/\nComments URL: https://news.ycombinator.com/item?id=27268462\nPoints: 166\n# Comments: 80",
+          "link": "https://wejn.org/2021/02/urbit-good-bad-insane/",
+          "publishedOn": "2021-05-24T19:09:23.000Z",
+          "wordCount": 2573,
+          "title": "Urbit: The good, the bad, and the insane"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27267066",
+          "author": "zbentley",
+          "description": "Article URL: http://www.cmyr.net/blog/rust-python-learnings.html\nComments URL: https://news.ycombinator.com/item?id=27267066\nPoints: 167\n# Comments: 127",
+          "link": "http://www.cmyr.net/blog/rust-python-learnings.html",
+          "publishedOn": "2021-05-24T17:18:15.000Z",
+          "wordCount": 2596,
+          "title": "Writing Pythonic Rust"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27267007",
+          "author": "digikata",
+          "description": "Article URL: https://clickhouse.tech/blog/en/2021/reading-from-external-memory/\nComments URL: https://news.ycombinator.com/item?id=27267007\nPoints: 84\n# Comments: 9",
+          "link": "https://clickhouse.tech/blog/en/2021/reading-from-external-memory/",
+          "publishedOn": "2021-05-24T17:13:44.000Z",
+          "wordCount": 1174,
+          "title": "A journey to io_uring, AIO and modern storage devices"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27266551",
+          "author": "teleforce",
+          "description": "Article URL: http://www.knosof.co.uk/ESEUR/\nComments URL: https://news.ycombinator.com/item?id=27266551\nPoints: 120\n# Comments: 13",
+          "link": "http://www.knosof.co.uk/ESEUR/",
+          "publishedOn": "2021-05-24T16:43:30.000Z",
+          "wordCount": 453,
+          "title": "Evidence-based Software Engineering: based on the publicly available data"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27266485",
+          "author": "teleforce",
+          "description": "Article URL: https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/\nComments URL: https://news.ycombinator.com/item?id=27266485\nPoints: 234\n# Comments: 147",
+          "link": "https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/",
+          "publishedOn": "2021-05-24T16:39:07.000Z",
+          "wordCount": 1736,
+          "title": "Complexity is a source of income in open source ecosystems (2019)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27265836",
+          "author": "theafh",
+          "description": "Article URL: https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/\nComments URL: https://news.ycombinator.com/item?id=27265836\nPoints: 95\n# Comments: 8",
+          "link": "https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/",
+          "publishedOn": "2021-05-24T15:52:49.000Z",
+          "wordCount": 2854,
+          "title": "Radioactivity may fuel life deep underground and inside other worlds"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27265645",
+          "author": "de_keyboard",
+          "description": "Article URL: https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/\nComments URL: https://news.ycombinator.com/item?id=27265645\nPoints: 132\n# Comments: 212",
+          "link": "https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/",
+          "publishedOn": "2021-05-24T15:40:49.000Z",
+          "wordCount": 2442,
+          "title": "Why did bar ends go away from mountain bikes?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27265380",
+          "author": "rowanc1",
+          "description": "Hi HN! I’m Rowan and with my co-founder Steve we are building Curvenote (https://curvenote.com) — a technical writing tool for sharing data analysis and research from Jupyter with a wider audience.\nWe are building Curvenote to get science communication out of PDFs and help researchers and data-scientists communicate interactive, reproducible results (graphs, figures, maps, etc.) that are linked to the actual data and computation. There are currently two parts to Curvenote: 1) a WYSIWYG collaborative writing environment for interactive, technical documents; and 2) a Jupyter integration that adds version control and commenting and can link interactive plots and outputs directly into Curvenote documents (including any new versions or comments on those outputs).\nSteve and I met in the open-sou…",
+          "link": "https://news.ycombinator.com/item?id=27265380",
+          "publishedOn": "2021-05-24T15:20:10.000Z",
+          "wordCount": 2123,
+          "title": "Launch HN: Curvenote (YC W21) – Collaborative writing tools for science"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27265091",
+          "author": "ingve",
+          "description": "Article URL: https://windows-internals.com/i-o-rings-when-one-i-o-operation-is-not-enough/\nComments URL: https://news.ycombinator.com/item?id=27265091\nPoints: 40\n# Comments: 8",
+          "link": "https://windows-internals.com/i-o-rings-when-one-i-o-operation-is-not-enough/",
+          "publishedOn": "2021-05-24T14:56:42.000Z",
+          "wordCount": 3060,
+          "title": "I/O Rings: When One I/O Operation is Not Enough"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27264988",
+          "author": "jukkakoskinen",
+          "description": "Article URL: https://vivirenremoto.github.io/doomcaptcha/\nComments URL: https://news.ycombinator.com/item?id=27264988\nPoints: 335\n# Comments: 104",
+          "link": "https://vivirenremoto.github.io/doomcaptcha/",
+          "publishedOn": "2021-05-24T14:48:57.000Z",
+          "wordCount": 318,
+          "title": "DOOM Captcha"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27264585",
+          "author": "gbrown_",
+          "description": "Article URL: https://arxiv.org/abs/2105.08712\nComments URL: https://news.ycombinator.com/item?id=27264585\nPoints: 4\n# Comments: 0",
+          "link": "https://arxiv.org/abs/2105.08712",
+          "publishedOn": "2021-05-24T14:13:57.000Z",
+          "wordCount": 562,
+          "title": "HeapSafe: Securing Unprotected Heaps in RISC-V [pdf]"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27264542",
+          "author": "robfig",
+          "description": "Article URL: https://pkg.go.dev/rsc.io/rf\nComments URL: https://news.ycombinator.com/item?id=27264542\nPoints: 48\n# Comments: 6",
+          "link": "https://pkg.go.dev/rsc.io/rf",
+          "publishedOn": "2021-05-24T14:09:58.000Z",
+          "wordCount": 1949,
+          "title": "Rf: an experimental refactoring tool for Go"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.8.1"
+}

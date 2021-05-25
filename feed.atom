@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://srid.github.io/feeds/index.html</id>
+    <title>osmos::feed</title>
+    <updated>2021-05-25T00:57:05.085Z</updated>
+    <generator>osmosfeed 1.8.1</generator>
+    <link rel="alternate" href="https://srid.github.io/feeds/index.html"/>
+    <link rel="self" href="https://srid.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[github /
+
+      semantic]]></title>
+        <id>https://github.com/github/semantic</id>
+        <link href="https://github.com/github/semantic"/>
+        <updated>2021-05-25T00:57:01.284Z</updated>
+        <summary type="html"><![CDATA[Parsing, analyzing, and comparing source code across many languages
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>github</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[haskell /
+
+      haskell-language-server]]></title>
+        <id>https://github.com/haskell/haskell-language-server</id>
+        <link href="https://github.com/haskell/haskell-language-server"/>
+        <updated>2021-05-25T00:57:01.230Z</updated>
+        <summary type="html"><![CDATA[Successor of ghcide & haskell-ide-engine. One IDE to rule them all.
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wireapp /
+
+      wire-server]]></title>
+        <id>https://github.com/wireapp/wire-server</id>
+        <link href="https://github.com/wireapp/wire-server"/>
+        <updated>2021-05-25T00:57:01.132Z</updated>
+        <summary type="html"><![CDATA[🇪🇺 Wire back-end services
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>wireapp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hasura /
+
+      graphql-engine]]></title>
+        <id>https://github.com/hasura/graphql-engine</id>
+        <link href="https://github.com/hasura/graphql-engine"/>
+        <updated>2021-05-25T00:57:01.082Z</updated>
+        <summary type="html"><![CDATA[Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>hasura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xmonad /
+
+      xmonad-contrib]]></title>
+        <id>https://github.com/xmonad/xmonad-contrib</id>
+        <link href="https://github.com/xmonad/xmonad-contrib"/>
+        <updated>2021-05-25T00:57:00.909Z</updated>
+        <summary type="html"><![CDATA[Contributed modules for xmonad
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>xmonad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[digitallyinduced /
+
+      ihp]]></title>
+        <id>https://github.com/digitallyinduced/ihp</id>
+        <link href="https://github.com/digitallyinduced/ihp"/>
+        <updated>2021-05-25T00:57:00.868Z</updated>
+        <summary type="html"><![CDATA[🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>digitallyinduced</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[simonmichael /
+
+      hledger]]></title>
+        <id>https://github.com/simonmichael/hledger</id>
+        <link href="https://github.com/simonmichael/hledger"/>
+        <updated>2021-05-25T00:57:00.820Z</updated>
+        <summary type="html"><![CDATA[easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>simonmichael</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[matterhorn-chat /
+
+      mattermost-api-qc]]></title>
+        <id>https://github.com/matterhorn-chat/mattermost-api-qc</id>
+        <link href="https://github.com/matterhorn-chat/mattermost-api-qc"/>
+        <updated>2021-05-25T00:57:00.764Z</updated>
+        <summary type="html"><![CDATA[QuickCheck instance library for the mattermost-api library.
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>matterhorn-chat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[matterhorn-chat /
+
+      mattermost-api]]></title>
+        <id>https://github.com/matterhorn-chat/mattermost-api</id>
+        <link href="https://github.com/matterhorn-chat/mattermost-api"/>
+        <updated>2021-05-25T00:57:00.729Z</updated>
+        <summary type="html"><![CDATA[Client side API for communicating with a mattermost server in Haskell
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>matterhorn-chat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[reach-sh /
+
+      reach-lang]]></title>
+        <id>https://github.com/reach-sh/reach-lang</id>
+        <link href="https://github.com/reach-sh/reach-lang"/>
+        <updated>2021-05-25T00:57:00.705Z</updated>
+        <summary type="html"><![CDATA[Reach: The Safest and Easiest DApp Programming Language
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>reach-sh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[digital-asset /
+
+      ex-healthcare-claims-processing]]></title>
+        <id>https://github.com/digital-asset/ex-healthcare-claims-processing</id>
+        <link href="https://github.com/digital-asset/ex-healthcare-claims-processing"/>
+        <updated>2021-05-25T00:57:00.663Z</updated>
+        <summary type="html"><![CDATA[Reference DAML application demonstrating a healthcare use case.
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>digital-asset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[channable /
+
+      vaultenv]]></title>
+        <id>https://github.com/channable/vaultenv</id>
+        <link href="https://github.com/channable/vaultenv"/>
+        <updated>2021-05-25T00:57:00.607Z</updated>
+        <summary type="html"><![CDATA[Launch processes with Vault secrets in the environment
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>channable</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kmonad /
+
+      kmonad]]></title>
+        <id>https://github.com/kmonad/kmonad</id>
+        <link href="https://github.com/kmonad/kmonad"/>
+        <updated>2021-05-25T00:57:00.557Z</updated>
+        <summary type="html"><![CDATA[An advanced keyboard manager
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>kmonad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[agda /
+
+      agda]]></title>
+        <id>https://github.com/agda/agda</id>
+        <link href="https://github.com/agda/agda"/>
+        <updated>2021-05-25T00:57:00.510Z</updated>
+        <summary type="html"><![CDATA[Agda is a dependently typed programming language / interactive theorem prover.
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>agda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fullstack-development /
+
+      developers-roadmap]]></title>
+        <id>https://github.com/fullstack-development/developers-roadmap</id>
+        <link href="https://github.com/fullstack-development/developers-roadmap"/>
+        <updated>2021-05-25T00:57:00.461Z</updated>
+        <summary type="html"><![CDATA[How to learn front-end or back-end development
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>fullstack-development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[phuhl /
+
+      linux_notification_center]]></title>
+        <id>https://github.com/phuhl/linux_notification_center</id>
+        <link href="https://github.com/phuhl/linux_notification_center"/>
+        <updated>2021-05-25T00:57:00.427Z</updated>
+        <summary type="html"><![CDATA[A notification daemon/center for linux
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>phuhl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      cardano-db-sync]]></title>
+        <id>https://github.com/input-output-hk/cardano-db-sync</id>
+        <link href="https://github.com/input-output-hk/cardano-db-sync"/>
+        <updated>2021-05-25T00:57:00.371Z</updated>
+        <summary type="html"><![CDATA[A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      plutus-starter]]></title>
+        <id>https://github.com/input-output-hk/plutus-starter</id>
+        <link href="https://github.com/input-output-hk/plutus-starter"/>
+        <updated>2021-05-25T00:57:00.327Z</updated>
+        <summary type="html"><![CDATA[A starter project for Plutus apps
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[koalaman /
+
+      shellcheck]]></title>
+        <id>https://github.com/koalaman/shellcheck</id>
+        <link href="https://github.com/koalaman/shellcheck"/>
+        <updated>2021-05-25T00:57:00.291Z</updated>
+        <summary type="html"><![CDATA[ShellCheck, a static analysis tool for shell scripts
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>koalaman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      plutus-pioneer-program]]></title>
+        <id>https://github.com/input-output-hk/plutus-pioneer-program</id>
+        <link href="https://github.com/input-output-hk/plutus-pioneer-program"/>
+        <updated>2021-05-25T00:57:00.244Z</updated>
+        <summary type="html"><![CDATA[Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      cardano-sl]]></title>
+        <id>https://github.com/input-output-hk/cardano-sl</id>
+        <link href="https://github.com/input-output-hk/cardano-sl"/>
+        <updated>2021-05-25T00:56:59.943Z</updated>
+        <summary type="html"><![CDATA[Cryptographic currency implementing Ouroboros PoS protocol
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[alpacaaa /
+
+      quad-ci]]></title>
+        <id>https://github.com/alpacaaa/quad-ci</id>
+        <link href="https://github.com/alpacaaa/quad-ci"/>
+        <updated>2021-05-25T00:56:59.663Z</updated>
+        <summary type="html"><![CDATA[A CI server written in Simple Haskell.
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>alpacaaa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[haskell /
+
+      cabal]]></title>
+        <id>https://github.com/haskell/cabal</id>
+        <link href="https://github.com/haskell/cabal"/>
+        <updated>2021-05-25T00:56:59.619Z</updated>
+        <summary type="html"><![CDATA[Official upstream development repository for Cabal and cabal-install
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[unisonweb /
+
+      unison]]></title>
+        <id>https://github.com/unisonweb/unison</id>
+        <link href="https://github.com/unisonweb/unison"/>
+        <updated>2021-05-25T00:56:59.558Z</updated>
+        <summary type="html"><![CDATA[A friendly programming language from the future
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>unisonweb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[elm /
+
+      compiler]]></title>
+        <id>https://github.com/elm/compiler</id>
+        <link href="https://github.com/elm/compiler"/>
+        <updated>2021-05-25T00:56:59.513Z</updated>
+        <summary type="html"><![CDATA[Compiler for Elm, a functional language for reliable webapps.
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>elm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The most effective ways of getting large doses of Sulforaphane]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/nkbpnn/the_most_effective_ways_of_getting_large_doses_of/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/nkbpnn/the_most_effective_ways_of_getting_large_doses_of/"/>
+        <updated>2021-05-24T23:42:17.000Z</updated>
+        <summary type="html"><![CDATA[Broccoli contains both sulforaphane (SF) and glucoraphanin (GLU), which, in the presence of myrosinase, can hydrolyze to sulforaphane. So, to get the most SF you need to optimize SF content AND add some myrosinase to convert GLU to SF. 
+ But here is the dirty little secret, nearly all of the GLU to SF conversion happens in the mouth during the chewing process, not in the stomach, as you can see here 
+ https://www.sciencedirect.com/science/article/abs/pii/S1756464618301737
+  
+Longer chewing times of raw, 0.5-min and 1-min steamed broccoli, which contained active myrosinase, lead to a higher hydrolysis
+  
+So then you might think to just chew your broccoli for a long time and then you will get plenty of SF right? Wrong. Because the heat from cooking deactivates nearly ALL the myrosinase prese…]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Than Average]]></title>
+        <id>https://news.ycombinator.com/item?id=27270928</id>
+        <link href="https://thanaverage.xyz/"/>
+        <updated>2021-05-24T23:29:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thanaverage.xyz/
+Comments URL: https://news.ycombinator.com/item?id=27270928
+Points: 78
+# Comments: 60]]></summary>
+        <author>
+            <name>dvt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Having a successful career with depression, anxiety and imposter syndrome]]></title>
+        <id>https://news.ycombinator.com/item?id=27270662</id>
+        <link href="https://80000hours.org/podcast/episodes/depression-anxiety-imposter-syndrome/"/>
+        <updated>2021-05-24T22:57:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://80000hours.org/podcast/episodes/depression-anxiety-imposter-syndrome/
+Comments URL: https://news.ycombinator.com/item?id=27270662
+Points: 44
+# Comments: 8]]></summary>
+        <author>
+            <name>lukefreeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project from a newbie to all newbies (and interested)]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nkapzl/project_from_a_newbie_to_all_newbies_and/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nkapzl/project_from_a_newbie_to_all_newbies_and/"/>
+        <updated>2021-05-24T22:53:20.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! As above I’m learning Haskell and I would like to find some mates to create projects with on GitHub to enhance our skills and share knowledge. I’m opened to everything, just group up and code together.
+    submitted by    /u/_seeking_answers  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Movement Principle]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nkanid/the_movement_principle/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nkanid/the_movement_principle/"/>
+        <updated>2021-05-24T22:50:06.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/alantrying  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine learning in Haskell]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nkaeee/machine_learning_in_haskell/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nkaeee/machine_learning_in_haskell/"/>
+        <updated>2021-05-24T22:38:16.000Z</updated>
+        <summary type="html"><![CDATA[I was curious as to the state of Haskell and machine learning and I found this link: Haskell machine learning.
+ Has anyone seen this?
+ Is anyone using Haskell in all/part machine learning?
+    submitted by    /u/Puzzleheaded_News647  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Links on Performance]]></title>
+        <id>https://css-tricks.com/?p=340808</id>
+        <link href="https://css-tricks.com/links-on-performance/"/>
+        <updated>2021-05-24T22:03:30.000Z</updated>
+        <summary type="html"><![CDATA[Making GitHub’s new homepage fast and performant — Tobias Ahlin describes how the scrolling effects are done more performantly thanks to IntersectionObserver and the fact that it avoids the use of methods that trigger reflows, like getBoundingClientRect. Also, 
+…
+The post Links on Performance appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inkscape 1.1]]></title>
+        <id>https://news.ycombinator.com/item?id=27270070</id>
+        <link href="https://inkscape.org/news/2021/05/24/welcome-inkscape-11/"/>
+        <updated>2021-05-24T21:45:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://inkscape.org/news/2021/05/24/welcome-inkscape-11/
+Comments URL: https://news.ycombinator.com/item?id=27270070
+Points: 207
+# Comments: 65]]></summary>
+        <author>
+            <name>RaitoBezarius</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free webinar: Circuit design in Haskell/Clash, May 26th]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nk8wcb/free_webinar_circuit_design_in_haskellclash_may/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nk8wcb/free_webinar_circuit_design_in_haskellclash_may/"/>
+        <updated>2021-05-24T21:27:47.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/darchon  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesorio (YC S15) Is Hiring a Principal Data Architect]]></title>
+        <id>https://news.ycombinator.com/item?id=27269639</id>
+        <link href="https://www.tesorio.com/careers#job-openings"/>
+        <updated>2021-05-24T21:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.tesorio.com/careers#job-openings
+Comments URL: https://news.ycombinator.com/item?id=27269639
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>FabioFleitas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elk OS – Audio Operating System]]></title>
+        <id>https://news.ycombinator.com/item?id=27269589</id>
+        <link href="https://elk.audio/audio-os/"/>
+        <updated>2021-05-24T20:54:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://elk.audio/audio-os/
+Comments URL: https://news.ycombinator.com/item?id=27269589
+Points: 100
+# Comments: 30]]></summary>
+        <author>
+            <name>ushakov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Need Something Sorted? Sleep on It]]></title>
+        <id>https://news.ycombinator.com/item?id=27269586</id>
+        <link href="https://kevlinhenney.medium.com/need-something-sorted-sleep-on-it-11fdf8453914"/>
+        <updated>2021-05-24T20:54:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kevlinhenney.medium.com/need-something-sorted-sleep-on-it-11fdf8453914
+Comments URL: https://news.ycombinator.com/item?id=27269586
+Points: 9
+# Comments: 4]]></summary>
+        <author>
+            <name>ingve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replit now supports every programming language in Nix]]></title>
+        <id>https://news.ycombinator.com/item?id=27269292</id>
+        <link href="https://blog.replit.com/nix"/>
+        <updated>2021-05-24T20:26:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.replit.com/nix
+Comments URL: https://news.ycombinator.com/item?id=27269292
+Points: 118
+# Comments: 27]]></summary>
+        <author>
+            <name>bobrenjc93</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is there an appropriate way to do a "hostile takeover" of a package?]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nk6qzn/is_there_an_appropriate_way_to_do_a_hostile/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nk6qzn/is_there_an_appropriate_way_to_do_a_hostile/"/>
+        <updated>2021-05-24T19:56:22.000Z</updated>
+        <summary type="html"><![CDATA[I am in a situation where there is a suite of packages that is presently unmaintained by the original author. I have attempted to submit patches back upstream from my fork, however, there has been no response on GitHub, where the repository is currently hosted. I have also separately sent an email to the maintainer address specified in the cabal file and received no response.
+ I am generally of the opinion that letting packages fragment due to maintainer absence is a generally bad thing when the ecosystem is small and could otherwise accrete contributions from outsiders. I am now puzzling over how I should proceed. The way I see it my only option left is to republish to hackage under a different name, further exacerbating fragmentation. This also leaves the question of how to name the package, whether naming it as a derivative name is appropriate or whether I should name it something else entirely. Is there any unspoken rules about how package naming should be done in situations like this (or even more generally)?
+    submitted by    /u/captjakk  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I have a fold function which I need to use on a self defined datatype to count all the nodes in it.]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nk6azz/i_have_a_fold_function_which_i_need_to_use_on_a/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nk6azz/i_have_a_fold_function_which_i_need_to_use_on_a/"/>
+        <updated>2021-05-24T19:37:15.000Z</updated>
+        <summary type="html"><![CDATA[My code looks as follows:
+  data Network = Empty | Internet | Switch String Network Network Network | Router String Network Network | Pc String Int deriving Show network = Router "Fritzbox" Internet (Switch "Switch" (Pc "Gamerkiste" 500) (Pc "Mediensklave" 4000) (Switch "YetAnotherSwitch" (Pc "Hex" 5) (Pc "HAL9000" 90000) Empty ) ) foldNetwork :: t1 -> t1-> (String -> t1 -> t1 -> t1 -> t1) -> (String -> t1 -> t1 -> t1) -> (String -> t2 -> t1) -> (Int -> t2) -> Network -> t1 foldNetwork fe fi fs fr fps fpi Empty = fe foldNetwork fe fi fs fr fps fpi Internet = fi foldNetwork fe fi fs fr fps fpi (Switch s l c r) = fs s (foldNetwork fe fi fs fr fps fpi l) (foldNetwork fe fi fs fr fps fpi c) (foldNetwork fe fi fs fr fps fpi r) foldNetwork fe fi fs fr fps fpi (Router s l r) = fr s (foldNetwork fe fi fs fr fps fpi l) (foldNetwork fe fi fs fr fps fpi r) foldNetwork fe fi fs fr fps fpi (Pc s i) = fps s (fpi i) 
+ I am trying to use this in a function countCables which should return as follows:
+ countCables network 7 
+ I am completely stumped on how this could be done. 
+ I just know that I somehow have to give out a (+1) Whenever it is not Empty and a 0 on the router. My thought process is it gives out (+1) that accumulate on the router that has gives a value of 0 and then all those (+1) act on it. But I am not quite sure.
+    submitted by    /u/_Biological_hazard_  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists use optogenetics to help a blind patient see again]]></title>
+        <id>https://news.ycombinator.com/item?id=27268537</id>
+        <link href="https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/"/>
+        <updated>2021-05-24T19:17:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/
+Comments URL: https://news.ycombinator.com/item?id=27268537
+Points: 99
+# Comments: 8]]></summary>
+        <author>
+            <name>bmau5</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[proxy-www]]></title>
+        <id>https://css-tricks.com/?p=341153</id>
+        <link href="https://github.com/justjavac/proxy-www"/>
+        <updated>2021-05-24T19:09:59.000Z</updated>
+        <summary type="html"><![CDATA[I like a good trick. What if… a URL was…  a promise… that fetched said URL?
+www.codepen.io.then((response) ={
+  console.log(response);
+});
+That’s what @justjavac did with JavaScript Proxys. A clever trick, that. Don’t @ me about the practicality. Trick…
+The post proxy-www appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urbit: The good, the bad, and the insane]]></title>
+        <id>https://news.ycombinator.com/item?id=27268462</id>
+        <link href="https://wejn.org/2021/02/urbit-good-bad-insane/"/>
+        <updated>2021-05-24T19:09:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wejn.org/2021/02/urbit-good-bad-insane/
+Comments URL: https://news.ycombinator.com/item?id=27268462
+Points: 166
+# Comments: 80]]></summary>
+        <author>
+            <name>deegles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How long can humans live without water?]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/nk44a7/how_long_can_humans_live_without_water/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/nk44a7/how_long_can_humans_live_without_water/"/>
+        <updated>2021-05-24T18:02:45.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I had the discussion about whether or not it's realistic to think asetics are able to live for months without drinking water. My immediate reaction was no, you'd die of dehydration within days... but upon further research (read: searching for case studies and models on google scholar) I came up blank.
+ Most sources I can find don't cite any studies on this subject, not even observational ones (e.g. sailors trapped at sea survivng for {x} without fresh water | people surviving in the dessert | studies of tribes in arid areas)
+ So I'm curios, do you know of any scientific literature treating this subject?
+    submitted by    /u/elcric_krej  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing Pythonic Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=27267066</id>
+        <link href="http://www.cmyr.net/blog/rust-python-learnings.html"/>
+        <updated>2021-05-24T17:18:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.cmyr.net/blog/rust-python-learnings.html
+Comments URL: https://news.ycombinator.com/item?id=27267066
+Points: 167
+# Comments: 127]]></summary>
+        <author>
+            <name>zbentley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A journey to io_uring, AIO and modern storage devices]]></title>
+        <id>https://news.ycombinator.com/item?id=27267007</id>
+        <link href="https://clickhouse.tech/blog/en/2021/reading-from-external-memory/"/>
+        <updated>2021-05-24T17:13:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://clickhouse.tech/blog/en/2021/reading-from-external-memory/
+Comments URL: https://news.ycombinator.com/item?id=27267007
+Points: 84
+# Comments: 9]]></summary>
+        <author>
+            <name>digikata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evidence-based Software Engineering: based on the publicly available data]]></title>
+        <id>https://news.ycombinator.com/item?id=27266551</id>
+        <link href="http://www.knosof.co.uk/ESEUR/"/>
+        <updated>2021-05-24T16:43:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.knosof.co.uk/ESEUR/
+Comments URL: https://news.ycombinator.com/item?id=27266551
+Points: 120
+# Comments: 13]]></summary>
+        <author>
+            <name>teleforce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complexity is a source of income in open source ecosystems (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27266485</id>
+        <link href="https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/"/>
+        <updated>2021-05-24T16:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/
+Comments URL: https://news.ycombinator.com/item?id=27266485
+Points: 234
+# Comments: 147]]></summary>
+        <author>
+            <name>teleforce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[damnit Felix]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/nk1mfa/damnit_felix/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/nk1mfa/damnit_felix/"/>
+        <updated>2021-05-24T16:13:59.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/a_lostgay  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Radioactivity may fuel life deep underground and inside other worlds]]></title>
+        <id>https://news.ycombinator.com/item?id=27265836</id>
+        <link href="https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/"/>
+        <updated>2021-05-24T15:52:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/
+Comments URL: https://news.ycombinator.com/item?id=27265836
+Points: 95
+# Comments: 8]]></summary>
+        <author>
+            <name>theafh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why did bar ends go away from mountain bikes?]]></title>
+        <id>https://news.ycombinator.com/item?id=27265645</id>
+        <link href="https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/"/>
+        <updated>2021-05-24T15:40:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/
+Comments URL: https://news.ycombinator.com/item?id=27265645
+Points: 132
+# Comments: 212]]></summary>
+        <author>
+            <name>de_keyboard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Curvenote (YC W21) – Collaborative writing tools for science]]></title>
+        <id>https://news.ycombinator.com/item?id=27265380</id>
+        <link href="https://news.ycombinator.com/item?id=27265380"/>
+        <updated>2021-05-24T15:20:10.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN! I’m Rowan and with my co-founder Steve we are building Curvenote (https://curvenote.com) — a technical writing tool for sharing data analysis and research from Jupyter with a wider audience.
+We are building Curvenote to get science communication out of PDFs and help researchers and data-scientists communicate interactive, reproducible results (graphs, figures, maps, etc.) that are linked to the actual data and computation. There are currently two parts to Curvenote: 1) a WYSIWYG collaborative writing environment for interactive, technical documents; and 2) a Jupyter integration that adds version control and commenting and can link interactive plots and outputs directly into Curvenote documents (including any new versions or comments on those outputs).
+Steve and I met in the open-sou…]]></summary>
+        <author>
+            <name>rowanc1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I/O Rings: When One I/O Operation is Not Enough]]></title>
+        <id>https://news.ycombinator.com/item?id=27265091</id>
+        <link href="https://windows-internals.com/i-o-rings-when-one-i-o-operation-is-not-enough/"/>
+        <updated>2021-05-24T14:56:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://windows-internals.com/i-o-rings-when-one-i-o-operation-is-not-enough/
+Comments URL: https://news.ycombinator.com/item?id=27265091
+Points: 40
+# Comments: 8]]></summary>
+        <author>
+            <name>ingve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOOM Captcha]]></title>
+        <id>https://news.ycombinator.com/item?id=27264988</id>
+        <link href="https://vivirenremoto.github.io/doomcaptcha/"/>
+        <updated>2021-05-24T14:48:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://vivirenremoto.github.io/doomcaptcha/
+Comments URL: https://news.ycombinator.com/item?id=27264988
+Points: 335
+# Comments: 104]]></summary>
+        <author>
+            <name>jukkakoskinen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HeapSafe: Securing Unprotected Heaps in RISC-V [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27264585</id>
+        <link href="https://arxiv.org/abs/2105.08712"/>
+        <updated>2021-05-24T14:13:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2105.08712
+Comments URL: https://news.ycombinator.com/item?id=27264585
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>gbrown_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rf: an experimental refactoring tool for Go]]></title>
+        <id>https://news.ycombinator.com/item?id=27264542</id>
+        <link href="https://pkg.go.dev/rsc.io/rf"/>
+        <updated>2021-05-24T14:09:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pkg.go.dev/rsc.io/rf
+Comments URL: https://news.ycombinator.com/item?id=27264542
+Points: 48
+# Comments: 6]]></summary>
+        <author>
+            <name>robfig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wrangling Control Over PDFs with the Adobe PDF Embed API]]></title>
+        <id>https://css-tricks.com/?p=340626</id>
+        <link href="https://css-tricks.com/wrangling-control-over-pdfs-with-the-adobe-pdf-embed-api/"/>
+        <updated>2021-05-24T13:57:21.000Z</updated>
+        <summary type="html"><![CDATA[By our last estimate, there are now more PDFs in the world than atoms in the universe (not verified by outside sources) so chances are, from time to time, you’re going to run into a PDF document or two. Browsers …
+The post Wrangling Control Over PDFs with the Adobe PDF Embed API appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Raymond Camden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[they’re ready 👍👍]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/njwv2v/theyre_ready/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/njwv2v/theyre_ready/"/>
+        <updated>2021-05-24T12:31:13.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/StonewallBurgundy  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can you print a constructor's name of a data type?]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/njtswz/can_you_print_a_constructors_name_of_a_data_type/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/njtswz/can_you_print_a_constructors_name_of_a_data_type/"/>
+        <updated>2021-05-24T09:23:58.000Z</updated>
+        <summary type="html"><![CDATA[I have the following data type:
+ data Transaction = Deposit {value :: Float} | Withdrawal {value :: Float} deriving Show 
+ When I create a Deposit, I can do print $ value (Deposit 20.5) to print the value. Can I do something like print $ contructorName (Deposit 20.5) and get "Deposit" printed?
+ Of course, I can do:
+ data Transaction = Deposit {contructorName :: String, value :: Float} | Withdrawal {contructorName :: String, value :: Float} deriving Show 
+ but that seems redundant because I have to run Deposit "Deposit" 20.5 to create a deposit.
+    submitted by    /u/VeryKnave  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reverse of quickspec]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/njtchq/reverse_of_quickspec/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/njtchq/reverse_of_quickspec/"/>
+        <updated>2021-05-24T08:52:52.000Z</updated>
+        <summary type="html"><![CDATA[Quickspec (https://github.com/nick8325/quickspec) is awesome in discovering laws in the code we write. But I am in search for a tool (the reverse) , which given the spec, can it synthesise code ?
+    submitted by    /u/maayon  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Culture War Roundup for the week of May 24, 2021]]></title>
+        <id>https://www.reddit.com/r/TheMotte/comments/njr5h0/culture_war_roundup_for_the_week_of_may_24_2021/</id>
+        <link href="https://www.reddit.com/r/TheMotte/comments/njr5h0/culture_war_roundup_for_the_week_of_may_24_2021/"/>
+        <updated>2021-05-24T06:15:18.000Z</updated>
+        <summary type="html"><![CDATA[This weekly roundup thread is intended for all culture war posts. 'Culture war' is vaguely defined, but it basically means controversial issues that fall along set tribal lines. Arguments over culture war issues generate a lot of heat and little light, and few deeply entrenched people ever change their minds. This thread is for voicing opinions and analyzing the state of the discussion while trying to optimize for light over heat.
+ Optimistically, we think that engaging with people you disagree with is worth your time, and so is being nice! Pessimistically, there are many dynamics that can lead discussions on Culture War topics to become unproductive. There's a human tendency to divide along tribal lines, praising your ingroup and vilifying your outgroup - and if you think you find it easy…]]></summary>
+        <author>
+            <name>top scoring links : TheMotte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using gloss on Windows]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/njnh65/using_gloss_on_windows/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/njnh65/using_gloss_on_windows/"/>
+        <updated>2021-05-24T02:29:42.000Z</updated>
+        <summary type="html"><![CDATA[Has anyone had success with using gloss on Windows? (I'm using the Haskell Platform, installed through chocolatey.) When I try to run a program using gloss, I get this error:
+  user error (unknown GLUT entry glutInit) 
+ and with the alternative GLFW backend,
+  user error (unknown GLUT entry glutStrokeCharacter) 
+ My program works fine on Linux.
+ I found some similar questions, but the suggested workarounds have had no visible effect.
+  
+https://stackoverflow.com/questions/8956387/cant-get-freeglut-to-work-with-haskell-on-windows
+ 
+https://github.com/haskell-opengl/GLUT/issues/19
+ 
+    submitted by    /u/TheWakalix  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do you remember being a child and staring at the patterns of grain on wood?]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/njmrsa/do_you_remember_being_a_child_and_staring_at_the/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/njmrsa/do_you_remember_being_a_child_and_staring_at_the/"/>
+        <updated>2021-05-24T01:50:54.000Z</updated>
+        <summary type="html"><![CDATA[That was good
+    submitted by    /u/hamtaro-420  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StepULC: Efficient and single-steppable ULC (untyped lambda calculus) evaluation algorithm]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/njmr6j/stepulc_efficient_and_singlesteppable_ulc_untyped/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/njmr6j/stepulc_efficient_and_singlesteppable_ulc_untyped/"/>
+        <updated>2021-05-24T01:50:00.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Bubbler-4  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quality Contributions Report for May 2021 (1/2)]]></title>
+        <id>https://www.reddit.com/r/TheMotte/comments/njl3fm/quality_contributions_report_for_may_2021_12/</id>
+        <link href="https://www.reddit.com/r/TheMotte/comments/njl3fm/quality_contributions_report_for_may_2021_12/"/>
+        <updated>2021-05-24T00:17:51.000Z</updated>
+        <summary type="html"><![CDATA[This is the Quality Contributions Roundup. It showcases interesting and well-written comments and posts from the period covered. If you want to get an idea of what this community is about or how we want you to participate, look no further (except the rules maybe--those might be important too).
+ As a reminder, you can nominate Quality Contributions by hitting the report button and selecting the "Actually A Quality Contribution!" option from the "It breaks r/TheMotte's rules, or is of interest to the mods" menu. Additionally, links to all of the roundups can be found in the wiki of /r/theThread which can be found here. For a list of other great community content, see here.
+ These are mostly chronologically ordered, but I have in some cases tried to cluster comments by topic so if there is so…]]></summary>
+        <author>
+            <name>top scoring links : TheMotte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should DevTools teach the CSS cascade?]]></title>
+        <id>https://css-tricks.com/?p=340991</id>
+        <link href="https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/"/>
+        <updated>2021-05-21T23:22:54.000Z</updated>
+        <summary type="html"><![CDATA[Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …
+The post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Svelte for the Experienced React Dev]]></title>
+        <id>https://css-tricks.com/?p=340825</id>
+        <link href="https://css-tricks.com/svelte-for-the-experienced-react-dev/"/>
+        <updated>2021-05-21T14:30:59.000Z</updated>
+        <summary type="html"><![CDATA[This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …
+The post Svelte for the Experienced React Dev appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Hell]]></title>
+        <id>https://css-tricks.com/?p=340919</id>
+        <link href="https://csshell.dev/"/>
+        <updated>2021-05-21T14:29:16.000Z</updated>
+        <summary type="html"><![CDATA[Collection of common CSS mistakes, and how to fix them
+From Stefánia Péter. 
+Clever idea for a site! Some of them are little mind-twisters that could bite you, and some of them are honing in on best practices that …
+The post CSS Hell appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metaprogramming in Elixir]]></title>
+        <id>https://serokell.io/blog/elixir-metaprogramming</id>
+        <link href="https://serokell.io/blog/elixir-metaprogramming"/>
+        <updated>2021-05-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we cover metaprogramming and macros in Elixir. Discover how you can use Elixir to write code that writes code.]]></summary>
+        <author>
+            <name>hi+gintsdreimanis@serokell.io (Gints Dreimanis)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSON in CSS]]></title>
+        <id>https://css-tricks.com/?p=340599</id>
+        <link href="https://css-tricks.com/json-in-css/"/>
+        <updated>2021-05-20T22:29:53.000Z</updated>
+        <summary type="html"><![CDATA[Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …
+The post JSON in CSS appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS!]]></title>
+        <id>https://css-tricks.com/?p=340933</id>
+        <link href="https://web.dev/learn/css/"/>
+        <updated>2021-05-20T21:51:43.000Z</updated>
+        <summary type="html"><![CDATA[Ooo look at this mighty SEO flex from Google: Learn CSS! Well deserved — this is great content. Twenty-three chapters taking you through all the fundamentals of CSS with extra content, like relevant podcasts, interactive examples, and even quizzes to …
+The post Learn CSS! appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can We Create a “Resize Hack” With Container Queries?]]></title>
+        <id>https://css-tricks.com/?p=340715</id>
+        <link href="https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/"/>
+        <updated>2021-05-20T14:24:12.000Z</updated>
+        <summary type="html"><![CDATA[If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …
+The post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jhey Tompkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fit-content and fit-content()]]></title>
+        <id>https://css-tricks.com/?p=340897</id>
+        <link href="https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html"/>
+        <updated>2021-05-20T14:20:56.000Z</updated>
+        <summary type="html"><![CDATA[Here’s some hardcore deep-dive CSS nerdery from PPK. If you can wrap your mind around min-content (the smallest an element can be based on the content it contains) and max-content (the largest the content of an element can push it) …
+The post fit-content and fit-content() appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notion API]]></title>
+        <id>https://css-tricks.com/?p=340731</id>
+        <link href="https://css-tricks.com/notion-api/"/>
+        <updated>2021-05-19T23:18:42.000Z</updated>
+        <summary type="html"><![CDATA[The Public Beta of the Notion API dropped! Woot! Here’s their guide. I’ve been a Notion user and fan for a long time, for both personal and professional team use. They even sponsored a few videos around here a …
+The post Notion API appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[svg-loader: A Different Way to Work With External SVG]]></title>
+        <id>https://css-tricks.com/?p=340692</id>
+        <link href="https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/"/>
+        <updated>2021-05-19T14:28:19.000Z</updated>
+        <summary type="html"><![CDATA[SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …
+The post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Shubham Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pinned Audio WordPress Theme]]></title>
+        <id>https://css-tricks.com/?p=340613</id>
+        <link href="https://css-tricks.com/pinned-audio-wordpress-theme/"/>
+        <updated>2021-05-18T19:14:53.000Z</updated>
+        <summary type="html"><![CDATA[I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.
+A fella wrote to me a while back outlining a situation he was in. His company has …
+The post Pinned Audio WordPress Theme appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Neon Text With CSS]]></title>
+        <id>https://css-tricks.com/?p=340420</id>
+        <link href="https://css-tricks.com/how-to-create-neon-text-with-css/"/>
+        <updated>2021-05-18T14:31:25.000Z</updated>
+        <summary type="html"><![CDATA[Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …
+The post How to Create Neon Text With CSS appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Silvia O'Dwyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Humble `img` Element And Core Web Vitals]]></title>
+        <id>https://css-tricks.com/?p=340716</id>
+        <link href="https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
+        <updated>2021-05-17T22:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Addy Osmani on images in HTML:
+The humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can 
+…
+The post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Machine Learning Career Paths in 2021]]></title>
+        <id>https://serokell.io/blog/top-ml-jobs</id>
+        <link href="https://serokell.io/blog/top-ml-jobs"/>
+        <updated>2021-05-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn about awesome artificial intelligence and machine learning jobs that you can pursue in 2021.]]></summary>
+        <author>
+            <name>hi+yuliagavrilova@serokell.io (Yulia Gavrilova)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practical Nix Flakes]]></title>
+        <id>https://serokell.io/blog/practical-nix-flakes</id>
+        <link href="https://serokell.io/blog/practical-nix-flakes"/>
+        <updated>2021-05-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn about Nix, Nix flakes, and how to use Nix flakes to build applications in various languages.]]></summary>
+        <author>
+            <name>hi+alexanderbantyev@serokell.io (Alexander Bantyev)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lorentz: Type-Safe Upgradeable Storage]]></title>
+        <id>https://serokell.io/blog/lorentz-upgradeable-storage</id>
+        <link href="https://serokell.io/blog/lorentz-upgradeable-storage"/>
+        <updated>2021-04-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Once deployed, large-scale smart contracts can sometimes become outdated and require upgrades. In this part of our Lorentz series, we show how to make a smart contract with upgradeable storage in Lorentz.]]></summary>
+        <author>
+            <name>hi+kostyaivanov@serokell.io (Kostya Ivanov)</name>
+        </author>
+    </entry>
+</feed>
