@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340759",
+          "author": "Josh Collinsworth",
+          "description": "I fell in love with coding the moment I created my first CSS :hover effect. Years later, that initial bite into interactivity on the web led me to a new goal: making a game.\nTable of contents\nWhat’s the game \n…\nThe post What I Learned Building a Word Game App With Nuxt on Google Play appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/what-i-learned-building-a-word-game-app-with-nuxt-on-google-play/",
+          "publishedOn": "2021-05-25T14:25:06.000Z",
+          "wordCount": 7475,
+          "title": "What I Learned Building a Word Game App With Nuxt on Google Play"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341383",
+          "author": "Ahmed Bouchefra",
+          "description": "Choosing the right tools to build a website for your organization is essential, but it can be tough to find the right fit. Simple site builders like Wix and Squarespace are easy for marketers to use, but severely limit developers …\nThe post Creating Powerful Websites with Serverless-Driven CMS Development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/creating-powerful-websites-with-serverless-driven-cms-development/",
+          "publishedOn": "2021-05-25T11:00:00.000Z",
+          "wordCount": 1386,
+          "title": "Creating Powerful Websites with Serverless-Driven CMS Development"
+        },
+        {
           "id": "https://css-tricks.com/?p=340808",
           "author": "Chris Coyier",
           "description": "Making GitHub’s new homepage fast and performant — Tobias Ahlin describes how the scrolling effects are done more performantly thanks to IntersectionObserver and the fact that it avoids the use of methods that trigger reflows, like getBoundingClientRect. Also, \n…\nThe post Links on Performance appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -148,6 +166,15 @@
       "siteUrl": "https://serokell.io/blog",
       "articles": [
         {
+          "id": "https://serokell.io/blog/detecting-genetic-disorders",
+          "author": "hi@serokell.io (Serokell staff)",
+          "description": "Discover how ML can be applied to genomic data to detect diseases like cancer and Alzheimer's disease.",
+          "link": "https://serokell.io/blog/detecting-genetic-disorders",
+          "publishedOn": "2021-05-25T00:00:00.000Z",
+          "wordCount": 3630,
+          "title": "The Future of Detecting Genetic Disorders"
+        },
+        {
           "id": "https://serokell.io/blog/elixir-metaprogramming",
           "author": "hi+gintsdreimanis@serokell.io (Gints Dreimanis)",
           "description": "In this article, we cover metaprogramming and macros in Elixir. Discover how you can use Elixir to write code that writes code.",
@@ -190,6 +217,69 @@
       "feedUrl": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
       "siteUrl": "https://www.reddit.com/r/haskell/top/?sort=top&t=day",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nl369f/implementing_split_in_haskell/",
+          "author": null,
+          "description": "submitted by    /u/ThiYount  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nl369f/implementing_split_in_haskell/",
+          "publishedOn": "2021-05-25T23:40:03.000Z",
+          "wordCount": 124,
+          "title": "Implementing split in Haskell"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nl0rkl/looking_for_good_rules_of_thumbs_on_what_haskell/",
+          "author": null,
+          "description": "I am mid/advanced Haskell user, with some experience on the appplication side and I'd be interested to get into library development, but I confess I haven't ventured into Core yet. This is why I'd be curious to know if there are purely language related patterns which, on the current or foreseeable future versions of the GHC, should be avoided if possible for their high burden on performance. \n In other words, I'd be interested in a list of, say, the top 3-5 patterns which, when frequently used in a program's source code, are the most likely to incur a performance drop that cannot be traced to anything else than their Core implementation. (Thus I am not really interested in performance costs caused by \"choosing the wrong data structure\".)\n Of course there's the suspicion that these \"likely performance-killers when used frequently\" will be symptoms of bad design decisions from the application author:\n  \nevaluating too often (i.e. excessive case pattern matching, incurring unnecessary computations)\n evaluating too rarely (i.e. excessive lazyness, incurring unnecessary garbage collection)\n  \nI am also interested in real life examples involving these, but perhaps a bit more in patterns that are likely to jam GHC optimization capabilities.\n    submitted by    /u/FreeVariable  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nl0rkl/looking_for_good_rules_of_thumbs_on_what_haskell/",
+          "publishedOn": "2021-05-25T21:40:15.000Z",
+          "wordCount": 533,
+          "title": "Looking for good rules of thumbs on what Haskell patterns to avoid for better performance"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nkzcb6/haskell_team_openings_at_awake/",
+          "author": null,
+          "description": "We have two openings for work with Haskell at Awake (now part of Arista) -- one more junior, one more senior. Both are remote-friendly (and the entire team is widely geographically distributed). Due to where Arista has offices, and related paperwork constraints, applicants in US/Canada/Ireland/India are strongly preferred.\n While we initially have a fairly tight notion of what the work we're hiring into is going to be, over time both positions have plenty of room to grow and take on other projects (also in Haskell) throughout our codebase, or even greenfield new stuff. Both also offer the opportunity to work with a really great team of seasoned Haskell devs, as well as nix contributors, etc.\n The more junior opening is partly making use of the in-house Haskell-like language we've built, an…",
+          "link": "https://www.reddit.com/r/haskell/comments/nkzcb6/haskell_team_openings_at_awake/",
+          "publishedOn": "2021-05-25T20:32:21.000Z",
+          "wordCount": 433,
+          "title": "Haskell Team openings at Awake"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nkydrh/functors_and_monads_for_people_who_have_read_too/",
+          "author": null,
+          "description": "submitted by    /u/earthboundkid  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nkydrh/functors_and_monads_for_people_who_have_read_too/",
+          "publishedOn": "2021-05-25T19:48:56.000Z",
+          "wordCount": 516,
+          "title": "Functors and Monads For People Who Have Read Too Many \"Tutorials\""
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nkvdwp/ergonomic_issues_with_using_backpack/",
+          "author": null,
+          "description": "Now that I have used backpack in raaz which has internally simplified the package quite a bit. However there are some ergonomic issues in their use at-least in raaz.\n  \nFirstly, I am not sure why backpack performs the mixing and matching in the .cabal file. I feel it makes the .cabal file rather large and unwieldy. The raaz.cabal is close to 900 lines of code with no real way to split it up. It is probably one of the biggest file in the repository\n \nThe documentation story is not very nice. Say Module A which depends on Signature Sig in an internal module. Now suppose the top library wants expose a version of A with some module mixed in for Sig, all the documentation of the functions defined are lost. One can solve this as this can be seen here. https://github.com/raaz-crypto/raaz/blob/master/raaz/Raaz/Digest.hs Documenting the functions in the source module (A in this case) is not useful because it is not visible one has to repeat this again in the outside exposed module. Whereas writing the documentation close to the function definition (in module A) make more sense.\n \nMismatch between documentation for hackage vs created by cabal haddock.\n \n I think 2,3 are probably bugs, or there is a way to handle it that I do not know about, but 1 is a design choice. It is curious because ghc supports .bkp files which is not recommended though. Currently .bkp files are only used to include test cases in ghc the compiler or to demonstrate backpack.\n    submitted by    /u/piyushkurur  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nkvdwp/ergonomic_issues_with_using_backpack/",
+          "publishedOn": "2021-05-25T17:36:20.000Z",
+          "wordCount": 547,
+          "title": "Ergonomic issues with using backpack."
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nkoyjp/module_organization_guidelines_haskell_weekly/",
+          "author": null,
+          "description": "submitted by    /u/haskellweekly  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nkoyjp/module_organization_guidelines_haskell_weekly/",
+          "publishedOn": "2021-05-25T12:49:12.000Z",
+          "wordCount": 130,
+          "title": "Module Organization Guidelines :: Haskell Weekly podcast"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nkjokw/fixity_me/",
+          "author": null,
+          "description": "submitted by    /u/kowainik  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nkjokw/fixity_me/",
+          "publishedOn": "2021-05-25T07:14:59.000Z",
+          "wordCount": 120,
+          "title": "Fix(ity) me"
+        },
         {
           "id": "https://www.reddit.com/r/haskell/comments/nkapzl/project_from_a_newbie_to_all_newbies_and/",
           "author": null,
@@ -288,6 +378,15 @@
       "siteUrl": "https://www.reddit.com/r/TheMotte/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/TheMotte/comments/nl2t32/is_there_a_rationale_for_cheating/",
+          "author": null,
+          "description": "I'm working my way through the selfish gene, and realize that there's a foundation for social cheaters that's based on the mathematics of game theory, which suggests that rational actors will be self interested, and therefore you can expect that repeated situations will resolve neatly to what can be described as rational self-interest. \n However, it does not seem to be the case that people are actually rational actors - in fact, they're mostly intuitional actors, who will follow their gut feeling even in the face of a life and death decision. It's hard to imagine someone actually being able to be rational when in a full on fight or flight reaction. \n So then game theory doesn't actually work to describe most circumstances. Even John Nash himself walked back on it, suggesting that it doesn't actually work to describe society (citation: interview with Adam Curtis in The Trap). The dominance of a corporation that is degrading the environment doesn't seem to be described by game theory, since the rationally self-interested actor wouldn't destroy the environment. \n Makes me think of what John Coase called \"blackboard economics,\" where rather than studying what happens in the real world, highly artificial, controlled environments are used to create models. \n What's an alternative to game theory? Is there one? Can we imagine one, if there isn't?\n    submitted by    /u/qqqqquinnnnn  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/TheMotte/comments/nl2t32/is_there_a_rationale_for_cheating/",
+          "publishedOn": "2021-05-25T23:20:03.000Z",
+          "wordCount": 1916,
+          "title": "Is there a rationale for cheating?"
+        },
+        {
           "id": "https://www.reddit.com/r/TheMotte/comments/njr5h0/culture_war_roundup_for_the_week_of_may_24_2021/",
           "author": null,
           "description": "This weekly roundup thread is intended for all culture war posts. 'Culture war' is vaguely defined, but it basically means controversial issues that fall along set tribal lines. Arguments over culture war issues generate a lot of heat and little light, and few deeply entrenched people ever change their minds. This thread is for voicing opinions and analyzing the state of the discussion while trying to optimize for light over heat.\n Optimistically, we think that engaging with people you disagree with is worth your time, and so is being nice! Pessimistically, there are many dynamics that can lead discussions on Culture War topics to become unproductive. There's a human tendency to divide along tribal lines, praising your ingroup and vilifying your outgroup - and if you think you find it easy…",
@@ -338,6 +437,33 @@
       "siteUrl": "https://www.reddit.com/r/redscarepod/top/?sort=top&t=day&limit=3",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redscarepod/comments/nkxx62/_/",
+          "author": null,
+          "description": "submitted by    /u/bitchyfuxkjngbltch34  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/nkxx62/_/",
+          "publishedOn": "2021-05-25T19:28:16.000Z",
+          "wordCount": 468,
+          "title": "/"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/nksduq/_/",
+          "author": null,
+          "description": "submitted by    /u/der_recke  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/nksduq/_/",
+          "publishedOn": "2021-05-25T15:26:40.000Z",
+          "wordCount": 556,
+          "title": "."
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/nkgseo/never_thought_about_it_that_way/",
+          "author": null,
+          "description": "submitted by    /u/R-KeIIy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/nkgseo/never_thought_about_it_that_way/",
+          "publishedOn": "2021-05-25T04:10:49.000Z",
+          "wordCount": 742,
+          "title": "never thought about it that way"
+        },
+        {
           "id": "https://www.reddit.com/r/redscarepod/comments/nk1mfa/damnit_felix/",
           "author": null,
           "description": "submitted by    /u/a_lostgay  \n [link]   [comments]",
@@ -371,6 +497,132 @@
       "feedUrl": "https://rsshub.app/github/trending/daily/haskell",
       "siteUrl": "https://github.com/trending/haskell?since=daily",
       "articles": [
+        {
+          "id": "https://github.com/nmattia/niv",
+          "author": "nmattia",
+          "description": "Easy dependency management for Nix projects\n    \nLanguage: Haskell\n                            \nStar: 719\n                            \nFork: 45",
+          "link": "https://github.com/nmattia/niv",
+          "publishedOn": "2021-05-26T01:09:06.806Z",
+          "wordCount": 2176,
+          "title": "nmattia /\n\n      niv"
+        },
+        {
+          "id": "https://github.com/input-output-hk/cardano-node",
+          "author": "input-output-hk",
+          "description": "The core component that is used to participate in a Cardano decentralised blockchain.\n    \nLanguage: Haskell\n                            \nStar: 1,487\n                            \nFork: 269",
+          "link": "https://github.com/input-output-hk/cardano-node",
+          "publishedOn": "2021-05-26T01:09:06.760Z",
+          "wordCount": 2835,
+          "title": "input-output-hk /\n\n      cardano-node"
+        },
+        {
+          "id": "https://github.com/hadolint/hadolint",
+          "author": "hadolint",
+          "description": "Dockerfile linter, validate inline bash, written in Haskell\n    \nLanguage: Haskell\n                            \nStar: 5,354\n                            \nFork: 231",
+          "link": "https://github.com/hadolint/hadolint",
+          "publishedOn": "2021-05-26T01:09:06.704Z",
+          "wordCount": 2775,
+          "title": "hadolint /\n\n      hadolint"
+        },
+        {
+          "id": "https://github.com/input-output-hk/cardano-ledger-specs",
+          "author": "input-output-hk",
+          "description": "A formal specification and executable model of the ledger rules introduced by the Shelley release\n    \nLanguage: Haskell\n                            \nStar: 94\n                            \nFork: 39",
+          "link": "https://github.com/input-output-hk/cardano-ledger-specs",
+          "publishedOn": "2021-05-26T01:09:06.643Z",
+          "wordCount": 2122,
+          "title": "input-output-hk /\n\n      cardano-ledger-specs"
+        },
+        {
+          "id": "https://github.com/PostgREST/postgrest",
+          "author": "PostgREST",
+          "description": "REST API for any Postgres database\n    \nLanguage: Haskell\n                            \nStar: 17,085\n                            \nFork: 787",
+          "link": "https://github.com/PostgREST/postgrest",
+          "publishedOn": "2021-05-26T01:09:06.594Z",
+          "wordCount": 1307,
+          "title": "PostgREST /\n\n      postgrest"
+        },
+        {
+          "id": "https://github.com/srid/neuron",
+          "author": "srid",
+          "description": "Future-proof note-taking and publishing based on Zettelkasten\n    \nLanguage: Haskell\n                            \nStar: 1,088\n                            \nFork: 136",
+          "link": "https://github.com/srid/neuron",
+          "publishedOn": "2021-05-26T01:09:06.549Z",
+          "wordCount": 800,
+          "title": "srid /\n\n      neuron"
+        },
+        {
+          "id": "https://github.com/Daniel-Diaz/HaTeX",
+          "author": "Daniel-Diaz",
+          "description": "The Haskell LaTeX library.\n    \nLanguage: Haskell\n                            \nStar: 173\n                            \nFork: 43",
+          "link": "https://github.com/Daniel-Diaz/HaTeX",
+          "publishedOn": "2021-05-26T01:09:06.504Z",
+          "wordCount": 853,
+          "title": "Daniel-Diaz /\n\n      HaTeX"
+        },
+        {
+          "id": "https://github.com/effectfully-ou/haskell-challenges",
+          "author": "effectfully-ou",
+          "description": "Code challenges to solve with Haskell\n    \nLanguage: Haskell\n                            \nStar: 51\n                            \nFork: 14",
+          "link": "https://github.com/effectfully-ou/haskell-challenges",
+          "publishedOn": "2021-05-26T01:09:06.463Z",
+          "wordCount": 898,
+          "title": "effectfully-ou /\n\n      haskell-challenges"
+        },
+        {
+          "id": "https://github.com/flipstone/redcard",
+          "author": "flipstone",
+          "description": "Yet another applicative validator for haskell\n    \nLanguage: Haskell\n                            \nStar: 5\n                            \nFork: 2",
+          "link": "https://github.com/flipstone/redcard",
+          "publishedOn": "2021-05-26T01:09:06.431Z",
+          "wordCount": 603,
+          "title": "flipstone /\n\n      redcard"
+        },
+        {
+          "id": "https://github.com/system-f/fp-course",
+          "author": "system-f",
+          "description": "Functional Programming Course\n    \nLanguage: Haskell\n                            \nStar: 3,631\n                            \nFork: 1,114",
+          "link": "https://github.com/system-f/fp-course",
+          "publishedOn": "2021-05-26T01:09:06.410Z",
+          "wordCount": 2774,
+          "title": "system-f /\n\n      fp-course"
+        },
+        {
+          "id": "https://github.com/input-output-hk/goblins",
+          "author": "input-output-hk",
+          "description": "Genetic Algorithm based randomized testing\n    \nLanguage: Haskell\n                            \nStar: 6\n                            \nFork: 1",
+          "link": "https://github.com/input-output-hk/goblins",
+          "publishedOn": "2021-05-26T01:09:06.363Z",
+          "wordCount": 511,
+          "title": "input-output-hk /\n\n      goblins"
+        },
+        {
+          "id": "https://github.com/input-output-hk/cardano-prelude",
+          "author": "input-output-hk",
+          "description": "A protolude-based custom prelude for the Cardano project\n    \nLanguage: Haskell\n                            \nStar: 10\n                            \nFork: 4",
+          "link": "https://github.com/input-output-hk/cardano-prelude",
+          "publishedOn": "2021-05-26T01:09:06.315Z",
+          "wordCount": 434,
+          "title": "input-output-hk /\n\n      cardano-prelude"
+        },
+        {
+          "id": "https://github.com/flipstone/orville",
+          "author": "flipstone",
+          "description": "Yet another ORM for haskell\n    \nLanguage: Haskell\n                            \nStar: 7\n                            \nFork: 9",
+          "link": "https://github.com/flipstone/orville",
+          "publishedOn": "2021-05-26T01:09:06.283Z",
+          "wordCount": 591,
+          "title": "flipstone /\n\n      orville"
+        },
+        {
+          "id": "https://github.com/xmonad/xmonad",
+          "author": "xmonad",
+          "description": "The core of xmonad, a small but functional ICCCM-compliant tiling window manager\n    \nLanguage: Haskell\n                            \nStar: 1,856\n                            \nFork: 209",
+          "link": "https://github.com/xmonad/xmonad",
+          "publishedOn": "2021-05-26T01:09:06.261Z",
+          "wordCount": 1149,
+          "title": "xmonad /\n\n      xmonad"
+        },
         {
           "id": "https://github.com/github/semantic",
           "author": "github",
@@ -603,6 +855,186 @@
       "feedUrl": "https://hnrss.org/frontpage",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=27284286",
+          "author": "danboarder",
+          "description": "Article URL: https://robotacademy.net.au/masterclass/introduction-to-robotics/?lesson=206\nComments URL: https://news.ycombinator.com/item?id=27284286\nPoints: 13\n# Comments: 0",
+          "link": "https://robotacademy.net.au/masterclass/introduction-to-robotics/?lesson=206",
+          "publishedOn": "2021-05-25T23:44:17.000Z",
+          "wordCount": null,
+          "title": "Introduction to Robotics"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27284224",
+          "author": "arkadiyt",
+          "description": "Article URL: https://therecord.media/thousands-of-chrome-extensions-are-tampering-with-security-headers/\nComments URL: https://news.ycombinator.com/item?id=27284224\nPoints: 19\n# Comments: 1",
+          "link": "https://therecord.media/thousands-of-chrome-extensions-are-tampering-with-security-headers/",
+          "publishedOn": "2021-05-25T23:38:28.000Z",
+          "wordCount": 828,
+          "title": "Thousands of Chrome extensions are tampering with security headers"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27283624",
+          "author": "pmoriarty",
+          "description": "Article URL: https://rarehistoricalphotos.com/vietnam-war-images-from-vietnamese-photographers/\nComments URL: https://news.ycombinator.com/item?id=27283624\nPoints: 182\n# Comments: 108",
+          "link": "https://rarehistoricalphotos.com/vietnam-war-images-from-vietnamese-photographers/",
+          "publishedOn": "2021-05-25T22:36:35.000Z",
+          "wordCount": 1524,
+          "title": "Rare Vietnam War images from the winning side, 1965-1975"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27282927",
+          "author": "hrl",
+          "description": "Article URL: https://theconversation.com/the-problem-with-reinforced-concrete-56078\nComments URL: https://news.ycombinator.com/item?id=27282927\nPoints: 121\n# Comments: 120",
+          "link": "https://theconversation.com/the-problem-with-reinforced-concrete-56078",
+          "publishedOn": "2021-05-25T21:29:15.000Z",
+          "wordCount": 1338,
+          "title": "The problem with reinforced concrete (2016)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27282842",
+          "author": "koch",
+          "description": "Article URL: https://cascade.page\nComments URL: https://news.ycombinator.com/item?id=27282842\nPoints: 55\n# Comments: 5",
+          "link": "https://cascade.page",
+          "publishedOn": "2021-05-25T21:21:14.000Z",
+          "wordCount": 5,
+          "title": "Show HN: Cascade Timeline Maker"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27281990",
+          "author": "notimetocry",
+          "description": "Article URL: https://twitter.com/TadeuszGiczan/status/1397200848145559552\nComments URL: https://news.ycombinator.com/item?id=27281990\nPoints: 645\n# Comments: 170",
+          "link": "https://twitter.com/TadeuszGiczan/status/1397200848145559552",
+          "publishedOn": "2021-05-25T20:14:04.000Z",
+          "wordCount": 196,
+          "title": "YouTube approves ad by Belarusian gov with journalist from hijackd Ryanair plane"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27280174",
+          "author": "leephillips",
+          "description": "Article URL: https://lwn.net/SubscriberLink/856819/c865652ad4dc06d0/\nComments URL: https://news.ycombinator.com/item?id=27280174\nPoints: 133\n# Comments: 79",
+          "link": "https://lwn.net/SubscriberLink/856819/c865652ad4dc06d0/",
+          "publishedOn": "2021-05-25T18:07:01.000Z",
+          "wordCount": 3343,
+          "title": "Julia 1.6 addresses latency issues"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27280096",
+          "author": "joeyespo",
+          "description": "Article URL: https://stripe.com/payments/payment-links\nComments URL: https://news.ycombinator.com/item?id=27280096\nPoints: 606\n# Comments: 223",
+          "link": "https://stripe.com/payments/payment-links",
+          "publishedOn": "2021-05-25T18:00:30.000Z",
+          "wordCount": 872,
+          "title": "Stripe Payment Links"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27279913",
+          "author": "perardi",
+          "description": "Article URL: https://writings.stephenwolfram.com/2021/05/how-inevitable-is-the-concept-of-numbers/\nComments URL: https://news.ycombinator.com/item?id=27279913\nPoints: 105\n# Comments: 112",
+          "link": "https://writings.stephenwolfram.com/2021/05/how-inevitable-is-the-concept-of-numbers/",
+          "publishedOn": "2021-05-25T17:46:08.000Z",
+          "wordCount": 7960,
+          "title": "How inevitable is the concept of numbers?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27279043",
+          "author": "kevinbowman",
+          "description": "Article URL: https://blog.adafruit.com/2021/05/17/siemens-acquires-supplyframe-hackaday-tindie-too/\nComments URL: https://news.ycombinator.com/item?id=27279043\nPoints: 211\n# Comments: 117",
+          "link": "https://blog.adafruit.com/2021/05/17/siemens-acquires-supplyframe-hackaday-tindie-too/",
+          "publishedOn": "2021-05-25T16:38:52.000Z",
+          "wordCount": 1104,
+          "title": "Siemens acquires Supplyframe, owners of Hackaday and Tindie"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27278540",
+          "author": "fqazi",
+          "description": "Article URL: https://security.googleblog.com/2021/05/introducing-half-double-new-hammering.html\nComments URL: https://news.ycombinator.com/item?id=27278540\nPoints: 139\n# Comments: 21",
+          "link": "https://security.googleblog.com/2021/05/introducing-half-double-new-hammering.html",
+          "publishedOn": "2021-05-25T16:02:06.000Z",
+          "wordCount": 862,
+          "title": "Half-Double: New hammering technique for DRAM Rowhammer bug"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27277819",
+          "author": "mschrage",
+          "description": "Article URL: https://fig.io?ref=hn\nComments URL: https://news.ycombinator.com/item?id=27277819\nPoints: 419\n# Comments: 310",
+          "link": "https://fig.io?ref=hn",
+          "publishedOn": "2021-05-25T15:09:02.000Z",
+          "wordCount": 541,
+          "title": "Launch HN: Fig (YC S20) – Autocomplete for the Terminal"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27277575",
+          "author": "xvilka",
+          "description": "Article URL: https://github.com/robert-strandh/Second-Climacs\nComments URL: https://news.ycombinator.com/item?id=27277575\nPoints: 103\n# Comments: 47",
+          "link": "https://github.com/robert-strandh/Second-Climacs",
+          "publishedOn": "2021-05-25T14:53:12.000Z",
+          "wordCount": 993,
+          "title": "Second Climacs – Emacs Implementation in Common Lisp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27277539",
+          "author": "lisper",
+          "description": "Article URL: https://www.npr.org/sections/therecord/2015/06/02/411473508/how-well-can-you-hear-audio-quality\nComments URL: https://news.ycombinator.com/item?id=27277539\nPoints: 51\n# Comments: 77",
+          "link": "https://www.npr.org/sections/therecord/2015/06/02/411473508/how-well-can-you-hear-audio-quality",
+          "publishedOn": "2021-05-25T14:50:23.000Z",
+          "wordCount": 482,
+          "title": "How Well Can You Hear Audio Quality? (2015)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27277329",
+          "author": "acdanger",
+          "description": "Article URL: https://www.europeanscientist.com/en/environment/biodiversity-decline-will-require-millions-of-years-to-recover/\nComments URL: https://news.ycombinator.com/item?id=27277329\nPoints: 258\n# Comments: 197",
+          "link": "https://www.europeanscientist.com/en/environment/biodiversity-decline-will-require-millions-of-years-to-recover/",
+          "publishedOn": "2021-05-25T14:35:51.000Z",
+          "wordCount": 1222,
+          "title": "Biodiversity decline will require millions of years to recover"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27277035",
+          "author": "benbreen",
+          "description": "Article URL: https://www.theguardian.com/books/2021/may/22/john-steinbecks-estate-urged-to-let-the-world-read-his-shunned-werewolf-novel\nComments URL: https://news.ycombinator.com/item?id=27277035\nPoints: 126\n# Comments: 151",
+          "link": "https://www.theguardian.com/books/2021/may/22/john-steinbecks-estate-urged-to-let-the-world-read-his-shunned-werewolf-novel",
+          "publishedOn": "2021-05-25T14:17:36.000Z",
+          "wordCount": 1131,
+          "title": "John Steinbeck’s estate urged to let the world read his shunned werewolf novel"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27276706",
+          "author": "avinassh",
+          "description": "Article URL: https://qntm.org/clean?tw=\nComments URL: https://news.ycombinator.com/item?id=27276706\nPoints: 543\n# Comments: 476",
+          "link": "https://qntm.org/clean?tw=",
+          "publishedOn": "2021-05-25T13:48:37.000Z",
+          "wordCount": 12535,
+          "title": "It's probably time to stop recommending Clean Code (2020)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27276671",
+          "author": "seik",
+          "description": "Article URL: https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510\nComments URL: https://news.ycombinator.com/item?id=27276671\nPoints: 223\n# Comments: 120",
+          "link": "https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510",
+          "publishedOn": "2021-05-25T13:45:36.000Z",
+          "wordCount": 2622,
+          "title": "Arm Announces New Mobile Armv9 CPU Microarchitectures"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27276481",
+          "author": "raldu",
+          "description": "Article URL: https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model\nComments URL: https://news.ycombinator.com/item?id=27276481\nPoints: 188\n# Comments: 112",
+          "link": "https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model",
+          "publishedOn": "2021-05-25T13:25:30.000Z",
+          "wordCount": 710,
+          "title": "The Economist's excess deaths model"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27276400",
+          "author": "timdaub",
+          "description": "Article URL: https://timdaub.github.io/2020/02/19/wasm-synth/\nComments URL: https://news.ycombinator.com/item?id=27276400\nPoints: 168\n# Comments: 48",
+          "link": "https://timdaub.github.io/2020/02/19/wasm-synth/",
+          "publishedOn": "2021-05-25T13:15:48.000Z",
+          "wordCount": 4168,
+          "title": "WASM SYNTH, or, how music taught me the beauty of math"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=27270928",
           "author": "dvt",

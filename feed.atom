@@ -2,10 +2,693 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://srid.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T00:57:05.085Z</updated>
+    <updated>2021-05-26T01:09:46.696Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://srid.github.io/feeds/index.html"/>
     <link rel="self" href="https://srid.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nmattia /
+
+      niv]]></title>
+        <id>https://github.com/nmattia/niv</id>
+        <link href="https://github.com/nmattia/niv"/>
+        <updated>2021-05-26T01:09:06.806Z</updated>
+        <summary type="html"><![CDATA[Easy dependency management for Nix projects
+    
+Language: Haskell
+                            
+Star: 719
+                            
+Fork: 45]]></summary>
+        <author>
+            <name>nmattia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      cardano-node]]></title>
+        <id>https://github.com/input-output-hk/cardano-node</id>
+        <link href="https://github.com/input-output-hk/cardano-node"/>
+        <updated>2021-05-26T01:09:06.760Z</updated>
+        <summary type="html"><![CDATA[The core component that is used to participate in a Cardano decentralised blockchain.
+    
+Language: Haskell
+                            
+Star: 1,487
+                            
+Fork: 269]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hadolint /
+
+      hadolint]]></title>
+        <id>https://github.com/hadolint/hadolint</id>
+        <link href="https://github.com/hadolint/hadolint"/>
+        <updated>2021-05-26T01:09:06.704Z</updated>
+        <summary type="html"><![CDATA[Dockerfile linter, validate inline bash, written in Haskell
+    
+Language: Haskell
+                            
+Star: 5,354
+                            
+Fork: 231]]></summary>
+        <author>
+            <name>hadolint</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      cardano-ledger-specs]]></title>
+        <id>https://github.com/input-output-hk/cardano-ledger-specs</id>
+        <link href="https://github.com/input-output-hk/cardano-ledger-specs"/>
+        <updated>2021-05-26T01:09:06.643Z</updated>
+        <summary type="html"><![CDATA[A formal specification and executable model of the ledger rules introduced by the Shelley release
+    
+Language: Haskell
+                            
+Star: 94
+                            
+Fork: 39]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgREST /
+
+      postgrest]]></title>
+        <id>https://github.com/PostgREST/postgrest</id>
+        <link href="https://github.com/PostgREST/postgrest"/>
+        <updated>2021-05-26T01:09:06.594Z</updated>
+        <summary type="html"><![CDATA[REST API for any Postgres database
+    
+Language: Haskell
+                            
+Star: 17,085
+                            
+Fork: 787]]></summary>
+        <author>
+            <name>PostgREST</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[srid /
+
+      neuron]]></title>
+        <id>https://github.com/srid/neuron</id>
+        <link href="https://github.com/srid/neuron"/>
+        <updated>2021-05-26T01:09:06.549Z</updated>
+        <summary type="html"><![CDATA[Future-proof note-taking and publishing based on Zettelkasten
+    
+Language: Haskell
+                            
+Star: 1,088
+                            
+Fork: 136]]></summary>
+        <author>
+            <name>srid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daniel-Diaz /
+
+      HaTeX]]></title>
+        <id>https://github.com/Daniel-Diaz/HaTeX</id>
+        <link href="https://github.com/Daniel-Diaz/HaTeX"/>
+        <updated>2021-05-26T01:09:06.504Z</updated>
+        <summary type="html"><![CDATA[The Haskell LaTeX library.
+    
+Language: Haskell
+                            
+Star: 173
+                            
+Fork: 43]]></summary>
+        <author>
+            <name>Daniel-Diaz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[effectfully-ou /
+
+      haskell-challenges]]></title>
+        <id>https://github.com/effectfully-ou/haskell-challenges</id>
+        <link href="https://github.com/effectfully-ou/haskell-challenges"/>
+        <updated>2021-05-26T01:09:06.463Z</updated>
+        <summary type="html"><![CDATA[Code challenges to solve with Haskell
+    
+Language: Haskell
+                            
+Star: 51
+                            
+Fork: 14]]></summary>
+        <author>
+            <name>effectfully-ou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[flipstone /
+
+      redcard]]></title>
+        <id>https://github.com/flipstone/redcard</id>
+        <link href="https://github.com/flipstone/redcard"/>
+        <updated>2021-05-26T01:09:06.431Z</updated>
+        <summary type="html"><![CDATA[Yet another applicative validator for haskell
+    
+Language: Haskell
+                            
+Star: 5
+                            
+Fork: 2]]></summary>
+        <author>
+            <name>flipstone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[system-f /
+
+      fp-course]]></title>
+        <id>https://github.com/system-f/fp-course</id>
+        <link href="https://github.com/system-f/fp-course"/>
+        <updated>2021-05-26T01:09:06.410Z</updated>
+        <summary type="html"><![CDATA[Functional Programming Course
+    
+Language: Haskell
+                            
+Star: 3,631
+                            
+Fork: 1,114]]></summary>
+        <author>
+            <name>system-f</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      goblins]]></title>
+        <id>https://github.com/input-output-hk/goblins</id>
+        <link href="https://github.com/input-output-hk/goblins"/>
+        <updated>2021-05-26T01:09:06.363Z</updated>
+        <summary type="html"><![CDATA[Genetic Algorithm based randomized testing
+    
+Language: Haskell
+                            
+Star: 6
+                            
+Fork: 1]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      cardano-prelude]]></title>
+        <id>https://github.com/input-output-hk/cardano-prelude</id>
+        <link href="https://github.com/input-output-hk/cardano-prelude"/>
+        <updated>2021-05-26T01:09:06.315Z</updated>
+        <summary type="html"><![CDATA[A protolude-based custom prelude for the Cardano project
+    
+Language: Haskell
+                            
+Star: 10
+                            
+Fork: 4]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[flipstone /
+
+      orville]]></title>
+        <id>https://github.com/flipstone/orville</id>
+        <link href="https://github.com/flipstone/orville"/>
+        <updated>2021-05-26T01:09:06.283Z</updated>
+        <summary type="html"><![CDATA[Yet another ORM for haskell
+    
+Language: Haskell
+                            
+Star: 7
+                            
+Fork: 9]]></summary>
+        <author>
+            <name>flipstone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xmonad /
+
+      xmonad]]></title>
+        <id>https://github.com/xmonad/xmonad</id>
+        <link href="https://github.com/xmonad/xmonad"/>
+        <updated>2021-05-26T01:09:06.261Z</updated>
+        <summary type="html"><![CDATA[The core of xmonad, a small but functional ICCCM-compliant tiling window manager
+    
+Language: Haskell
+                            
+Star: 1,856
+                            
+Fork: 209]]></summary>
+        <author>
+            <name>xmonad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Robotics]]></title>
+        <id>https://news.ycombinator.com/item?id=27284286</id>
+        <link href="https://robotacademy.net.au/masterclass/introduction-to-robotics/?lesson=206"/>
+        <updated>2021-05-25T23:44:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://robotacademy.net.au/masterclass/introduction-to-robotics/?lesson=206
+Comments URL: https://news.ycombinator.com/item?id=27284286
+Points: 13
+# Comments: 0]]></summary>
+        <author>
+            <name>danboarder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing split in Haskell]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nl369f/implementing_split_in_haskell/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nl369f/implementing_split_in_haskell/"/>
+        <updated>2021-05-25T23:40:03.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ThiYount  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thousands of Chrome extensions are tampering with security headers]]></title>
+        <id>https://news.ycombinator.com/item?id=27284224</id>
+        <link href="https://therecord.media/thousands-of-chrome-extensions-are-tampering-with-security-headers/"/>
+        <updated>2021-05-25T23:38:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://therecord.media/thousands-of-chrome-extensions-are-tampering-with-security-headers/
+Comments URL: https://news.ycombinator.com/item?id=27284224
+Points: 19
+# Comments: 1]]></summary>
+        <author>
+            <name>arkadiyt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is there a rationale for cheating?]]></title>
+        <id>https://www.reddit.com/r/TheMotte/comments/nl2t32/is_there_a_rationale_for_cheating/</id>
+        <link href="https://www.reddit.com/r/TheMotte/comments/nl2t32/is_there_a_rationale_for_cheating/"/>
+        <updated>2021-05-25T23:20:03.000Z</updated>
+        <summary type="html"><![CDATA[I'm working my way through the selfish gene, and realize that there's a foundation for social cheaters that's based on the mathematics of game theory, which suggests that rational actors will be self interested, and therefore you can expect that repeated situations will resolve neatly to what can be described as rational self-interest. 
+ However, it does not seem to be the case that people are actually rational actors - in fact, they're mostly intuitional actors, who will follow their gut feeling even in the face of a life and death decision. It's hard to imagine someone actually being able to be rational when in a full on fight or flight reaction. 
+ So then game theory doesn't actually work to describe most circumstances. Even John Nash himself walked back on it, suggesting that it doesn't actually work to describe society (citation: interview with Adam Curtis in The Trap). The dominance of a corporation that is degrading the environment doesn't seem to be described by game theory, since the rationally self-interested actor wouldn't destroy the environment. 
+ Makes me think of what John Coase called "blackboard economics," where rather than studying what happens in the real world, highly artificial, controlled environments are used to create models. 
+ What's an alternative to game theory? Is there one? Can we imagine one, if there isn't?
+    submitted by    /u/qqqqquinnnnn  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : TheMotte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rare Vietnam War images from the winning side, 1965-1975]]></title>
+        <id>https://news.ycombinator.com/item?id=27283624</id>
+        <link href="https://rarehistoricalphotos.com/vietnam-war-images-from-vietnamese-photographers/"/>
+        <updated>2021-05-25T22:36:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rarehistoricalphotos.com/vietnam-war-images-from-vietnamese-photographers/
+Comments URL: https://news.ycombinator.com/item?id=27283624
+Points: 182
+# Comments: 108]]></summary>
+        <author>
+            <name>pmoriarty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for good rules of thumbs on what Haskell patterns to avoid for better performance]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nl0rkl/looking_for_good_rules_of_thumbs_on_what_haskell/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nl0rkl/looking_for_good_rules_of_thumbs_on_what_haskell/"/>
+        <updated>2021-05-25T21:40:15.000Z</updated>
+        <summary type="html"><![CDATA[I am mid/advanced Haskell user, with some experience on the appplication side and I'd be interested to get into library development, but I confess I haven't ventured into Core yet. This is why I'd be curious to know if there are purely language related patterns which, on the current or foreseeable future versions of the GHC, should be avoided if possible for their high burden on performance. 
+ In other words, I'd be interested in a list of, say, the top 3-5 patterns which, when frequently used in a program's source code, are the most likely to incur a performance drop that cannot be traced to anything else than their Core implementation. (Thus I am not really interested in performance costs caused by "choosing the wrong data structure".)
+ Of course there's the suspicion that these "likely performance-killers when used frequently" will be symptoms of bad design decisions from the application author:
+  
+evaluating too often (i.e. excessive case pattern matching, incurring unnecessary computations)
+ evaluating too rarely (i.e. excessive lazyness, incurring unnecessary garbage collection)
+  
+I am also interested in real life examples involving these, but perhaps a bit more in patterns that are likely to jam GHC optimization capabilities.
+    submitted by    /u/FreeVariable  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The problem with reinforced concrete (2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=27282927</id>
+        <link href="https://theconversation.com/the-problem-with-reinforced-concrete-56078"/>
+        <updated>2021-05-25T21:29:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://theconversation.com/the-problem-with-reinforced-concrete-56078
+Comments URL: https://news.ycombinator.com/item?id=27282927
+Points: 121
+# Comments: 120]]></summary>
+        <author>
+            <name>hrl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Cascade Timeline Maker]]></title>
+        <id>https://news.ycombinator.com/item?id=27282842</id>
+        <link href="https://cascade.page"/>
+        <updated>2021-05-25T21:21:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cascade.page
+Comments URL: https://news.ycombinator.com/item?id=27282842
+Points: 55
+# Comments: 5]]></summary>
+        <author>
+            <name>koch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haskell Team openings at Awake]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nkzcb6/haskell_team_openings_at_awake/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nkzcb6/haskell_team_openings_at_awake/"/>
+        <updated>2021-05-25T20:32:21.000Z</updated>
+        <summary type="html"><![CDATA[We have two openings for work with Haskell at Awake (now part of Arista) -- one more junior, one more senior. Both are remote-friendly (and the entire team is widely geographically distributed). Due to where Arista has offices, and related paperwork constraints, applicants in US/Canada/Ireland/India are strongly preferred.
+ While we initially have a fairly tight notion of what the work we're hiring into is going to be, over time both positions have plenty of room to grow and take on other projects (also in Haskell) throughout our codebase, or even greenfield new stuff. Both also offer the opportunity to work with a really great team of seasoned Haskell devs, as well as nix contributors, etc.
+ The more junior opening is partly making use of the in-house Haskell-like language we've built, an…]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube approves ad by Belarusian gov with journalist from hijackd Ryanair plane]]></title>
+        <id>https://news.ycombinator.com/item?id=27281990</id>
+        <link href="https://twitter.com/TadeuszGiczan/status/1397200848145559552"/>
+        <updated>2021-05-25T20:14:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/TadeuszGiczan/status/1397200848145559552
+Comments URL: https://news.ycombinator.com/item?id=27281990
+Points: 645
+# Comments: 170]]></summary>
+        <author>
+            <name>notimetocry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Functors and Monads For People Who Have Read Too Many "Tutorials"]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nkydrh/functors_and_monads_for_people_who_have_read_too/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nkydrh/functors_and_monads_for_people_who_have_read_too/"/>
+        <updated>2021-05-25T19:48:56.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/earthboundkid  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[/]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/nkxx62/_/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/nkxx62/_/"/>
+        <updated>2021-05-25T19:28:16.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/bitchyfuxkjngbltch34  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Julia 1.6 addresses latency issues]]></title>
+        <id>https://news.ycombinator.com/item?id=27280174</id>
+        <link href="https://lwn.net/SubscriberLink/856819/c865652ad4dc06d0/"/>
+        <updated>2021-05-25T18:07:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lwn.net/SubscriberLink/856819/c865652ad4dc06d0/
+Comments URL: https://news.ycombinator.com/item?id=27280174
+Points: 133
+# Comments: 79]]></summary>
+        <author>
+            <name>leephillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stripe Payment Links]]></title>
+        <id>https://news.ycombinator.com/item?id=27280096</id>
+        <link href="https://stripe.com/payments/payment-links"/>
+        <updated>2021-05-25T18:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://stripe.com/payments/payment-links
+Comments URL: https://news.ycombinator.com/item?id=27280096
+Points: 606
+# Comments: 223]]></summary>
+        <author>
+            <name>joeyespo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How inevitable is the concept of numbers?]]></title>
+        <id>https://news.ycombinator.com/item?id=27279913</id>
+        <link href="https://writings.stephenwolfram.com/2021/05/how-inevitable-is-the-concept-of-numbers/"/>
+        <updated>2021-05-25T17:46:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://writings.stephenwolfram.com/2021/05/how-inevitable-is-the-concept-of-numbers/
+Comments URL: https://news.ycombinator.com/item?id=27279913
+Points: 105
+# Comments: 112]]></summary>
+        <author>
+            <name>perardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ergonomic issues with using backpack.]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nkvdwp/ergonomic_issues_with_using_backpack/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nkvdwp/ergonomic_issues_with_using_backpack/"/>
+        <updated>2021-05-25T17:36:20.000Z</updated>
+        <summary type="html"><![CDATA[Now that I have used backpack in raaz which has internally simplified the package quite a bit. However there are some ergonomic issues in their use at-least in raaz.
+  
+Firstly, I am not sure why backpack performs the mixing and matching in the .cabal file. I feel it makes the .cabal file rather large and unwieldy. The raaz.cabal is close to 900 lines of code with no real way to split it up. It is probably one of the biggest file in the repository
+ 
+The documentation story is not very nice. Say Module A which depends on Signature Sig in an internal module. Now suppose the top library wants expose a version of A with some module mixed in for Sig, all the documentation of the functions defined are lost. One can solve this as this can be seen here. https://github.com/raaz-crypto/raaz/blob/master/raaz/Raaz/Digest.hs Documenting the functions in the source module (A in this case) is not useful because it is not visible one has to repeat this again in the outside exposed module. Whereas writing the documentation close to the function definition (in module A) make more sense.
+ 
+Mismatch between documentation for hackage vs created by cabal haddock.
+ 
+ I think 2,3 are probably bugs, or there is a way to handle it that I do not know about, but 1 is a design choice. It is curious because ghc supports .bkp files which is not recommended though. Currently .bkp files are only used to include test cases in ghc the compiler or to demonstrate backpack.
+    submitted by    /u/piyushkurur  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Siemens acquires Supplyframe, owners of Hackaday and Tindie]]></title>
+        <id>https://news.ycombinator.com/item?id=27279043</id>
+        <link href="https://blog.adafruit.com/2021/05/17/siemens-acquires-supplyframe-hackaday-tindie-too/"/>
+        <updated>2021-05-25T16:38:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.adafruit.com/2021/05/17/siemens-acquires-supplyframe-hackaday-tindie-too/
+Comments URL: https://news.ycombinator.com/item?id=27279043
+Points: 211
+# Comments: 117]]></summary>
+        <author>
+            <name>kevinbowman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Half-Double: New hammering technique for DRAM Rowhammer bug]]></title>
+        <id>https://news.ycombinator.com/item?id=27278540</id>
+        <link href="https://security.googleblog.com/2021/05/introducing-half-double-new-hammering.html"/>
+        <updated>2021-05-25T16:02:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://security.googleblog.com/2021/05/introducing-half-double-new-hammering.html
+Comments URL: https://news.ycombinator.com/item?id=27278540
+Points: 139
+# Comments: 21]]></summary>
+        <author>
+            <name>fqazi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/nksduq/_/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/nksduq/_/"/>
+        <updated>2021-05-25T15:26:40.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/der_recke  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Fig (YC S20) – Autocomplete for the Terminal]]></title>
+        <id>https://news.ycombinator.com/item?id=27277819</id>
+        <link href="https://fig.io?ref=hn"/>
+        <updated>2021-05-25T15:09:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fig.io?ref=hn
+Comments URL: https://news.ycombinator.com/item?id=27277819
+Points: 419
+# Comments: 310]]></summary>
+        <author>
+            <name>mschrage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Second Climacs – Emacs Implementation in Common Lisp]]></title>
+        <id>https://news.ycombinator.com/item?id=27277575</id>
+        <link href="https://github.com/robert-strandh/Second-Climacs"/>
+        <updated>2021-05-25T14:53:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/robert-strandh/Second-Climacs
+Comments URL: https://news.ycombinator.com/item?id=27277575
+Points: 103
+# Comments: 47]]></summary>
+        <author>
+            <name>xvilka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Well Can You Hear Audio Quality? (2015)]]></title>
+        <id>https://news.ycombinator.com/item?id=27277539</id>
+        <link href="https://www.npr.org/sections/therecord/2015/06/02/411473508/how-well-can-you-hear-audio-quality"/>
+        <updated>2021-05-25T14:50:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/sections/therecord/2015/06/02/411473508/how-well-can-you-hear-audio-quality
+Comments URL: https://news.ycombinator.com/item?id=27277539
+Points: 51
+# Comments: 77]]></summary>
+        <author>
+            <name>lisper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biodiversity decline will require millions of years to recover]]></title>
+        <id>https://news.ycombinator.com/item?id=27277329</id>
+        <link href="https://www.europeanscientist.com/en/environment/biodiversity-decline-will-require-millions-of-years-to-recover/"/>
+        <updated>2021-05-25T14:35:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.europeanscientist.com/en/environment/biodiversity-decline-will-require-millions-of-years-to-recover/
+Comments URL: https://news.ycombinator.com/item?id=27277329
+Points: 258
+# Comments: 197]]></summary>
+        <author>
+            <name>acdanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I Learned Building a Word Game App With Nuxt on Google Play]]></title>
+        <id>https://css-tricks.com/?p=340759</id>
+        <link href="https://css-tricks.com/what-i-learned-building-a-word-game-app-with-nuxt-on-google-play/"/>
+        <updated>2021-05-25T14:25:06.000Z</updated>
+        <summary type="html"><![CDATA[I fell in love with coding the moment I created my first CSS :hover effect. Years later, that initial bite into interactivity on the web led me to a new goal: making a game.
+Table of contents
+What’s the game 
+…
+The post What I Learned Building a Word Game App With Nuxt on Google Play appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Josh Collinsworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Steinbeck’s estate urged to let the world read his shunned werewolf novel]]></title>
+        <id>https://news.ycombinator.com/item?id=27277035</id>
+        <link href="https://www.theguardian.com/books/2021/may/22/john-steinbecks-estate-urged-to-let-the-world-read-his-shunned-werewolf-novel"/>
+        <updated>2021-05-25T14:17:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/books/2021/may/22/john-steinbecks-estate-urged-to-let-the-world-read-his-shunned-werewolf-novel
+Comments URL: https://news.ycombinator.com/item?id=27277035
+Points: 126
+# Comments: 151]]></summary>
+        <author>
+            <name>benbreen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's probably time to stop recommending Clean Code (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27276706</id>
+        <link href="https://qntm.org/clean?tw="/>
+        <updated>2021-05-25T13:48:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://qntm.org/clean?tw=
+Comments URL: https://news.ycombinator.com/item?id=27276706
+Points: 543
+# Comments: 476]]></summary>
+        <author>
+            <name>avinassh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arm Announces New Mobile Armv9 CPU Microarchitectures]]></title>
+        <id>https://news.ycombinator.com/item?id=27276671</id>
+        <link href="https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510"/>
+        <updated>2021-05-25T13:45:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510
+Comments URL: https://news.ycombinator.com/item?id=27276671
+Points: 223
+# Comments: 120]]></summary>
+        <author>
+            <name>seik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Economist's excess deaths model]]></title>
+        <id>https://news.ycombinator.com/item?id=27276481</id>
+        <link href="https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model"/>
+        <updated>2021-05-25T13:25:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model
+Comments URL: https://news.ycombinator.com/item?id=27276481
+Points: 188
+# Comments: 112]]></summary>
+        <author>
+            <name>raldu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WASM SYNTH, or, how music taught me the beauty of math]]></title>
+        <id>https://news.ycombinator.com/item?id=27276400</id>
+        <link href="https://timdaub.github.io/2020/02/19/wasm-synth/"/>
+        <updated>2021-05-25T13:15:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://timdaub.github.io/2020/02/19/wasm-synth/
+Comments URL: https://news.ycombinator.com/item?id=27276400
+Points: 168
+# Comments: 48]]></summary>
+        <author>
+            <name>timdaub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Module Organization Guidelines :: Haskell Weekly podcast]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nkoyjp/module_organization_guidelines_haskell_weekly/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nkoyjp/module_organization_guidelines_haskell_weekly/"/>
+        <updated>2021-05-25T12:49:12.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/haskellweekly  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Powerful Websites with Serverless-Driven CMS Development]]></title>
+        <id>https://css-tricks.com/?p=341383</id>
+        <link href="https://css-tricks.com/creating-powerful-websites-with-serverless-driven-cms-development/"/>
+        <updated>2021-05-25T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Choosing the right tools to build a website for your organization is essential, but it can be tough to find the right fit. Simple site builders like Wix and Squarespace are easy for marketers to use, but severely limit developers …
+The post Creating Powerful Websites with Serverless-Driven CMS Development appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ahmed Bouchefra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fix(ity) me]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nkjokw/fixity_me/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nkjokw/fixity_me/"/>
+        <updated>2021-05-25T07:14:59.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/kowainik  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[never thought about it that way]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/nkgseo/never_thought_about_it_that_way/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/nkgseo/never_thought_about_it_that_way/"/>
+        <updated>2021-05-25T04:10:49.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/R-KeIIy  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[github /
 
@@ -452,6 +1135,16 @@ Star:
 Fork:]]></summary>
         <author>
             <name>elm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of Detecting Genetic Disorders]]></title>
+        <id>https://serokell.io/blog/detecting-genetic-disorders</id>
+        <link href="https://serokell.io/blog/detecting-genetic-disorders"/>
+        <updated>2021-05-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how ML can be applied to genomic data to detect diseases like cancer and Alzheimer's disease.]]></summary>
+        <author>
+            <name>hi@serokell.io (Serokell staff)</name>
         </author>
     </entry>
     <entry>
