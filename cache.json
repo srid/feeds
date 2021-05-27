@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=339759",
+          "author": "Chris Coyier",
+          "description": "In his last An Event Apart talk, Dave made a point that it’s really only just about right now that Web Components are becoming a practical choice for production web development. For example, it has only been about a year …\nThe post Awesome Standalone (Web Components) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/awesome-standalone-web-components/",
+          "publishedOn": "2021-05-26T17:56:34.000Z",
+          "wordCount": 952,
+          "title": "Awesome Standalone (Web Components)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340901",
+          "author": "Chris Coyier",
+          "description": "How we use Web Components at GitHub — Kristján Oddsson talks about how GitHub is using web components. I remember they were very early adopters, and it says here they released a <relative-time> component in 2014! Now they’ve got a \n…\nThe post Links on Web Components appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/links-on-web-components/",
+          "publishedOn": "2021-05-26T17:56:12.000Z",
+          "wordCount": 712,
+          "title": "Links on Web Components"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340705",
+          "author": "Andrei Pfeiffer",
+          "description": "Wondering what’s even more challenging than choosing a JavaScript framework? You guessed it: choosing a CSS-in-JS solution. Why? Because there are more than 50 libraries out there, each of them offering a unique set of features.\nWe tested 10 different …\nThe post A Thorough Analysis of CSS-in-JS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-thorough-analysis-of-css-in-js/",
+          "publishedOn": "2021-05-26T14:08:49.000Z",
+          "wordCount": 3416,
+          "title": "A Thorough Analysis of CSS-in-JS"
+        },
+        {
           "id": "https://css-tricks.com/?p=340759",
           "author": "Josh Collinsworth",
           "description": "I fell in love with coding the moment I created my first CSS :hover effect. Years later, that initial bite into interactivity on the web led me to a new goal: making a game.\nTable of contents\nWhat’s the game \n…\nThe post What I Learned Building a Word Game App With Nuxt on Google Play appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -200,15 +227,6 @@
           "publishedOn": "2021-05-04T00:00:00.000Z",
           "wordCount": 3950,
           "title": "Practical Nix Flakes"
-        },
-        {
-          "id": "https://serokell.io/blog/lorentz-upgradeable-storage",
-          "author": "hi+kostyaivanov@serokell.io (Kostya Ivanov)",
-          "description": "Once deployed, large-scale smart contracts can sometimes become outdated and require upgrades. In this part of our Lorentz series, we show how to make a smart contract with upgradeable storage in Lorentz.",
-          "link": "https://serokell.io/blog/lorentz-upgradeable-storage",
-          "publishedOn": "2021-04-27T00:00:00.000Z",
-          "wordCount": 2899,
-          "title": "Lorentz: Type-Safe Upgradeable Storage"
         }
       ]
     },
@@ -217,6 +235,60 @@
       "feedUrl": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
       "siteUrl": "https://www.reddit.com/r/haskell/top/?sort=top&t=day",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nlth2a/state_of_the_cabal_q1q22021/",
+          "author": null,
+          "description": "submitted by    /u/emilypii  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nlth2a/state_of_the_cabal_q1q22021/",
+          "publishedOn": "2021-05-26T22:41:01.000Z",
+          "wordCount": 168,
+          "title": "State of the Cabal - Q1+Q2/2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nlse87/first_public_haskell_project_share_lamport/",
+          "author": null,
+          "description": "Hi All\n Long time lurker and first-time (I think?) poster. Anyways, I implemented the Lamport one-time signature scheme a while back in Haskell and wanted to share.\n https://github.com/difelicemichael/lamport-haskell\n It also includes a module solely for the purposes of illustrating the dangers of key-reuse in this signature scheme.\n ​\n As with anything cryptography related, it's always best not to reinvent the wheel, so it goes without saying that the module is not production-ready / suitable. Still though, couldn't resist the urge to share, comments / criticisms are welcome (and encouraged!).\n    submitted by    /u/difelicemichael  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nlse87/first_public_haskell_project_share_lamport/",
+          "publishedOn": "2021-05-26T21:49:30.000Z",
+          "wordCount": 220,
+          "title": "First public Haskell project share - Lamport one-time signature scheme"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nlpxjw/anyone_read_the_simple_haskell_handbook_and_can/",
+          "author": null,
+          "description": "The idea of a book that goes from zero to a working product is very intriguing to me. Building a CI also seems like a domain where I wouldn't mind a bit more insight.\n I will almost definitely read it, unless someone says it is filled with bad practice and bad advice.\n    submitted by    /u/ChrisWohlert  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nlpxjw/anyone_read_the_simple_haskell_handbook_and_can/",
+          "publishedOn": "2021-05-26T19:55:41.000Z",
+          "wordCount": 399,
+          "title": "Anyone read \"The Simple Haskell Handbook\" and can review?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nlfgzk/support_the_design_for_dependent_types_proposal/",
+          "author": null,
+          "description": "submitted by    /u/quakquakquak  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nlfgzk/support_the_design_for_dependent_types_proposal/",
+          "publishedOn": "2021-05-26T12:11:41.000Z",
+          "wordCount": 784,
+          "title": "Support the design for dependent types proposal accepted"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nl7cys/what_exactly_is_the_type_issue_in_this_example_as/",
+          "author": null,
+          "description": "submitted by    /u/CaptchasSuckAss  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nl7cys/what_exactly_is_the_type_issue_in_this_example_as/",
+          "publishedOn": "2021-05-26T03:32:01.000Z",
+          "wordCount": 256,
+          "title": "What exactly is the type issue in this example? As far as I understand the issue is that Fractional is a subtype of Num. But I feel like I am missing something important and fundamental. Why would recursive backtracking be necessary to support such classes?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nl74hc/freenode_has_unilaterally_taken_over_haskell/",
+          "author": null,
+          "description": "irc.freenode.net just unilaterally took over #haskell.\n <•freenodecom> This channel has been reopened with respect to the communities and new users. The topic is in violation of freenode policy: https://freenode.net/policies 8:02:53 PM •freenodecom was opped (+o) by OperServ 8:02:53 PM ChanServ un-banned *!*@141.98.255.* (-b) 8:02:53 PM ChanServ un-banned *!467ca176@gateway/web/cgi-irc/kiwiirc.com/ip.70.124.161.118 (-b) 8:02:53 PM ChanServ un-banned Monica*!*@* (-b) 8:02:53 PM ChanServ un-banned glgirl2!*@* (-b) 8:02:53 PM Channel mode set to +c by ChanServ 8:02:53 PM ChanServ un-banned *!*@*/web/cgi-irc/kiwiirc.com/ip.51.158.166.131 (-b) 8:02:53 PM ChanServ un-banned $a:solvr (-b) 8:02:53 PM ChanServ un-banned $a:perdent (-b) 8:02:53 PM ChanServ un-banned *!*@gateway/web/cgi-irc/kiwiirc.c…",
+          "link": "https://www.reddit.com/r/haskell/comments/nl74hc/freenode_has_unilaterally_taken_over_haskell/",
+          "publishedOn": "2021-05-26T03:18:13.000Z",
+          "wordCount": 1511,
+          "title": "Freenode has unilaterally taken over #haskell along with many other community channels"
+        },
         {
           "id": "https://www.reddit.com/r/haskell/comments/nl369f/implementing_split_in_haskell/",
           "author": null,
@@ -378,6 +450,24 @@
       "siteUrl": "https://www.reddit.com/r/TheMotte/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/TheMotte/comments/nljqir/free_urbit_town_hall_conference_tomorrow/",
+          "author": null,
+          "description": "submitted by    /u/Urbinaut  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/TheMotte/comments/nljqir/free_urbit_town_hall_conference_tomorrow/",
+          "publishedOn": "2021-05-26T15:28:26.000Z",
+          "wordCount": 178,
+          "title": "Free Urbit \"Town Hall\" Conference tomorrow, featuring a talk from Justin Murphy"
+        },
+        {
+          "id": "https://www.reddit.com/r/TheMotte/comments/nl9y7a/wellness_wednesday_for_may_26_2021/",
+          "author": null,
+          "description": "The Wednesday Wellness threads are meant to encourage users to ask for and provide advice and motivation to improve their lives. It isn't intended as a 'containment thread' and if you should feel free to post content which could go here in it's own thread. You could post:\n  \nRequests for advice and / or encouragement. On basically any topic and for any scale of problem.\n \nUpdates to let us know how you are doing. This provides valuable feedback on past advice / encouragement and will hopefully make people feel a little more motivated to follow through. If you want to be reminded to post your update, see the post titled 'update reminders', below.\n \nAdvice. This can be in response to a request for advice or just something that you think could be generally useful for many people here.\n \nEncouragement. Probably best directed at specific users, but if you feel like just encouraging people in general I don't think anyone is going to object. I don't think I really need to say this, but just to be clear; encouragement should have a generally positive tone and not shame people (if people feel that shame might be an effective tool for motivating people, please discuss this so we can form a group consensus on how to use it rather than just trying it).\n \n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/TheMotte/comments/nl9y7a/wellness_wednesday_for_may_26_2021/",
+          "publishedOn": "2021-05-26T06:15:15.000Z",
+          "wordCount": 2699,
+          "title": "Wellness Wednesday for May 26, 2021"
+        },
+        {
           "id": "https://www.reddit.com/r/TheMotte/comments/nl2t32/is_there_a_rationale_for_cheating/",
           "author": null,
           "description": "I'm working my way through the selfish gene, and realize that there's a foundation for social cheaters that's based on the mathematics of game theory, which suggests that rational actors will be self interested, and therefore you can expect that repeated situations will resolve neatly to what can be described as rational self-interest. \n However, it does not seem to be the case that people are actually rational actors - in fact, they're mostly intuitional actors, who will follow their gut feeling even in the face of a life and death decision. It's hard to imagine someone actually being able to be rational when in a full on fight or flight reaction. \n So then game theory doesn't actually work to describe most circumstances. Even John Nash himself walked back on it, suggesting that it doesn't actually work to describe society (citation: interview with Adam Curtis in The Trap). The dominance of a corporation that is degrading the environment doesn't seem to be described by game theory, since the rationally self-interested actor wouldn't destroy the environment. \n Makes me think of what John Coase called \"blackboard economics,\" where rather than studying what happens in the real world, highly artificial, controlled environments are used to create models. \n What's an alternative to game theory? Is there one? Can we imagine one, if there isn't?\n    submitted by    /u/qqqqquinnnnn  \n [link]   [comments]",
@@ -412,6 +502,51 @@
       "siteUrl": "https://www.reddit.com/r/ScientificNutrition/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/nlep1b/effects_of_very_lowcarbohydrate_vs/",
+          "author": null,
+          "description": "submitted by    /u/Hjdte9yd7t  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/nlep1b/effects_of_very_lowcarbohydrate_vs/",
+          "publishedOn": "2021-05-26T11:29:31.000Z",
+          "wordCount": 710,
+          "title": "Effects of very low-carbohydrate vs. high-carbohydrate weight loss diets on psychological health in adults with obesity and type 2 diabetes: a 2-year randomized controlled trial"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/nlegq1/is_protein_the_forgotten_ingredient_effects_of/",
+          "author": null,
+          "description": "submitted by    /u/Hjdte9yd7t  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/nlegq1/is_protein_the_forgotten_ingredient_effects_of/",
+          "publishedOn": "2021-05-26T11:16:32.000Z",
+          "wordCount": 701,
+          "title": "Is protein the forgotten ingredient: Effects of higher compared to lower protein diets on cardiometabolic risk factors: a systematic review and meta-analysis of randomised controlled trials"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/nldz02/nutrient_intake_and_status_of_german_children_and/",
+          "author": null,
+          "description": "submitted by    /u/nooobiiiiiiiiiii  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/nldz02/nutrient_intake_and_status_of_german_children_and/",
+          "publishedOn": "2021-05-26T10:47:34.000Z",
+          "wordCount": 794,
+          "title": "Nutrient Intake and Status of German Children and Adolescents Consuming Vegetarian, Vegan or Omnivore Diets: Results of the VeChi Youth Study (2021)"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/nlbndl/increased_blood_alphacarotene/",
+          "author": null,
+          "description": "submitted by    /u/H_Elizabeth111  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/nlbndl/increased_blood_alphacarotene/",
+          "publishedOn": "2021-05-26T08:11:58.000Z",
+          "wordCount": 552,
+          "title": "Increased blood alpha-carotene, all-trans-Beta-carotene and lycopene levels are associated with beneficial changes in heart rate variability: a CVD-stratified analysis in an adult population-based study"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/nl9tme/covid19_and_misinformation_how_an_infodemic/",
+          "author": null,
+          "description": "“ We read with great interest of a preprint paper(1) allegedly written by an Indonesian author entitled ‘Patterns of COVID-19 Mortality and Vitamin D: An Indonesian Study’, which has taken the Internet by storm. According to the PlumX Metrics(2), this article has been used more than 100 000 times, downloaded more than 17 000 times and mentioned in social media over 8000 times. Through Google Scholar(3), we found that this article has been cited nine times, six of which are indexed in PubMed. We also found an article in the British Medical Journal (BMJ)(4) that cited this article, which was not detected by Google Scholar, through a conventional Google search. The manuscript has been cited in COVID-19 rapid evidence summary: vitamin D for COVID-19, an evidence review by National Institute of…",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/nl9tme/covid19_and_misinformation_how_an_infodemic/",
+          "publishedOn": "2021-05-26T06:06:45.000Z",
+          "wordCount": 1182,
+          "title": "COVID-19 and misinformation: how an infodemic fuelled the prominence of vitamin D"
+        },
+        {
           "id": "https://www.reddit.com/r/ScientificNutrition/comments/nkbpnn/the_most_effective_ways_of_getting_large_doses_of/",
           "author": null,
           "description": "Broccoli contains both sulforaphane (SF) and glucoraphanin (GLU), which, in the presence of myrosinase, can hydrolyze to sulforaphane. So, to get the most SF you need to optimize SF content AND add some myrosinase to convert GLU to SF. \n But here is the dirty little secret, nearly all of the GLU to SF conversion happens in the mouth during the chewing process, not in the stomach, as you can see here \n https://www.sciencedirect.com/science/article/abs/pii/S1756464618301737\n  \nLonger chewing times of raw, 0.5-min and 1-min steamed broccoli, which contained active myrosinase, lead to a higher hydrolysis\n  \nSo then you might think to just chew your broccoli for a long time and then you will get plenty of SF right? Wrong. Because the heat from cooking deactivates nearly ALL the myrosinase prese…",
@@ -436,6 +571,33 @@
       "feedUrl": "https://www.reddit.com/r/redscarepod/top/.rss?sort=top&t=day&limit=3",
       "siteUrl": "https://www.reddit.com/r/redscarepod/top/?sort=top&t=day&limit=3",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/nlm2i6/1990s_jennifer_connelly_was_something_else/",
+          "author": null,
+          "description": "submitted by    /u/RobertEOSpeedwagooon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/nlm2i6/1990s_jennifer_connelly_was_something_else/",
+          "publishedOn": "2021-05-26T17:08:53.000Z",
+          "wordCount": 377,
+          "title": "1990s Jennifer Connelly was something else."
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/nl6z6k/when_you_see_the_related_communities/",
+          "author": null,
+          "description": "submitted by    /u/OddEyeSweeney  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/nl6z6k/when_you_see_the_related_communities/",
+          "publishedOn": "2021-05-26T03:09:56.000Z",
+          "wordCount": 408,
+          "title": "When you see the related communities"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/nl6w0k/preach/",
+          "author": null,
+          "description": "submitted by    /u/BlazeBro420  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/nl6w0k/preach/",
+          "publishedOn": "2021-05-26T03:04:54.000Z",
+          "wordCount": 514,
+          "title": "Preach"
+        },
         {
           "id": "https://www.reddit.com/r/redscarepod/comments/nkxx62/_/",
           "author": null,
@@ -497,6 +659,105 @@
       "feedUrl": "https://rsshub.app/github/trending/daily/haskell",
       "siteUrl": "https://github.com/trending/haskell?since=daily",
       "articles": [
+        {
+          "id": "https://github.com/hstreamdb/hstream",
+          "author": "hstreamdb",
+          "description": "The database built for IoT streaming data storage and real-time stream processing.\n    \nLanguage: Haskell\n                            \nStar: 305\n                            \nFork: 25",
+          "link": "https://github.com/hstreamdb/hstream",
+          "publishedOn": "2021-05-27T01:14:49.296Z",
+          "wordCount": 1164,
+          "title": "hstreamdb /\n\n      hstream"
+        },
+        {
+          "id": "https://github.com/markandrus/Matrix-Decomposition",
+          "author": "markandrus",
+          "description": "Language: Haskell\n                            \nStar: 1\n                            \nFork:",
+          "link": "https://github.com/markandrus/Matrix-Decomposition",
+          "publishedOn": "2021-05-27T01:14:49.235Z",
+          "wordCount": 1084,
+          "title": "markandrus /\n\n      Matrix-Decomposition"
+        },
+        {
+          "id": "https://github.com/flipstone/kioku",
+          "author": "flipstone",
+          "description": "A simple db for ingesting and indexing static datasets on disk\n    \nLanguage: Haskell\n                            \nStar: 7\n                            \nFork: 2",
+          "link": "https://github.com/flipstone/kioku",
+          "publishedOn": "2021-05-27T01:14:48.719Z",
+          "wordCount": 582,
+          "title": "flipstone /\n\n      kioku"
+        },
+        {
+          "id": "https://github.com/flipstone/monad-trace",
+          "author": "flipstone",
+          "description": "A Monad for generate trace logs\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/flipstone/monad-trace",
+          "publishedOn": "2021-05-27T01:14:48.698Z",
+          "wordCount": 416,
+          "title": "flipstone /\n\n      monad-trace"
+        },
+        {
+          "id": "https://github.com/dapphub/dapptools",
+          "author": "dapphub",
+          "description": "Dapp, Seth, Hevm, and more\n    \nLanguage: Haskell\n                            \nStar: 421\n                            \nFork: 110",
+          "link": "https://github.com/dapphub/dapptools",
+          "publishedOn": "2021-05-27T01:14:48.668Z",
+          "wordCount": 971,
+          "title": "dapphub /\n\n      dapptools"
+        },
+        {
+          "id": "https://github.com/digital-asset/contingent-claims",
+          "author": "digital-asset",
+          "description": "Language: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/digital-asset/contingent-claims",
+          "publishedOn": "2021-05-27T01:14:48.619Z",
+          "wordCount": 740,
+          "title": "digital-asset /\n\n      contingent-claims"
+        },
+        {
+          "id": "https://github.com/ingolia-lab/RiboSeq",
+          "author": "ingolia-lab",
+          "description": "Language: Haskell\n                            \nStar: 5\n                            \nFork: 4",
+          "link": "https://github.com/ingolia-lab/RiboSeq",
+          "publishedOn": "2021-05-27T01:14:48.583Z",
+          "wordCount": 403,
+          "title": "ingolia-lab /\n\n      RiboSeq"
+        },
+        {
+          "id": "https://github.com/kowainik/learn4haskell",
+          "author": "kowainik",
+          "description": "👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests\n    \nLanguage: Haskell\n                            \nStar: 489\n                            \nFork: 507",
+          "link": "https://github.com/kowainik/learn4haskell",
+          "publishedOn": "2021-05-27T01:14:48.565Z",
+          "wordCount": 2094,
+          "title": "kowainik /\n\n      learn4haskell"
+        },
+        {
+          "id": "https://github.com/carp-lang/Carp",
+          "author": "carp-lang",
+          "description": "A statically typed lisp, without a GC, for real-time applications.\n    \nLanguage: Haskell\n                            \nStar: 3,945\n                            \nFork: 145",
+          "link": "https://github.com/carp-lang/Carp",
+          "publishedOn": "2021-05-27T01:14:48.518Z",
+          "wordCount": 1090,
+          "title": "carp-lang /\n\n      Carp"
+        },
+        {
+          "id": "https://github.com/input-output-hk/cardano-wallet",
+          "author": "input-output-hk",
+          "description": "HTTP server & command-line for managing UTxOs and HD wallets in Cardano.\n    \nLanguage: Haskell\n                            \nStar: 356\n                            \nFork: 78",
+          "link": "https://github.com/input-output-hk/cardano-wallet",
+          "publishedOn": "2021-05-27T01:14:48.473Z",
+          "wordCount": 975,
+          "title": "input-output-hk /\n\n      cardano-wallet"
+        },
+        {
+          "id": "https://github.com/flipstone/monad-redis",
+          "author": "flipstone",
+          "description": "A simple Monad to holding a Redis connection\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/flipstone/monad-redis",
+          "publishedOn": "2021-05-27T01:14:47.926Z",
+          "wordCount": 422,
+          "title": "flipstone /\n\n      monad-redis"
+        },
         {
           "id": "https://github.com/nmattia/niv",
           "author": "nmattia",
@@ -855,6 +1116,186 @@
       "feedUrl": "https://hnrss.org/frontpage",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=27298127",
+          "author": "ukd1",
+          "description": "Article URL: https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN\nComments URL: https://news.ycombinator.com/item?id=27298127\nPoints: 1\n# Comments: 0",
+          "link": "https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN",
+          "publishedOn": "2021-05-27T01:01:11.000Z",
+          "wordCount": 48,
+          "title": "Rainforest (YC S12) Is Hiring Remote Engineers, Product Designers and CSM"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27297254",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://codecs.multimedia.cx/2021/05/why-i-still-like-c-and-strongly-dislike-cpp/\nComments URL: https://news.ycombinator.com/item?id=27297254\nPoints: 77\n# Comments: 65",
+          "link": "https://codecs.multimedia.cx/2021/05/why-i-still-like-c-and-strongly-dislike-cpp/",
+          "publishedOn": "2021-05-26T23:07:15.000Z",
+          "wordCount": 2131,
+          "title": "I still like C and strongly dislike C++"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27296958",
+          "author": "version_five",
+          "description": "Article URL: https://www.scientificamerican.com/article/when-scientific-orthodoxy-resembles-religious-dogma/\nComments URL: https://news.ycombinator.com/item?id=27296958\nPoints: 70\n# Comments: 78",
+          "link": "https://www.scientificamerican.com/article/when-scientific-orthodoxy-resembles-religious-dogma/",
+          "publishedOn": "2021-05-26T22:32:26.000Z",
+          "wordCount": 1569,
+          "title": "When scientific orthodoxy resembles religious dogma"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27296514",
+          "author": "fabrice_d",
+          "description": "Article URL: https://skreen.site/\nComments URL: https://news.ycombinator.com/item?id=27296514\nPoints: 14\n# Comments: 17",
+          "link": "https://skreen.site/",
+          "publishedOn": "2021-05-26T21:47:45.000Z",
+          "wordCount": 624,
+          "title": "SKreen: Human Centric Smartphones for Everyone"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27296330",
+          "author": "wdaher",
+          "description": "Article URL: https://waseem.substack.com/p/you-cant-have-too-many-angels\nComments URL: https://news.ycombinator.com/item?id=27296330\nPoints: 73\n# Comments: 47",
+          "link": "https://waseem.substack.com/p/you-cant-have-too-many-angels",
+          "publishedOn": "2021-05-26T21:26:35.000Z",
+          "wordCount": 1059,
+          "title": "You can't have too many angels"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27295906",
+          "author": "djoldman",
+          "description": "Article URL: https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext\nComments URL: https://news.ycombinator.com/item?id=27295906\nPoints: 258\n# Comments: 147",
+          "link": "https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext",
+          "publishedOn": "2021-05-26T20:49:16.000Z",
+          "wordCount": null,
+          "title": "Collusion rings threaten the integrity of computer science research"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27295320",
+          "author": "jseliger",
+          "description": "Article URL: https://pasquale.cool/internet-mob\nComments URL: https://news.ycombinator.com/item?id=27295320\nPoints: 392\n# Comments: 280",
+          "link": "https://pasquale.cool/internet-mob",
+          "publishedOn": "2021-05-26T19:56:46.000Z",
+          "wordCount": 935,
+          "title": "Life after an internet mob attack"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27294890",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/\nComments URL: https://news.ycombinator.com/item?id=27294890\nPoints: 178\n# Comments: 57",
+          "link": "https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/",
+          "publishedOn": "2021-05-26T19:21:28.000Z",
+          "wordCount": 1152,
+          "title": "Why and how GitHub is adopting OpenTelemetry"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27294703",
+          "author": "sharjeelsayed",
+          "description": "Article URL: https://github.com/pluja/awesome-privacy\nComments URL: https://news.ycombinator.com/item?id=27294703\nPoints: 102\n# Comments: 18",
+          "link": "https://github.com/pluja/awesome-privacy",
+          "publishedOn": "2021-05-26T19:04:38.000Z",
+          "wordCount": 4431,
+          "title": "Privacy – A curated list of services and alternatives that respect privacy"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27294471",
+          "author": "ykl",
+          "description": "Article URL: https://oxide.computer\nComments URL: https://news.ycombinator.com/item?id=27294471\nPoints: 570\n# Comments: 180",
+          "link": "https://oxide.computer",
+          "publishedOn": "2021-05-26T18:45:35.000Z",
+          "wordCount": 762,
+          "title": "Servers as they should be – shipping early 2022"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27294401",
+          "author": "panabee",
+          "description": "Article URL: https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly\nComments URL: https://news.ycombinator.com/item?id=27294401\nPoints: 113\n# Comments: 23",
+          "link": "https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly",
+          "publishedOn": "2021-05-26T18:39:40.000Z",
+          "wordCount": 1325,
+          "title": "A new algorithm for graph crossings, hiding in plain sight (2020)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27294355",
+          "author": "rmason",
+          "description": "Article URL: https://www.bennadel.com/blog/4054-using-the-x-amzn-trace-id-header-for-request-tracing-through-amazons-load-balancers.htm\nComments URL: https://news.ycombinator.com/item?id=27294355\nPoints: 49\n# Comments: 3",
+          "link": "https://www.bennadel.com/blog/4054-using-the-x-amzn-trace-id-header-for-request-tracing-through-amazons-load-balancers.htm",
+          "publishedOn": "2021-05-26T18:35:43.000Z",
+          "wordCount": 768,
+          "title": "Using the “X-AMZN-Trace-Id” Header for Request Tracing Through AWS Load Balancer"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27293902",
+          "author": "thisissidhant",
+          "description": "Article URL: https://www.findareddit.com/\nComments URL: https://news.ycombinator.com/item?id=27293902\nPoints: 218\n# Comments: 125",
+          "link": "https://www.findareddit.com/",
+          "publishedOn": "2021-05-26T17:59:47.000Z",
+          "wordCount": 1839,
+          "title": "Show HN: Find Subreddits for Your Niche"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27293676",
+          "author": "cl42",
+          "description": "Article URL: https://openai.com/fund/\nComments URL: https://news.ycombinator.com/item?id=27293676\nPoints: 143\n# Comments: 63",
+          "link": "https://openai.com/fund/",
+          "publishedOn": "2021-05-26T17:43:06.000Z",
+          "wordCount": 440,
+          "title": "OpenAI Announces Funding for Startups"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27293266",
+          "author": "slimscsi",
+          "description": "Article URL: https://mux.com/blog/your-browser-and-my-browser-see-different-colors/\nComments URL: https://news.ycombinator.com/item?id=27293266\nPoints: 152\n# Comments: 65",
+          "link": "https://mux.com/blog/your-browser-and-my-browser-see-different-colors/",
+          "publishedOn": "2021-05-26T17:13:58.000Z",
+          "wordCount": 2098,
+          "title": "Different browsers see different colors"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27293108",
+          "author": "jayp1418",
+          "description": "Article URL: https://rubenerd.com/using-netbsds-pkgsrc-everywhere-i-can/\nComments URL: https://news.ycombinator.com/item?id=27293108\nPoints: 60\n# Comments: 35",
+          "link": "https://rubenerd.com/using-netbsds-pkgsrc-everywhere-i-can/",
+          "publishedOn": "2021-05-26T17:03:16.000Z",
+          "wordCount": 703,
+          "title": "Using NetBSD’s pkgsrc everywhere I can"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27292219",
+          "author": "its_nikita",
+          "description": "Article URL: https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code\nComments URL: https://news.ycombinator.com/item?id=27292219\nPoints: 32\n# Comments: 15",
+          "link": "https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code",
+          "publishedOn": "2021-05-26T16:00:27.000Z",
+          "wordCount": 1447,
+          "title": "Have you ever hurt yourself from your own code?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27291848",
+          "author": "pepys",
+          "description": "Article URL: https://electricliterature.com/everything-you-wanted-to-know-about-book-sales-but-were-afraid-to-ask/\nComments URL: https://news.ycombinator.com/item?id=27291848\nPoints: 61\n# Comments: 35",
+          "link": "https://electricliterature.com/everything-you-wanted-to-know-about-book-sales-but-were-afraid-to-ask/",
+          "publishedOn": "2021-05-26T15:31:59.000Z",
+          "wordCount": 5154,
+          "title": "An In-Depth Look at What/How/Why Books Sell (2016)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27291302",
+          "author": "imbnwa",
+          "description": "Article URL: https://crispgm.com/page/neovim-is-overpowering.html\nComments URL: https://news.ycombinator.com/item?id=27291302\nPoints: 569\n# Comments: 317",
+          "link": "https://crispgm.com/page/neovim-is-overpowering.html",
+          "publishedOn": "2021-05-26T14:56:41.000Z",
+          "wordCount": 1034,
+          "title": "Neovim 0.5 is overpowering"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27289924",
+          "author": "helsinkiandrew",
+          "description": "Article URL: https://www.reuters.com/technology/amazon-snaps-up-james-bond-owner-mgm-845-bln-streaming-war-heats-up-2021-05-26/\nComments URL: https://news.ycombinator.com/item?id=27289924\nPoints: 720\n# Comments: 740",
+          "link": "https://www.reuters.com/technology/amazon-snaps-up-james-bond-owner-mgm-845-bln-streaming-war-heats-up-2021-05-26/",
+          "publishedOn": "2021-05-26T13:00:11.000Z",
+          "wordCount": 1375,
+          "title": "Amazon acquires MGM for $8.5B"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=27284286",
           "author": "danboarder",
@@ -1218,5 +1659,5 @@
       ]
     }
   ],
-  "cliVersion": "1.8.1"
+  "cliVersion": "1.9.0"
 }

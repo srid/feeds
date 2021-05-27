@@ -2,10 +2,693 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://srid.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T01:09:46.696Z</updated>
-    <generator>osmosfeed 1.8.1</generator>
+    <updated>2021-05-27T01:14:50.498Z</updated>
+    <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://srid.github.io/feeds/index.html"/>
     <link rel="self" href="https://srid.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[hstreamdb /
+
+      hstream]]></title>
+        <id>https://github.com/hstreamdb/hstream</id>
+        <link href="https://github.com/hstreamdb/hstream"/>
+        <updated>2021-05-27T01:14:49.296Z</updated>
+        <summary type="html"><![CDATA[The database built for IoT streaming data storage and real-time stream processing.
+    
+Language: Haskell
+                            
+Star: 305
+                            
+Fork: 25]]></summary>
+        <author>
+            <name>hstreamdb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[markandrus /
+
+      Matrix-Decomposition]]></title>
+        <id>https://github.com/markandrus/Matrix-Decomposition</id>
+        <link href="https://github.com/markandrus/Matrix-Decomposition"/>
+        <updated>2021-05-27T01:14:49.235Z</updated>
+        <summary type="html"><![CDATA[Language: Haskell
+                            
+Star: 1
+                            
+Fork:]]></summary>
+        <author>
+            <name>markandrus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[flipstone /
+
+      kioku]]></title>
+        <id>https://github.com/flipstone/kioku</id>
+        <link href="https://github.com/flipstone/kioku"/>
+        <updated>2021-05-27T01:14:48.719Z</updated>
+        <summary type="html"><![CDATA[A simple db for ingesting and indexing static datasets on disk
+    
+Language: Haskell
+                            
+Star: 7
+                            
+Fork: 2]]></summary>
+        <author>
+            <name>flipstone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[flipstone /
+
+      monad-trace]]></title>
+        <id>https://github.com/flipstone/monad-trace</id>
+        <link href="https://github.com/flipstone/monad-trace"/>
+        <updated>2021-05-27T01:14:48.698Z</updated>
+        <summary type="html"><![CDATA[A Monad for generate trace logs
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>flipstone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dapphub /
+
+      dapptools]]></title>
+        <id>https://github.com/dapphub/dapptools</id>
+        <link href="https://github.com/dapphub/dapptools"/>
+        <updated>2021-05-27T01:14:48.668Z</updated>
+        <summary type="html"><![CDATA[Dapp, Seth, Hevm, and more
+    
+Language: Haskell
+                            
+Star: 421
+                            
+Fork: 110]]></summary>
+        <author>
+            <name>dapphub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[digital-asset /
+
+      contingent-claims]]></title>
+        <id>https://github.com/digital-asset/contingent-claims</id>
+        <link href="https://github.com/digital-asset/contingent-claims"/>
+        <updated>2021-05-27T01:14:48.619Z</updated>
+        <summary type="html"><![CDATA[Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>digital-asset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ingolia-lab /
+
+      RiboSeq]]></title>
+        <id>https://github.com/ingolia-lab/RiboSeq</id>
+        <link href="https://github.com/ingolia-lab/RiboSeq"/>
+        <updated>2021-05-27T01:14:48.583Z</updated>
+        <summary type="html"><![CDATA[Language: Haskell
+                            
+Star: 5
+                            
+Fork: 4]]></summary>
+        <author>
+            <name>ingolia-lab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kowainik /
+
+      learn4haskell]]></title>
+        <id>https://github.com/kowainik/learn4haskell</id>
+        <link href="https://github.com/kowainik/learn4haskell"/>
+        <updated>2021-05-27T01:14:48.565Z</updated>
+        <summary type="html"><![CDATA[👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
+    
+Language: Haskell
+                            
+Star: 489
+                            
+Fork: 507]]></summary>
+        <author>
+            <name>kowainik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[carp-lang /
+
+      Carp]]></title>
+        <id>https://github.com/carp-lang/Carp</id>
+        <link href="https://github.com/carp-lang/Carp"/>
+        <updated>2021-05-27T01:14:48.518Z</updated>
+        <summary type="html"><![CDATA[A statically typed lisp, without a GC, for real-time applications.
+    
+Language: Haskell
+                            
+Star: 3,945
+                            
+Fork: 145]]></summary>
+        <author>
+            <name>carp-lang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      cardano-wallet]]></title>
+        <id>https://github.com/input-output-hk/cardano-wallet</id>
+        <link href="https://github.com/input-output-hk/cardano-wallet"/>
+        <updated>2021-05-27T01:14:48.473Z</updated>
+        <summary type="html"><![CDATA[HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+    
+Language: Haskell
+                            
+Star: 356
+                            
+Fork: 78]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[flipstone /
+
+      monad-redis]]></title>
+        <id>https://github.com/flipstone/monad-redis</id>
+        <link href="https://github.com/flipstone/monad-redis"/>
+        <updated>2021-05-27T01:14:47.926Z</updated>
+        <summary type="html"><![CDATA[A simple Monad to holding a Redis connection
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>flipstone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rainforest (YC S12) Is Hiring Remote Engineers, Product Designers and CSM]]></title>
+        <id>https://news.ycombinator.com/item?id=27298127</id>
+        <link href="https://jobs.lever.co/rainforest?lever-origin=applied&amp;lever-source%5B%5D=HN"/>
+        <updated>2021-05-27T01:01:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN
+Comments URL: https://news.ycombinator.com/item?id=27298127
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>ukd1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I still like C and strongly dislike C++]]></title>
+        <id>https://news.ycombinator.com/item?id=27297254</id>
+        <link href="https://codecs.multimedia.cx/2021/05/why-i-still-like-c-and-strongly-dislike-cpp/"/>
+        <updated>2021-05-26T23:07:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://codecs.multimedia.cx/2021/05/why-i-still-like-c-and-strongly-dislike-cpp/
+Comments URL: https://news.ycombinator.com/item?id=27297254
+Points: 77
+# Comments: 65]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State of the Cabal - Q1+Q2/2021]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nlth2a/state_of_the_cabal_q1q22021/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nlth2a/state_of_the_cabal_q1q22021/"/>
+        <updated>2021-05-26T22:41:01.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/emilypii  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When scientific orthodoxy resembles religious dogma]]></title>
+        <id>https://news.ycombinator.com/item?id=27296958</id>
+        <link href="https://www.scientificamerican.com/article/when-scientific-orthodoxy-resembles-religious-dogma/"/>
+        <updated>2021-05-26T22:32:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.scientificamerican.com/article/when-scientific-orthodoxy-resembles-religious-dogma/
+Comments URL: https://news.ycombinator.com/item?id=27296958
+Points: 70
+# Comments: 78]]></summary>
+        <author>
+            <name>version_five</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First public Haskell project share - Lamport one-time signature scheme]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nlse87/first_public_haskell_project_share_lamport/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nlse87/first_public_haskell_project_share_lamport/"/>
+        <updated>2021-05-26T21:49:30.000Z</updated>
+        <summary type="html"><![CDATA[Hi All
+ Long time lurker and first-time (I think?) poster. Anyways, I implemented the Lamport one-time signature scheme a while back in Haskell and wanted to share.
+ https://github.com/difelicemichael/lamport-haskell
+ It also includes a module solely for the purposes of illustrating the dangers of key-reuse in this signature scheme.
+ ​
+ As with anything cryptography related, it's always best not to reinvent the wheel, so it goes without saying that the module is not production-ready / suitable. Still though, couldn't resist the urge to share, comments / criticisms are welcome (and encouraged!).
+    submitted by    /u/difelicemichael  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SKreen: Human Centric Smartphones for Everyone]]></title>
+        <id>https://news.ycombinator.com/item?id=27296514</id>
+        <link href="https://skreen.site/"/>
+        <updated>2021-05-26T21:47:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://skreen.site/
+Comments URL: https://news.ycombinator.com/item?id=27296514
+Points: 14
+# Comments: 17]]></summary>
+        <author>
+            <name>fabrice_d</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can't have too many angels]]></title>
+        <id>https://news.ycombinator.com/item?id=27296330</id>
+        <link href="https://waseem.substack.com/p/you-cant-have-too-many-angels"/>
+        <updated>2021-05-26T21:26:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://waseem.substack.com/p/you-cant-have-too-many-angels
+Comments URL: https://news.ycombinator.com/item?id=27296330
+Points: 73
+# Comments: 47]]></summary>
+        <author>
+            <name>wdaher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collusion rings threaten the integrity of computer science research]]></title>
+        <id>https://news.ycombinator.com/item?id=27295906</id>
+        <link href="https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext"/>
+        <updated>2021-05-26T20:49:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext
+Comments URL: https://news.ycombinator.com/item?id=27295906
+Points: 258
+# Comments: 147]]></summary>
+        <author>
+            <name>djoldman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Life after an internet mob attack]]></title>
+        <id>https://news.ycombinator.com/item?id=27295320</id>
+        <link href="https://pasquale.cool/internet-mob"/>
+        <updated>2021-05-26T19:56:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pasquale.cool/internet-mob
+Comments URL: https://news.ycombinator.com/item?id=27295320
+Points: 392
+# Comments: 280]]></summary>
+        <author>
+            <name>jseliger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anyone read "The Simple Haskell Handbook" and can review?]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nlpxjw/anyone_read_the_simple_haskell_handbook_and_can/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nlpxjw/anyone_read_the_simple_haskell_handbook_and_can/"/>
+        <updated>2021-05-26T19:55:41.000Z</updated>
+        <summary type="html"><![CDATA[The idea of a book that goes from zero to a working product is very intriguing to me. Building a CI also seems like a domain where I wouldn't mind a bit more insight.
+ I will almost definitely read it, unless someone says it is filled with bad practice and bad advice.
+    submitted by    /u/ChrisWohlert  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why and how GitHub is adopting OpenTelemetry]]></title>
+        <id>https://news.ycombinator.com/item?id=27294890</id>
+        <link href="https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/"/>
+        <updated>2021-05-26T19:21:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/
+Comments URL: https://news.ycombinator.com/item?id=27294890
+Points: 178
+# Comments: 57]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy – A curated list of services and alternatives that respect privacy]]></title>
+        <id>https://news.ycombinator.com/item?id=27294703</id>
+        <link href="https://github.com/pluja/awesome-privacy"/>
+        <updated>2021-05-26T19:04:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/pluja/awesome-privacy
+Comments URL: https://news.ycombinator.com/item?id=27294703
+Points: 102
+# Comments: 18]]></summary>
+        <author>
+            <name>sharjeelsayed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Servers as they should be – shipping early 2022]]></title>
+        <id>https://news.ycombinator.com/item?id=27294471</id>
+        <link href="https://oxide.computer"/>
+        <updated>2021-05-26T18:45:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://oxide.computer
+Comments URL: https://news.ycombinator.com/item?id=27294471
+Points: 570
+# Comments: 180]]></summary>
+        <author>
+            <name>ykl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new algorithm for graph crossings, hiding in plain sight (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27294401</id>
+        <link href="https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly"/>
+        <updated>2021-05-26T18:39:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly
+Comments URL: https://news.ycombinator.com/item?id=27294401
+Points: 113
+# Comments: 23]]></summary>
+        <author>
+            <name>panabee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using the “X-AMZN-Trace-Id” Header for Request Tracing Through AWS Load Balancer]]></title>
+        <id>https://news.ycombinator.com/item?id=27294355</id>
+        <link href="https://www.bennadel.com/blog/4054-using-the-x-amzn-trace-id-header-for-request-tracing-through-amazons-load-balancers.htm"/>
+        <updated>2021-05-26T18:35:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bennadel.com/blog/4054-using-the-x-amzn-trace-id-header-for-request-tracing-through-amazons-load-balancers.htm
+Comments URL: https://news.ycombinator.com/item?id=27294355
+Points: 49
+# Comments: 3]]></summary>
+        <author>
+            <name>rmason</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Find Subreddits for Your Niche]]></title>
+        <id>https://news.ycombinator.com/item?id=27293902</id>
+        <link href="https://www.findareddit.com/"/>
+        <updated>2021-05-26T17:59:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.findareddit.com/
+Comments URL: https://news.ycombinator.com/item?id=27293902
+Points: 218
+# Comments: 125]]></summary>
+        <author>
+            <name>thisissidhant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Awesome Standalone (Web Components)]]></title>
+        <id>https://css-tricks.com/?p=339759</id>
+        <link href="https://css-tricks.com/awesome-standalone-web-components/"/>
+        <updated>2021-05-26T17:56:34.000Z</updated>
+        <summary type="html"><![CDATA[In his last An Event Apart talk, Dave made a point that it’s really only just about right now that Web Components are becoming a practical choice for production web development. For example, it has only been about a year …
+The post Awesome Standalone (Web Components) appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Links on Web Components]]></title>
+        <id>https://css-tricks.com/?p=340901</id>
+        <link href="https://css-tricks.com/links-on-web-components/"/>
+        <updated>2021-05-26T17:56:12.000Z</updated>
+        <summary type="html"><![CDATA[How we use Web Components at GitHub — Kristján Oddsson talks about how GitHub is using web components. I remember they were very early adopters, and it says here they released a <relative-time> component in 2014! Now they’ve got a 
+…
+The post Links on Web Components appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Announces Funding for Startups]]></title>
+        <id>https://news.ycombinator.com/item?id=27293676</id>
+        <link href="https://openai.com/fund/"/>
+        <updated>2021-05-26T17:43:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://openai.com/fund/
+Comments URL: https://news.ycombinator.com/item?id=27293676
+Points: 143
+# Comments: 63]]></summary>
+        <author>
+            <name>cl42</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Different browsers see different colors]]></title>
+        <id>https://news.ycombinator.com/item?id=27293266</id>
+        <link href="https://mux.com/blog/your-browser-and-my-browser-see-different-colors/"/>
+        <updated>2021-05-26T17:13:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mux.com/blog/your-browser-and-my-browser-see-different-colors/
+Comments URL: https://news.ycombinator.com/item?id=27293266
+Points: 152
+# Comments: 65]]></summary>
+        <author>
+            <name>slimscsi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1990s Jennifer Connelly was something else.]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/nlm2i6/1990s_jennifer_connelly_was_something_else/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/nlm2i6/1990s_jennifer_connelly_was_something_else/"/>
+        <updated>2021-05-26T17:08:53.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/RobertEOSpeedwagooon  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using NetBSD’s pkgsrc everywhere I can]]></title>
+        <id>https://news.ycombinator.com/item?id=27293108</id>
+        <link href="https://rubenerd.com/using-netbsds-pkgsrc-everywhere-i-can/"/>
+        <updated>2021-05-26T17:03:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rubenerd.com/using-netbsds-pkgsrc-everywhere-i-can/
+Comments URL: https://news.ycombinator.com/item?id=27293108
+Points: 60
+# Comments: 35]]></summary>
+        <author>
+            <name>jayp1418</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have you ever hurt yourself from your own code?]]></title>
+        <id>https://news.ycombinator.com/item?id=27292219</id>
+        <link href="https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code"/>
+        <updated>2021-05-26T16:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code
+Comments URL: https://news.ycombinator.com/item?id=27292219
+Points: 32
+# Comments: 15]]></summary>
+        <author>
+            <name>its_nikita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An In-Depth Look at What/How/Why Books Sell (2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=27291848</id>
+        <link href="https://electricliterature.com/everything-you-wanted-to-know-about-book-sales-but-were-afraid-to-ask/"/>
+        <updated>2021-05-26T15:31:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://electricliterature.com/everything-you-wanted-to-know-about-book-sales-but-were-afraid-to-ask/
+Comments URL: https://news.ycombinator.com/item?id=27291848
+Points: 61
+# Comments: 35]]></summary>
+        <author>
+            <name>pepys</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Urbit "Town Hall" Conference tomorrow, featuring a talk from Justin Murphy]]></title>
+        <id>https://www.reddit.com/r/TheMotte/comments/nljqir/free_urbit_town_hall_conference_tomorrow/</id>
+        <link href="https://www.reddit.com/r/TheMotte/comments/nljqir/free_urbit_town_hall_conference_tomorrow/"/>
+        <updated>2021-05-26T15:28:26.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Urbinaut  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : TheMotte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neovim 0.5 is overpowering]]></title>
+        <id>https://news.ycombinator.com/item?id=27291302</id>
+        <link href="https://crispgm.com/page/neovim-is-overpowering.html"/>
+        <updated>2021-05-26T14:56:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://crispgm.com/page/neovim-is-overpowering.html
+Comments URL: https://news.ycombinator.com/item?id=27291302
+Points: 569
+# Comments: 317]]></summary>
+        <author>
+            <name>imbnwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Thorough Analysis of CSS-in-JS]]></title>
+        <id>https://css-tricks.com/?p=340705</id>
+        <link href="https://css-tricks.com/a-thorough-analysis-of-css-in-js/"/>
+        <updated>2021-05-26T14:08:49.000Z</updated>
+        <summary type="html"><![CDATA[Wondering what’s even more challenging than choosing a JavaScript framework? You guessed it: choosing a CSS-in-JS solution. Why? Because there are more than 50 libraries out there, each of them offering a unique set of features.
+We tested 10 different …
+The post A Thorough Analysis of CSS-in-JS appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Andrei Pfeiffer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon acquires MGM for $8.5B]]></title>
+        <id>https://news.ycombinator.com/item?id=27289924</id>
+        <link href="https://www.reuters.com/technology/amazon-snaps-up-james-bond-owner-mgm-845-bln-streaming-war-heats-up-2021-05-26/"/>
+        <updated>2021-05-26T13:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/amazon-snaps-up-james-bond-owner-mgm-845-bln-streaming-war-heats-up-2021-05-26/
+Comments URL: https://news.ycombinator.com/item?id=27289924
+Points: 720
+# Comments: 740]]></summary>
+        <author>
+            <name>helsinkiandrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Support the design for dependent types proposal accepted]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nlfgzk/support_the_design_for_dependent_types_proposal/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nlfgzk/support_the_design_for_dependent_types_proposal/"/>
+        <updated>2021-05-26T12:11:41.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/quakquakquak  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effects of very low-carbohydrate vs. high-carbohydrate weight loss diets on psychological health in adults with obesity and type 2 diabetes: a 2-year randomized controlled trial]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/nlep1b/effects_of_very_lowcarbohydrate_vs/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/nlep1b/effects_of_very_lowcarbohydrate_vs/"/>
+        <updated>2021-05-26T11:29:31.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Hjdte9yd7t  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is protein the forgotten ingredient: Effects of higher compared to lower protein diets on cardiometabolic risk factors: a systematic review and meta-analysis of randomised controlled trials]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/nlegq1/is_protein_the_forgotten_ingredient_effects_of/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/nlegq1/is_protein_the_forgotten_ingredient_effects_of/"/>
+        <updated>2021-05-26T11:16:32.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Hjdte9yd7t  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nutrient Intake and Status of German Children and Adolescents Consuming Vegetarian, Vegan or Omnivore Diets: Results of the VeChi Youth Study (2021)]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/nldz02/nutrient_intake_and_status_of_german_children_and/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/nldz02/nutrient_intake_and_status_of_german_children_and/"/>
+        <updated>2021-05-26T10:47:34.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/nooobiiiiiiiiiii  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Increased blood alpha-carotene, all-trans-Beta-carotene and lycopene levels are associated with beneficial changes in heart rate variability: a CVD-stratified analysis in an adult population-based study]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/nlbndl/increased_blood_alphacarotene/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/nlbndl/increased_blood_alphacarotene/"/>
+        <updated>2021-05-26T08:11:58.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/H_Elizabeth111  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wellness Wednesday for May 26, 2021]]></title>
+        <id>https://www.reddit.com/r/TheMotte/comments/nl9y7a/wellness_wednesday_for_may_26_2021/</id>
+        <link href="https://www.reddit.com/r/TheMotte/comments/nl9y7a/wellness_wednesday_for_may_26_2021/"/>
+        <updated>2021-05-26T06:15:15.000Z</updated>
+        <summary type="html"><![CDATA[The Wednesday Wellness threads are meant to encourage users to ask for and provide advice and motivation to improve their lives. It isn't intended as a 'containment thread' and if you should feel free to post content which could go here in it's own thread. You could post:
+  
+Requests for advice and / or encouragement. On basically any topic and for any scale of problem.
+ 
+Updates to let us know how you are doing. This provides valuable feedback on past advice / encouragement and will hopefully make people feel a little more motivated to follow through. If you want to be reminded to post your update, see the post titled 'update reminders', below.
+ 
+Advice. This can be in response to a request for advice or just something that you think could be generally useful for many people here.
+ 
+Encouragement. Probably best directed at specific users, but if you feel like just encouraging people in general I don't think anyone is going to object. I don't think I really need to say this, but just to be clear; encouragement should have a generally positive tone and not shame people (if people feel that shame might be an effective tool for motivating people, please discuss this so we can form a group consensus on how to use it rather than just trying it).
+ 
+    submitted by    /u/AutoModerator  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : TheMotte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COVID-19 and misinformation: how an infodemic fuelled the prominence of vitamin D]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/nl9tme/covid19_and_misinformation_how_an_infodemic/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/nl9tme/covid19_and_misinformation_how_an_infodemic/"/>
+        <updated>2021-05-26T06:06:45.000Z</updated>
+        <summary type="html"><![CDATA[“ We read with great interest of a preprint paper(1) allegedly written by an Indonesian author entitled ‘Patterns of COVID-19 Mortality and Vitamin D: An Indonesian Study’, which has taken the Internet by storm. According to the PlumX Metrics(2), this article has been used more than 100 000 times, downloaded more than 17 000 times and mentioned in social media over 8000 times. Through Google Scholar(3), we found that this article has been cited nine times, six of which are indexed in PubMed. We also found an article in the British Medical Journal (BMJ)(4) that cited this article, which was not detected by Google Scholar, through a conventional Google search. The manuscript has been cited in COVID-19 rapid evidence summary: vitamin D for COVID-19, an evidence review by National Institute of…]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What exactly is the type issue in this example? As far as I understand the issue is that Fractional is a subtype of Num. But I feel like I am missing something important and fundamental. Why would recursive backtracking be necessary to support such classes?]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nl7cys/what_exactly_is_the_type_issue_in_this_example_as/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nl7cys/what_exactly_is_the_type_issue_in_this_example_as/"/>
+        <updated>2021-05-26T03:32:01.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/CaptchasSuckAss  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freenode has unilaterally taken over #haskell along with many other community channels]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nl74hc/freenode_has_unilaterally_taken_over_haskell/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nl74hc/freenode_has_unilaterally_taken_over_haskell/"/>
+        <updated>2021-05-26T03:18:13.000Z</updated>
+        <summary type="html"><![CDATA[irc.freenode.net just unilaterally took over #haskell.
+ <•freenodecom> This channel has been reopened with respect to the communities and new users. The topic is in violation of freenode policy: https://freenode.net/policies 8:02:53 PM •freenodecom was opped (+o) by OperServ 8:02:53 PM ChanServ un-banned *!*@141.98.255.* (-b) 8:02:53 PM ChanServ un-banned *!467ca176@gateway/web/cgi-irc/kiwiirc.com/ip.70.124.161.118 (-b) 8:02:53 PM ChanServ un-banned Monica*!*@* (-b) 8:02:53 PM ChanServ un-banned glgirl2!*@* (-b) 8:02:53 PM Channel mode set to +c by ChanServ 8:02:53 PM ChanServ un-banned *!*@*/web/cgi-irc/kiwiirc.com/ip.51.158.166.131 (-b) 8:02:53 PM ChanServ un-banned $a:solvr (-b) 8:02:53 PM ChanServ un-banned $a:perdent (-b) 8:02:53 PM ChanServ un-banned *!*@gateway/web/cgi-irc/kiwiirc.c…]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When you see the related communities]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/nl6z6k/when_you_see_the_related_communities/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/nl6z6k/when_you_see_the_related_communities/"/>
+        <updated>2021-05-26T03:09:56.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/OddEyeSweeney  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preach]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/nl6w0k/preach/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/nl6w0k/preach/"/>
+        <updated>2021-05-26T03:04:54.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/BlazeBro420  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nmattia /
 
@@ -1851,16 +2534,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Learn about Nix, Nix flakes, and how to use Nix flakes to build applications in various languages.]]></summary>
         <author>
             <name>hi+alexanderbantyev@serokell.io (Alexander Bantyev)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lorentz: Type-Safe Upgradeable Storage]]></title>
-        <id>https://serokell.io/blog/lorentz-upgradeable-storage</id>
-        <link href="https://serokell.io/blog/lorentz-upgradeable-storage"/>
-        <updated>2021-04-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Once deployed, large-scale smart contracts can sometimes become outdated and require upgrades. In this part of our Lorentz series, we show how to make a smart contract with upgradeable storage in Lorentz.]]></summary>
-        <author>
-            <name>hi+kostyaivanov@serokell.io (Kostya Ivanov)</name>
         </author>
     </entry>
 </feed>
