@@ -2,10 +2,773 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://srid.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T01:50:26.546Z</updated>
+    <updated>2021-05-31T02:01:05.177Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://srid.github.io/feeds/index.html"/>
     <link rel="self" href="https://srid.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[cdepillabout /
+
+      servant-rawm]]></title>
+        <id>https://github.com/cdepillabout/servant-rawm</id>
+        <link href="https://github.com/cdepillabout/servant-rawm"/>
+        <updated>2021-05-31T02:01:05.156Z</updated>
+        <summary type="html"><![CDATA[Effectful Raw handler for Servant servers.
+    
+Language: Haskell
+                            
+Star: 9
+                            
+Fork: 7]]></summary>
+        <author>
+            <name>cdepillabout</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mwotton /
+
+      roboservant]]></title>
+        <id>https://github.com/mwotton/roboservant</id>
+        <link href="https://github.com/mwotton/roboservant"/>
+        <updated>2021-05-31T02:01:05.120Z</updated>
+        <summary type="html"><![CDATA[generate contextually sensible fuzz tests for servant apps
+    
+Language: Haskell
+                            
+Star: 19
+                            
+Fork: 5]]></summary>
+        <author>
+            <name>mwotton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kmonad /
+
+      kmonad]]></title>
+        <id>https://github.com/kmonad/kmonad</id>
+        <link href="https://github.com/kmonad/kmonad"/>
+        <updated>2021-05-31T02:01:05.083Z</updated>
+        <summary type="html"><![CDATA[An advanced keyboard manager
+    
+Language: Haskell
+                            
+Star: 684
+                            
+Fork: 74]]></summary>
+        <author>
+            <name>kmonad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simspace /
+
+      avaleryar]]></title>
+        <id>https://github.com/Simspace/avaleryar</id>
+        <link href="https://github.com/Simspace/avaleryar"/>
+        <updated>2021-05-31T02:01:05.043Z</updated>
+        <summary type="html"><![CDATA[A logical authorization system
+    
+Language: Haskell
+                            
+Star: 17
+                            
+Fork: 5]]></summary>
+        <author>
+            <name>Simspace</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mwotton /
+
+      squealgen]]></title>
+        <id>https://github.com/mwotton/squealgen</id>
+        <link href="https://github.com/mwotton/squealgen"/>
+        <updated>2021-05-31T02:01:05.001Z</updated>
+        <summary type="html"><![CDATA[generate haskell types for Squeal from a running postgresql database.
+    
+Language: Haskell
+                            
+Star: 18
+                            
+Fork: 2]]></summary>
+        <author>
+            <name>mwotton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[srid /
+
+      neuron]]></title>
+        <id>https://github.com/srid/neuron</id>
+        <link href="https://github.com/srid/neuron"/>
+        <updated>2021-05-31T02:01:04.977Z</updated>
+        <summary type="html"><![CDATA[Future-proof note-taking and publishing based on Zettelkasten
+    
+Language: Haskell
+                            
+Star: 1,095
+                            
+Fork: 136]]></summary>
+        <author>
+            <name>srid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[carp-lang /
+
+      Carp]]></title>
+        <id>https://github.com/carp-lang/Carp</id>
+        <link href="https://github.com/carp-lang/Carp"/>
+        <updated>2021-05-31T02:01:04.922Z</updated>
+        <summary type="html"><![CDATA[A statically typed lisp, without a GC, for real-time applications.
+    
+Language: Haskell
+                            
+Star: 3,951
+                            
+Fork: 146]]></summary>
+        <author>
+            <name>carp-lang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xmonad /
+
+      xmonad]]></title>
+        <id>https://github.com/xmonad/xmonad</id>
+        <link href="https://github.com/xmonad/xmonad"/>
+        <updated>2021-05-31T02:01:04.897Z</updated>
+        <summary type="html"><![CDATA[The core of xmonad, a small but functional ICCCM-compliant tiling window manager
+    
+Language: Haskell
+                            
+Star: 1,868
+                            
+Fork: 209]]></summary>
+        <author>
+            <name>xmonad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[haskell /
+
+      haskell-language-server]]></title>
+        <id>https://github.com/haskell/haskell-language-server</id>
+        <link href="https://github.com/haskell/haskell-language-server"/>
+        <updated>2021-05-31T02:01:04.854Z</updated>
+        <summary type="html"><![CDATA[Successor of ghcide & haskell-ide-engine. One IDE to rule them all.
+    
+Language: Haskell
+                            
+Star: 1,541
+                            
+Fork: 142]]></summary>
+        <author>
+            <name>haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wireapp /
+
+      wire-server]]></title>
+        <id>https://github.com/wireapp/wire-server</id>
+        <link href="https://github.com/wireapp/wire-server"/>
+        <updated>2021-05-31T02:01:04.774Z</updated>
+        <summary type="html"><![CDATA[🇪🇺 Wire back-end services
+    
+Language: Haskell
+                            
+Star: 2,308
+                            
+Fork: 311]]></summary>
+        <author>
+            <name>wireapp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[digital-asset /
+
+      ghc-lib]]></title>
+        <id>https://github.com/digital-asset/ghc-lib</id>
+        <link href="https://github.com/digital-asset/ghc-lib"/>
+        <updated>2021-05-31T02:01:04.724Z</updated>
+        <summary type="html"><![CDATA[The GHC API, decoupled from GHC versions
+    
+Language: Haskell
+                            
+Star: 128
+                            
+Fork: 9]]></summary>
+        <author>
+            <name>digital-asset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      cardano-sl]]></title>
+        <id>https://github.com/input-output-hk/cardano-sl</id>
+        <link href="https://github.com/input-output-hk/cardano-sl"/>
+        <updated>2021-05-31T02:01:04.679Z</updated>
+        <summary type="html"><![CDATA[Cryptographic currency implementing Ouroboros PoS protocol
+    
+Language: Haskell
+                            
+Star: 3,612
+                            
+Fork: 605]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kadena-io /
+
+      chainweaver]]></title>
+        <id>https://github.com/kadena-io/chainweaver</id>
+        <link href="https://github.com/kadena-io/chainweaver"/>
+        <updated>2021-05-31T02:01:04.614Z</updated>
+        <summary type="html"><![CDATA[Kadena Chainweaver desktop wallet and web-based playground for Pact
+    
+Language: Haskell
+                            
+Star: 15
+                            
+Fork: 11]]></summary>
+        <author>
+            <name>kadena-io</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[haskell /
+
+      cabal]]></title>
+        <id>https://github.com/haskell/cabal</id>
+        <link href="https://github.com/haskell/cabal"/>
+        <updated>2021-05-31T02:01:04.562Z</updated>
+        <summary type="html"><![CDATA[Official upstream development repository for Cabal and cabal-install
+    
+Language: Haskell
+                            
+Star: 1,248
+                            
+Fork: 546]]></summary>
+        <author>
+            <name>haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[flipstone /
+
+      monad-trace]]></title>
+        <id>https://github.com/flipstone/monad-trace</id>
+        <link href="https://github.com/flipstone/monad-trace"/>
+        <updated>2021-05-31T02:01:04.507Z</updated>
+        <summary type="html"><![CDATA[A Monad for generate trace logs
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>flipstone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Corporations Won’t Hire Remote Workers in Colorado]]></title>
+        <id>https://news.ycombinator.com/item?id=27338931</id>
+        <link href="https://www.vice.com/en/article/m7egp8/why-corporations-wont-hire-any-remote-workers-in-colorado"/>
+        <updated>2021-05-31T01:29:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/m7egp8/why-corporations-wont-hire-any-remote-workers-in-colorado
+Comments URL: https://news.ycombinator.com/item?id=27338931
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>mooreds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Was Paralyzed by Severe Depression. Then Came Ketamine]]></title>
+        <id>https://news.ycombinator.com/item?id=27338596</id>
+        <link href="https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html"/>
+        <updated>2021-05-31T00:45:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html
+Comments URL: https://news.ycombinator.com/item?id=27338596
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>WarOnPrivacy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TermPair: Terminal sharing with AES-GCM 128 bit end-to-end encryption]]></title>
+        <id>https://news.ycombinator.com/item?id=27338479</id>
+        <link href="https://github.com/cs01/termpair"/>
+        <updated>2021-05-31T00:25:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/cs01/termpair
+Comments URL: https://news.ycombinator.com/item?id=27338479
+Points: 29
+# Comments: 14]]></summary>
+        <author>
+            <name>illuminated</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New York Times uses the dark patterns it derides]]></title>
+        <id>https://news.ycombinator.com/item?id=27338157</id>
+        <link href="https://www.nirandfar.com/cancel-new-york-times/"/>
+        <updated>2021-05-30T23:43:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nirandfar.com/cancel-new-york-times/
+Comments URL: https://news.ycombinator.com/item?id=27338157
+Points: 95
+# Comments: 43]]></summary>
+        <author>
+            <name>nireyal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber charges driver for completing a 13-mile fare]]></title>
+        <id>https://news.ycombinator.com/item?id=27338098</id>
+        <link href="https://twitter.com/TheSofaaa/status/1398990015611473927"/>
+        <updated>2021-05-30T23:37:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/TheSofaaa/status/1398990015611473927
+Comments URL: https://news.ycombinator.com/item?id=27338098
+Points: 100
+# Comments: 37]]></summary>
+        <author>
+            <name>bbatsell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Alternatives to Google Photos?]]></title>
+        <id>https://news.ycombinator.com/item?id=27338008</id>
+        <link href="https://news.ycombinator.com/item?id=27338008"/>
+        <updated>2021-05-30T23:26:44.000Z</updated>
+        <summary type="html"><![CDATA[With Google ending its free photo storage policy in a few days[0], I'm considering switching to another service. I've poked around a few recommendation sites[1], but am curious to know if anyone has suggestions for new and/or under-the-radar services they would recommend?
+[0] https://blog.google/products/photos/storage-changes/
+[1] https://www.techradar.com/how-to/best-google-photos-alternat...
+Comments URL: https://news.ycombinator.com/item?id=27338008
+Points: 54
+# Comments: 38]]></summary>
+        <author>
+            <name>LifeIsBio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discriminant of a sum type]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nomwbs/discriminant_of_a_sum_type/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nomwbs/discriminant_of_a_sum_type/"/>
+        <updated>2021-05-30T23:03:40.000Z</updated>
+        <summary type="html"><![CDATA[I'm trying to get the discriminant of a simple sum type similar to fromEnum except that Enum can only be derived for enumeration types.
+ Basically, I'm looking for something like:
+ data Ex = Foo Int | Bar Int Int | FooBar fromEnum (Bar 5 2) -> 1 
+    submitted by    /u/Fish_45  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Custom type equality errors]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nomdit/custom_type_equality_errors/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nomdit/custom_type_equality_errors/"/>
+        <updated>2021-05-30T22:34:51.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/effectfully  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 nagging users with Bing advertisements (push alerts)]]></title>
+        <id>https://news.ycombinator.com/item?id=27337382</id>
+        <link href="https://www.windowslatest.com/2021/05/31/windows-10-is-now-nagging-users-with-microsoft-bing-alerts/"/>
+        <updated>2021-05-30T22:12:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.windowslatest.com/2021/05/31/windows-10-is-now-nagging-users-with-microsoft-bing-alerts/
+Comments URL: https://news.ycombinator.com/item?id=27337382
+Points: 61
+# Comments: 20]]></summary>
+        <author>
+            <name>minama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Shortest Possible Game of Monopoly (2010)]]></title>
+        <id>https://news.ycombinator.com/item?id=27337171</id>
+        <link href="https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/"/>
+        <updated>2021-05-30T21:46:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/
+Comments URL: https://news.ycombinator.com/item?id=27337171
+Points: 122
+# Comments: 95]]></summary>
+        <author>
+            <name>ksangeelee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naomi Osaka faces default from Grand Slam for refusing to speak to media]]></title>
+        <id>https://news.ycombinator.com/item?id=27337044</id>
+        <link href="https://www.bbc.com/sport/tennis/57301475"/>
+        <updated>2021-05-30T21:33:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/sport/tennis/57301475
+Comments URL: https://news.ycombinator.com/item?id=27337044
+Points: 42
+# Comments: 60]]></summary>
+        <author>
+            <name>e2e4</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Satisfying Quantified Constraints]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nokv8k/satisfying_quantified_constraints/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nokv8k/satisfying_quantified_constraints/"/>
+        <updated>2021-05-30T21:19:11.000Z</updated>
+        <summary type="html"><![CDATA[Is it possible to satisfy a quantified constraint such as (forall a. c (t a)) if you happen to be able to satisfy c (t a) for any a (such as from a Dict)?
+ Specifically, is it possible to write this function?
+ forallConstraint :: forall kp kq (c :: kq -> Constraint) (t :: kp -> kq) r. (forall (a :: kp). Dict (c (t a))) -> ((forall (a :: kp). c (t a)) => r) -> r forallConstraint = ??? 
+ I feel like this should be possible, but I can't figure out how.
+    submitted by    /u/AshleyYakeley  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you frame it like that (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27336815</id>
+        <link href="https://theamericanscholar.org/if-you-frame-it-like-that/"/>
+        <updated>2021-05-30T21:10:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://theamericanscholar.org/if-you-frame-it-like-that/
+Comments URL: https://news.ycombinator.com/item?id=27336815
+Points: 13
+# Comments: 0]]></summary>
+        <author>
+            <name>killittosaveit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving ventilation will help curb SARS-CoV-2]]></title>
+        <id>https://news.ycombinator.com/item?id=27336808</id>
+        <link href="https://www.economist.com/science-and-technology/2021/05/26/improving-ventilation-will-help-curb-sars-cov-2"/>
+        <updated>2021-05-30T21:09:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2021/05/26/improving-ventilation-will-help-curb-sars-cov-2
+Comments URL: https://news.ycombinator.com/item?id=27336808
+Points: 87
+# Comments: 50]]></summary>
+        <author>
+            <name>martincmartin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RFC.fyi: Browse RFCs by keywords, id or collection]]></title>
+        <id>https://news.ycombinator.com/item?id=27336584</id>
+        <link href="https://rfc.fyi/"/>
+        <updated>2021-05-30T20:47:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rfc.fyi/
+Comments URL: https://news.ycombinator.com/item?id=27336584
+Points: 65
+# Comments: 9]]></summary>
+        <author>
+            <name>amjd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Annotate AST with location information]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nojtd2/annotate_ast_with_location_information/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nojtd2/annotate_ast_with_location_information/"/>
+        <updated>2021-05-30T20:29:10.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone,
+ I'm currently writing a parser using megaparsec which produces the following output:
+ data FileElement = SyntaxStmt SyntaxStatement | PackageSpec PackageSpecification | ImportStmt ImportStatement | OptionDef OptionDefinition | MsgDef MessageDefinition | EnumDef EnumDefinition | ServiceDef ServiceDefinition deriving (Show, Eq) type File = [FileElement] 
+ it goes on with more nested substructures.
+ Now I realized that I need to record the location in the document for every entity.
+ What would be the best way of integrating this into the AST? I would like to avoid changing the AST itself, but have the location information as some sort of "annotation" to the nodes, or just general ideas for that matter.
+ I really appreciate your help and happy haskelling.
+    submitted by    /u/MachineGunPablo  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's time for us in the tech world to speak out about cryptocurrency]]></title>
+        <id>https://news.ycombinator.com/item?id=27335574</id>
+        <link href="https://twitter.com/Pinboard/status/1399058952336277505"/>
+        <updated>2021-05-30T18:55:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/Pinboard/status/1399058952336277505
+Comments URL: https://news.ycombinator.com/item?id=27335574
+Points: 630
+# Comments: 463]]></summary>
+        <author>
+            <name>cratermoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beginner sudoku solver looking for feedback]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nohl3h/beginner_sudoku_solver_looking_for_feedback/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nohl3h/beginner_sudoku_solver_looking_for_feedback/"/>
+        <updated>2021-05-30T18:44:45.000Z</updated>
+        <summary type="html"><![CDATA[I am a Haskell beginner who made a backtracking sudoku solver, but I am unsure about the quality of the code I wrote. I have come here looking for feedback, but if this is not the right subreddit, please refer me to the correct place. 
+ I am mainly looking to get rid of rookie mistakes, not looking for some amazing heuristic to make my sudoku solver 200x faster. 
+ It feels to me like there should be improvements I could make to the solve function, but I don't really know how or what to improve. 
+ The code: https://gist.github.com/lennertcl/548d412def010744594503a17f95f864
+ Edit: gist instead of code directly
+    submitted by    /u/dazf3865  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How counting neutrons explains nuclear waste]]></title>
+        <id>https://news.ycombinator.com/item?id=27335114</id>
+        <link href="https://rootsofprogress.org/nuclear-physics"/>
+        <updated>2021-05-30T18:02:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rootsofprogress.org/nuclear-physics
+Comments URL: https://news.ycombinator.com/item?id=27335114
+Points: 43
+# Comments: 17]]></summary>
+        <author>
+            <name>jasoncrawford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReadMe (YC W15) Is Hiring a Head of Product Management with API Experience]]></title>
+        <id>https://news.ycombinator.com/item?id=27334621</id>
+        <link href="https://readme.com/careers#head-of-product-management"/>
+        <updated>2021-05-30T17:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://readme.com/careers#head-of-product-management
+Comments URL: https://news.ycombinator.com/item?id=27334621
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>gkoberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A minimalistic Python wrapper to AWS DynamoDB]]></title>
+        <id>https://news.ycombinator.com/item?id=27334430</id>
+        <link href="https://github.com/dineshsonachalam/Lucid-Dynamodb"/>
+        <updated>2021-05-30T16:36:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/dineshsonachalam/Lucid-Dynamodb
+Comments URL: https://news.ycombinator.com/item?id=27334430
+Points: 36
+# Comments: 28]]></summary>
+        <author>
+            <name>nsonachalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overkill objects for everyday life]]></title>
+        <id>https://news.ycombinator.com/item?id=27334223</id>
+        <link href="https://neil.computer/notes/overkill-objects-for-everyday-life/"/>
+        <updated>2021-05-30T16:10:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://neil.computer/notes/overkill-objects-for-everyday-life/
+Comments URL: https://news.ycombinator.com/item?id=27334223
+Points: 660
+# Comments: 493]]></summary>
+        <author>
+            <name>mrzool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terra: Low-level system programming language meta-programmed from Lua]]></title>
+        <id>https://news.ycombinator.com/item?id=27334065</id>
+        <link href="https://terralang.org/"/>
+        <updated>2021-05-30T15:49:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://terralang.org/
+Comments URL: https://news.ycombinator.com/item?id=27334065
+Points: 106
+# Comments: 23]]></summary>
+        <author>
+            <name>teleforce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Prime inflates prices, using the false promise of ‘free shipping’]]></title>
+        <id>https://news.ycombinator.com/item?id=27333933</id>
+        <link href="https://mattstoller.substack.com/p/amazon-primes-free-shipping-promise"/>
+        <updated>2021-05-30T15:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mattstoller.substack.com/p/amazon-primes-free-shipping-promise
+Comments URL: https://news.ycombinator.com/item?id=27333933
+Points: 794
+# Comments: 351]]></summary>
+        <author>
+            <name>yarapavan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Kalk, A calculator with math syntax, complex numbers]]></title>
+        <id>https://news.ycombinator.com/item?id=27333772</id>
+        <link href="https://kalk.strct.net"/>
+        <updated>2021-05-30T15:07:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kalk.strct.net
+Comments URL: https://news.ycombinator.com/item?id=27333772
+Points: 166
+# Comments: 56]]></summary>
+        <author>
+            <name>paddim8</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insulin action, type 2 diabetes, and branched-chain amino acids: a two-way street (May 2021)]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/nobh0x/insulin_action_type_2_diabetes_and_branchedchain/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/nobh0x/insulin_action_type_2_diabetes_and_branchedchain/"/>
+        <updated>2021-05-30T13:42:31.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/basmwklz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dudes rocking]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/noaq0l/dudes_rocking/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/noaq0l/dudes_rocking/"/>
+        <updated>2021-05-30T13:00:28.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Xi_Pimping  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mitochondrial efflux of citrate and isocitrate is fully dispensable for glucose-stimulated insulin secretion and pancreatic islet β-cell function (May 2021)]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/no5f2q/mitochondrial_efflux_of_citrate_and_isocitrate_is/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/no5f2q/mitochondrial_efflux_of_citrate_and_isocitrate_is/"/>
+        <updated>2021-05-30T06:52:37.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/basmwklz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brain glycogen serves as a critical glucosamine cache required for protein glycosylation (May 2021)]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/no5bm8/brain_glycogen_serves_as_a_critical_glucosamine/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/no5bm8/brain_glycogen_serves_as_a_critical_glucosamine/"/>
+        <updated>2021-05-30T06:45:26.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/basmwklz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atg32 dependent mitophagy sustains spermidine and nitric oxide required for heat stress tolerance in S. cerevisiae (May 2021)]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/no58u1/atg32_dependent_mitophagy_sustains_spermidine_and/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/no58u1/atg32_dependent_mitophagy_sustains_spermidine_and/"/>
+        <updated>2021-05-30T06:39:46.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/basmwklz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energy metabolism in brown adipose tissue (May 2021)]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/no56vc/energy_metabolism_in_brown_adipose_tissue_may_2021/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/no56vc/energy_metabolism_in_brown_adipose_tissue_may_2021/"/>
+        <updated>2021-05-30T06:35:44.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/basmwklz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energy status dictates PD-L1 protein abundance and anti-tumor immunity to enable checkpoint blockade (2021)]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/no5423/energy_status_dictates_pdl1_protein_abundance_and/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/no5423/energy_status_dictates_pdl1_protein_abundance_and/"/>
+        <updated>2021-05-30T06:29:52.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/basmwklz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Small-Scale Question Sunday for May 30, 2021]]></title>
+        <id>https://www.reddit.com/r/TheMotte/comments/no4x8h/smallscale_question_sunday_for_may_30_2021/</id>
+        <link href="https://www.reddit.com/r/TheMotte/comments/no4x8h/smallscale_question_sunday_for_may_30_2021/"/>
+        <updated>2021-05-30T06:15:18.000Z</updated>
+        <summary type="html"><![CDATA[Do you have a dumb question that you're kind of embarrassed to ask in the main thread? Is there something you're just not sure about? 
+ This is your opportunity to ask questions. No question too simple or too silly. 
+ Culture war topics are accepted, and proposals for a better intro post are appreciated.
+    submitted by    /u/AutoModerator  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : TheMotte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lycopene increases the proportion of slow-twitch muscle fiber by AMPK signaling to improve muscle anti-fatigue ability (2021)]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/no4vf7/lycopene_increases_the_proportion_of_slowtwitch/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/no4vf7/lycopene_increases_the_proportion_of_slowtwitch/"/>
+        <updated>2021-05-30T06:11:40.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/basmwklz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apigenin Alleviates Oxidative Stress-Induced Cellular Senescence via Modulation of the SIRT1-NAD+-CD38 Axis (May 2021)]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/no4tdt/apigenin_alleviates_oxidative_stressinduced/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/no4tdt/apigenin_alleviates_oxidative_stressinduced/"/>
+        <updated>2021-05-30T06:07:21.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/basmwklz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iron supplementation regulates the progression of high fat diet induced obesity and hepatic steatosis via mitochondrial signaling pathways (May 2021)]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/no4si4/iron_supplementation_regulates_the_progression_of/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/no4si4/iron_supplementation_regulates_the_progression_of/"/>
+        <updated>2021-05-30T06:05:33.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/basmwklz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zeaxanthin promotes browning by enhancing mitochondrial biogenesis through the PKA pathway in 3T3-L1 adipocytes (May 2021)]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/no4rop/zeaxanthin_promotes_browning_by_enhancing/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/no4rop/zeaxanthin_promotes_browning_by_enhancing/"/>
+        <updated>2021-05-30T06:03:57.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/basmwklz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[footjob from a pair of sisters call them cocteau twins]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/no3e7i/footjob_from_a_pair_of_sisters_call_them_cocteau/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/no3e7i/footjob_from_a_pair_of_sisters_call_them_cocteau/"/>
+        <updated>2021-05-30T04:27:03.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/TheWetSeel  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The plandemic was only the beginning... permanent pmc agoraphobia is coming]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/no1arw/the_plandemic_was_only_the_beginning_permanent/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/no1arw/the_plandemic_was_only_the_beginning_permanent/"/>
+        <updated>2021-05-30T02:05:34.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/gnosticbooger  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[flipstone /
 

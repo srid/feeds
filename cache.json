@@ -191,6 +191,51 @@
       "siteUrl": "https://www.reddit.com/r/haskell/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/haskell/comments/nomwbs/discriminant_of_a_sum_type/",
+          "author": null,
+          "description": "I'm trying to get the discriminant of a simple sum type similar to fromEnum except that Enum can only be derived for enumeration types.\n Basically, I'm looking for something like:\n data Ex = Foo Int | Bar Int Int | FooBar fromEnum (Bar 5 2) -> 1 \n    submitted by    /u/Fish_45  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nomwbs/discriminant_of_a_sum_type/",
+          "publishedOn": "2021-05-30T23:03:40.000Z",
+          "wordCount": 390,
+          "title": "Discriminant of a sum type"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nomdit/custom_type_equality_errors/",
+          "author": null,
+          "description": "submitted by    /u/effectfully  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nomdit/custom_type_equality_errors/",
+          "publishedOn": "2021-05-30T22:34:51.000Z",
+          "wordCount": 121,
+          "title": "Custom type equality errors"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nokv8k/satisfying_quantified_constraints/",
+          "author": null,
+          "description": "Is it possible to satisfy a quantified constraint such as (forall a. c (t a)) if you happen to be able to satisfy c (t a) for any a (such as from a Dict)?\n Specifically, is it possible to write this function?\n forallConstraint :: forall kp kq (c :: kq -> Constraint) (t :: kp -> kq) r. (forall (a :: kp). Dict (c (t a))) -> ((forall (a :: kp). c (t a)) => r) -> r forallConstraint = ??? \n I feel like this should be possible, but I can't figure out how.\n    submitted by    /u/AshleyYakeley  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nokv8k/satisfying_quantified_constraints/",
+          "publishedOn": "2021-05-30T21:19:11.000Z",
+          "wordCount": 205,
+          "title": "Satisfying Quantified Constraints"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nojtd2/annotate_ast_with_location_information/",
+          "author": null,
+          "description": "Hello everyone,\n I'm currently writing a parser using megaparsec which produces the following output:\n data FileElement = SyntaxStmt SyntaxStatement | PackageSpec PackageSpecification | ImportStmt ImportStatement | OptionDef OptionDefinition | MsgDef MessageDefinition | EnumDef EnumDefinition | ServiceDef ServiceDefinition deriving (Show, Eq) type File = [FileElement] \n it goes on with more nested substructures.\n Now I realized that I need to record the location in the document for every entity.\n What would be the best way of integrating this into the AST? I would like to avoid changing the AST itself, but have the location information as some sort of \"annotation\" to the nodes, or just general ideas for that matter.\n I really appreciate your help and happy haskelling.\n    submitted by    /u/MachineGunPablo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nojtd2/annotate_ast_with_location_information/",
+          "publishedOn": "2021-05-30T20:29:10.000Z",
+          "wordCount": 1259,
+          "title": "Annotate AST with location information"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nohl3h/beginner_sudoku_solver_looking_for_feedback/",
+          "author": null,
+          "description": "I am a Haskell beginner who made a backtracking sudoku solver, but I am unsure about the quality of the code I wrote. I have come here looking for feedback, but if this is not the right subreddit, please refer me to the correct place. \n I am mainly looking to get rid of rookie mistakes, not looking for some amazing heuristic to make my sudoku solver 200x faster. \n It feels to me like there should be improvements I could make to the solve function, but I don't really know how or what to improve. \n The code: https://gist.github.com/lennertcl/548d412def010744594503a17f95f864\n Edit: gist instead of code directly\n    submitted by    /u/dazf3865  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nohl3h/beginner_sudoku_solver_looking_for_feedback/",
+          "publishedOn": "2021-05-30T18:44:45.000Z",
+          "wordCount": 1073,
+          "title": "Beginner sudoku solver looking for feedback"
+        },
+        {
           "id": "https://www.reddit.com/r/haskell/comments/nnyc01/there_is_no_cabal_hell/",
           "author": null,
           "description": "submitted by    /u/circleglyph  \n [link]   [comments]",
@@ -288,6 +333,15 @@
       "siteUrl": "https://www.reddit.com/r/TheMotte/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/TheMotte/comments/no4x8h/smallscale_question_sunday_for_may_30_2021/",
+          "author": null,
+          "description": "Do you have a dumb question that you're kind of embarrassed to ask in the main thread? Is there something you're just not sure about? \n This is your opportunity to ask questions. No question too simple or too silly. \n Culture war topics are accepted, and proposals for a better intro post are appreciated.\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/TheMotte/comments/no4x8h/smallscale_question_sunday_for_may_30_2021/",
+          "publishedOn": "2021-05-30T06:15:18.000Z",
+          "wordCount": 1592,
+          "title": "Small-Scale Question Sunday for May 30, 2021"
+        },
+        {
           "id": "https://www.reddit.com/r/TheMotte/comments/nnhc6v/adversary_drones_are_spying_on_the_us_and_the/",
           "author": null,
           "description": "submitted by    /u/Dust-specks  \n [link]   [comments]",
@@ -303,6 +357,96 @@
       "feedUrl": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
       "siteUrl": "https://www.reddit.com/r/ScientificNutrition/top/?sort=top&t=day",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/nobh0x/insulin_action_type_2_diabetes_and_branchedchain/",
+          "author": null,
+          "description": "submitted by    /u/basmwklz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/nobh0x/insulin_action_type_2_diabetes_and_branchedchain/",
+          "publishedOn": "2021-05-30T13:42:31.000Z",
+          "wordCount": 698,
+          "title": "Insulin action, type 2 diabetes, and branched-chain amino acids: a two-way street (May 2021)"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/no5f2q/mitochondrial_efflux_of_citrate_and_isocitrate_is/",
+          "author": null,
+          "description": "submitted by    /u/basmwklz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/no5f2q/mitochondrial_efflux_of_citrate_and_isocitrate_is/",
+          "publishedOn": "2021-05-30T06:52:37.000Z",
+          "wordCount": 444,
+          "title": "Mitochondrial efflux of citrate and isocitrate is fully dispensable for glucose-stimulated insulin secretion and pancreatic islet β-cell function (May 2021)"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/no5bm8/brain_glycogen_serves_as_a_critical_glucosamine/",
+          "author": null,
+          "description": "submitted by    /u/basmwklz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/no5bm8/brain_glycogen_serves_as_a_critical_glucosamine/",
+          "publishedOn": "2021-05-30T06:45:26.000Z",
+          "wordCount": 436,
+          "title": "Brain glycogen serves as a critical glucosamine cache required for protein glycosylation (May 2021)"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/no58u1/atg32_dependent_mitophagy_sustains_spermidine_and/",
+          "author": null,
+          "description": "submitted by    /u/basmwklz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/no58u1/atg32_dependent_mitophagy_sustains_spermidine_and/",
+          "publishedOn": "2021-05-30T06:39:46.000Z",
+          "wordCount": 390,
+          "title": "Atg32 dependent mitophagy sustains spermidine and nitric oxide required for heat stress tolerance in S. cerevisiae (May 2021)"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/no56vc/energy_metabolism_in_brown_adipose_tissue_may_2021/",
+          "author": null,
+          "description": "submitted by    /u/basmwklz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/no56vc/energy_metabolism_in_brown_adipose_tissue_may_2021/",
+          "publishedOn": "2021-05-30T06:35:44.000Z",
+          "wordCount": 361,
+          "title": "Energy metabolism in brown adipose tissue (May 2021)"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/no5423/energy_status_dictates_pdl1_protein_abundance_and/",
+          "author": null,
+          "description": "submitted by    /u/basmwklz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/no5423/energy_status_dictates_pdl1_protein_abundance_and/",
+          "publishedOn": "2021-05-30T06:29:52.000Z",
+          "wordCount": 417,
+          "title": "Energy status dictates PD-L1 protein abundance and anti-tumor immunity to enable checkpoint blockade (2021)"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/no4vf7/lycopene_increases_the_proportion_of_slowtwitch/",
+          "author": null,
+          "description": "submitted by    /u/basmwklz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/no4vf7/lycopene_increases_the_proportion_of_slowtwitch/",
+          "publishedOn": "2021-05-30T06:11:40.000Z",
+          "wordCount": 477,
+          "title": "Lycopene increases the proportion of slow-twitch muscle fiber by AMPK signaling to improve muscle anti-fatigue ability (2021)"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/no4tdt/apigenin_alleviates_oxidative_stressinduced/",
+          "author": null,
+          "description": "submitted by    /u/basmwklz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/no4tdt/apigenin_alleviates_oxidative_stressinduced/",
+          "publishedOn": "2021-05-30T06:07:21.000Z",
+          "wordCount": 439,
+          "title": "Apigenin Alleviates Oxidative Stress-Induced Cellular Senescence via Modulation of the SIRT1-NAD+-CD38 Axis (May 2021)"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/no4si4/iron_supplementation_regulates_the_progression_of/",
+          "author": null,
+          "description": "submitted by    /u/basmwklz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/no4si4/iron_supplementation_regulates_the_progression_of/",
+          "publishedOn": "2021-05-30T06:05:33.000Z",
+          "wordCount": 917,
+          "title": "Iron supplementation regulates the progression of high fat diet induced obesity and hepatic steatosis via mitochondrial signaling pathways (May 2021)"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/no4rop/zeaxanthin_promotes_browning_by_enhancing/",
+          "author": null,
+          "description": "submitted by    /u/basmwklz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/no4rop/zeaxanthin_promotes_browning_by_enhancing/",
+          "publishedOn": "2021-05-30T06:03:57.000Z",
+          "wordCount": 397,
+          "title": "Zeaxanthin promotes browning by enhancing mitochondrial biogenesis through the PKA pathway in 3T3-L1 adipocytes (May 2021)"
+        },
         {
           "id": "https://www.reddit.com/r/ScientificNutrition/comments/nnl2o8/aromatase_stimulator/",
           "author": null,
@@ -328,6 +472,33 @@
       "feedUrl": "https://www.reddit.com/r/redscarepod/top/.rss?sort=top&t=day&limit=3",
       "siteUrl": "https://www.reddit.com/r/redscarepod/top/?sort=top&t=day&limit=3",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/noaq0l/dudes_rocking/",
+          "author": null,
+          "description": "submitted by    /u/Xi_Pimping  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/noaq0l/dudes_rocking/",
+          "publishedOn": "2021-05-30T13:00:28.000Z",
+          "wordCount": 504,
+          "title": "Dudes rocking"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/no3e7i/footjob_from_a_pair_of_sisters_call_them_cocteau/",
+          "author": null,
+          "description": "submitted by    /u/TheWetSeel  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/no3e7i/footjob_from_a_pair_of_sisters_call_them_cocteau/",
+          "publishedOn": "2021-05-30T04:27:03.000Z",
+          "wordCount": 381,
+          "title": "footjob from a pair of sisters call them cocteau twins"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/no1arw/the_plandemic_was_only_the_beginning_permanent/",
+          "author": null,
+          "description": "submitted by    /u/gnosticbooger  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/no1arw/the_plandemic_was_only_the_beginning_permanent/",
+          "publishedOn": "2021-05-30T02:05:34.000Z",
+          "wordCount": 645,
+          "title": "The plandemic was only the beginning... permanent pmc agoraphobia is coming"
+        },
         {
           "id": "https://www.reddit.com/r/redscarepod/comments/nnpm46/something_nice_for_the_tl/",
           "author": null,
@@ -362,6 +533,141 @@
       "feedUrl": "https://rsshub.app/github/trending/daily/haskell",
       "siteUrl": "https://github.com/trending/haskell?since=daily",
       "articles": [
+        {
+          "id": "https://github.com/cdepillabout/servant-rawm",
+          "author": "cdepillabout",
+          "description": "Effectful Raw handler for Servant servers.\n    \nLanguage: Haskell\n                            \nStar: 9\n                            \nFork: 7",
+          "link": "https://github.com/cdepillabout/servant-rawm",
+          "publishedOn": "2021-05-31T02:01:05.156Z",
+          "wordCount": 679,
+          "title": "cdepillabout /\n\n      servant-rawm"
+        },
+        {
+          "id": "https://github.com/mwotton/roboservant",
+          "author": "mwotton",
+          "description": "generate contextually sensible fuzz tests for servant apps\n    \nLanguage: Haskell\n                            \nStar: 19\n                            \nFork: 5",
+          "link": "https://github.com/mwotton/roboservant",
+          "publishedOn": "2021-05-31T02:01:05.120Z",
+          "wordCount": 1199,
+          "title": "mwotton /\n\n      roboservant"
+        },
+        {
+          "id": "https://github.com/kmonad/kmonad",
+          "author": "kmonad",
+          "description": "An advanced keyboard manager\n    \nLanguage: Haskell\n                            \nStar: 684\n                            \nFork: 74",
+          "link": "https://github.com/kmonad/kmonad",
+          "publishedOn": "2021-05-31T02:01:05.083Z",
+          "wordCount": 1156,
+          "title": "kmonad /\n\n      kmonad"
+        },
+        {
+          "id": "https://github.com/Simspace/avaleryar",
+          "author": "Simspace",
+          "description": "A logical authorization system\n    \nLanguage: Haskell\n                            \nStar: 17\n                            \nFork: 5",
+          "link": "https://github.com/Simspace/avaleryar",
+          "publishedOn": "2021-05-31T02:01:05.043Z",
+          "wordCount": 3043,
+          "title": "Simspace /\n\n      avaleryar"
+        },
+        {
+          "id": "https://github.com/mwotton/squealgen",
+          "author": "mwotton",
+          "description": "generate haskell types for Squeal from a running postgresql database.\n    \nLanguage: Haskell\n                            \nStar: 18\n                            \nFork: 2",
+          "link": "https://github.com/mwotton/squealgen",
+          "publishedOn": "2021-05-31T02:01:05.001Z",
+          "wordCount": 782,
+          "title": "mwotton /\n\n      squealgen"
+        },
+        {
+          "id": "https://github.com/srid/neuron",
+          "author": "srid",
+          "description": "Future-proof note-taking and publishing based on Zettelkasten\n    \nLanguage: Haskell\n                            \nStar: 1,095\n                            \nFork: 136",
+          "link": "https://github.com/srid/neuron",
+          "publishedOn": "2021-05-31T02:01:04.977Z",
+          "wordCount": 607,
+          "title": "srid /\n\n      neuron"
+        },
+        {
+          "id": "https://github.com/carp-lang/Carp",
+          "author": "carp-lang",
+          "description": "A statically typed lisp, without a GC, for real-time applications.\n    \nLanguage: Haskell\n                            \nStar: 3,951\n                            \nFork: 146",
+          "link": "https://github.com/carp-lang/Carp",
+          "publishedOn": "2021-05-31T02:01:04.922Z",
+          "wordCount": 980,
+          "title": "carp-lang /\n\n      Carp"
+        },
+        {
+          "id": "https://github.com/xmonad/xmonad",
+          "author": "xmonad",
+          "description": "The core of xmonad, a small but functional ICCCM-compliant tiling window manager\n    \nLanguage: Haskell\n                            \nStar: 1,868\n                            \nFork: 209",
+          "link": "https://github.com/xmonad/xmonad",
+          "publishedOn": "2021-05-31T02:01:04.897Z",
+          "wordCount": 1147,
+          "title": "xmonad /\n\n      xmonad"
+        },
+        {
+          "id": "https://github.com/haskell/haskell-language-server",
+          "author": "haskell",
+          "description": "Successor of ghcide & haskell-ide-engine. One IDE to rule them all.\n    \nLanguage: Haskell\n                            \nStar: 1,541\n                            \nFork: 142",
+          "link": "https://github.com/haskell/haskell-language-server",
+          "publishedOn": "2021-05-31T02:01:04.854Z",
+          "wordCount": 4729,
+          "title": "haskell /\n\n      haskell-language-server"
+        },
+        {
+          "id": "https://github.com/wireapp/wire-server",
+          "author": "wireapp",
+          "description": "🇪🇺 Wire back-end services\n    \nLanguage: Haskell\n                            \nStar: 2,308\n                            \nFork: 311",
+          "link": "https://github.com/wireapp/wire-server",
+          "publishedOn": "2021-05-31T02:01:04.774Z",
+          "wordCount": 1807,
+          "title": "wireapp /\n\n      wire-server"
+        },
+        {
+          "id": "https://github.com/digital-asset/ghc-lib",
+          "author": "digital-asset",
+          "description": "The GHC API, decoupled from GHC versions\n    \nLanguage: Haskell\n                            \nStar: 128\n                            \nFork: 9",
+          "link": "https://github.com/digital-asset/ghc-lib",
+          "publishedOn": "2021-05-31T02:01:04.724Z",
+          "wordCount": 1647,
+          "title": "digital-asset /\n\n      ghc-lib"
+        },
+        {
+          "id": "https://github.com/input-output-hk/cardano-sl",
+          "author": "input-output-hk",
+          "description": "Cryptographic currency implementing Ouroboros PoS protocol\n    \nLanguage: Haskell\n                            \nStar: 3,612\n                            \nFork: 605",
+          "link": "https://github.com/input-output-hk/cardano-sl",
+          "publishedOn": "2021-05-31T02:01:04.679Z",
+          "wordCount": 1093,
+          "title": "input-output-hk /\n\n      cardano-sl"
+        },
+        {
+          "id": "https://github.com/kadena-io/chainweaver",
+          "author": "kadena-io",
+          "description": "Kadena Chainweaver desktop wallet and web-based playground for Pact\n    \nLanguage: Haskell\n                            \nStar: 15\n                            \nFork: 11",
+          "link": "https://github.com/kadena-io/chainweaver",
+          "publishedOn": "2021-05-31T02:01:04.614Z",
+          "wordCount": 2069,
+          "title": "kadena-io /\n\n      chainweaver"
+        },
+        {
+          "id": "https://github.com/haskell/cabal",
+          "author": "haskell",
+          "description": "Official upstream development repository for Cabal and cabal-install\n    \nLanguage: Haskell\n                            \nStar: 1,248\n                            \nFork: 546",
+          "link": "https://github.com/haskell/cabal",
+          "publishedOn": "2021-05-31T02:01:04.562Z",
+          "wordCount": 656,
+          "title": "haskell /\n\n      cabal"
+        },
+        {
+          "id": "https://github.com/flipstone/monad-trace",
+          "author": "flipstone",
+          "description": "A Monad for generate trace logs\n    \nLanguage: Haskell\n                            \nStar: \n                            \nFork:",
+          "link": "https://github.com/flipstone/monad-trace",
+          "publishedOn": "2021-05-31T02:01:04.507Z",
+          "wordCount": 416,
+          "title": "flipstone /\n\n      monad-trace"
+        },
         {
           "id": "https://github.com/flipstone/orville",
           "author": "flipstone",
@@ -594,6 +900,186 @@
       "feedUrl": "https://hnrss.org/frontpage",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=27338931",
+          "author": "mooreds",
+          "description": "Article URL: https://www.vice.com/en/article/m7egp8/why-corporations-wont-hire-any-remote-workers-in-colorado\nComments URL: https://news.ycombinator.com/item?id=27338931\nPoints: 4\n# Comments: 0",
+          "link": "https://www.vice.com/en/article/m7egp8/why-corporations-wont-hire-any-remote-workers-in-colorado",
+          "publishedOn": "2021-05-31T01:29:46.000Z",
+          "wordCount": 942,
+          "title": "Why Corporations Won’t Hire Remote Workers in Colorado"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27338596",
+          "author": "WarOnPrivacy",
+          "description": "Article URL: https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html\nComments URL: https://news.ycombinator.com/item?id=27338596\nPoints: 6\n# Comments: 0",
+          "link": "https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html",
+          "publishedOn": "2021-05-31T00:45:34.000Z",
+          "wordCount": 1060,
+          "title": "I Was Paralyzed by Severe Depression. Then Came Ketamine"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27338479",
+          "author": "illuminated",
+          "description": "Article URL: https://github.com/cs01/termpair\nComments URL: https://news.ycombinator.com/item?id=27338479\nPoints: 29\n# Comments: 14",
+          "link": "https://github.com/cs01/termpair",
+          "publishedOn": "2021-05-31T00:25:05.000Z",
+          "wordCount": 1014,
+          "title": "TermPair: Terminal sharing with AES-GCM 128 bit end-to-end encryption"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27338157",
+          "author": "nireyal",
+          "description": "Article URL: https://www.nirandfar.com/cancel-new-york-times/\nComments URL: https://news.ycombinator.com/item?id=27338157\nPoints: 95\n# Comments: 43",
+          "link": "https://www.nirandfar.com/cancel-new-york-times/",
+          "publishedOn": "2021-05-30T23:43:16.000Z",
+          "wordCount": 1658,
+          "title": "The New York Times uses the dark patterns it derides"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27338098",
+          "author": "bbatsell",
+          "description": "Article URL: https://twitter.com/TheSofaaa/status/1398990015611473927\nComments URL: https://news.ycombinator.com/item?id=27338098\nPoints: 100\n# Comments: 37",
+          "link": "https://twitter.com/TheSofaaa/status/1398990015611473927",
+          "publishedOn": "2021-05-30T23:37:08.000Z",
+          "wordCount": 196,
+          "title": "Uber charges driver for completing a 13-mile fare"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27338008",
+          "author": "LifeIsBio",
+          "description": "With Google ending its free photo storage policy in a few days[0], I'm considering switching to another service. I've poked around a few recommendation sites[1], but am curious to know if anyone has suggestions for new and/or under-the-radar services they would recommend?\n[0] https://blog.google/products/photos/storage-changes/\n[1] https://www.techradar.com/how-to/best-google-photos-alternat...\nComments URL: https://news.ycombinator.com/item?id=27338008\nPoints: 54\n# Comments: 38",
+          "link": "https://news.ycombinator.com/item?id=27338008",
+          "publishedOn": "2021-05-30T23:26:44.000Z",
+          "wordCount": 2178,
+          "title": "Ask HN: Alternatives to Google Photos?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27337382",
+          "author": "minama",
+          "description": "Article URL: https://www.windowslatest.com/2021/05/31/windows-10-is-now-nagging-users-with-microsoft-bing-alerts/\nComments URL: https://news.ycombinator.com/item?id=27337382\nPoints: 61\n# Comments: 20",
+          "link": "https://www.windowslatest.com/2021/05/31/windows-10-is-now-nagging-users-with-microsoft-bing-alerts/",
+          "publishedOn": "2021-05-30T22:12:30.000Z",
+          "wordCount": 828,
+          "title": "Windows 10 nagging users with Bing advertisements (push alerts)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27337171",
+          "author": "ksangeelee",
+          "description": "Article URL: https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/\nComments URL: https://news.ycombinator.com/item?id=27337171\nPoints: 122\n# Comments: 95",
+          "link": "https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/",
+          "publishedOn": "2021-05-30T21:46:31.000Z",
+          "wordCount": 5082,
+          "title": "The Shortest Possible Game of Monopoly (2010)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27337044",
+          "author": "e2e4",
+          "description": "Article URL: https://www.bbc.com/sport/tennis/57301475\nComments URL: https://news.ycombinator.com/item?id=27337044\nPoints: 42\n# Comments: 60",
+          "link": "https://www.bbc.com/sport/tennis/57301475",
+          "publishedOn": "2021-05-30T21:33:03.000Z",
+          "wordCount": 2916,
+          "title": "Naomi Osaka faces default from Grand Slam for refusing to speak to media"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27336815",
+          "author": "killittosaveit",
+          "description": "Article URL: https://theamericanscholar.org/if-you-frame-it-like-that/\nComments URL: https://news.ycombinator.com/item?id=27336815\nPoints: 13\n# Comments: 0",
+          "link": "https://theamericanscholar.org/if-you-frame-it-like-that/",
+          "publishedOn": "2021-05-30T21:10:22.000Z",
+          "wordCount": 2811,
+          "title": "If you frame it like that (2020)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27336808",
+          "author": "martincmartin",
+          "description": "Article URL: https://www.economist.com/science-and-technology/2021/05/26/improving-ventilation-will-help-curb-sars-cov-2\nComments URL: https://news.ycombinator.com/item?id=27336808\nPoints: 87\n# Comments: 50",
+          "link": "https://www.economist.com/science-and-technology/2021/05/26/improving-ventilation-will-help-curb-sars-cov-2",
+          "publishedOn": "2021-05-30T21:09:43.000Z",
+          "wordCount": 2817,
+          "title": "Improving ventilation will help curb SARS-CoV-2"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27336584",
+          "author": "amjd",
+          "description": "Article URL: https://rfc.fyi/\nComments URL: https://news.ycombinator.com/item?id=27336584\nPoints: 65\n# Comments: 9",
+          "link": "https://rfc.fyi/",
+          "publishedOn": "2021-05-30T20:47:16.000Z",
+          "wordCount": 28,
+          "title": "RFC.fyi: Browse RFCs by keywords, id or collection"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27335574",
+          "author": "cratermoon",
+          "description": "Article URL: https://twitter.com/Pinboard/status/1399058952336277505\nComments URL: https://news.ycombinator.com/item?id=27335574\nPoints: 630\n# Comments: 463",
+          "link": "https://twitter.com/Pinboard/status/1399058952336277505",
+          "publishedOn": "2021-05-30T18:55:41.000Z",
+          "wordCount": 196,
+          "title": "It's time for us in the tech world to speak out about cryptocurrency"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27335114",
+          "author": "jasoncrawford",
+          "description": "Article URL: https://rootsofprogress.org/nuclear-physics\nComments URL: https://news.ycombinator.com/item?id=27335114\nPoints: 43\n# Comments: 17",
+          "link": "https://rootsofprogress.org/nuclear-physics",
+          "publishedOn": "2021-05-30T18:02:25.000Z",
+          "wordCount": 4327,
+          "title": "How counting neutrons explains nuclear waste"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27334621",
+          "author": "gkoberger",
+          "description": "Article URL: https://readme.com/careers#head-of-product-management\nComments URL: https://news.ycombinator.com/item?id=27334621\nPoints: 1\n# Comments: 0",
+          "link": "https://readme.com/careers#head-of-product-management",
+          "publishedOn": "2021-05-30T17:00:55.000Z",
+          "wordCount": 1517,
+          "title": "ReadMe (YC W15) Is Hiring a Head of Product Management with API Experience"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27334430",
+          "author": "nsonachalam",
+          "description": "Article URL: https://github.com/dineshsonachalam/Lucid-Dynamodb\nComments URL: https://news.ycombinator.com/item?id=27334430\nPoints: 36\n# Comments: 28",
+          "link": "https://github.com/dineshsonachalam/Lucid-Dynamodb",
+          "publishedOn": "2021-05-30T16:36:38.000Z",
+          "wordCount": 2158,
+          "title": "A minimalistic Python wrapper to AWS DynamoDB"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27334223",
+          "author": "mrzool",
+          "description": "Article URL: https://neil.computer/notes/overkill-objects-for-everyday-life/\nComments URL: https://news.ycombinator.com/item?id=27334223\nPoints: 660\n# Comments: 493",
+          "link": "https://neil.computer/notes/overkill-objects-for-everyday-life/",
+          "publishedOn": "2021-05-30T16:10:20.000Z",
+          "wordCount": 876,
+          "title": "Overkill objects for everyday life"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27334065",
+          "author": "teleforce",
+          "description": "Article URL: https://terralang.org/\nComments URL: https://news.ycombinator.com/item?id=27334065\nPoints: 106\n# Comments: 23",
+          "link": "https://terralang.org/",
+          "publishedOn": "2021-05-30T15:49:19.000Z",
+          "wordCount": 3219,
+          "title": "Terra: Low-level system programming language meta-programmed from Lua"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27333933",
+          "author": "yarapavan",
+          "description": "Article URL: https://mattstoller.substack.com/p/amazon-primes-free-shipping-promise\nComments URL: https://news.ycombinator.com/item?id=27333933\nPoints: 794\n# Comments: 351",
+          "link": "https://mattstoller.substack.com/p/amazon-primes-free-shipping-promise",
+          "publishedOn": "2021-05-30T15:30:57.000Z",
+          "wordCount": 3346,
+          "title": "Amazon Prime inflates prices, using the false promise of ‘free shipping’"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27333772",
+          "author": "paddim8",
+          "description": "Article URL: https://kalk.strct.net\nComments URL: https://news.ycombinator.com/item?id=27333772\nPoints: 166\n# Comments: 56",
+          "link": "https://kalk.strct.net",
+          "publishedOn": "2021-05-30T15:07:50.000Z",
+          "wordCount": 490,
+          "title": "Show HN: Kalk, A calculator with math syntax, complex numbers"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=27329678",
           "author": "dataflow",
