@@ -2,10 +2,709 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://srid.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-31T02:01:05.177Z</updated>
+    <updated>2021-06-01T02:22:35.438Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://srid.github.io/feeds/index.html"/>
     <link rel="self" href="https://srid.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[simonmichael /
+
+      hledger]]></title>
+        <id>https://github.com/simonmichael/hledger</id>
+        <link href="https://github.com/simonmichael/hledger"/>
+        <updated>2021-06-01T02:22:33.309Z</updated>
+        <summary type="html"><![CDATA[easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
+    
+Language: Haskell
+                            
+Star: 1,758
+                            
+Fork: 228]]></summary>
+        <author>
+            <name>simonmichael</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hasura /
+
+      pg-client-hs]]></title>
+        <id>https://github.com/hasura/pg-client-hs</id>
+        <link href="https://github.com/hasura/pg-client-hs"/>
+        <updated>2021-06-01T02:22:33.207Z</updated>
+        <summary type="html"><![CDATA[A low level Haskell library to connect to postgres 
+    
+Language: Haskell
+                            
+Star: 17
+                            
+Fork: 16]]></summary>
+        <author>
+            <name>hasura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jgm /
+
+      pandoc]]></title>
+        <id>https://github.com/jgm/pandoc</id>
+        <link href="https://github.com/jgm/pandoc"/>
+        <updated>2021-06-01T02:22:32.993Z</updated>
+        <summary type="html"><![CDATA[Universal markup converter
+    
+Language: Haskell
+                            
+Star: 22,639
+                            
+Fork: 2,679]]></summary>
+        <author>
+            <name>jgm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[digitallyinduced /
+
+      ihp]]></title>
+        <id>https://github.com/digitallyinduced/ihp</id>
+        <link href="https://github.com/digitallyinduced/ihp"/>
+        <updated>2021-06-01T02:22:32.937Z</updated>
+        <summary type="html"><![CDATA[🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
+    
+Language: Haskell
+                            
+Star: 1,957
+                            
+Fork: 96]]></summary>
+        <author>
+            <name>digitallyinduced</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgREST /
+
+      postgrest]]></title>
+        <id>https://github.com/PostgREST/postgrest</id>
+        <link href="https://github.com/PostgREST/postgrest"/>
+        <updated>2021-06-01T02:22:32.892Z</updated>
+        <summary type="html"><![CDATA[REST API for any Postgres database
+    
+Language: Haskell
+                            
+Star: 17,103
+                            
+Fork: 787]]></summary>
+        <author>
+            <name>PostgREST</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[graninas /
+
+      software-design-in-haskell]]></title>
+        <id>https://github.com/graninas/software-design-in-haskell</id>
+        <link href="https://github.com/graninas/software-design-in-haskell"/>
+        <updated>2021-06-01T02:22:32.794Z</updated>
+        <summary type="html"><![CDATA[Software Design in Haskell. A structured set of materials. How to build real-world applications in Haskell.
+    
+Language: Haskell
+                            
+Star: 789
+                            
+Fork: 47]]></summary>
+        <author>
+            <name>graninas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[coproduto /
+
+      purelisp]]></title>
+        <id>https://github.com/coproduto/purelisp</id>
+        <link href="https://github.com/coproduto/purelisp"/>
+        <updated>2021-06-01T02:22:32.746Z</updated>
+        <summary type="html"><![CDATA[Some day, a purely functional Lisp. Right now? Just a silly prototype.
+    
+Language: Haskell
+                            
+Star: 16
+                            
+Fork:]]></summary>
+        <author>
+            <name>coproduto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      ouroboros-network]]></title>
+        <id>https://github.com/input-output-hk/ouroboros-network</id>
+        <link href="https://github.com/input-output-hk/ouroboros-network"/>
+        <updated>2021-06-01T02:22:32.728Z</updated>
+        <summary type="html"><![CDATA[An implementation of the Ouroboros family of consensus algorithms, with its networking support
+    
+Language: Haskell
+                            
+Star: 138
+                            
+Fork: 41]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[olivierverdier /
+
+      zsh-git-prompt]]></title>
+        <id>https://github.com/olivierverdier/zsh-git-prompt</id>
+        <link href="https://github.com/olivierverdier/zsh-git-prompt"/>
+        <updated>2021-06-01T02:22:32.660Z</updated>
+        <summary type="html"><![CDATA[Informative git prompt for zsh
+    
+Language: Haskell
+                            
+Star: 1,502
+                            
+Fork: 364]]></summary>
+        <author>
+            <name>olivierverdier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Anxiety of Influencers]]></title>
+        <id>https://news.ycombinator.com/item?id=27349755</id>
+        <link href="https://harpers.org/archive/2021/06/tiktok-house-collab-house-the-anxiety-of-influencers/"/>
+        <updated>2021-06-01T01:03:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://harpers.org/archive/2021/06/tiktok-house-collab-house-the-anxiety-of-influencers/
+Comments URL: https://news.ycombinator.com/item?id=27349755
+Points: 27
+# Comments: 13]]></summary>
+        <author>
+            <name>acabal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese ‘Artificial Sun’ experimental fusion reactor sets world record]]></title>
+        <id>https://news.ycombinator.com/item?id=27349469</id>
+        <link href="https://nation.com.pk/29-May-2021/chinese-artificial-sun-experimental-fusion-reactor-sets-world-record-for-superheated-plasma-time"/>
+        <updated>2021-06-01T00:11:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nation.com.pk/29-May-2021/chinese-artificial-sun-experimental-fusion-reactor-sets-world-record-for-superheated-plasma-time
+Comments URL: https://news.ycombinator.com/item?id=27349469
+Points: 24
+# Comments: 8]]></summary>
+        <author>
+            <name>pier25</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A satiety index of common foods "Protein, fibre, and water contents of the test foods correlated positively with SI scores (r = 0.37, P < 0.05, n = 38; r = 0.46, P < 0.01; and r = 0.64, P < 0.001; respectively) whereas fat content was negatively associated (r = -0.43, P < 0.01)."]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/npepl7/a_satiety_index_of_common_foods_protein_fibre_and/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/npepl7/a_satiety_index_of_common_foods_protein_fibre_and/"/>
+        <updated>2021-05-31T22:09:43.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Bluest_waters  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BuildZoom (better way to build custom homes) Is hiring a Principal Engineer]]></title>
+        <id>https://news.ycombinator.com/item?id=27347983</id>
+        <link href="https://jobs.lever.co/buildzoom"/>
+        <updated>2021-05-31T21:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/buildzoom
+Comments URL: https://news.ycombinator.com/item?id=27347983
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>the_economist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mila Kunis come on the pod]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/npd2sd/mila_kunis_come_on_the_pod/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/npd2sd/mila_kunis_come_on_the_pod/"/>
+        <updated>2021-05-31T20:52:15.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/juniebejonesing  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sodium rutin extends lifespan and health span in mice by 10%]]></title>
+        <id>https://news.ycombinator.com/item?id=27347818</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/33555034/"/>
+        <updated>2021-05-31T20:35:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pubmed.ncbi.nlm.nih.gov/33555034/
+Comments URL: https://news.ycombinator.com/item?id=27347818
+Points: 122
+# Comments: 67]]></summary>
+        <author>
+            <name>ve55</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Digital Wallet of the Future (1996)]]></title>
+        <id>https://news.ycombinator.com/item?id=27347272</id>
+        <link href="https://buffalonews.com/news/the-digital-wallet-of-the-future/article_321a88e4-5141-5640-bab6-a616afeb7872.html"/>
+        <updated>2021-05-31T19:16:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://buffalonews.com/news/the-digital-wallet-of-the-future/article_321a88e4-5141-5640-bab6-a616afeb7872.html
+Comments URL: https://news.ycombinator.com/item?id=27347272
+Points: 46
+# Comments: 34]]></summary>
+        <author>
+            <name>Lammy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm having trouble with a recursion]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/npatqk/im_having_trouble_with_a_recursion/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/npatqk/im_having_trouble_with_a_recursion/"/>
+        <updated>2021-05-31T19:07:37.000Z</updated>
+        <summary type="html"><![CDATA[So i have this assignment where i have to code a game called "Nim" where two players take turns removing objects from distinct heaps or piles, and the player that gets to remove the last object wins. I've already coded a function for doing a specific move, i.e : play [1,2,3,4] (3,2) = [1,2,1,4]. [1,2,3,4] would be the number of objects on each tile, and (3,2) would be removing 2 objects from the third tile. I also coded a function that gives a list of all the posible plays on a specific board position, i.e: possiblePlays [1,2,3] = [(1,1), (2,2),(2,1),(3,3), (3,2), (3,1)] The problem i'm having is that now i have to code a function that tells me if a board position (like [1,2,3,4]) is "winnable": a board position is winnable if a play exists that can lead to the other player getting a not winnable board position. i.e: isItWinnable [] = False (because you can't make another move, so you lose) isItWinnable [1] = True (because you get to remove the last object). I think these could be the base cases, but i'm having a lot of trouble thinking the recursion. I'm sorry for the long post and the messy english, it's not my native language and i had to translate everything from spanish. If anyone has any ideas or tips it would be greatly appreciated. Thanks in advance.
+    submitted by    /u/flacc1d_snake  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The May 18 Gwangju Uprising]]></title>
+        <id>https://news.ycombinator.com/item?id=27347039</id>
+        <link href="https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1"/>
+        <updated>2021-05-31T18:50:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1
+Comments URL: https://news.ycombinator.com/item?id=27347039
+Points: 160
+# Comments: 56]]></summary>
+        <author>
+            <name>exolymph</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Smoking]]></title>
+        <id>https://news.ycombinator.com/item?id=27347035</id>
+        <link href="https://annagat.substack.com/p/on-smoking"/>
+        <updated>2021-05-31T18:50:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://annagat.substack.com/p/on-smoking
+Comments URL: https://news.ycombinator.com/item?id=27347035
+Points: 189
+# Comments: 171]]></summary>
+        <author>
+            <name>exolymph</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Small B Blogging (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=27347026</id>
+        <link href="https://tomcritchlow.com/2018/02/23/small-b-blogging/"/>
+        <updated>2021-05-31T18:49:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tomcritchlow.com/2018/02/23/small-b-blogging/
+Comments URL: https://news.ycombinator.com/item?id=27347026
+Points: 50
+# Comments: 7]]></summary>
+        <author>
+            <name>exolymph</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The faulty digital clock problem]]></title>
+        <id>https://news.ycombinator.com/item?id=27346655</id>
+        <link href="https://andersource.dev/2021/04/29/faulty_digital_clock.html"/>
+        <updated>2021-05-31T18:02:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://andersource.dev/2021/04/29/faulty_digital_clock.html
+Comments URL: https://news.ycombinator.com/item?id=27346655
+Points: 66
+# Comments: 6]]></summary>
+        <author>
+            <name>andersource</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dragon Go Server]]></title>
+        <id>https://news.ycombinator.com/item?id=27346464</id>
+        <link href="https://www.dragongoserver.net/"/>
+        <updated>2021-05-31T17:42:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.dragongoserver.net/
+Comments URL: https://news.ycombinator.com/item?id=27346464
+Points: 70
+# Comments: 29]]></summary>
+        <author>
+            <name>Tomte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Midsommar (2019)]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/np8t23/midsommar_2019/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/np8t23/midsommar_2019/"/>
+        <updated>2021-05-31T17:35:52.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/WaspQuaker  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serverless Functions: The Secret to Ultra-Productive Front-End Teams]]></title>
+        <id>https://css-tricks.com/?p=340465</id>
+        <link href="https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/"/>
+        <updated>2021-05-31T17:16:22.000Z</updated>
+        <summary type="html"><![CDATA[Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:
+building modern, accessible user interfaces
+creating interactive elements and complex animations
+managing complex application state
+…
+The post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jason Lengstorf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local: Always Getting Better]]></title>
+        <id>https://css-tricks.com/?p=341482</id>
+        <link href="https://css-tricks.com/local-always-getting-better/"/>
+        <updated>2021-05-31T17:13:02.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …
+The post Local: Always Getting Better appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Science Fiction Writer Robert J. Sawyer: WordStar: A Writer's Word Processor]]></title>
+        <id>https://news.ycombinator.com/item?id=27345969</id>
+        <link href="https://www.sfwriter.com/wordstar.htm"/>
+        <updated>2021-05-31T16:53:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.sfwriter.com/wordstar.htm
+Comments URL: https://news.ycombinator.com/item?id=27345969
+Points: 47
+# Comments: 20]]></summary>
+        <author>
+            <name>amadeuspagel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UUID, serial or identity columns for PostgreSQL auto-generated primary keys?]]></title>
+        <id>https://news.ycombinator.com/item?id=27345837</id>
+        <link href="https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/"/>
+        <updated>2021-05-31T16:38:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/
+Comments URL: https://news.ycombinator.com/item?id=27345837
+Points: 152
+# Comments: 97]]></summary>
+        <author>
+            <name>lhenk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The most expensive number in engineering]]></title>
+        <id>https://news.ycombinator.com/item?id=27345784</id>
+        <link href="https://surjan.substack.com/p/the-most-expensive-number-in-engineering"/>
+        <updated>2021-05-31T16:34:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://surjan.substack.com/p/the-most-expensive-number-in-engineering
+Comments URL: https://news.ycombinator.com/item?id=27345784
+Points: 340
+# Comments: 120]]></summary>
+        <author>
+            <name>as89</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Macro View of Nanite]]></title>
+        <id>https://news.ycombinator.com/item?id=27345411</id>
+        <link href="https://www.elopezr.com/a-macro-view-of-nanite/"/>
+        <updated>2021-05-31T16:04:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.elopezr.com/a-macro-view-of-nanite/
+Comments URL: https://news.ycombinator.com/item?id=27345411
+Points: 86
+# Comments: 15]]></summary>
+        <author>
+            <name>haxiomic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We only ever talk about the third attack on Pearl Harbor]]></title>
+        <id>https://news.ycombinator.com/item?id=27345075</id>
+        <link href="https://www.butwhatfor.com/admiral-yarnell-and-an-attack-on-pearl-harbor/"/>
+        <updated>2021-05-31T15:35:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.butwhatfor.com/admiral-yarnell-and-an-attack-on-pearl-harbor/
+Comments URL: https://news.ycombinator.com/item?id=27345075
+Points: 259
+# Comments: 132]]></summary>
+        <author>
+            <name>stanrivers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Donating my time to grow a VC-funded company: why I quit mentoring at Plato]]></title>
+        <id>https://news.ycombinator.com/item?id=27344978</id>
+        <link href="https://blog.pragmaticengineer.com/quit-mentoring-at-plato/"/>
+        <updated>2021-05-31T15:25:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.pragmaticengineer.com/quit-mentoring-at-plato/
+Comments URL: https://news.ycombinator.com/item?id=27344978
+Points: 155
+# Comments: 34]]></summary>
+        <author>
+            <name>yarapavan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ketogenic diets better for glycemic control and weight loss than low fat diets.]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/np5ezb/ketogenic_diets_better_for_glycemic_control_and/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/np5ezb/ketogenic_diets_better_for_glycemic_control_and/"/>
+        <updated>2021-05-31T15:02:23.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/LegaliseThatBitch  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostGIS at 20, the Beginning]]></title>
+        <id>https://news.ycombinator.com/item?id=27344639</id>
+        <link href="http://blog.cleverelephant.ca/2021/05/postgis-20-years.html"/>
+        <updated>2021-05-31T14:53:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://blog.cleverelephant.ca/2021/05/postgis-20-years.html
+Comments URL: https://news.ycombinator.com/item?id=27344639
+Points: 246
+# Comments: 27]]></summary>
+        <author>
+            <name>jkatz05</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s new popup will further weaken Facebook’s advertisement business]]></title>
+        <id>https://news.ycombinator.com/item?id=27344617</id>
+        <link href="https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken"/>
+        <updated>2021-05-31T14:50:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken
+Comments URL: https://news.ycombinator.com/item?id=27344617
+Points: 173
+# Comments: 176]]></summary>
+        <author>
+            <name>devnerd239</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trying to find the breakdown of participants in the anti-vax narrative on a spectrum of rationality, please help.]]></title>
+        <id>https://www.reddit.com/r/TheMotte/comments/np52xc/trying_to_find_the_breakdown_of_participants_in/</id>
+        <link href="https://www.reddit.com/r/TheMotte/comments/np52xc/trying_to_find_the_breakdown_of_participants_in/"/>
+        <updated>2021-05-31T14:47:45.000Z</updated>
+        <summary type="html"><![CDATA[So my wife and I have been discussing the vaccines, and She is of the opinion that there is no AntiVaxx community, but that rather the media has used that term to malign “vaccine critical” or vaccine hesitant communities. Her belief is that the vast majority of people who are (unfairly) called Anti Vaxxers are responsible, educated adults who are concerned about more reasonable issues, such the increased number of vaccines children are required to get, issues around personal autonomy and government overreach, or the lack of study of vaccines in combination with other preexisting conditions. She thinks the number of people who actually think that Fauci is the Antichrist and that the vaccines are microchips or whatever other crazy thing is vanishingly small. She does not believe any substantially large number of people would proudly call themselves “Anti Vax”. I am of the opinion that it’s the other way around, I think most people who have any criticism of vaccines are on the more extreme end of things, and are fairly likely to also believe in QAnon or Trump being sent by god, and it’s actually the logical, measured and thoughtful vaccine “questioners” who are in the minority. She’s asking me to offer proof of my theory on this, can anyone help direct me to an online community or space where I can show her how many people actually exist on the extreme/delusional end of this?
+    submitted by    /u/industrial_trust  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : TheMotte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordTsar, a WordStar Clone]]></title>
+        <id>https://news.ycombinator.com/item?id=27344426</id>
+        <link href="http://wordtsar.ca/"/>
+        <updated>2021-05-31T14:32:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://wordtsar.ca/
+Comments URL: https://news.ycombinator.com/item?id=27344426
+Points: 167
+# Comments: 93]]></summary>
+        <author>
+            <name>rhabarba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Role Do Plant-Based Diets Play in Supporting the Optimal Health and Well-being of Canadians? A Scoping Review]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/np4ky1/what_role_do_plantbased_diets_play_in_supporting/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/np4ky1/what_role_do_plantbased_diets_play_in_supporting/"/>
+        <updated>2021-05-31T14:24:33.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/nooobiiiiiiiiiii  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twenty questions on atherosclerosis [2000]]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/np4fvj/twenty_questions_on_atherosclerosis_2000/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/np4fvj/twenty_questions_on_atherosclerosis_2000/"/>
+        <updated>2021-05-31T14:17:46.000Z</updated>
+        <summary type="html"><![CDATA[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1312295/
+ Characteristics of herbivores and carnivores, causes of atherosclerosis, serum cholesterol and atherosclerosis, reductions in LDL from reduction in fat in diets, and statins.
+    submitted by    /u/applysauce  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Library announcement: 'safe-wild-cards', better static guarantees for -XRecordWildCards]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/np459m/library_announcement_safewildcards_better_static/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/np459m/library_announcement_safewildcards_better_static/"/>
+        <updated>2021-05-31T14:03:39.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/peargreen  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sign a PDF document client-side with no data leaving the computer]]></title>
+        <id>https://news.ycombinator.com/item?id=27344069</id>
+        <link href="https://observablehq.com/@tomlarkworthy/sign-a-pdf"/>
+        <updated>2021-05-31T13:51:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://observablehq.com/@tomlarkworthy/sign-a-pdf
+Comments URL: https://news.ycombinator.com/item?id=27344069
+Points: 99
+# Comments: 66]]></summary>
+        <author>
+            <name>tlarkworthy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Declaration groups: where order of declarations suddenly matters in Haskell]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/np3nq6/declaration_groups_where_order_of_declarations/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/np3nq6/declaration_groups_where_order_of_declarations/"/>
+        <updated>2021-05-31T13:40:43.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/peargreen  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[happy birthday to these red scare heroes]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/np3ll7/happy_birthday_to_these_red_scare_heroes/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/np3ll7/happy_birthday_to_these_red_scare_heroes/"/>
+        <updated>2021-05-31T13:37:38.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/womenontheverge98  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting started with Haskell projects using Scotty]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/np211m/getting_started_with_haskell_projects_using_scotty/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/np211m/getting_started_with_haskell_projects_using_scotty/"/>
+        <updated>2021-05-31T12:14:32.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/jpvillaisaza  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Need some help figuring this out.]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/np20fo/need_some_help_figuring_this_out/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/np20fo/need_some_help_figuring_this_out/"/>
+        <updated>2021-05-31T12:13:33.000Z</updated>
+        <summary type="html"><![CDATA[type Height = Int type Length = Int data Legu = Stein Length Height [Legu] | Dach Length Height bsp = Stein 8 3 [ Stein 3 2 [ Dach 1 1, Stein 2 1 [Dach 2 1] ], Stein 5 1 [ Stein 2 2 [Dach 1 2, Dach 1 2], Stein 2 2 [Dach 1 1] ] ] foldLegu :: (Length -> Height -> [b] -> b) -> (Length -> Height -> b) -> Legu -> b foldLegu fs fd (Stein le he l) = fs le he (map (foldLegu fs fd) l) foldLegu fs fd (Dach le he) = fd le he correct :: Legu -> Bool correct = foldLegu (\ le he l -> ) (\ le he -> True) 
+ I basically have this code, the purpose of it is to find out if the structure I created is Correct. Basically the "Stein" has inside it all the other elements that are supposed to be above it. The "Dach" is the Roof and so it cannot take anything else above it. The correctness of the Structure is determined by the length of all the elements above a "Stein". So if it were that the total length of all elements above the "Stein" is smaller or equal to the Length of that "Stein" the Structure is considered Correct and true is given out. But I have no clue how I should continue from this point onwards. I have no clue how to verify the Length of all the structures above a "Stein" in such a way that still only Boolean comes out in the end.
+ Edit: I did manage to come up with somewhat of a hacky solution to it which I am not really a fan of.
+ correct :: Legu -> Bool correct x = 0 <= foldLegu (\ le _ l -> if le >= sum l && sum l >= 0 then le else -le) const x 
+ Is there a more elegant way with which to do this, I am particularly not a fan of the fact I am simply giving out a negative number if the structure is not correct.
+    submitted by    /u/_Biological_hazard_  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How can Obelisk detect that i am inside an Obelisk project?]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/np1twq/how_can_obelisk_detect_that_i_am_inside_an/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/np1twq/how_can_obelisk_detect_that_i_am_inside_an/"/>
+        <updated>2021-05-31T12:03:07.000Z</updated>
+        <summary type="html"><![CDATA[I created a new Obelisk Project with "ob init" and then pushed it to Github. Now i want to work on the project with my notebook, so I cloned the project and tried to run it via "ob run". I get the following Error:
+ Must be used inside of an Obelisk project 
+ How can i tell Obelisk that i am inside a project folder? I am new to Haskell/Obelisk, i was always used to the comfort of an IDE which can specificially open a project instead of a folder.
+    submitted by    /u/SP411K  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to build old Haskell projects]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/noyr9l/how_to_build_old_haskell_projects/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/noyr9l/how_to_build_old_haskell_projects/"/>
+        <updated>2021-05-31T08:50:05.000Z</updated>
+        <summary type="html"><![CDATA[Hello...
+ Does anyone study old Haskell projects on Github and try to build executables?
+ ​
+ I am looking into an old project which was abandoned seven years ago. The current version of the Stack tool fails. Someone gave me a hint I should try Stack v1.9.3 . But how do I get a Windows executable?
+ Has anyone blogged about the problem?
+ Thanks, Hubert.
+    submitted by    /u/H1h8  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Depression and Vegetarians: Association between Dietary Vitamin B6, B12 and Folate Intake and Global and Subcortical Brain Volumes]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/noyqkx/depression_and_vegetarians_association_between/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/noyqkx/depression_and_vegetarians_association_between/"/>
+        <updated>2021-05-31T08:48:48.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/greyuniwave  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Book Review: Unmasked - Andy Ngo]]></title>
+        <id>https://www.reddit.com/r/TheMotte/comments/nox63f/book_review_unmasked_andy_ngo/</id>
+        <link href="https://www.reddit.com/r/TheMotte/comments/nox63f/book_review_unmasked_andy_ngo/"/>
+        <updated>2021-05-31T06:59:28.000Z</updated>
+        <summary type="html"><![CDATA[Andy Ngo is a conservative journalist previously living in Portland OR who made reporting on Antifa his bread and butter. Antifa is more of a tactic than a cohesive or tangible group, but ostensibly it describes the practice of left-wing radicals masking up and engaging in physical altercations at protests and demonstrations with individuals who are determined to be too right-wing (generally labelled as "fash" or "nazis" by Antifa).
+ Antifa hates Ngo. Like, really really fucking hates him. He unexpectedly became part of the story when he got viciously assaulted in July 2019 with liquid thrown at him and suffering a brain hemorrhage from the assault. Simultaneously, the assault also significantly raised his profile on the national stage, even earning a shout-out from Trump himself.
+ Ngo's b…]]></summary>
+        <author>
+            <name>top scoring links : TheMotte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Culture War Roundup for the week of May 31, 2021]]></title>
+        <id>https://www.reddit.com/r/TheMotte/comments/nowgdg/culture_war_roundup_for_the_week_of_may_31_2021/</id>
+        <link href="https://www.reddit.com/r/TheMotte/comments/nowgdg/culture_war_roundup_for_the_week_of_may_31_2021/"/>
+        <updated>2021-05-31T06:15:17.000Z</updated>
+        <summary type="html"><![CDATA[This weekly roundup thread is intended for all culture war posts. 'Culture war' is vaguely defined, but it basically means controversial issues that fall along set tribal lines. Arguments over culture war issues generate a lot of heat and little light, and few deeply entrenched people ever change their minds. This thread is for voicing opinions and analyzing the state of the discussion while trying to optimize for light over heat.
+ Optimistically, we think that engaging with people you disagree with is worth your time, and so is being nice! Pessimistically, there are many dynamics that can lead discussions on Culture War topics to become unproductive. There's a human tendency to divide along tribal lines, praising your ingroup and vilifying your outgroup - and if you think you find it easy…]]></summary>
+        <author>
+            <name>top scoring links : TheMotte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New programming subreddit for highschoolers: r/cshighschoolers]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/nouvsr/new_programming_subreddit_for_highschoolers/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/nouvsr/new_programming_subreddit_for_highschoolers/"/>
+        <updated>2021-05-31T05:13:09.000Z</updated>
+        <summary type="html"><![CDATA[Hey! I’ve been around the cs subreddits for a bit, and as a high schooler, I often find that I have a difficultly connecting with the others in the various cs subreddits. This is mainly to due the fact that most of the people in those subreddits such as r/programming or r/compsci are adults. Because of this, I created r/cshighschoolers: a place where highschoolers can come together and ask questions, show accomplishments, and discuss classes regarding computer science, programming, and coding! If this seems interesting to you, and you would like to help out a brand new subreddit grow, then come check us out and subscribe! We are also looking for MODS to further help the subreddit. Thanks!
+    submitted by    /u/Yopped  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Whole Food Plant-Based Diet Is Effective for Weight Loss: The Evidence (2020)]]></title>
+        <id>https://www.reddit.com/r/ScientificNutrition/comments/nos85h/a_whole_food_plantbased_diet_is_effective_for/</id>
+        <link href="https://www.reddit.com/r/ScientificNutrition/comments/nos85h/a_whole_food_plantbased_diet_is_effective_for/"/>
+        <updated>2021-05-31T03:33:44.000Z</updated>
+        <summary type="html"><![CDATA[Full text: ncbi.nlm.nih.gov/pmc/articles/PMC7444011
+ Calorie Density
+ Figure 1. Calories per cup.
+ Gut Microflora
+ Animal Versus Plant Protein Sources and Weight
+ Plant Foods and Walling Off Calories
+ Whole Food Plant-Based Diets and Weight
+ Meal Timing
+ The Ketogenic Diet
+  
+What does the literature indicate about the use of ketogenic diets for weight loss? Although the keto diet appears to be effective, with subjects losing less than a pound a week on a regular diet and then experiencing a weight loss of 3.5 lbs within 7 days after switching to a ketogenic diet, weight loss doesn’t tell the whole story.116 On switching to a ketogenic diet, body fat loss slows by more than half because it appears that the body starts cannibalizing its own protein, which may help explain why the leg muscle…]]></summary>
+        <author>
+            <name>top scoring links : ScientificNutrition</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[cdepillabout /
 

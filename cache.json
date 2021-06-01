@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340465",
+          "author": "Jason Lengstorf",
+          "description": "Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:\nbuilding modern, accessible user interfaces\ncreating interactive elements and complex animations\nmanaging complex application state\n…\nThe post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/",
+          "publishedOn": "2021-05-31T17:16:22.000Z",
+          "wordCount": 1796,
+          "title": "Serverless Functions: The Secret to Ultra-Productive Front-End Teams"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341482",
+          "author": "Chris Coyier",
+          "description": "I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …\nThe post Local: Always Getting Better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/local-always-getting-better/",
+          "publishedOn": "2021-05-31T17:13:02.000Z",
+          "wordCount": 981,
+          "title": "Local: Always Getting Better"
+        },
+        {
           "id": "https://css-tricks.com/?p=341163",
           "author": "Thomas Park",
           "description": "Typically, a single favicon is used across a whole domain. But there are times you wanna step it up with different favicons depending on context. A website might change the favicon to match the content being viewed. Or a site …\nThe post Dynamic Favicons for WordPress appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -191,6 +209,78 @@
       "siteUrl": "https://www.reddit.com/r/haskell/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/haskell/comments/npatqk/im_having_trouble_with_a_recursion/",
+          "author": null,
+          "description": "So i have this assignment where i have to code a game called \"Nim\" where two players take turns removing objects from distinct heaps or piles, and the player that gets to remove the last object wins. I've already coded a function for doing a specific move, i.e : play [1,2,3,4] (3,2) = [1,2,1,4]. [1,2,3,4] would be the number of objects on each tile, and (3,2) would be removing 2 objects from the third tile. I also coded a function that gives a list of all the posible plays on a specific board position, i.e: possiblePlays [1,2,3] = [(1,1), (2,2),(2,1),(3,3), (3,2), (3,1)] The problem i'm having is that now i have to code a function that tells me if a board position (like [1,2,3,4]) is \"winnable\": a board position is winnable if a play exists that can lead to the other player getting a not winnable board position. i.e: isItWinnable [] = False (because you can't make another move, so you lose) isItWinnable [1] = True (because you get to remove the last object). I think these could be the base cases, but i'm having a lot of trouble thinking the recursion. I'm sorry for the long post and the messy english, it's not my native language and i had to translate everything from spanish. If anyone has any ideas or tips it would be greatly appreciated. Thanks in advance.\n    submitted by    /u/flacc1d_snake  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/npatqk/im_having_trouble_with_a_recursion/",
+          "publishedOn": "2021-05-31T19:07:37.000Z",
+          "wordCount": 689,
+          "title": "I'm having trouble with a recursion"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/np459m/library_announcement_safewildcards_better_static/",
+          "author": null,
+          "description": "submitted by    /u/peargreen  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/np459m/library_announcement_safewildcards_better_static/",
+          "publishedOn": "2021-05-31T14:03:39.000Z",
+          "wordCount": 454,
+          "title": "Library announcement: 'safe-wild-cards', better static guarantees for -XRecordWildCards"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/np3nq6/declaration_groups_where_order_of_declarations/",
+          "author": null,
+          "description": "submitted by    /u/peargreen  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/np3nq6/declaration_groups_where_order_of_declarations/",
+          "publishedOn": "2021-05-31T13:40:43.000Z",
+          "wordCount": 230,
+          "title": "Declaration groups: where order of declarations suddenly matters in Haskell"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/np211m/getting_started_with_haskell_projects_using_scotty/",
+          "author": null,
+          "description": "submitted by    /u/jpvillaisaza  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/np211m/getting_started_with_haskell_projects_using_scotty/",
+          "publishedOn": "2021-05-31T12:14:32.000Z",
+          "wordCount": 128,
+          "title": "Getting started with Haskell projects using Scotty"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/np20fo/need_some_help_figuring_this_out/",
+          "author": null,
+          "description": "type Height = Int type Length = Int data Legu = Stein Length Height [Legu] | Dach Length Height bsp = Stein 8 3 [ Stein 3 2 [ Dach 1 1, Stein 2 1 [Dach 2 1] ], Stein 5 1 [ Stein 2 2 [Dach 1 2, Dach 1 2], Stein 2 2 [Dach 1 1] ] ] foldLegu :: (Length -> Height -> [b] -> b) -> (Length -> Height -> b) -> Legu -> b foldLegu fs fd (Stein le he l) = fs le he (map (foldLegu fs fd) l) foldLegu fs fd (Dach le he) = fd le he correct :: Legu -> Bool correct = foldLegu (\\ le he l -> ) (\\ le he -> True) \n I basically have this code, the purpose of it is to find out if the structure I created is Correct. Basically the \"Stein\" has inside it all the other elements that are supposed to be above it. The \"Dach\" is the Roof and so it cannot take anything else above it. The correctness of the Structure is determined by the length of all the elements above a \"Stein\". So if it were that the total length of all elements above the \"Stein\" is smaller or equal to the Length of that \"Stein\" the Structure is considered Correct and true is given out. But I have no clue how I should continue from this point onwards. I have no clue how to verify the Length of all the structures above a \"Stein\" in such a way that still only Boolean comes out in the end.\n Edit: I did manage to come up with somewhat of a hacky solution to it which I am not really a fan of.\n correct :: Legu -> Bool correct x = 0 <= foldLegu (\\ le _ l -> if le >= sum l && sum l >= 0 then le else -le) const x \n Is there a more elegant way with which to do this, I am particularly not a fan of the fact I am simply giving out a negative number if the structure is not correct.\n    submitted by    /u/_Biological_hazard_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/np20fo/need_some_help_figuring_this_out/",
+          "publishedOn": "2021-05-31T12:13:33.000Z",
+          "wordCount": 1067,
+          "title": "Need some help figuring this out."
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/np1twq/how_can_obelisk_detect_that_i_am_inside_an/",
+          "author": null,
+          "description": "I created a new Obelisk Project with \"ob init\" and then pushed it to Github. Now i want to work on the project with my notebook, so I cloned the project and tried to run it via \"ob run\". I get the following Error:\n Must be used inside of an Obelisk project \n How can i tell Obelisk that i am inside a project folder? I am new to Haskell/Obelisk, i was always used to the comfort of an IDE which can specificially open a project instead of a folder.\n    submitted by    /u/SP411K  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/np1twq/how_can_obelisk_detect_that_i_am_inside_an/",
+          "publishedOn": "2021-05-31T12:03:07.000Z",
+          "wordCount": 321,
+          "title": "How can Obelisk detect that i am inside an Obelisk project?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/noyr9l/how_to_build_old_haskell_projects/",
+          "author": null,
+          "description": "Hello...\n Does anyone study old Haskell projects on Github and try to build executables?\n ​\n I am looking into an old project which was abandoned seven years ago. The current version of the Stack tool fails. Someone gave me a hint I should try Stack v1.9.3 . But how do I get a Windows executable?\n Has anyone blogged about the problem?\n Thanks, Hubert.\n    submitted by    /u/H1h8  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/noyr9l/how_to_build_old_haskell_projects/",
+          "publishedOn": "2021-05-31T08:50:05.000Z",
+          "wordCount": 736,
+          "title": "How to build old Haskell projects"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/nouvsr/new_programming_subreddit_for_highschoolers/",
+          "author": null,
+          "description": "Hey! I’ve been around the cs subreddits for a bit, and as a high schooler, I often find that I have a difficultly connecting with the others in the various cs subreddits. This is mainly to due the fact that most of the people in those subreddits such as r/programming or r/compsci are adults. Because of this, I created r/cshighschoolers: a place where highschoolers can come together and ask questions, show accomplishments, and discuss classes regarding computer science, programming, and coding! If this seems interesting to you, and you would like to help out a brand new subreddit grow, then come check us out and subscribe! We are also looking for MODS to further help the subreddit. Thanks!\n    submitted by    /u/Yopped  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/nouvsr/new_programming_subreddit_for_highschoolers/",
+          "publishedOn": "2021-05-31T05:13:09.000Z",
+          "wordCount": 242,
+          "title": "New programming subreddit for highschoolers: r/cshighschoolers"
+        },
+        {
           "id": "https://www.reddit.com/r/haskell/comments/nomwbs/discriminant_of_a_sum_type/",
           "author": null,
           "description": "I'm trying to get the discriminant of a simple sum type similar to fromEnum except that Enum can only be derived for enumeration types.\n Basically, I'm looking for something like:\n data Ex = Foo Int | Bar Int Int | FooBar fromEnum (Bar 5 2) -> 1 \n    submitted by    /u/Fish_45  \n [link]   [comments]",
@@ -333,6 +423,33 @@
       "siteUrl": "https://www.reddit.com/r/TheMotte/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/TheMotte/comments/np52xc/trying_to_find_the_breakdown_of_participants_in/",
+          "author": null,
+          "description": "So my wife and I have been discussing the vaccines, and She is of the opinion that there is no AntiVaxx community, but that rather the media has used that term to malign “vaccine critical” or vaccine hesitant communities. Her belief is that the vast majority of people who are (unfairly) called Anti Vaxxers are responsible, educated adults who are concerned about more reasonable issues, such the increased number of vaccines children are required to get, issues around personal autonomy and government overreach, or the lack of study of vaccines in combination with other preexisting conditions. She thinks the number of people who actually think that Fauci is the Antichrist and that the vaccines are microchips or whatever other crazy thing is vanishingly small. She does not believe any substantially large number of people would proudly call themselves “Anti Vax”. I am of the opinion that it’s the other way around, I think most people who have any criticism of vaccines are on the more extreme end of things, and are fairly likely to also believe in QAnon or Trump being sent by god, and it’s actually the logical, measured and thoughtful vaccine “questioners” who are in the minority. She’s asking me to offer proof of my theory on this, can anyone help direct me to an online community or space where I can show her how many people actually exist on the extreme/delusional end of this?\n    submitted by    /u/industrial_trust  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/TheMotte/comments/np52xc/trying_to_find_the_breakdown_of_participants_in/",
+          "publishedOn": "2021-05-31T14:47:45.000Z",
+          "wordCount": 3402,
+          "title": "Trying to find the breakdown of participants in the anti-vax narrative on a spectrum of rationality, please help."
+        },
+        {
+          "id": "https://www.reddit.com/r/TheMotte/comments/nox63f/book_review_unmasked_andy_ngo/",
+          "author": null,
+          "description": "Andy Ngo is a conservative journalist previously living in Portland OR who made reporting on Antifa his bread and butter. Antifa is more of a tactic than a cohesive or tangible group, but ostensibly it describes the practice of left-wing radicals masking up and engaging in physical altercations at protests and demonstrations with individuals who are determined to be too right-wing (generally labelled as \"fash\" or \"nazis\" by Antifa).\n Antifa hates Ngo. Like, really really fucking hates him. He unexpectedly became part of the story when he got viciously assaulted in July 2019 with liquid thrown at him and suffering a brain hemorrhage from the assault. Simultaneously, the assault also significantly raised his profile on the national stage, even earning a shout-out from Trump himself.\n Ngo's b…",
+          "link": "https://www.reddit.com/r/TheMotte/comments/nox63f/book_review_unmasked_andy_ngo/",
+          "publishedOn": "2021-05-31T06:59:28.000Z",
+          "wordCount": 7351,
+          "title": "Book Review: Unmasked - Andy Ngo"
+        },
+        {
+          "id": "https://www.reddit.com/r/TheMotte/comments/nowgdg/culture_war_roundup_for_the_week_of_may_31_2021/",
+          "author": null,
+          "description": "This weekly roundup thread is intended for all culture war posts. 'Culture war' is vaguely defined, but it basically means controversial issues that fall along set tribal lines. Arguments over culture war issues generate a lot of heat and little light, and few deeply entrenched people ever change their minds. This thread is for voicing opinions and analyzing the state of the discussion while trying to optimize for light over heat.\n Optimistically, we think that engaging with people you disagree with is worth your time, and so is being nice! Pessimistically, there are many dynamics that can lead discussions on Culture War topics to become unproductive. There's a human tendency to divide along tribal lines, praising your ingroup and vilifying your outgroup - and if you think you find it easy…",
+          "link": "https://www.reddit.com/r/TheMotte/comments/nowgdg/culture_war_roundup_for_the_week_of_may_31_2021/",
+          "publishedOn": "2021-05-31T06:15:17.000Z",
+          "wordCount": 5587,
+          "title": "Culture War Roundup for the week of May 31, 2021"
+        },
+        {
           "id": "https://www.reddit.com/r/TheMotte/comments/no4x8h/smallscale_question_sunday_for_may_30_2021/",
           "author": null,
           "description": "Do you have a dumb question that you're kind of embarrassed to ask in the main thread? Is there something you're just not sure about? \n This is your opportunity to ask questions. No question too simple or too silly. \n Culture war topics are accepted, and proposals for a better intro post are appreciated.\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
@@ -357,6 +474,60 @@
       "feedUrl": "https://www.reddit.com/r/ScientificNutrition/top/.rss?sort=top&t=day",
       "siteUrl": "https://www.reddit.com/r/ScientificNutrition/top/?sort=top&t=day",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/npepl7/a_satiety_index_of_common_foods_protein_fibre_and/",
+          "author": null,
+          "description": "submitted by    /u/Bluest_waters  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/npepl7/a_satiety_index_of_common_foods_protein_fibre_and/",
+          "publishedOn": "2021-05-31T22:09:43.000Z",
+          "wordCount": 777,
+          "title": "A satiety index of common foods \"Protein, fibre, and water contents of the test foods correlated positively with SI scores (r = 0.37, P < 0.05, n = 38; r = 0.46, P < 0.01; and r = 0.64, P < 0.001; respectively) whereas fat content was negatively associated (r = -0.43, P < 0.01).\""
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/np5ezb/ketogenic_diets_better_for_glycemic_control_and/",
+          "author": null,
+          "description": "submitted by    /u/LegaliseThatBitch  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/np5ezb/ketogenic_diets_better_for_glycemic_control_and/",
+          "publishedOn": "2021-05-31T15:02:23.000Z",
+          "wordCount": 645,
+          "title": "Ketogenic diets better for glycemic control and weight loss than low fat diets."
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/np4ky1/what_role_do_plantbased_diets_play_in_supporting/",
+          "author": null,
+          "description": "submitted by    /u/nooobiiiiiiiiiii  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/np4ky1/what_role_do_plantbased_diets_play_in_supporting/",
+          "publishedOn": "2021-05-31T14:24:33.000Z",
+          "wordCount": 540,
+          "title": "What Role Do Plant-Based Diets Play in Supporting the Optimal Health and Well-being of Canadians? A Scoping Review"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/np4fvj/twenty_questions_on_atherosclerosis_2000/",
+          "author": null,
+          "description": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1312295/\n Characteristics of herbivores and carnivores, causes of atherosclerosis, serum cholesterol and atherosclerosis, reductions in LDL from reduction in fat in diets, and statins.\n    submitted by    /u/applysauce  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/np4fvj/twenty_questions_on_atherosclerosis_2000/",
+          "publishedOn": "2021-05-31T14:17:46.000Z",
+          "wordCount": 474,
+          "title": "Twenty questions on atherosclerosis [2000]"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/noyqkx/depression_and_vegetarians_association_between/",
+          "author": null,
+          "description": "submitted by    /u/greyuniwave  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/noyqkx/depression_and_vegetarians_association_between/",
+          "publishedOn": "2021-05-31T08:48:48.000Z",
+          "wordCount": 666,
+          "title": "Depression and Vegetarians: Association between Dietary Vitamin B6, B12 and Folate Intake and Global and Subcortical Brain Volumes"
+        },
+        {
+          "id": "https://www.reddit.com/r/ScientificNutrition/comments/nos85h/a_whole_food_plantbased_diet_is_effective_for/",
+          "author": null,
+          "description": "Full text: ncbi.nlm.nih.gov/pmc/articles/PMC7444011\n Calorie Density\n Figure 1. Calories per cup.\n Gut Microflora\n Animal Versus Plant Protein Sources and Weight\n Plant Foods and Walling Off Calories\n Whole Food Plant-Based Diets and Weight\n Meal Timing\n The Ketogenic Diet\n  \nWhat does the literature indicate about the use of ketogenic diets for weight loss? Although the keto diet appears to be effective, with subjects losing less than a pound a week on a regular diet and then experiencing a weight loss of 3.5 lbs within 7 days after switching to a ketogenic diet, weight loss doesn’t tell the whole story.116 On switching to a ketogenic diet, body fat loss slows by more than half because it appears that the body starts cannibalizing its own protein, which may help explain why the leg muscle…",
+          "link": "https://www.reddit.com/r/ScientificNutrition/comments/nos85h/a_whole_food_plantbased_diet_is_effective_for/",
+          "publishedOn": "2021-05-31T03:33:44.000Z",
+          "wordCount": 2209,
+          "title": "A Whole Food Plant-Based Diet Is Effective for Weight Loss: The Evidence (2020)"
+        },
         {
           "id": "https://www.reddit.com/r/ScientificNutrition/comments/nobh0x/insulin_action_type_2_diabetes_and_branchedchain/",
           "author": null,
@@ -473,6 +644,33 @@
       "siteUrl": "https://www.reddit.com/r/redscarepod/top/?sort=top&t=day&limit=3",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redscarepod/comments/npd2sd/mila_kunis_come_on_the_pod/",
+          "author": null,
+          "description": "submitted by    /u/juniebejonesing  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/npd2sd/mila_kunis_come_on_the_pod/",
+          "publishedOn": "2021-05-31T20:52:15.000Z",
+          "wordCount": 470,
+          "title": "Mila Kunis come on the pod"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/np8t23/midsommar_2019/",
+          "author": null,
+          "description": "submitted by    /u/WaspQuaker  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/np8t23/midsommar_2019/",
+          "publishedOn": "2021-05-31T17:35:52.000Z",
+          "wordCount": 722,
+          "title": "Midsommar (2019)"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/np3ll7/happy_birthday_to_these_red_scare_heroes/",
+          "author": null,
+          "description": "submitted by    /u/womenontheverge98  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/np3ll7/happy_birthday_to_these_red_scare_heroes/",
+          "publishedOn": "2021-05-31T13:37:38.000Z",
+          "wordCount": 569,
+          "title": "happy birthday to these red scare heroes"
+        },
+        {
           "id": "https://www.reddit.com/r/redscarepod/comments/noaq0l/dudes_rocking/",
           "author": null,
           "description": "submitted by    /u/Xi_Pimping  \n [link]   [comments]",
@@ -533,6 +731,87 @@
       "feedUrl": "https://rsshub.app/github/trending/daily/haskell",
       "siteUrl": "https://github.com/trending/haskell?since=daily",
       "articles": [
+        {
+          "id": "https://github.com/simonmichael/hledger",
+          "author": "simonmichael",
+          "description": "easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger\n    \nLanguage: Haskell\n                            \nStar: 1,758\n                            \nFork: 228",
+          "link": "https://github.com/simonmichael/hledger",
+          "publishedOn": "2021-06-01T02:22:33.309Z",
+          "wordCount": 787,
+          "title": "simonmichael /\n\n      hledger"
+        },
+        {
+          "id": "https://github.com/hasura/pg-client-hs",
+          "author": "hasura",
+          "description": "A low level Haskell library to connect to postgres \n    \nLanguage: Haskell\n                            \nStar: 17\n                            \nFork: 16",
+          "link": "https://github.com/hasura/pg-client-hs",
+          "publishedOn": "2021-06-01T02:22:33.207Z",
+          "wordCount": 456,
+          "title": "hasura /\n\n      pg-client-hs"
+        },
+        {
+          "id": "https://github.com/jgm/pandoc",
+          "author": "jgm",
+          "description": "Universal markup converter\n    \nLanguage: Haskell\n                            \nStar: 22,639\n                            \nFork: 2,679",
+          "link": "https://github.com/jgm/pandoc",
+          "publishedOn": "2021-06-01T02:22:32.993Z",
+          "wordCount": 1570,
+          "title": "jgm /\n\n      pandoc"
+        },
+        {
+          "id": "https://github.com/digitallyinduced/ihp",
+          "author": "digitallyinduced",
+          "description": "🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness\n    \nLanguage: Haskell\n                            \nStar: 1,957\n                            \nFork: 96",
+          "link": "https://github.com/digitallyinduced/ihp",
+          "publishedOn": "2021-06-01T02:22:32.937Z",
+          "wordCount": 2038,
+          "title": "digitallyinduced /\n\n      ihp"
+        },
+        {
+          "id": "https://github.com/PostgREST/postgrest",
+          "author": "PostgREST",
+          "description": "REST API for any Postgres database\n    \nLanguage: Haskell\n                            \nStar: 17,103\n                            \nFork: 787",
+          "link": "https://github.com/PostgREST/postgrest",
+          "publishedOn": "2021-06-01T02:22:32.892Z",
+          "wordCount": 1331,
+          "title": "PostgREST /\n\n      postgrest"
+        },
+        {
+          "id": "https://github.com/graninas/software-design-in-haskell",
+          "author": "graninas",
+          "description": "Software Design in Haskell. A structured set of materials. How to build real-world applications in Haskell.\n    \nLanguage: Haskell\n                            \nStar: 789\n                            \nFork: 47",
+          "link": "https://github.com/graninas/software-design-in-haskell",
+          "publishedOn": "2021-06-01T02:22:32.794Z",
+          "wordCount": 2081,
+          "title": "graninas /\n\n      software-design-in-haskell"
+        },
+        {
+          "id": "https://github.com/coproduto/purelisp",
+          "author": "coproduto",
+          "description": "Some day, a purely functional Lisp. Right now? Just a silly prototype.\n    \nLanguage: Haskell\n                            \nStar: 16\n                            \nFork:",
+          "link": "https://github.com/coproduto/purelisp",
+          "publishedOn": "2021-06-01T02:22:32.746Z",
+          "wordCount": 465,
+          "title": "coproduto /\n\n      purelisp"
+        },
+        {
+          "id": "https://github.com/input-output-hk/ouroboros-network",
+          "author": "input-output-hk",
+          "description": "An implementation of the Ouroboros family of consensus algorithms, with its networking support\n    \nLanguage: Haskell\n                            \nStar: 138\n                            \nFork: 41",
+          "link": "https://github.com/input-output-hk/ouroboros-network",
+          "publishedOn": "2021-06-01T02:22:32.728Z",
+          "wordCount": 1115,
+          "title": "input-output-hk /\n\n      ouroboros-network"
+        },
+        {
+          "id": "https://github.com/olivierverdier/zsh-git-prompt",
+          "author": "olivierverdier",
+          "description": "Informative git prompt for zsh\n    \nLanguage: Haskell\n                            \nStar: 1,502\n                            \nFork: 364",
+          "link": "https://github.com/olivierverdier/zsh-git-prompt",
+          "publishedOn": "2021-06-01T02:22:32.660Z",
+          "wordCount": 962,
+          "title": "olivierverdier /\n\n      zsh-git-prompt"
+        },
         {
           "id": "https://github.com/cdepillabout/servant-rawm",
           "author": "cdepillabout",
@@ -900,6 +1179,186 @@
       "feedUrl": "https://hnrss.org/frontpage",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=27349755",
+          "author": "acabal",
+          "description": "Article URL: https://harpers.org/archive/2021/06/tiktok-house-collab-house-the-anxiety-of-influencers/\nComments URL: https://news.ycombinator.com/item?id=27349755\nPoints: 27\n# Comments: 13",
+          "link": "https://harpers.org/archive/2021/06/tiktok-house-collab-house-the-anxiety-of-influencers/",
+          "publishedOn": "2021-06-01T01:03:43.000Z",
+          "wordCount": 8836,
+          "title": "The Anxiety of Influencers"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27349469",
+          "author": "pier25",
+          "description": "Article URL: https://nation.com.pk/29-May-2021/chinese-artificial-sun-experimental-fusion-reactor-sets-world-record-for-superheated-plasma-time\nComments URL: https://news.ycombinator.com/item?id=27349469\nPoints: 24\n# Comments: 8",
+          "link": "https://nation.com.pk/29-May-2021/chinese-artificial-sun-experimental-fusion-reactor-sets-world-record-for-superheated-plasma-time",
+          "publishedOn": "2021-06-01T00:11:51.000Z",
+          "wordCount": 1124,
+          "title": "Chinese ‘Artificial Sun’ experimental fusion reactor sets world record"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27347983",
+          "author": "the_economist",
+          "description": "Article URL: https://jobs.lever.co/buildzoom\nComments URL: https://news.ycombinator.com/item?id=27347983\nPoints: 1\n# Comments: 0",
+          "link": "https://jobs.lever.co/buildzoom",
+          "publishedOn": "2021-05-31T21:00:26.000Z",
+          "wordCount": 127,
+          "title": "BuildZoom (better way to build custom homes) Is hiring a Principal Engineer"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27347818",
+          "author": "ve55",
+          "description": "Article URL: https://pubmed.ncbi.nlm.nih.gov/33555034/\nComments URL: https://news.ycombinator.com/item?id=27347818\nPoints: 122\n# Comments: 67",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/33555034/",
+          "publishedOn": "2021-05-31T20:35:20.000Z",
+          "wordCount": 1693,
+          "title": "Sodium rutin extends lifespan and health span in mice by 10%"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27347272",
+          "author": "Lammy",
+          "description": "Article URL: https://buffalonews.com/news/the-digital-wallet-of-the-future/article_321a88e4-5141-5640-bab6-a616afeb7872.html\nComments URL: https://news.ycombinator.com/item?id=27347272\nPoints: 46\n# Comments: 34",
+          "link": "https://buffalonews.com/news/the-digital-wallet-of-the-future/article_321a88e4-5141-5640-bab6-a616afeb7872.html",
+          "publishedOn": "2021-05-31T19:16:54.000Z",
+          "wordCount": 1789,
+          "title": "The Digital Wallet of the Future (1996)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27347039",
+          "author": "exolymph",
+          "description": "Article URL: https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1\nComments URL: https://news.ycombinator.com/item?id=27347039\nPoints: 160\n# Comments: 56",
+          "link": "https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1",
+          "publishedOn": "2021-05-31T18:50:23.000Z",
+          "wordCount": 38340,
+          "title": "The May 18 Gwangju Uprising"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27347035",
+          "author": "exolymph",
+          "description": "Article URL: https://annagat.substack.com/p/on-smoking\nComments URL: https://news.ycombinator.com/item?id=27347035\nPoints: 189\n# Comments: 171",
+          "link": "https://annagat.substack.com/p/on-smoking",
+          "publishedOn": "2021-05-31T18:50:07.000Z",
+          "wordCount": 637,
+          "title": "On Smoking"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27347026",
+          "author": "exolymph",
+          "description": "Article URL: https://tomcritchlow.com/2018/02/23/small-b-blogging/\nComments URL: https://news.ycombinator.com/item?id=27347026\nPoints: 50\n# Comments: 7",
+          "link": "https://tomcritchlow.com/2018/02/23/small-b-blogging/",
+          "publishedOn": "2021-05-31T18:49:31.000Z",
+          "wordCount": 1544,
+          "title": "Small B Blogging (2018)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27346655",
+          "author": "andersource",
+          "description": "Article URL: https://andersource.dev/2021/04/29/faulty_digital_clock.html\nComments URL: https://news.ycombinator.com/item?id=27346655\nPoints: 66\n# Comments: 6",
+          "link": "https://andersource.dev/2021/04/29/faulty_digital_clock.html",
+          "publishedOn": "2021-05-31T18:02:17.000Z",
+          "wordCount": 1149,
+          "title": "The faulty digital clock problem"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27346464",
+          "author": "Tomte",
+          "description": "Article URL: https://www.dragongoserver.net/\nComments URL: https://news.ycombinator.com/item?id=27346464\nPoints: 70\n# Comments: 29",
+          "link": "https://www.dragongoserver.net/",
+          "publishedOn": "2021-05-31T17:42:05.000Z",
+          "wordCount": 68,
+          "title": "Dragon Go Server"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27345969",
+          "author": "amadeuspagel",
+          "description": "Article URL: https://www.sfwriter.com/wordstar.htm\nComments URL: https://news.ycombinator.com/item?id=27345969\nPoints: 47\n# Comments: 20",
+          "link": "https://www.sfwriter.com/wordstar.htm",
+          "publishedOn": "2021-05-31T16:53:16.000Z",
+          "wordCount": 3343,
+          "title": "Science Fiction Writer Robert J. Sawyer: WordStar: A Writer's Word Processor"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27345837",
+          "author": "lhenk",
+          "description": "Article URL: https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/\nComments URL: https://news.ycombinator.com/item?id=27345837\nPoints: 152\n# Comments: 97",
+          "link": "https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/",
+          "publishedOn": "2021-05-31T16:38:04.000Z",
+          "wordCount": 2192,
+          "title": "UUID, serial or identity columns for PostgreSQL auto-generated primary keys?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27345784",
+          "author": "as89",
+          "description": "Article URL: https://surjan.substack.com/p/the-most-expensive-number-in-engineering\nComments URL: https://news.ycombinator.com/item?id=27345784\nPoints: 340\n# Comments: 120",
+          "link": "https://surjan.substack.com/p/the-most-expensive-number-in-engineering",
+          "publishedOn": "2021-05-31T16:34:16.000Z",
+          "wordCount": 2828,
+          "title": "The most expensive number in engineering"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27345411",
+          "author": "haxiomic",
+          "description": "Article URL: https://www.elopezr.com/a-macro-view-of-nanite/\nComments URL: https://news.ycombinator.com/item?id=27345411\nPoints: 86\n# Comments: 15",
+          "link": "https://www.elopezr.com/a-macro-view-of-nanite/",
+          "publishedOn": "2021-05-31T16:04:36.000Z",
+          "wordCount": 2489,
+          "title": "A Macro View of Nanite"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27345075",
+          "author": "stanrivers",
+          "description": "Article URL: https://www.butwhatfor.com/admiral-yarnell-and-an-attack-on-pearl-harbor/\nComments URL: https://news.ycombinator.com/item?id=27345075\nPoints: 259\n# Comments: 132",
+          "link": "https://www.butwhatfor.com/admiral-yarnell-and-an-attack-on-pearl-harbor/",
+          "publishedOn": "2021-05-31T15:35:18.000Z",
+          "wordCount": 1505,
+          "title": "We only ever talk about the third attack on Pearl Harbor"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27344978",
+          "author": "yarapavan",
+          "description": "Article URL: https://blog.pragmaticengineer.com/quit-mentoring-at-plato/\nComments URL: https://news.ycombinator.com/item?id=27344978\nPoints: 155\n# Comments: 34",
+          "link": "https://blog.pragmaticengineer.com/quit-mentoring-at-plato/",
+          "publishedOn": "2021-05-31T15:25:59.000Z",
+          "wordCount": 2013,
+          "title": "Donating my time to grow a VC-funded company: why I quit mentoring at Plato"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27344639",
+          "author": "jkatz05",
+          "description": "Article URL: http://blog.cleverelephant.ca/2021/05/postgis-20-years.html\nComments URL: https://news.ycombinator.com/item?id=27344639\nPoints: 246\n# Comments: 27",
+          "link": "http://blog.cleverelephant.ca/2021/05/postgis-20-years.html",
+          "publishedOn": "2021-05-31T14:53:15.000Z",
+          "wordCount": 1436,
+          "title": "PostGIS at 20, the Beginning"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27344617",
+          "author": "devnerd239",
+          "description": "Article URL: https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken\nComments URL: https://news.ycombinator.com/item?id=27344617\nPoints: 173\n# Comments: 176",
+          "link": "https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken",
+          "publishedOn": "2021-05-31T14:50:03.000Z",
+          "wordCount": 1050,
+          "title": "Google’s new popup will further weaken Facebook’s advertisement business"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27344426",
+          "author": "rhabarba",
+          "description": "Article URL: http://wordtsar.ca/\nComments URL: https://news.ycombinator.com/item?id=27344426\nPoints: 167\n# Comments: 93",
+          "link": "http://wordtsar.ca/",
+          "publishedOn": "2021-05-31T14:32:16.000Z",
+          "wordCount": 1342,
+          "title": "WordTsar, a WordStar Clone"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27344069",
+          "author": "tlarkworthy",
+          "description": "Article URL: https://observablehq.com/@tomlarkworthy/sign-a-pdf\nComments URL: https://news.ycombinator.com/item?id=27344069\nPoints: 99\n# Comments: 66",
+          "link": "https://observablehq.com/@tomlarkworthy/sign-a-pdf",
+          "publishedOn": "2021-05-31T13:51:37.000Z",
+          "wordCount": 15,
+          "title": "Sign a PDF document client-side with no data leaving the computer"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=27338931",
           "author": "mooreds",
