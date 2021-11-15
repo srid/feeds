@@ -195,6 +195,40 @@
       ]
     },
     {
+      "title": "Tweag - Engineering blog",
+      "feedUrl": "https://www.tweag.io/rss.xml",
+      "siteUrl": "https://tweag.io",
+      "articles": [
+        {
+          "id": "https://tweag.io/blog/2021-11-04-haskell-profiling-cachegrind/",
+          "author": null,
+          "description": "Haskell’s laziness gives us\ngreat\nbenefits,\nbut comes with costs.\nOne of the most visible cost of laziness is hard to predict memory behavior, and so we\nhave, and need, tools to profile and measure the heap of our Haskell programs.\nMost of the time, we live in a high-level world of type classes, monoids, and\nisomorphisms. But at the end of the day our code needs to run on actual\nmachines, and when our code is run it needs to be performant. Typically, “be\nperformant”, means “have reasonable computational complexity” and so we usually\nfocus on good asymptotic behavior instead of constant costs. But when our\nprograms meet our CPUs, constant costs are important, and thus having low level\ntools is helpful for low level optimizations, i.e., when you want to squeeze\nthat last 10% out of your prog…",
+          "link": "https://tweag.io/blog/2021-11-04-haskell-profiling-cachegrind/",
+          "publishedOn": "2021-11-04T00:00:00.000Z",
+          "wordCount": 3680,
+          "title": "A Haskell memory leak in way too much detail with Cachegrind"
+        },
+        {
+          "id": "https://tweag.io/blog/2021-10-28-hacking-on-ormolu/",
+          "author": null,
+          "description": "After being convinced of the usefulness of code formatters by the excellent scalafmt, which is very widely used in the Scala ecosystem, I was on the lookout for a similar tool for Haskell. In 2018, most options did not completely cut it for me, due to e.g. only formatting certain parts of the source file or having many unfortunate bugs. Upon discovering Ormolu in 2019, I was first appalled by its style, but this reaction was only short-lived, as I found these stylistic preferences to be easily malleable via familiarisation.\nI started using Ormolu for all personal projects, and submitted bug reports and minor pull requests. Therefore, an internship to work on Ormolu full-time came like a call!\nAs described in the announcement post, I worked on support for recent GHC versions, improved the C…",
+          "link": "https://tweag.io/blog/2021-10-28-hacking-on-ormolu/",
+          "publishedOn": "2021-10-28T00:00:00.000Z",
+          "wordCount": 1453,
+          "title": "Hacking on Ormolu: An internship report"
+        },
+        {
+          "id": "https://tweag.io/blog/2021-10-21-tcplugins-1/",
+          "author": null,
+          "description": "Type-checking plugins for GHC are a powerful tool which allows users to\ninject domain-specific knowledge into GHC’s type-checker. In this\nseries of posts, we will explore why you might want to write your own plugin, and how to do so.\nI: Why write a type-checking plugin?\nII: GHC’s constraint solver\nIII: Writing a type-checking plugin\nIn this first blog post of the series, I’ll be outlining a few\nexamples that showcase some limitations in GHC’s instance resolution\nand type family reduction mechanisms. With a type-checker plugin, we\nare no longer restricted by these limitations, and can decide ourselves\nhow to solve constraints and reduce type families.\n\nInstance resolution\nRecall how GHC goes about instance resolution, as per the user’s guide.\nA typeclass instance has two components:\ninstanc…",
+          "link": "https://tweag.io/blog/2021-10-21-tcplugins-1/",
+          "publishedOn": "2021-10-21T00:00:00.000Z",
+          "wordCount": 1964,
+          "title": "Type-checking plugins, Part I: Why write a type-checking plugin?"
+        }
+      ]
+    },
+    {
       "title": "top scoring links : haskell",
       "feedUrl": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
       "siteUrl": "https://www.reddit.com/r/haskell/top/?sort=top&t=day",
@@ -274,18 +308,277 @@
       ]
     },
     {
-      "title": "top scoring links : TheMotte",
-      "feedUrl": "https://www.reddit.com/r/TheMotte/top/.rss?sort=top&t=day",
-      "siteUrl": "https://www.reddit.com/r/TheMotte/top/?sort=top&t=day",
+      "title": "top scoring links : CardanoDevelopers",
+      "feedUrl": "https://www.reddit.com/r/CardanoDevelopers/top/.rss?sort=top&t=day",
+      "siteUrl": "https://www.reddit.com/r/CardanoDevelopers/top/?sort=top&t=day",
       "articles": [
         {
-          "id": "https://www.reddit.com/r/TheMotte/comments/qtkhe3/smallscale_question_sunday_for_november_14_2021/",
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/qu1vbi/looking_for_a_developer_to_help_create_dao_built/",
           "author": null,
-          "description": "Do you have a dumb question that you're kind of embarrassed to ask in the main thread? Is there something you're just not sure about? \n This is your opportunity to ask questions. No question too simple or too silly. \n Culture war topics are accepted, and proposals for a better intro post are appreciated.\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/TheMotte/comments/qtkhe3/smallscale_question_sunday_for_november_14_2021/",
-          "publishedOn": "2021-11-14T07:15:10.000Z",
-          "wordCount": 1968,
-          "title": "Small-Scale Question Sunday for November 14, 2021"
+          "description": "Hello,\n I am looking to partner with someone to help build a DAO on Cardano. This person would be in charge of the technical side of the project. This project is ambitious, and I know this is a large task on any developer who answers this call. \n The idea is rather simple. Users stake their Cardano within our DAO. In return, users earn our token. The DAO will keep the Cardano staking rewards. Then, users can use our token to vote on which non-profits / charities the DAO will donate the staking rewards to.\n A little bit about me, I have experience as a software project manager, and I have been involved in crypto for several years. \n Thank you to anyone who shows interest in joining me on this venture. I welcome any feedback or questions about the project in the comments section.\n Regards,\n ExcelsiorDAO\n    submitted by    /u/BeastKey25  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/qu1vbi/looking_for_a_developer_to_help_create_dao_built/",
+          "publishedOn": "2021-11-14T23:00:13.000Z",
+          "wordCount": 256,
+          "title": "Looking for a developer to help create DAO built on Cardano"
+        },
+        {
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/qu062b/utxo_have_multiple_quantities/",
+          "author": null,
+          "description": "Hey all,\n would a one UTXO have multiple quantities for the same asset/token ?\n for example,\n cd4a34a97e8845631c57ec21fed3901e4a4f244e0673eb9e5d478437ec3e9bf4 1 1000000 lovelace + 2000000 lovelace + TxOutDatumHashNone\n    submitted by    /u/mhdmzz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/qu062b/utxo_have_multiple_quantities/",
+          "publishedOn": "2021-11-14T21:39:31.000Z",
+          "wordCount": 116,
+          "title": "UTXO have multiple quantities?"
+        },
+        {
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/qtu893/cardano_block_time_and_throughput_vs_ethereum_how/",
+          "author": null,
+          "description": "submitted by    /u/PresentationTop490  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/qtu893/cardano_block_time_and_throughput_vs_ethereum_how/",
+          "publishedOn": "2021-11-14T17:06:48.000Z",
+          "wordCount": 762,
+          "title": "Cardano block time and throughput vs Ethereum. How valid is the viewpoint below?"
+        },
+        {
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/qtqcmt/help_with_installing_node_and_cli_for_the_purpose/",
+          "author": null,
+          "description": "So I want to learn how to mint native tokens on Cardano, specifically NFTs so I can start working on some ideas I have for NFT projects. I followed a guide to install a node on a VM (Ubuntu) and everything went fine until I let my laptop synch with the blockchain and while it was synching windows decided to make a random update and now I have some issues running it again. I have lost motivation about running it on my laptop, which maybe wasn't the ideal choice because of the limited 8 GB ram it has. \n Anyway I have a good PC with better specs but I have windows, can somebody give me some direction on a way to install and run a Cardano node and cli on Windows or is it just not a good option? I have Daedalus installed and that is a node from what I have read so can it save me time from installing a node or even synching with the blockchain? Sorry for the noob questions I'm still learning about this and remember all of this is just because I want to play around with minting my own nft's.\n    submitted by    /u/LostOpinion99  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/qtqcmt/help_with_installing_node_and_cli_for_the_purpose/",
+          "publishedOn": "2021-11-14T13:58:02.000Z",
+          "wordCount": 475,
+          "title": "Help with installing node and cli for the purpose of minting native tokens"
+        },
+        {
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/qtl89l/py2hs_an_informative_repository_for_python/",
+          "author": null,
+          "description": "Hello Cardano developers,\n Some of you, including me, may feel that Haskell is very different from imperative programming languages. As a Python developer who got into Haskell because of Cardano, when learning this language, I could still see that Haskell, despite being very different, shares quite a lot similarities with Python. \n As a practice and a form of learning reinforcement, I created a project, py2hs, to document how some frequently used programming patterns (e.g. functor, applicative) are implemented in Python and Haskell respectively. If you are a Python developer who just started learning Haskell, hope you can find this material helpful in some way.\n In terms of future development, I will keep improving existing contents and adding more examples as time allowed. Also, any contributions from the community is more than welcome. Hope we can together make it a better learning material and help more Cardano developers!\n Jerry\n    submitted by    /u/jc__xyz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/qtl89l/py2hs_an_informative_repository_for_python/",
+          "publishedOn": "2021-11-14T08:09:03.000Z",
+          "wordCount": 339,
+          "title": "[py2hs] - An informative repository for Python developers who are learning Haskell"
+        },
+        {
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/qtjjfk/want_develop_game_need_some_guidance/",
+          "author": null,
+          "description": "I try develop game on cardano where do I start? what do i need to know? what can i use to develop game on ada chain?\n    submitted by    /u/NoPainNoGainTryMore  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/qtjjfk/want_develop_game_need_some_guidance/",
+          "publishedOn": "2021-11-14T06:09:15.000Z",
+          "wordCount": 325,
+          "title": "Want develop game need some guidance"
+        }
+      ]
+    },
+    {
+      "title": "top scoring links : cardano",
+      "feedUrl": "https://www.reddit.com/r/cardano/top/.rss?sort=top&t=day",
+      "siteUrl": "https://www.reddit.com/r/cardano/top/?sort=top&t=day",
+      "articles": [
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qu2w4r/the_words_of_charles_hoskinson/",
+          "author": null,
+          "description": "I'm really loving how the roadmap for 2022 Cardano is coming together. It's a living ecosystem, growing, refining, adapting, and becoming stronger. The technology is unbelievable and we have so many great innovations coming to meet the hundreds of projects building on Cardano\n    submitted by    /u/criptocointaker  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qu2w4r/the_words_of_charles_hoskinson/",
+          "publishedOn": "2021-11-14T23:52:10.000Z",
+          "wordCount": 335,
+          "title": "The words of charles hoskinson"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qu2t22/something_like_hex_on_cardano/",
+          "author": null,
+          "description": "Is anyone creating some version of HEX on Cardano? We need this! Or at least we should have it. Obviously not with the huge amount to the founder, but something more fair, and with a website where people can see a graph of penalties paid. I really like the pumpamentals. People buy and stake to prevent dilution, and people who don't stake are diluted, which means that stakers will have a larger percentage wise amount of tokens. And if people unstake too early, then stakers win even more, because of the penalties paid for unstaking too early. Also very limited supply, so the price can skyrocket, which will give an incentive to unstake early(to sell the token), which means more penalties paid and more for stakers. What's not to like?\n Please someone make this. It is way better than stupid meme tokens, and I guess kinda easy to make compared to other projects. :-)\n    submitted by    /u/Good-Book-6912  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qu2t22/something_like_hex_on_cardano/",
+          "publishedOn": "2021-11-14T23:47:50.000Z",
+          "wordCount": 390,
+          "title": "Something like HEX on Cardano"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qu2aig/think_i_just_got_hacked/",
+          "author": null,
+          "description": "Noticed that yesterday my entire ADA wallet value (yoroii) was sent to an address that's not mine, in a transaction I did not authorize. \n How can I get my coins back? I have the transaction data in my history.\n    submitted by    /u/willivlliw  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qu2aig/think_i_just_got_hacked/",
+          "publishedOn": "2021-11-14T23:21:19.000Z",
+          "wordCount": 720,
+          "title": "Think I just got hacked?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qu0dlr/ada_to_bnb_on_trust_wallet_help/",
+          "author": null,
+          "description": "Is there anyway to transfer my ada into BNB so that I can them swap it with BNB Smart Chain? I want to buy a token using Pancake but been unable to convert my ADA as of yet. I originally sent it from Binance.US. Thanks so much for any help!!!\n    submitted by    /u/SouthofPico  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qu0dlr/ada_to_bnb_on_trust_wallet_help/",
+          "publishedOn": "2021-11-14T21:49:23.000Z",
+          "wordCount": 378,
+          "title": "ADA to BNB on Trust Wallet????? Help!!!"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qtzapk/can_someone_help_me_work_out_why_yoroi_wont_let/",
+          "author": null,
+          "description": "submitted by    /u/tellem11  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qtzapk/can_someone_help_me_work_out_why_yoroi_wont_let/",
+          "publishedOn": "2021-11-14T20:58:41.000Z",
+          "wordCount": 347,
+          "title": "Can someone help me work out why yoroi wont let me send some ada out of the wallet?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qtyy8s/we_should_vote_for_cardano/",
+          "author": null,
+          "description": "https://twitter.com/BitPay/status/1458977852230180868?s=20 \n ​\n Let's vote!!\n    submitted by    /u/Doxie4eVeR  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qtyy8s/we_should_vote_for_cardano/",
+          "publishedOn": "2021-11-14T20:42:55.000Z",
+          "wordCount": 410,
+          "title": "We should vote for Cardano!!!"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qtxi3p/i_am_not_sure_if_this_has_been_asked_but_when_is/",
+          "author": null,
+          "description": "submitted by    /u/BiteMaJobby  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qtxi3p/i_am_not_sure_if_this_has_been_asked_but_when_is/",
+          "publishedOn": "2021-11-14T19:36:22.000Z",
+          "wordCount": 458,
+          "title": "I am not sure if this has been asked but when is it expected that staking rewards run out ?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qtwkkg/adalend_worth_it/",
+          "author": null,
+          "description": "Hi everyone,\n Thinking of getting in on the ADALend private sale (it's still on). What are your thoughts on it?\n Also, would be great if you could share your DYOR conclusions if you can, as I start doing mine.\n Thanks!\n    submitted by    /u/Empty-Flounder-4758  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qtwkkg/adalend_worth_it/",
+          "publishedOn": "2021-11-14T18:53:42.000Z",
+          "wordCount": 309,
+          "title": "ADALend - worth it?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qtvbd5/ada_as_a_base_pair_on_bitrue_exchange/",
+          "author": null,
+          "description": "Maybe you also missed this Summit news video: Bitrue exchange announced that ADA is becoming on of their base pairs. \n And they will list Cardano DApps coins. \n Does anyone has an account at Bitrue and can verify that ADA is now a base pair on their exchange ? \n Not sure if it has something to do with that ADA acts as a stablecoin the last weeks. But a base pair coin has to be very stable . \n Here the video https://youtu.be/NBLkaV7jH50 I just stumbled on .\n    submitted by    /u/33nmakkie  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qtvbd5/ada_as_a_base_pair_on_bitrue_exchange/",
+          "publishedOn": "2021-11-14T17:56:33.000Z",
+          "wordCount": 286,
+          "title": "ADA as a base pair on Bitrue exchange ?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qtt7t6/coding_for_total_noobs/",
+          "author": null,
+          "description": "Are you here looking for info on how to get started in coding for Cardano, and feeling lost? Me too.\n Join us here and we can figure it out together. Planning to have/build peer support, motivate each other, references & resources, weekly goals & accountability, friendships, etc.\n All skill levels welcomed - especially if you want to help guide/mentor us!\n Cardano Coding for Total Noobs (who have not idea what they are doing but still wanna try) https://discord.gg/f8wZEnPj\n    submitted by    /u/bebopkittens  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qtt7t6/coding_for_total_noobs/",
+          "publishedOn": "2021-11-14T16:20:33.000Z",
+          "wordCount": 318,
+          "title": "Coding for total noobs"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qtrn6q/any_published_data/",
+          "author": null,
+          "description": "Is there any published data showing area were most of the ADA transactions are created? I would like to know if having nodes in those location (lower latency) help your stakepool? \n Example, To me it does not make sense to have 2 relay nodes in same city. Seems better to spread them out..\n Any other thoughts?\n Thanks\n    submitted by    /u/erndawg_22  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qtrn6q/any_published_data/",
+          "publishedOn": "2021-11-14T15:05:16.000Z",
+          "wordCount": 310,
+          "title": "Any Published data?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qtq7sq/singularitydao_will_be_the_bloomberg_of/",
+          "author": null,
+          "description": "submitted by    /u/whirring91  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qtq7sq/singularitydao_will_be_the_bloomberg_of/",
+          "publishedOn": "2021-11-14T13:50:48.000Z",
+          "wordCount": 548,
+          "title": "\"SingularityDAO will be the Bloomberg of Cryptocurrencies\". Collaboration with Cardano incoming!"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qtodfc/when_to_change_ada_stake_pool/",
+          "author": null,
+          "description": "It's my understanding that the max saturation limit for a stake pool is 64M.\n Does this mean when the pool we're staking our ADA with reaches 64M, we need to manually find a new pool? Thanks!\n    submitted by    /u/true_al  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qtodfc/when_to_change_ada_stake_pool/",
+          "publishedOn": "2021-11-14T11:58:56.000Z",
+          "wordCount": 1067,
+          "title": "When to change ADA stake pool"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qtmp1k/when_will_the_gui_token_builder_be_available/",
+          "author": null,
+          "description": "submitted by    /u/racelini  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qtmp1k/when_will_the_gui_token_builder_be_available/",
+          "publishedOn": "2021-11-14T09:58:00.000Z",
+          "wordCount": 234,
+          "title": "When will the GUI token builder be available?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qtmits/yoroi_to_iphone/",
+          "author": null,
+          "description": "I’m not sure if this is possible and I suspect that this is a no, but is there anyway to link my app to my Trezor hardware wallet overview.\n Ideally I’d like to keep an eye on the amount and that which is being staked through through the APP.\n Fully aware I won’t be able to actually change or remove anything which connecting the Trezor to the laptop and moving it manually, however being able to see thing will always be nice.\n Anyone reading this thinking - I’m gonna pm the noob for their keys or tell him they need to be transferred somewhere else, please jog on. It’ll just be another account on the block and report list. \n I’m not sure if I’m being really stupid but I can’t see an easy way to do this. Thanks in advance for your help 👌🏼\n    submitted by    /u/OriginalBowsa  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qtmits/yoroi_to_iphone/",
+          "publishedOn": "2021-11-14T09:44:51.000Z",
+          "wordCount": 391,
+          "title": "Yoroi to iPhone"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qtlnps/cardano_project_index/",
+          "author": null,
+          "description": "Does anyone know of a site that has detailed descriptions of the projects been built on Cardano? I've looked but nothing that useful seems to come up\n    submitted by    /u/re8888  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qtlnps/cardano_project_index/",
+          "publishedOn": "2021-11-14T08:41:17.000Z",
+          "wordCount": 261,
+          "title": "Cardano Project Index"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qtkuf5/dont_i_have_to_register_again/",
+          "author": null,
+          "description": "submitted by    /u/benstamatik  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qtkuf5/dont_i_have_to_register_again/",
+          "publishedOn": "2021-11-14T07:41:27.000Z",
+          "wordCount": 312,
+          "title": "Don't I have to register again?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qtkdyc/cle_native_tokens/",
+          "author": null,
+          "description": "Anyone knows what are these CLE tokens? Like: CLE620, CLE366 etc?\n Here is total list on cardano assets: cardanoassets\n    submitted by    /u/Wensy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qtkdyc/cle_native_tokens/",
+          "publishedOn": "2021-11-14T07:08:13.000Z",
+          "wordCount": 310,
+          "title": "\"CLE\" native tokens"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qtjupr/cardano_daily_discussion_questions_market_thread/",
+          "author": null,
+          "description": "Hello everyone,\n Welcome to the Cardano Daily Discussion - Questions & Market Thread!\n The standard sub rules apply here (see sidebar), with the exception that price discussion is allowed in this thread.\n Cardano Newbies Guide\n ​\n https://preview.redd.it/5wwnmsjuckx71.jpg?width=1538&format=pjpg&auto=webp&s=50259c3dbcc8a28be5b4380abe9a6f985ad97c7e\n 🎓 If you're looking for the newbies guide click here! 🎓\n (newbies guide temporarily unpinned while questions are gathered for the fireside chat).\n ​\n NFTs for Planting Trees\n ​\n https://preview.redd.it/d9l75zowckx71.jpg?width=1600&format=pjpg&auto=webp&s=9a13a91cb371dce5d318b96dea2692dad9348b21\n You can donate ADA and receive NFTs for doing so, each ADA is a tree planted, it's a win win! Read about veritree here and take part on https://ito.ver…",
+          "link": "https://www.reddit.com/r/cardano/comments/qtjupr/cardano_daily_discussion_questions_market_thread/",
+          "publishedOn": "2021-11-14T06:30:09.000Z",
+          "wordCount": 935,
+          "title": "Cardano Daily Discussion - Questions & Market Thread - November 14, 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qtjg79/develop_with_ada/",
+          "author": null,
+          "description": "I want to learn more about ADA and develop game. Where do I start?\n    submitted by    /u/NoPainNoGainTryMore  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qtjg79/develop_with_ada/",
+          "publishedOn": "2021-11-14T06:03:23.000Z",
+          "wordCount": 453,
+          "title": "Develop with ADA"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qth442/oracle_system_built_on_cardano/",
+          "author": null,
+          "description": "Are there any projects out there to build an Oracle coin on top of Cardano's network?\n    submitted by    /u/Guttus1538  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qth442/oracle_system_built_on_cardano/",
+          "publishedOn": "2021-11-14T03:35:09.000Z",
+          "wordCount": 230,
+          "title": "Oracle System Built on Cardano"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qtgcpf/fund_7_signup_and_vote/",
+          "author": null,
+          "description": "Can someone please help me with how to sign up and vote with Yoroi? Is it still possible to join fund 7?\n    submitted by    /u/fursure13  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qtgcpf/fund_7_signup_and_vote/",
+          "publishedOn": "2021-11-14T02:49:23.000Z",
+          "wordCount": 328,
+          "title": "Fund 7 Sign-up And Vote"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qtgb5k/make_catalyst_a_dapp_compatible_with_yoroi/",
+          "author": null,
+          "description": "I think that is a good idea make the voting process easier, without QR or external apps in device, just a web dapp, then you can connect your Yoroi wallet using dapp connector, vote and sign the tx\n    submitted by    /u/lkzeta  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qtgb5k/make_catalyst_a_dapp_compatible_with_yoroi/",
+          "publishedOn": "2021-11-14T02:46:48.000Z",
+          "wordCount": 253,
+          "title": "Make Catalyst a Dapp compatible with Yoroi Connector"
         }
       ]
     },
