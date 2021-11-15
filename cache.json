@@ -1,0 +1,925 @@
+{
+  "sources": [
+    {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=356304",
+          "author": "Chris Coyier",
+          "description": "Remember when Ahmad Shadeed wrote about that border-radius “toggle” he found in Facebook’s CSS? It was interesting! I covered it. A few weeks after that surge of linkage, a couple of articles came out digging into it a little deeper. …\nThe post Other Looks at the Conditional Border Radius Trick appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/other-looks-at-the-conditional-border-radius-trick/",
+          "publishedOn": "2021-11-12T23:54:00.000Z",
+          "wordCount": 821,
+          "title": "Other Looks at the Conditional Border Radius Trick"
+        },
+        {
+          "id": "https://css-tricks.com/?p=355658",
+          "author": "Tobias Günther",
+          "description": "Interactive Rebase is the Swiss Army knife of Git commands: lots of use cases and lots of possibilities! It's really a great addition to any developer's tool chain, because it lets you revise your local commit history—before you share your work with the rest of the team. Let's see what you can do with an interactive rebase and then look at some practical examples.\nThe post Interactive Rebase: Clean up your Commit History appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/interactive-rebase-clean-up-your-commit-history/",
+          "publishedOn": "2021-11-12T15:16:24.000Z",
+          "wordCount": 1888,
+          "title": "Interactive Rebase: Clean up your Commit History"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356652",
+          "author": "Chris Coyier",
+          "description": "Scott digs into the history of the <menu> element. He traced it as far back as HTML 2 (!) in a 1994 changelog. The vibe then, it seems, was to mark up a list. I would suspect the intention …\nThe post Semantic menu context appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/semantic-menu-context/",
+          "publishedOn": "2021-11-11T20:07:40.000Z",
+          "wordCount": 528,
+          "title": "Semantic menu context"
+        },
+        {
+          "id": "https://css-tricks.com/?p=355683",
+          "author": "Abram Thau",
+          "description": "I was working on a large React application for a startup, and aside from just wanting some good strategies to keep our styles organized, I wanted to give this whole “dark mode” thing a shot. With the huge ecosystem around …\nThe post Easy Dark Mode (and Multiple Color Themes!) in React appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/easy-dark-mode-and-multiple-color-themes-in-react/",
+          "publishedOn": "2021-11-11T15:28:04.000Z",
+          "wordCount": 2614,
+          "title": "Easy Dark Mode (and Multiple Color Themes!) in React"
+        },
+        {
+          "id": "https://css-tricks.com/?p=355516",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nMeasuring things is great. They say what you only fix what you measure. Raygun is great at measuring websites. Measuring performance, measuring errors and crashes, measuring code problems. \nYou know what’s even better than …\nThe post Quickly Get Alerted to Front-End Errors and Performance Issues appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/quickly-get-alerted-to-front-end-errors-and-performance-issues/",
+          "publishedOn": "2021-11-11T15:22:31.000Z",
+          "wordCount": 1141,
+          "title": "Quickly Get Alerted to Front-End Errors and Performance Issues"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356058",
+          "author": "Chris Coyier",
+          "description": "Whatever, I just needed a title. Everyone’s favorite web security feature has crossed my desk a bunch of times lately and I always feel like that is a sign I should write something because that’s what blogging is. \nThe main …\nThe post Don’t Snore on CORS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/dont-snore-on-cors/",
+          "publishedOn": "2021-11-10T22:38:05.000Z",
+          "wordCount": 731,
+          "title": "Don’t Snore on CORS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=355649",
+          "author": "Meredith Matthews",
+          "description": "Oh, Bootstrap, that old standard web library that either you hate or you spend all your time defending as “it’s fine, it’s not that bad.” Regardless of what side you fall on, it’s a powerful UI framework that’s everywhere, …\nThe post Quick and Dirty Bootstrap Overrides at Runtime appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/quick-and-dirty-bootstrap-overrides-at-runtime/",
+          "publishedOn": "2021-11-10T15:00:29.000Z",
+          "wordCount": 2161,
+          "title": "Quick and Dirty Bootstrap Overrides at Runtime"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356208",
+          "author": "Chris Coyier",
+          "description": "Nice domain, eh? Does just what it says on the tin: cleans up pictures. You draw over areas of the image you want cleaned up, and it does its best using weird science. It’s like Photoshop’s Spot Healing Brush…\nThe post cleanup.pictures appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/cleanup-pictures/",
+          "publishedOn": "2021-11-10T14:55:26.000Z",
+          "wordCount": 364,
+          "title": "cleanup.pictures"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356142",
+          "author": "Chris Coyier",
+          "description": "Louis Lazaris breaks down some bonafide CSS trickery from Jane. The Pen shows off interactivity where:\nYou have to press a special combination of keys on a keyboard.\nThen type a secret password.\nFrom there, a special message pops …\nThe post Detecting Specific Text Input with HTML and CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/detecting-specific-text-input-with-html-and-css/",
+          "publishedOn": "2021-11-09T22:53:45.000Z",
+          "wordCount": 440,
+          "title": "Detecting Specific Text Input with HTML and CSS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356370",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nThe leade here is that VideoPress makes video on WordPress way better. VideoPress is a part of Jetpack. And now, if VideoPress is the only thing you care about from the Jetpack world, you …\nThe post VideoPress for WordPress appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/videopress-for-wordpress/",
+          "publishedOn": "2021-11-09T22:53:18.000Z",
+          "wordCount": 1108,
+          "title": "VideoPress for WordPress"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356187",
+          "author": "Adam Rackis",
+          "description": "Suspense is React’s forthcoming feature that helps coordinate asynchronous actions—like data loading—allowing you to easily prevent inconsistent state in your UI. I’ll provide a better explanation of what exactly that means, along with a quick introduction of Suspense, and then …\nThe post React Suspense: Lessons Learned While Loading Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/react-suspense-lessons-learned-while-loading-data/",
+          "publishedOn": "2021-11-09T15:20:10.000Z",
+          "wordCount": 2425,
+          "title": "React Suspense: Lessons Learned While Loading Data"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356204",
+          "author": "Chris Coyier",
+          "description": "Bonafide CSS trick alert! Nelson Menezes figured out a new way (that only works in Firefox for now) that is awfully clever.\nPerhaps you know that CSS cannot animate to auto dimensions, which is super unfortunate. Animating from …\nThe post CSS Grid Can Do Auto Height Transitions appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/css-grid-can-do-auto-height-transitions/",
+          "publishedOn": "2021-11-08T19:01:31.000Z",
+          "wordCount": 590,
+          "title": "CSS Grid Can Do Auto Height Transitions"
+        },
+        {
+          "id": "https://css-tricks.com/?p=322098",
+          "author": "Ana Tudor",
+          "description": "I recently came across a cool effect known as glassmorphism in a Dribble shot. My first thought was I could quickly recreate it in a few minutes if I just use some emojis for the icons without wasting time …\nThe post Icon Glassmorphism Effect in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/icon-glassmorphism-effect-in-css/",
+          "publishedOn": "2021-11-08T14:57:42.000Z",
+          "wordCount": 8199,
+          "title": "Icon Glassmorphism Effect in CSS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356134",
+          "author": "Chris Coyier",
+          "description": "Just ran across îles, a new static site generator mostly centered around Vue. The world has no particular shortage of static site generators, but it’s interesting to see what this “next generation” of SSGs seem to focus on or …\nThe post Does the Next Generation of Static Site Generators Make Building Sites Better? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/does-the-next-generation-of-static-site-generators-make-building-sites-better/",
+          "publishedOn": "2021-11-08T14:56:23.000Z",
+          "wordCount": 1346,
+          "title": "Does the Next Generation of Static Site Generators Make Building Sites Better?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=355780",
+          "author": "Chris Coyier",
+          "description": "Šime Vidas DM’d me the other day about this thread from subzey on Twitter. My HTML for favicons was like this:\n<!-- Warning! Typo! --<link rel=\"icon\" href=\"/favicon.ico\" size=\"any\"<link rel=\"icon\" href=\"/favicon.svg\" type=\"image/svg+xml\"\nThe attribute size is a typo there, …\nThe post Favicons: How to Make Sure Browsers Only Download the SVG Version appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/favicons-how-to-make-sure-browsers-only-download-the-svg-version/",
+          "publishedOn": "2021-11-05T20:47:32.000Z",
+          "wordCount": 592,
+          "title": "Favicons: How to Make Sure Browsers Only Download the SVG Version"
+        }
+      ]
+    },
+    {
+      "title": "Serokell Blog",
+      "feedUrl": "https://serokell.io/blog.rss.xml",
+      "siteUrl": "https://serokell.io/blog",
+      "articles": [
+        {
+          "id": "https://serokell.io/blog/how-scarf-uses-haskell",
+          "author": "hi+gintsdreimanis@serokell.io (Gints Dreimanis)",
+          "description": "Read our interview with Avi Press, the CEO & co-founder of Scarf, to find out the pros and cons of using Haskell for developing production-level applications.",
+          "link": "https://serokell.io/blog/how-scarf-uses-haskell",
+          "publishedOn": "2021-11-09T00:00:00.000Z",
+          "wordCount": 1647,
+          "title": "Haskell in Production: Scarf"
+        },
+        {
+          "id": "https://serokell.io/blog/serokell-blog-year-3",
+          "author": "hi+gintsdreimanis@serokell.io (Gints Dreimanis)",
+          "description": "Which were the most popular Serokell blog posts of the last year? What are our plans for the future? Find out the answers by reading our celebratory blog post.",
+          "link": "https://serokell.io/blog/serokell-blog-year-3",
+          "publishedOn": "2021-11-05T00:00:00.000Z",
+          "wordCount": 1204,
+          "title": "Serokell Blog: Year 3 in Review"
+        },
+        {
+          "id": "https://serokell.io/blog/is-self-supervised-learning-future-of-ai",
+          "author": "hi+yuliagavrilova@serokell.io (Yulia Gavrilova)",
+          "description": "Self-supervised learning is one of the most popular approaches to ML today. SSL algorithms don’t require manual target labeling and can obtain all the information they need from the data. Find out more about how they work in our new post.",
+          "link": "https://serokell.io/blog/is-self-supervised-learning-future-of-ai",
+          "publishedOn": "2021-11-02T00:00:00.000Z",
+          "wordCount": 1602,
+          "title": "Is Self-Supervised Learning the Future of AI?"
+        },
+        {
+          "id": "https://serokell.io/blog/from-whitespace-to-idris",
+          "author": "hi+jonnmostovoy@serokell.io (Jonn Mostovoy)",
+          "description": "Want to find out what type-driven development is? Listen to (or read) our interview with Edwin Brady, the creator of Idris, one of the most popular dependently-typed programming languages.",
+          "link": "https://serokell.io/blog/from-whitespace-to-idris",
+          "publishedOn": "2021-10-29T00:00:00.000Z",
+          "wordCount": 5735,
+          "title": "From Whitespace to Idris: Interview With Edwin Brady"
+        },
+        {
+          "id": "https://serokell.io/blog/learn-from-errors-overlapping-instances",
+          "author": "hi+sandeepchandrika@serokell.io (Sandeep Chandrika)",
+          "description": "In this article, we'll look at the overlapping instances error. We'll try to understand the many variants of it, and what the error means in each of those cases.",
+          "link": "https://serokell.io/blog/learn-from-errors-overlapping-instances",
+          "publishedOn": "2021-10-22T00:00:00.000Z",
+          "wordCount": 3279,
+          "title": "Learn From Errors: Overlapping Instances"
+        }
+      ]
+    },
+    {
+      "title": "top scoring links : haskell",
+      "feedUrl": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
+      "siteUrl": "https://www.reddit.com/r/haskell/top/?sort=top&t=day",
+      "articles": [
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/qu0wmp/when_newtype_wont_cut_it_a_polyvariadic_instance/",
+          "author": null,
+          "description": "A Categorical Functor abstracts the (->) categories from the definition of Functor\n type Cat :: Type -> Type type Cat ob = ob -> ob -> Type type Functor :: (s -> t) -> Constraint class (Category (Source f), Category (Target f)) => Functor (f :: s -> t) where type Source (f :: s -> t) :: Cat s type Target (f :: s -> t) :: Cat t fmap :: Source f a b -> Target f (f a) (f b) \n A normal Functor definition explicitly maps (->) to (->), but is otherwise the same as before.\n instance Functor @Type @Type [] where type Source [] = (->) type Target [] = (->) fmap :: (a -> b) -> ([a] -> [b]) fmap = map \n It so happens that there is a \"rule\" that every function automatically has an fmap :: a:~:b -> f a:~:f b because equality satisfies congruence. This is a functor from the discrete category ((:~:)) to …",
+          "link": "https://www.reddit.com/r/haskell/comments/qu0wmp/when_newtype_wont_cut_it_a_polyvariadic_instance/",
+          "publishedOn": "2021-11-14T22:13:53.000Z",
+          "wordCount": 1325,
+          "title": "When newtype won't cut it; a polyvariadic instance"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/qtyv4u/a_ghcproposal_for_custom_type_warnings/",
+          "author": null,
+          "description": "submitted by    /u/adamgundry  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/qtyv4u/a_ghcproposal_for_custom_type_warnings/",
+          "publishedOn": "2021-11-14T20:38:53.000Z",
+          "wordCount": 118,
+          "title": "A ghc-proposal for custom type warnings"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/qtwhhq/looking_for_a_tutor_help/",
+          "author": null,
+          "description": "Hi, I'm having a terrible time with haskell. I'm taking a class in college, office hours are offered but only when I'm working and i can't make it in for help during them. I'm looking for someone available in the evenings 7 or later EST. The first topic I'm looking for guidance in would be parsing. \n Thanks\n    submitted by    /u/useduser  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/qtwhhq/looking_for_a_tutor_help/",
+          "publishedOn": "2021-11-14T18:49:43.000Z",
+          "wordCount": 180,
+          "title": "Looking for a tutor / help"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/qtuccq/exercisepractice_resources_for_beginners/",
+          "author": null,
+          "description": "Hey there,\n currently I'm trying to learn Haskell but I am a person that depends heavily on exercises or practicing\n their newly acquired knowledge. I'm following learn you a Haskell and Real world Haskell but\n I'd like to get more experience and knowledge by doing exercises..\n Could someone point me in the right direction and to some exercises or old homeworks?\n Thanks in advance!\n    submitted by    /u/hacksoos  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/qtuccq/exercisepractice_resources_for_beginners/",
+          "publishedOn": "2021-11-14T17:12:00.000Z",
+          "wordCount": 280,
+          "title": "Exercise/Practice Resources for Beginners / Intermediate"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/qttk1t/array_of_eithers_type/",
+          "author": null,
+          "description": "Data.Vector.Unboxed essentially gives a Structure of Arrays representation - Vector (a,b) can be stored as (Vector a, Vector b). \n This has some minor issues - deriving doesn't really work, writing the typeclass by hand is really annoying, GHC cannot optimize away dead reads if you only use one field - but overall it's a reasonably nice and composable abstraction.\n I'm currently playing with some code which accepts messages and must store them efficiently before they get batch-executed. To make this extensible I'd like some freer monads, more extensible effects style interface, composing the command enum like Either Op1 Op2.\n But my usecase could be seen as a mildly wonky Op-Based CRDT which means the operations commute and order doesn't matter. It would be really nice if internally I could store everything as (MVector Op1, MVector Op2)behind the scenes.\n This lead me to a number of questions:\n  \nIs there an array-of-sums representation that stores Vector (Either Op1 Op2) as (Vector Op1, Vector Op2)?\n Is there a better way to derive unboxed vector boilerplate? I have seen https://hackage.haskell.org/package/vector-th-unbox-0.2.2/docs/Data-Vector-Unboxed-Deriving.html before but it feels like DerivingVia should be able to handle it if the monad was constrained to be representational\n Are there interface ideas to manipulate unboxed vectors structurally? Say, lift projection functions like Vector (a,b) -> Vector a? In my case also things like pop one Op1 value, or take all Op2 values\n Is there an approach to structurally manipulate types in Haskell? Most code in Haskell only folds over the generic representation but e.g. StrictCheck has some tooling to add a functor at each level of a type, typescript has a bunch of tools for this like\n  \n \ntype ExtractPII<Type> = { [Property in keyof Type]: Type[Property] extends { pii: true } ? true : false; }; \n If people have ideas to any of these points I'd really like to hear about them!\n    submitted by    /u/Tarmen  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/qttk1t/array_of_eithers_type/",
+          "publishedOn": "2021-11-14T16:36:15.000Z",
+          "wordCount": 686,
+          "title": "Array of Eithers type?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/qtp911/nonexhaustive_patterns_warning_problem/",
+          "author": null,
+          "description": "Hello, I am working on two functions that filter values from a list of Cupcake type objects, and I am getting a \"Pattern match(es) are non-exhaustive\" error when running them, which causes any example I try on them to give me *** Exception: Assessed3.hs:(25,1)-(31,67): Non-exhaustive patterns in function priceRange.\n I really don't see anything wrong:\n priceRange :: Price -> Price -> [Cupcake] -> [Cupcake]\n priceRange minprice maxprice [] = []\n priceRange minprice maxprice [CC p i] = [CC p i | pricelower minprice p, pricelower p maxprice]\n where\n pricelower :: Price -> Price -> Bool\n pricelower (P x) (P y) \n | x<=y = True\n | otherwise = False\n Assessed3.hs:25:1: warning: [-Wincomplete-patterns]\n Pattern match(es) are non-exhaustive\n In an equation for ‘priceRange’:\n Patterns not matched:\n (P _) (P _) ((CC (P _) []):_:_)\n (P _) (P _) ((CC (P _) (_:_)):_:_)\n |\n 25 | priceRange minprice maxprice [] = [] \n For this it says I didn't match the two cases in which the list inside is empty or non empty but I really don't see how that will give me an error.\n    submitted by    /u/budasergu  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/qtp911/nonexhaustive_patterns_warning_problem/",
+          "publishedOn": "2021-11-14T12:55:03.000Z",
+          "wordCount": 410,
+          "title": "Non-exhaustive patterns warning problem"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/qtkyf0/what_is_a_common_use_case_for_flip/",
+          "author": null,
+          "description": "Learn You a Haskell says, \"The most common use case with flip is calling it with just the function\n parameter and then passing the resulting function on to a map or a filter. \"\n I saw this: https://stackoverflow.com/q/14397128/9481613\n But what are some use cases?\n    submitted by    /u/webNoob13  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/qtkyf0/what_is_a_common_use_case_for_flip/",
+          "publishedOn": "2021-11-14T07:49:40.000Z",
+          "wordCount": 890,
+          "title": "What is a common use case for flip?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/qtktjt/i_wrote_an_overview_article/",
+          "author": null,
+          "description": "I wrote a super tiny introductory article for people who haven't worked with Haskell before.\n https://github.com/vipulbhj/vipulbhj/tree/main/blogs/ProgrammingLanguages/Haskell/Haskell101 \n P.S: This is not a serious article and is not meant to be read for educational purposes, please read it as a joke and enjoy the light hearted read.\n    submitted by    /u/Advanced_Put_2880  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/qtktjt/i_wrote_an_overview_article/",
+          "publishedOn": "2021-11-14T07:39:36.000Z",
+          "wordCount": 322,
+          "title": "I wrote an overview article."
+        }
+      ]
+    },
+    {
+      "title": "top scoring links : TheMotte",
+      "feedUrl": "https://www.reddit.com/r/TheMotte/top/.rss?sort=top&t=day",
+      "siteUrl": "https://www.reddit.com/r/TheMotte/top/?sort=top&t=day",
+      "articles": [
+        {
+          "id": "https://www.reddit.com/r/TheMotte/comments/qtkhe3/smallscale_question_sunday_for_november_14_2021/",
+          "author": null,
+          "description": "Do you have a dumb question that you're kind of embarrassed to ask in the main thread? Is there something you're just not sure about? \n This is your opportunity to ask questions. No question too simple or too silly. \n Culture war topics are accepted, and proposals for a better intro post are appreciated.\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/TheMotte/comments/qtkhe3/smallscale_question_sunday_for_november_14_2021/",
+          "publishedOn": "2021-11-14T07:15:10.000Z",
+          "wordCount": 1968,
+          "title": "Small-Scale Question Sunday for November 14, 2021"
+        }
+      ]
+    },
+    {
+      "title": "top scoring links : redscarepod",
+      "feedUrl": "https://www.reddit.com/r/redscarepod/top/.rss?sort=top&t=day&limit=3",
+      "siteUrl": "https://www.reddit.com/r/redscarepod/top/?sort=top&t=day&limit=3",
+      "articles": [
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/qtvudz/grimes_should_take_his_phone_away/",
+          "author": null,
+          "description": "submitted by    /u/longlivemrwolf  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/qtvudz/grimes_should_take_his_phone_away/",
+          "publishedOn": "2021-11-14T18:20:22.000Z",
+          "wordCount": 736,
+          "title": "grimes should take his phone away"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/qtswh1/people_who_try_to_humanize_billionaires_are_so/",
+          "author": null,
+          "description": "Bezos fanboys come across as particularly pathetic. Saw someone shaming people for hoping Bezos’ penis rocket exploded, asking us “how would you feel if it was your rocketship” without a hint of irony. \n By far the worst tho are people who assume that anyone who hates rich people is just jealous of them.\n Anyway, billionaires aren’t human and their heads belong on spikes. I sincerely hope we break out the guillotine for them in my lifetime.\n Kill the rich. They aren’t human and they don’t deserve our kindness or sympathy.\n    submitted by    /u/bussyboyfourtwenty  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/qtswh1/people_who_try_to_humanize_billionaires_are_so/",
+          "publishedOn": "2021-11-14T16:05:34.000Z",
+          "wordCount": 1011,
+          "title": "People who try to humanize billionaires are so cucked"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/qtr3z6/language_is_so_inspiring_americans_have_over_1000/",
+          "author": null,
+          "description": "submitted by    /u/ChickenTitilater  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/qtr3z6/language_is_so_inspiring_americans_have_over_1000/",
+          "publishedOn": "2021-11-14T14:38:35.000Z",
+          "wordCount": 721,
+          "title": "language is so inspiring: americans have over 1000 words for \"burger\" -- including whopper, quarter pounder, slapper, and thumper. in fact while foraging, americans can communicate the presence of a burger using a series of slaps and thumps"
+        }
+      ]
+    },
+    {
+      "title": "Trending Haskell repositories on GitHub today · GitHub",
+      "feedUrl": "https://rsshub.app/github/trending/daily/haskell",
+      "siteUrl": "https://github.com/trending/haskell?since=daily",
+      "articles": [
+        {
+          "id": "https://github.com/haskell/cabal",
+          "author": "haskell",
+          "description": "Official upstream development repository for Cabal and cabal-install\n    \nLanguage: Haskell\n                            \nStar: 1,305\n                            \nFork: 576",
+          "link": "https://github.com/haskell/cabal",
+          "publishedOn": "2021-11-15T02:22:11.691Z",
+          "wordCount": 1082,
+          "title": "haskell /\n\n      cabal"
+        },
+        {
+          "id": "https://github.com/input-output-hk/cardano-prelude",
+          "author": "input-output-hk",
+          "description": "A protolude-based custom prelude for the Cardano project\n    \nLanguage: Haskell\n                            \nStar: 10\n                            \nFork: 6",
+          "link": "https://github.com/input-output-hk/cardano-prelude",
+          "publishedOn": "2021-11-15T02:22:11.636Z",
+          "wordCount": 348,
+          "title": "input-output-hk /\n\n      cardano-prelude"
+        },
+        {
+          "id": "https://github.com/srid/emanote",
+          "author": "srid",
+          "description": "Spiritual successor to neuron, based on Ema.\n    \nLanguage: Haskell\n                            \nStar: 157\n                            \nFork: 19",
+          "link": "https://github.com/srid/emanote",
+          "publishedOn": "2021-11-15T02:22:11.230Z",
+          "wordCount": 682,
+          "title": "srid /\n\n      emanote"
+        },
+        {
+          "id": "https://github.com/kmonad/kmonad",
+          "author": "kmonad",
+          "description": "An advanced keyboard manager\n    \nLanguage: Haskell\n                            \nStar: 1,203\n                            \nFork: 135",
+          "link": "https://github.com/kmonad/kmonad",
+          "publishedOn": "2021-11-15T02:22:11.091Z",
+          "wordCount": 1215,
+          "title": "kmonad /\n\n      kmonad"
+        },
+        {
+          "id": "https://github.com/kadena-io/chainweb-mining-client",
+          "author": "kadena-io",
+          "description": "A mining client for Kadena\n    \nLanguage: Haskell\n                            \nStar: 21\n                            \nFork: 3",
+          "link": "https://github.com/kadena-io/chainweb-mining-client",
+          "publishedOn": "2021-11-15T02:22:11.025Z",
+          "wordCount": 1746,
+          "title": "kadena-io /\n\n      chainweb-mining-client"
+        },
+        {
+          "id": "https://github.com/purescript/purescript",
+          "author": "purescript",
+          "description": "A strongly-typed language that compiles to JavaScript\n    \nLanguage: Haskell\n                            \nStar: 7,423\n                            \nFork: 538",
+          "link": "https://github.com/purescript/purescript",
+          "publishedOn": "2021-11-15T02:22:10.971Z",
+          "wordCount": 471,
+          "title": "purescript /\n\n      purescript"
+        },
+        {
+          "id": "https://github.com/OnChainLabs/Martify",
+          "author": "OnChainLabs",
+          "description": "NFT Marketplace on the Cardano Blockchain. Powered by Plutus Smart Contracts\n    \nLanguage: Haskell\n                            \nStar: 15\n                            \nFork: 12",
+          "link": "https://github.com/OnChainLabs/Martify",
+          "publishedOn": "2021-11-15T02:22:10.922Z",
+          "wordCount": 514,
+          "title": "OnChainLabs /\n\n      Martify"
+        },
+        {
+          "id": "https://github.com/jgm/pandoc",
+          "author": "jgm",
+          "description": "Universal markup converter\n    \nLanguage: Haskell\n                            \nStar: 23,938\n                            \nFork: 2,766",
+          "link": "https://github.com/jgm/pandoc",
+          "publishedOn": "2021-11-15T02:22:10.882Z",
+          "wordCount": 1546,
+          "title": "jgm /\n\n      pandoc"
+        },
+        {
+          "id": "https://github.com/GaloisInc/flexdis86",
+          "author": "GaloisInc",
+          "description": "A library for disassembling x86-64 binaries.\n    \nLanguage: Haskell\n                            \nStar: 30\n                            \nFork: 8",
+          "link": "https://github.com/GaloisInc/flexdis86",
+          "publishedOn": "2021-11-15T02:22:10.823Z",
+          "wordCount": 369,
+          "title": "GaloisInc /\n\n      flexdis86"
+        },
+        {
+          "id": "https://github.com/agda/agda",
+          "author": "agda",
+          "description": "Agda is a dependently typed programming language / interactive theorem prover.\n    \nLanguage: Haskell\n                            \nStar: 1,655\n                            \nFork: 207",
+          "link": "https://github.com/agda/agda",
+          "publishedOn": "2021-11-15T02:22:10.784Z",
+          "wordCount": 1142,
+          "title": "agda /\n\n      agda"
+        },
+        {
+          "id": "https://github.com/NorfairKing/autodocodec",
+          "author": "NorfairKing",
+          "description": "Language: Haskell\n                            \nStar: 49\n                            \nFork: 2",
+          "link": "https://github.com/NorfairKing/autodocodec",
+          "publishedOn": "2021-11-15T02:22:10.717Z",
+          "wordCount": 704,
+          "title": "NorfairKing /\n\n      autodocodec"
+        },
+        {
+          "id": "https://github.com/google-research/dex-lang",
+          "author": "google-research",
+          "description": "Research language for array processing in the Haskell/ML family\n    \nLanguage: Haskell\n                            \nStar: 1,096\n                            \nFork: 77",
+          "link": "https://github.com/google-research/dex-lang",
+          "publishedOn": "2021-11-15T02:22:10.687Z",
+          "wordCount": 811,
+          "title": "google-research /\n\n      dex-lang"
+        },
+        {
+          "id": "https://github.com/brendanhay/amazonka",
+          "author": "brendanhay",
+          "description": "A comprehensive Amazon Web Services SDK for Haskell.\n    \nLanguage: Haskell\n                            \nStar: 484\n                            \nFork: 195",
+          "link": "https://github.com/brendanhay/amazonka",
+          "publishedOn": "2021-11-15T02:22:10.622Z",
+          "wordCount": 1362,
+          "title": "brendanhay /\n\n      amazonka"
+        },
+        {
+          "id": "https://github.com/NeuralNine/config-files",
+          "author": "NeuralNine",
+          "description": "A collection of my config files.\n    \nLanguage: Haskell\n                            \nStar: 40\n                            \nFork: 17",
+          "link": "https://github.com/NeuralNine/config-files",
+          "publishedOn": "2021-11-15T02:22:09.745Z",
+          "wordCount": 333,
+          "title": "NeuralNine /\n\n      config-files"
+        },
+        {
+          "id": "https://github.com/kowainik/learn4haskell",
+          "author": "kowainik",
+          "description": "👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests\n    \nLanguage: Haskell\n                            \nStar: 658\n                            \nFork: 647",
+          "link": "https://github.com/kowainik/learn4haskell",
+          "publishedOn": "2021-11-15T02:22:09.701Z",
+          "wordCount": 1974,
+          "title": "kowainik /\n\n      learn4haskell"
+        },
+        {
+          "id": "https://github.com/input-output-hk/cardano-ledger",
+          "author": "input-output-hk",
+          "description": "The ledger implementation and specifications of the Cardano blockchain.\n    \nLanguage: Haskell\n                            \nStar: 121\n                            \nFork: 68",
+          "link": "https://github.com/input-output-hk/cardano-ledger",
+          "publishedOn": "2021-11-15T02:22:09.652Z",
+          "wordCount": 1692,
+          "title": "input-output-hk /\n\n      cardano-ledger"
+        },
+        {
+          "id": "https://github.com/input-output-hk/ouroboros-network",
+          "author": "input-output-hk",
+          "description": "An implementation of the Ouroboros family of consensus algorithms, with its networking support\n    \nLanguage: Haskell\n                            \nStar: 183\n                            \nFork: 51",
+          "link": "https://github.com/input-output-hk/ouroboros-network",
+          "publishedOn": "2021-11-15T02:22:09.598Z",
+          "wordCount": 1353,
+          "title": "input-output-hk /\n\n      ouroboros-network"
+        },
+        {
+          "id": "https://github.com/PostgREST/postgrest",
+          "author": "PostgREST",
+          "description": "REST API for any Postgres database\n    \nLanguage: Haskell\n                            \nStar: 17,875\n                            \nFork: 825",
+          "link": "https://github.com/PostgREST/postgrest",
+          "publishedOn": "2021-11-15T02:22:09.540Z",
+          "wordCount": 1190,
+          "title": "PostgREST /\n\n      postgrest"
+        },
+        {
+          "id": "https://github.com/input-output-hk/cardano-node",
+          "author": "input-output-hk",
+          "description": "The core component that is used to participate in a Cardano decentralised blockchain.\n    \nLanguage: Haskell\n                            \nStar: 2,296\n                            \nFork: 435",
+          "link": "https://github.com/input-output-hk/cardano-node",
+          "publishedOn": "2021-11-15T02:22:09.488Z",
+          "wordCount": 2328,
+          "title": "input-output-hk /\n\n      cardano-node"
+        },
+        {
+          "id": "https://github.com/haskell/haskell-language-server",
+          "author": "haskell",
+          "description": "Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.\n    \nLanguage: Haskell\n                            \nStar: 1,793\n                            \nFork: 184",
+          "link": "https://github.com/haskell/haskell-language-server",
+          "publishedOn": "2021-11-15T02:22:09.412Z",
+          "wordCount": 972,
+          "title": "haskell /\n\n      haskell-language-server"
+        },
+        {
+          "id": "https://github.com/input-output-hk/plutus",
+          "author": "input-output-hk",
+          "description": "The Plutus language implementation and tools\n    \nLanguage: Haskell\n                            \nStar: 1,232\n                            \nFork: 356",
+          "link": "https://github.com/input-output-hk/plutus",
+          "publishedOn": "2021-11-15T02:22:09.351Z",
+          "wordCount": 1954,
+          "title": "input-output-hk /\n\n      plutus"
+        },
+        {
+          "id": "https://github.com/imsut/starthaskell",
+          "author": "imsut",
+          "description": "Language: Haskell\n                            \nStar: 1\n                            \nFork:",
+          "link": "https://github.com/imsut/starthaskell",
+          "publishedOn": "2021-11-15T02:22:09.030Z",
+          "wordCount": 311,
+          "title": "imsut /\n\n      starthaskell"
+        },
+        {
+          "id": "https://github.com/NelosG/fp-tests",
+          "author": "NelosG",
+          "description": "Haskell homework tests\n    \nLanguage: Haskell\n                            \nStar: 2\n                            \nFork: 4",
+          "link": "https://github.com/NelosG/fp-tests",
+          "publishedOn": "2021-11-15T02:22:08.990Z",
+          "wordCount": 511,
+          "title": "NelosG /\n\n      fp-tests"
+        },
+        {
+          "id": "https://github.com/xmonad/xmonad",
+          "author": "xmonad",
+          "description": "The core of xmonad, a small but functional ICCCM-compliant tiling window manager\n    \nLanguage: Haskell\n                            \nStar: 2,177\n                            \nFork: 237",
+          "link": "https://github.com/xmonad/xmonad",
+          "publishedOn": "2021-11-15T02:22:08.941Z",
+          "wordCount": 941,
+          "title": "xmonad /\n\n      xmonad"
+        },
+        {
+          "id": "https://github.com/input-output-hk/plutus-apps",
+          "author": "input-output-hk",
+          "description": "The Plutus application platform\n    \nLanguage: Haskell\n                            \nStar: 43\n                            \nFork: 25",
+          "link": "https://github.com/input-output-hk/plutus-apps",
+          "publishedOn": "2021-11-15T02:22:08.880Z",
+          "wordCount": 1472,
+          "title": "input-output-hk /\n\n      plutus-apps"
+        }
+      ]
+    },
+    {
+      "title": "Hacker News: Front Page",
+      "feedUrl": "https://hnrss.org/frontpage",
+      "siteUrl": "https://news.ycombinator.com/",
+      "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=29222377",
+          "author": "kanjun",
+          "description": "Generally Intelligent is an AI research company. Our mission is to build human-like general intelligence and make it safely accessible in order to foster a more abundant, unconstrained, and equitable society. We take a first-principles approach, starting from simple self-supervised architectures and evolving them to tackle human developmental milestones of increasing complexity.\nIf you’re remote, see the Machine Learning Engineer role: https://jobs.lever.co/generallyintelligent/9411e2ec-502a-403...\nIf you want to be onsite in SF, see the Machine Learning Research Engineer role: https://jobs.lever.co/generallyintelligent/c2f4a435-1eef-489...\nOur YC jobs page is here: https://www.ycombinator.com/companies/generally-intelligent\nComments URL: https://news.ycombinator.com/item?id=29222377\nPoints: 1\n# Comments: 0",
+          "link": "https://news.ycombinator.com/item?id=29222377",
+          "publishedOn": "2021-11-15T01:01:46.000Z",
+          "wordCount": 145,
+          "title": "Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29222133",
+          "author": "sonabinu",
+          "description": "Article URL: https://www.wsj.com/articles/the-chip-that-changed-the-world-microprocessor-computing-transistor-breakthrough-intel-11636903999\nComments URL: https://news.ycombinator.com/item?id=29222133\nPoints: 20\n# Comments: 11",
+          "link": "https://www.wsj.com/articles/the-chip-that-changed-the-world-microprocessor-computing-transistor-breakthrough-intel-11636903999",
+          "publishedOn": "2021-11-15T00:27:31.000Z",
+          "wordCount": 1109,
+          "title": "The chip that changed the world"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29221187",
+          "author": "felladrin",
+          "description": "Article URL: https://pickbetterpack.com/\nComments URL: https://news.ycombinator.com/item?id=29221187\nPoints: 12\n# Comments: 3",
+          "link": "https://pickbetterpack.com/",
+          "publishedOn": "2021-11-14T22:08:13.000Z",
+          "wordCount": 3,
+          "title": "Show HN: PickBetterPack – Discover similar pkgs from package.json dependencies"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29220338",
+          "author": "ayewo",
+          "description": "Article URL: https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/\nComments URL: https://news.ycombinator.com/item?id=29220338\nPoints: 134\n# Comments: 17",
+          "link": "https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/",
+          "publishedOn": "2021-11-14T20:27:02.000Z",
+          "wordCount": 3059,
+          "title": "Why disaster happens at the edges: An introduction to queue theory"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29220320",
+          "author": "firearm-halter",
+          "description": "Article URL: https://nestedtext.org/en/latest/alternatives.html#yaml\nComments URL: https://news.ycombinator.com/item?id=29220320\nPoints: 161\n# Comments: 256",
+          "link": "https://nestedtext.org/en/latest/alternatives.html#yaml",
+          "publishedOn": "2021-11-14T20:25:11.000Z",
+          "wordCount": 1787,
+          "title": "YAML: It's Time to Move On"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29220190",
+          "author": "dredmorbius",
+          "description": "Article URL: https://www.irishtimes.com/news/environment/china-and-india-will-have-to-justify-watered-down-coal-pledge-cop26-president-1.4728496\nComments URL: https://news.ycombinator.com/item?id=29220190\nPoints: 28\n# Comments: 26",
+          "link": "https://www.irishtimes.com/news/environment/china-and-india-will-have-to-justify-watered-down-coal-pledge-cop26-president-1.4728496",
+          "publishedOn": "2021-11-14T20:10:07.000Z",
+          "wordCount": 1884,
+          "title": "China and India will have to ‘justify’ watered down coal pledge–Cop26 president"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29219962",
+          "author": "mparnisari",
+          "description": "Article URL: https://miparnisariblog.wordpress.com/2017/10/31/contributing-to-open-source/\nComments URL: https://news.ycombinator.com/item?id=29219962\nPoints: 71\n# Comments: 13",
+          "link": "https://miparnisariblog.wordpress.com/2017/10/31/contributing-to-open-source/",
+          "publishedOn": "2021-11-14T19:44:06.000Z",
+          "wordCount": 1366,
+          "title": "From zero to hero: contributing to open source (2017)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29218930",
+          "author": "jbredeche",
+          "description": "Article URL: https://www.nytimes.com/2021/11/12/magazine/real-estate-pandemic.html\nComments URL: https://news.ycombinator.com/item?id=29218930\nPoints: 60\n# Comments: 99",
+          "link": "https://www.nytimes.com/2021/11/12/magazine/real-estate-pandemic.html",
+          "publishedOn": "2021-11-14T17:50:32.000Z",
+          "wordCount": 8211,
+          "title": "Will real estate ever be normal again?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29218520",
+          "author": "MAXPOOL",
+          "description": "Article URL: https://cds.nyu.edu/deep-learning/\nComments URL: https://news.ycombinator.com/item?id=29218520\nPoints: 165\n# Comments: 11",
+          "link": "https://cds.nyu.edu/deep-learning/",
+          "publishedOn": "2021-11-14T17:04:44.000Z",
+          "wordCount": 1465,
+          "title": "Yann LeCun’s 2021 Deep Learning Course at CDS free and fully online"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29218401",
+          "author": "snake_case",
+          "description": "Article URL: https://puzzlepanda.com\nComments URL: https://news.ycombinator.com/item?id=29218401\nPoints: 96\n# Comments: 50",
+          "link": "https://puzzlepanda.com",
+          "publishedOn": "2021-11-14T16:51:56.000Z",
+          "wordCount": 232,
+          "title": "Show HN: I built a jigsaw puzzle website"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29218202",
+          "author": "matt_d",
+          "description": "Article URL: https://www.cambridge.org/core/blog/2021/11/11/journal-of-functional-programming-moving-to-open-access/\nComments URL: https://news.ycombinator.com/item?id=29218202\nPoints: 134\n# Comments: 25",
+          "link": "https://www.cambridge.org/core/blog/2021/11/11/journal-of-functional-programming-moving-to-open-access/",
+          "publishedOn": "2021-11-14T16:31:55.000Z",
+          "wordCount": 1268,
+          "title": "Journal of Functional Programming moving to open access"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29218144",
+          "author": "zdw",
+          "description": "Article URL: https://hackaday.com/2021/11/14/those-bullet-effects-in-terminator-2-werent-cgi/\nComments URL: https://news.ycombinator.com/item?id=29218144\nPoints: 612\n# Comments: 180",
+          "link": "https://hackaday.com/2021/11/14/those-bullet-effects-in-terminator-2-werent-cgi/",
+          "publishedOn": "2021-11-14T16:25:16.000Z",
+          "wordCount": 1657,
+          "title": "The bullet effects in Terminator 2 weren’t CGI"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29218101",
+          "author": "thunderbong",
+          "description": "Article URL: https://easylang.online/\nComments URL: https://news.ycombinator.com/item?id=29218101\nPoints: 103\n# Comments: 32",
+          "link": "https://easylang.online/",
+          "publishedOn": "2021-11-14T16:21:02.000Z",
+          "wordCount": 32,
+          "title": "Easylang – An easy online programming language and development environment"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29217929",
+          "author": "akeck",
+          "description": "Article URL: https://www.npr.org/2021/11/14/1054942590/solar-energy-colorado-garden-farm-land\nComments URL: https://news.ycombinator.com/item?id=29217929\nPoints: 245\n# Comments: 180",
+          "link": "https://www.npr.org/2021/11/14/1054942590/solar-energy-colorado-garden-farm-land",
+          "publishedOn": "2021-11-14T15:55:29.000Z",
+          "wordCount": 1285,
+          "title": "Colorado 'solar garden' is a farm under solar panels"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29217810",
+          "author": "dane-pgp",
+          "description": "Article URL: https://www.reuters.com/business/cop/us-sets-goal-drive-down-cost-removing-co2-atmosphere-2021-11-05/\nComments URL: https://news.ycombinator.com/item?id=29217810\nPoints: 214\n# Comments: 277",
+          "link": "https://www.reuters.com/business/cop/us-sets-goal-drive-down-cost-removing-co2-atmosphere-2021-11-05/",
+          "publishedOn": "2021-11-14T15:39:33.000Z",
+          "wordCount": 851,
+          "title": "U.S. sets goal to drive down cost of removing CO2 from atmosphere"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29217622",
+          "author": "hectorm",
+          "description": "Article URL: https://github.com/hectorm/docker-qemu-win2000\nComments URL: https://news.ycombinator.com/item?id=29217622\nPoints: 295\n# Comments: 152",
+          "link": "https://github.com/hectorm/docker-qemu-win2000",
+          "publishedOn": "2021-11-14T15:14:41.000Z",
+          "wordCount": 685,
+          "title": "Show HN: Windows 2000 on Docker"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29217522",
+          "author": "evo_9",
+          "description": "Article URL: https://www.businessinsider.com/facebook-employees-are-more-willing-to-leave-exodus-recruiters-say-2021-11\nComments URL: https://news.ycombinator.com/item?id=29217522\nPoints: 215\n# Comments: 234",
+          "link": "https://www.businessinsider.com/facebook-employees-are-more-willing-to-leave-exodus-recruiters-say-2021-11",
+          "publishedOn": "2021-11-14T15:00:23.000Z",
+          "wordCount": 2272,
+          "title": "Facebook employees are now more willing to leave, tech recruiters say"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29217485",
+          "author": "Abishek_Muthian",
+          "description": "Article URL: https://abishekmuthian.com/my-hacker-news-knowledge-assimilation-stack/\nComments URL: https://news.ycombinator.com/item?id=29217485\nPoints: 188\n# Comments: 57",
+          "link": "https://abishekmuthian.com/my-hacker-news-knowledge-assimilation-stack/",
+          "publishedOn": "2021-11-14T14:53:38.000Z",
+          "wordCount": 1171,
+          "title": "My Hacker News knowledge assimilation stack"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29217280",
+          "author": "SQL2219",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2021-11-13/deere-strike-ignites-bidding-wars-for-used-tractors\nComments URL: https://news.ycombinator.com/item?id=29217280\nPoints: 150\n# Comments: 130",
+          "link": "https://www.bloomberg.com/news/articles/2021-11-13/deere-strike-ignites-bidding-wars-for-used-tractors",
+          "publishedOn": "2021-11-14T14:17:04.000Z",
+          "wordCount": 93,
+          "title": "Wild bidding wars erupt at used-tractor auctions across the U.S."
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29217277",
+          "author": "jitl",
+          "description": "Article URL: https://www.forbes.com/sites/johnkoetsier/2021/11/12/apple-quietly-buying-ads-via-google-for-high-value-subscription-apps-to-capture-app-publisher-revenue/\nComments URL: https://news.ycombinator.com/item?id=29217277\nPoints: 236\n# Comments: 149",
+          "link": "https://www.forbes.com/sites/johnkoetsier/2021/11/12/apple-quietly-buying-ads-via-google-for-high-value-subscription-apps-to-capture-app-publisher-revenue/",
+          "publishedOn": "2021-11-14T14:16:37.000Z",
+          "wordCount": 2113,
+          "title": "Apple buying Google ads for high-value subscription apps"
+        }
+      ]
+    },
+    {
+      "title": "Disclose.tv / @disclosetv",
+      "feedUrl": "https://nitter.net/disclosetv/rss",
+      "siteUrl": "https://nitter.net/disclosetv",
+      "articles": [
+        {
+          "id": "https://nitter.net/disclosetv/status/1460000151498637312#m",
+          "author": "@disclosetv",
+          "description": "UPDATE - Austria is considering a nighttime curfew that would also apply to the vaccinated population: Health Minister",
+          "link": "https://nitter.net/disclosetv/status/1460000151498637312#m",
+          "publishedOn": "2021-11-14T21:42:16.000Z",
+          "wordCount": 277,
+          "title": "R to @disclosetv: UPDATE - Austria is considering a nighttime curfew that would also apply to the vaccinated population: Health Minister"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1459973511355711502#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - U.S., Poland, and Allies are united in imposing significant costs on Russia for its \"military aggression and malign activities\" in the region: State Dept",
+          "link": "https://nitter.net/disclosetv/status/1459973511355711502#m",
+          "publishedOn": "2021-11-14T19:56:24.000Z",
+          "wordCount": 228,
+          "title": "JUST IN - U.S., Poland, and Allies are united in imposing significant costs on Russia for its \"military aggression and malign activities\" in the region: State Dept"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1459891929144078339#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Trump says in a new statement that the \"subversion of justice\" will not be allowed to continue in the United States.",
+          "link": "https://nitter.net/disclosetv/status/1459891929144078339#m",
+          "publishedOn": "2021-11-14T14:32:14.000Z",
+          "wordCount": 234,
+          "title": "JUST IN - Trump says in a new statement that the \"subversion of justice\" will not be allowed to continue in the United States."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1459876253431963649#m",
+          "author": "@disclosetv",
+          "description": "The new restrictions in Austria will be enforced on an \"unprecedented scale,\" the interior minister said, with fines of up to 30,000 euros.",
+          "link": "https://nitter.net/disclosetv/status/1459876253431963649#m",
+          "publishedOn": "2021-11-14T13:29:56.000Z",
+          "wordCount": 341,
+          "title": "R to @disclosetv: The new restrictions in Austria will be enforced on an \"unprecedented scale,\" the interior minister said, with fines of up to 30,000 euros."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1459851862321119237#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Austria authorizes the world's first nationwide lockdown for unvaccinated people over the age of 12, which goes into effect at midnight tonight.",
+          "link": "https://nitter.net/disclosetv/status/1459851862321119237#m",
+          "publishedOn": "2021-11-14T11:53:01.000Z",
+          "wordCount": 262,
+          "title": "JUST IN - Austria authorizes the world's first nationwide lockdown for unvaccinated people over the age of 12, which goes into effect at midnight tonight."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1459656260698185731#m",
+          "author": "@disclosetv",
+          "description": "The spam messages were sent by abusing insecure code in an FBI online portal designed to share information with state and local law enforcement authorities.\n\nkrebsonsecurity.com/2021/11/…",
+          "link": "https://nitter.net/disclosetv/status/1459656260698185731#m",
+          "publishedOn": "2021-11-13T22:55:46.000Z",
+          "wordCount": 160,
+          "title": "R to @disclosetv: The spam messages were sent by abusing insecure code in an FBI online portal designed to share information with state and local law enforcement authorities.\n\nhttps://krebsonsecurity.com/2021/11/hoax-email-blast-abused-poor-coding-in-fbi-website/"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1459637312111972359#m",
+          "author": "@disclosetv",
+          "description": "Example mail sent out to users via FBI email servers:",
+          "link": "https://nitter.net/disclosetv/status/1459637312111972359#m",
+          "publishedOn": "2021-11-13T21:40:28.000Z",
+          "wordCount": 295,
+          "title": "R to @disclosetv: Example mail sent out to users via FBI email servers:"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1459636542083899396#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Hackers compromised the FBI external email system today, sending out fake emails about fake cyberattacks (Spamhaus/Bloomberg)",
+          "link": "https://nitter.net/disclosetv/status/1459636542083899396#m",
+          "publishedOn": "2021-11-13T21:37:25.000Z",
+          "wordCount": 300,
+          "title": "JUST IN - Hackers compromised the FBI external email system today, sending out fake emails about fake cyberattacks (Spamhaus/Bloomberg)"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1459623699808768002#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Pope thanked journalists today for exposing sexual abuse scandals that the Roman Catholic Church initially tried to cover up (Reuters)",
+          "link": "https://nitter.net/disclosetv/status/1459623699808768002#m",
+          "publishedOn": "2021-11-13T20:46:23.000Z",
+          "wordCount": 272,
+          "title": "JUST IN - Pope thanked journalists today for exposing sexual abuse scandals that the Roman Catholic Church initially tried to cover up (Reuters)"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1459618076727644166#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Polish soldier was shot and killed serving on the border with Belarus. The incident was an accident, according to the military.",
+          "link": "https://nitter.net/disclosetv/status/1459618076727644166#m",
+          "publishedOn": "2021-11-13T20:24:02.000Z",
+          "wordCount": 261,
+          "title": "JUST IN - Polish soldier was shot and killed serving on the border with Belarus. The incident was an accident, according to the military."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1459486500555481091#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Germany puts 12,000 soldiers on standby to \"support hospitals, health departments, and nursing homes\" (Spiegel)",
+          "link": "https://nitter.net/disclosetv/status/1459486500555481091#m",
+          "publishedOn": "2021-11-13T11:41:12.000Z",
+          "wordCount": 261,
+          "title": "JUST IN - Germany puts 12,000 soldiers on standby to \"support hospitals, health departments, and nursing homes\" (Spiegel)"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1459472668831399940#m",
+          "author": "@disclosetv",
+          "description": "NOW - Tens of thousands protest in #Melbourne against new pandemic law that would give the executive indefinite emergency powers to \"protect public health\".",
+          "link": "https://nitter.net/disclosetv/status/1459472668831399940#m",
+          "publishedOn": "2021-11-13T10:46:14.000Z",
+          "wordCount": 281,
+          "title": "NOW - Tens of thousands protest in #Melbourne against new pandemic law that would give the executive indefinite emergency powers to \"protect public health\"."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1459318690307088387#m",
+          "author": "@disclosetv",
+          "description": "CORRECTION: \"staggeringly overbroad\" (first Tweet). Twitter still has no edit button. Telegram has. Follow us on Telegram:\n\nt.me/disclosetv",
+          "link": "https://nitter.net/disclosetv/status/1459318690307088387#m",
+          "publishedOn": "2021-11-13T00:34:23.000Z",
+          "wordCount": 354,
+          "title": "R to @disclosetv: CORRECTION: \"staggeringly overbroad\" (first Tweet). Twitter still has no edit button. Telegram has. Follow us on Telegram:\n\nhttps://t.me/disclosetv"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1459316204787716101#m",
+          "author": "@disclosetv",
+          "description": "Biden's vaccine mandate \"raises serious constitutional concerns\" and \"likely exceeds the federal government’s authority.\"",
+          "link": "https://nitter.net/disclosetv/status/1459316204787716101#m",
+          "publishedOn": "2021-11-13T00:24:30.000Z",
+          "wordCount": 260,
+          "title": "R to @disclosetv: Biden's vaccine mandate \"raises serious constitutional concerns\" and \"likely exceeds the federal government’s authority.\""
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1459314051255783430#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - U.S. federal appeals court affirms hold on Biden's vaccine mandate, calls it \"staggeringly overboard\".",
+          "link": "https://nitter.net/disclosetv/status/1459314051255783430#m",
+          "publishedOn": "2021-11-13T00:15:57.000Z",
+          "wordCount": 283,
+          "title": "JUST IN - U.S. federal appeals court affirms hold on Biden's vaccine mandate, calls it \"staggeringly overboard\"."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1459263652117291008#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Steve Bannon indicted by federal grand jury - media reports.",
+          "link": "https://nitter.net/disclosetv/status/1459263652117291008#m",
+          "publishedOn": "2021-11-12T20:55:41.000Z",
+          "wordCount": 126,
+          "title": "JUST IN - Steve Bannon indicted by federal grand jury - media reports."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1459257043274158081#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Gov. Evers authorizes the deployment of National Guard troops to Kenosha in anticipation of Kyle Rittenhouse verdict.",
+          "link": "https://nitter.net/disclosetv/status/1459257043274158081#m",
+          "publishedOn": "2021-11-12T20:29:25.000Z",
+          "wordCount": 210,
+          "title": "JUST IN - Gov. Evers authorizes the deployment of National Guard troops to Kenosha in anticipation of Kyle Rittenhouse verdict."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1459248149420253190#m",
+          "author": "@disclosetv",
+          "description": "CORRECTION: Glen de Vries, who flew into space alongside William Shatner on Jeff Bezos' Blue Origin rocket last month, dies in a small plane crash in New Jersey.",
+          "link": "https://nitter.net/disclosetv/status/1459248149420253190#m",
+          "publishedOn": "2021-11-12T19:54:04.000Z",
+          "wordCount": 291,
+          "title": "R to @disclosetv: CORRECTION: Glen de Vries, who flew into space alongside William Shatner on Jeff Bezos' Blue Origin rocket last month, dies in a small plane crash in New Jersey."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1459244707616333827#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Glen de Vries, who flew into space with Jeff Bezos last month, dies in a small plane crash in New Jersey.",
+          "link": "https://nitter.net/disclosetv/status/1459244707616333827#m",
+          "publishedOn": "2021-11-12T19:40:24.000Z",
+          "wordCount": 250,
+          "title": "JUST IN - Glen de Vries, who flew into space with Jeff Bezos last month, dies in a small plane crash in New Jersey."
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.11.3"
+}

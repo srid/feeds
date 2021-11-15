@@ -1,0 +1,1331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://srid.github.io/feeds/index.html</id>
+    <title>osmos::feed</title>
+    <updated>2021-11-15T02:22:15.871Z</updated>
+    <generator>osmosfeed 1.11.3</generator>
+    <link rel="alternate" href="https://srid.github.io/feeds/index.html"/>
+    <link rel="self" href="https://srid.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[haskell /
+
+      cabal]]></title>
+        <id>https://github.com/haskell/cabal</id>
+        <link href="https://github.com/haskell/cabal"/>
+        <updated>2021-11-15T02:22:11.691Z</updated>
+        <summary type="html"><![CDATA[Official upstream development repository for Cabal and cabal-install
+    
+Language: Haskell
+                            
+Star: 1,305
+                            
+Fork: 576]]></summary>
+        <author>
+            <name>haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      cardano-prelude]]></title>
+        <id>https://github.com/input-output-hk/cardano-prelude</id>
+        <link href="https://github.com/input-output-hk/cardano-prelude"/>
+        <updated>2021-11-15T02:22:11.636Z</updated>
+        <summary type="html"><![CDATA[A protolude-based custom prelude for the Cardano project
+    
+Language: Haskell
+                            
+Star: 10
+                            
+Fork: 6]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[srid /
+
+      emanote]]></title>
+        <id>https://github.com/srid/emanote</id>
+        <link href="https://github.com/srid/emanote"/>
+        <updated>2021-11-15T02:22:11.230Z</updated>
+        <summary type="html"><![CDATA[Spiritual successor to neuron, based on Ema.
+    
+Language: Haskell
+                            
+Star: 157
+                            
+Fork: 19]]></summary>
+        <author>
+            <name>srid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kmonad /
+
+      kmonad]]></title>
+        <id>https://github.com/kmonad/kmonad</id>
+        <link href="https://github.com/kmonad/kmonad"/>
+        <updated>2021-11-15T02:22:11.091Z</updated>
+        <summary type="html"><![CDATA[An advanced keyboard manager
+    
+Language: Haskell
+                            
+Star: 1,203
+                            
+Fork: 135]]></summary>
+        <author>
+            <name>kmonad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kadena-io /
+
+      chainweb-mining-client]]></title>
+        <id>https://github.com/kadena-io/chainweb-mining-client</id>
+        <link href="https://github.com/kadena-io/chainweb-mining-client"/>
+        <updated>2021-11-15T02:22:11.025Z</updated>
+        <summary type="html"><![CDATA[A mining client for Kadena
+    
+Language: Haskell
+                            
+Star: 21
+                            
+Fork: 3]]></summary>
+        <author>
+            <name>kadena-io</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[purescript /
+
+      purescript]]></title>
+        <id>https://github.com/purescript/purescript</id>
+        <link href="https://github.com/purescript/purescript"/>
+        <updated>2021-11-15T02:22:10.971Z</updated>
+        <summary type="html"><![CDATA[A strongly-typed language that compiles to JavaScript
+    
+Language: Haskell
+                            
+Star: 7,423
+                            
+Fork: 538]]></summary>
+        <author>
+            <name>purescript</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OnChainLabs /
+
+      Martify]]></title>
+        <id>https://github.com/OnChainLabs/Martify</id>
+        <link href="https://github.com/OnChainLabs/Martify"/>
+        <updated>2021-11-15T02:22:10.922Z</updated>
+        <summary type="html"><![CDATA[NFT Marketplace on the Cardano Blockchain. Powered by Plutus Smart Contracts
+    
+Language: Haskell
+                            
+Star: 15
+                            
+Fork: 12]]></summary>
+        <author>
+            <name>OnChainLabs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jgm /
+
+      pandoc]]></title>
+        <id>https://github.com/jgm/pandoc</id>
+        <link href="https://github.com/jgm/pandoc"/>
+        <updated>2021-11-15T02:22:10.882Z</updated>
+        <summary type="html"><![CDATA[Universal markup converter
+    
+Language: Haskell
+                            
+Star: 23,938
+                            
+Fork: 2,766]]></summary>
+        <author>
+            <name>jgm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GaloisInc /
+
+      flexdis86]]></title>
+        <id>https://github.com/GaloisInc/flexdis86</id>
+        <link href="https://github.com/GaloisInc/flexdis86"/>
+        <updated>2021-11-15T02:22:10.823Z</updated>
+        <summary type="html"><![CDATA[A library for disassembling x86-64 binaries.
+    
+Language: Haskell
+                            
+Star: 30
+                            
+Fork: 8]]></summary>
+        <author>
+            <name>GaloisInc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[agda /
+
+      agda]]></title>
+        <id>https://github.com/agda/agda</id>
+        <link href="https://github.com/agda/agda"/>
+        <updated>2021-11-15T02:22:10.784Z</updated>
+        <summary type="html"><![CDATA[Agda is a dependently typed programming language / interactive theorem prover.
+    
+Language: Haskell
+                            
+Star: 1,655
+                            
+Fork: 207]]></summary>
+        <author>
+            <name>agda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NorfairKing /
+
+      autodocodec]]></title>
+        <id>https://github.com/NorfairKing/autodocodec</id>
+        <link href="https://github.com/NorfairKing/autodocodec"/>
+        <updated>2021-11-15T02:22:10.717Z</updated>
+        <summary type="html"><![CDATA[Language: Haskell
+                            
+Star: 49
+                            
+Fork: 2]]></summary>
+        <author>
+            <name>NorfairKing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[google-research /
+
+      dex-lang]]></title>
+        <id>https://github.com/google-research/dex-lang</id>
+        <link href="https://github.com/google-research/dex-lang"/>
+        <updated>2021-11-15T02:22:10.687Z</updated>
+        <summary type="html"><![CDATA[Research language for array processing in the Haskell/ML family
+    
+Language: Haskell
+                            
+Star: 1,096
+                            
+Fork: 77]]></summary>
+        <author>
+            <name>google-research</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[brendanhay /
+
+      amazonka]]></title>
+        <id>https://github.com/brendanhay/amazonka</id>
+        <link href="https://github.com/brendanhay/amazonka"/>
+        <updated>2021-11-15T02:22:10.622Z</updated>
+        <summary type="html"><![CDATA[A comprehensive Amazon Web Services SDK for Haskell.
+    
+Language: Haskell
+                            
+Star: 484
+                            
+Fork: 195]]></summary>
+        <author>
+            <name>brendanhay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NeuralNine /
+
+      config-files]]></title>
+        <id>https://github.com/NeuralNine/config-files</id>
+        <link href="https://github.com/NeuralNine/config-files"/>
+        <updated>2021-11-15T02:22:09.745Z</updated>
+        <summary type="html"><![CDATA[A collection of my config files.
+    
+Language: Haskell
+                            
+Star: 40
+                            
+Fork: 17]]></summary>
+        <author>
+            <name>NeuralNine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kowainik /
+
+      learn4haskell]]></title>
+        <id>https://github.com/kowainik/learn4haskell</id>
+        <link href="https://github.com/kowainik/learn4haskell"/>
+        <updated>2021-11-15T02:22:09.701Z</updated>
+        <summary type="html"><![CDATA[👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
+    
+Language: Haskell
+                            
+Star: 658
+                            
+Fork: 647]]></summary>
+        <author>
+            <name>kowainik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      cardano-ledger]]></title>
+        <id>https://github.com/input-output-hk/cardano-ledger</id>
+        <link href="https://github.com/input-output-hk/cardano-ledger"/>
+        <updated>2021-11-15T02:22:09.652Z</updated>
+        <summary type="html"><![CDATA[The ledger implementation and specifications of the Cardano blockchain.
+    
+Language: Haskell
+                            
+Star: 121
+                            
+Fork: 68]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      ouroboros-network]]></title>
+        <id>https://github.com/input-output-hk/ouroboros-network</id>
+        <link href="https://github.com/input-output-hk/ouroboros-network"/>
+        <updated>2021-11-15T02:22:09.598Z</updated>
+        <summary type="html"><![CDATA[An implementation of the Ouroboros family of consensus algorithms, with its networking support
+    
+Language: Haskell
+                            
+Star: 183
+                            
+Fork: 51]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgREST /
+
+      postgrest]]></title>
+        <id>https://github.com/PostgREST/postgrest</id>
+        <link href="https://github.com/PostgREST/postgrest"/>
+        <updated>2021-11-15T02:22:09.540Z</updated>
+        <summary type="html"><![CDATA[REST API for any Postgres database
+    
+Language: Haskell
+                            
+Star: 17,875
+                            
+Fork: 825]]></summary>
+        <author>
+            <name>PostgREST</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      cardano-node]]></title>
+        <id>https://github.com/input-output-hk/cardano-node</id>
+        <link href="https://github.com/input-output-hk/cardano-node"/>
+        <updated>2021-11-15T02:22:09.488Z</updated>
+        <summary type="html"><![CDATA[The core component that is used to participate in a Cardano decentralised blockchain.
+    
+Language: Haskell
+                            
+Star: 2,296
+                            
+Fork: 435]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[haskell /
+
+      haskell-language-server]]></title>
+        <id>https://github.com/haskell/haskell-language-server</id>
+        <link href="https://github.com/haskell/haskell-language-server"/>
+        <updated>2021-11-15T02:22:09.412Z</updated>
+        <summary type="html"><![CDATA[Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+    
+Language: Haskell
+                            
+Star: 1,793
+                            
+Fork: 184]]></summary>
+        <author>
+            <name>haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      plutus]]></title>
+        <id>https://github.com/input-output-hk/plutus</id>
+        <link href="https://github.com/input-output-hk/plutus"/>
+        <updated>2021-11-15T02:22:09.351Z</updated>
+        <summary type="html"><![CDATA[The Plutus language implementation and tools
+    
+Language: Haskell
+                            
+Star: 1,232
+                            
+Fork: 356]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[imsut /
+
+      starthaskell]]></title>
+        <id>https://github.com/imsut/starthaskell</id>
+        <link href="https://github.com/imsut/starthaskell"/>
+        <updated>2021-11-15T02:22:09.030Z</updated>
+        <summary type="html"><![CDATA[Language: Haskell
+                            
+Star: 1
+                            
+Fork:]]></summary>
+        <author>
+            <name>imsut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NelosG /
+
+      fp-tests]]></title>
+        <id>https://github.com/NelosG/fp-tests</id>
+        <link href="https://github.com/NelosG/fp-tests"/>
+        <updated>2021-11-15T02:22:08.990Z</updated>
+        <summary type="html"><![CDATA[Haskell homework tests
+    
+Language: Haskell
+                            
+Star: 2
+                            
+Fork: 4]]></summary>
+        <author>
+            <name>NelosG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xmonad /
+
+      xmonad]]></title>
+        <id>https://github.com/xmonad/xmonad</id>
+        <link href="https://github.com/xmonad/xmonad"/>
+        <updated>2021-11-15T02:22:08.941Z</updated>
+        <summary type="html"><![CDATA[The core of xmonad, a small but functional ICCCM-compliant tiling window manager
+    
+Language: Haskell
+                            
+Star: 2,177
+                            
+Fork: 237]]></summary>
+        <author>
+            <name>xmonad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      plutus-apps]]></title>
+        <id>https://github.com/input-output-hk/plutus-apps</id>
+        <link href="https://github.com/input-output-hk/plutus-apps"/>
+        <updated>2021-11-15T02:22:08.880Z</updated>
+        <summary type="html"><![CDATA[The Plutus application platform
+    
+Language: Haskell
+                            
+Star: 43
+                            
+Fork: 25]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)]]></title>
+        <id>https://news.ycombinator.com/item?id=29222377</id>
+        <link href="https://news.ycombinator.com/item?id=29222377"/>
+        <updated>2021-11-15T01:01:46.000Z</updated>
+        <summary type="html"><![CDATA[Generally Intelligent is an AI research company. Our mission is to build human-like general intelligence and make it safely accessible in order to foster a more abundant, unconstrained, and equitable society. We take a first-principles approach, starting from simple self-supervised architectures and evolving them to tackle human developmental milestones of increasing complexity.
+If you’re remote, see the Machine Learning Engineer role: https://jobs.lever.co/generallyintelligent/9411e2ec-502a-403...
+If you want to be onsite in SF, see the Machine Learning Research Engineer role: https://jobs.lever.co/generallyintelligent/c2f4a435-1eef-489...
+Our YC jobs page is here: https://www.ycombinator.com/companies/generally-intelligent
+Comments URL: https://news.ycombinator.com/item?id=29222377
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>kanjun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The chip that changed the world]]></title>
+        <id>https://news.ycombinator.com/item?id=29222133</id>
+        <link href="https://www.wsj.com/articles/the-chip-that-changed-the-world-microprocessor-computing-transistor-breakthrough-intel-11636903999"/>
+        <updated>2021-11-15T00:27:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/the-chip-that-changed-the-world-microprocessor-computing-transistor-breakthrough-intel-11636903999
+Comments URL: https://news.ycombinator.com/item?id=29222133
+Points: 20
+# Comments: 11]]></summary>
+        <author>
+            <name>sonabinu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When newtype won't cut it; a polyvariadic instance]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/qu0wmp/when_newtype_wont_cut_it_a_polyvariadic_instance/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/qu0wmp/when_newtype_wont_cut_it_a_polyvariadic_instance/"/>
+        <updated>2021-11-14T22:13:53.000Z</updated>
+        <summary type="html"><![CDATA[A Categorical Functor abstracts the (->) categories from the definition of Functor
+ type Cat :: Type -> Type type Cat ob = ob -> ob -> Type type Functor :: (s -> t) -> Constraint class (Category (Source f), Category (Target f)) => Functor (f :: s -> t) where type Source (f :: s -> t) :: Cat s type Target (f :: s -> t) :: Cat t fmap :: Source f a b -> Target f (f a) (f b) 
+ A normal Functor definition explicitly maps (->) to (->), but is otherwise the same as before.
+ instance Functor @Type @Type [] where type Source [] = (->) type Target [] = (->) fmap :: (a -> b) -> ([a] -> [b]) fmap = map 
+ It so happens that there is a "rule" that every function automatically has an fmap :: a:~:b -> f a:~:f b because equality satisfies congruence. This is a functor from the discrete category ((:~:)) to …]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: PickBetterPack – Discover similar pkgs from package.json dependencies]]></title>
+        <id>https://news.ycombinator.com/item?id=29221187</id>
+        <link href="https://pickbetterpack.com/"/>
+        <updated>2021-11-14T22:08:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pickbetterpack.com/
+Comments URL: https://news.ycombinator.com/item?id=29221187
+Points: 12
+# Comments: 3]]></summary>
+        <author>
+            <name>felladrin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @disclosetv: UPDATE - Austria is considering a nighttime curfew that would also apply to the vaccinated population: Health Minister]]></title>
+        <id>https://nitter.net/disclosetv/status/1460000151498637312#m</id>
+        <link href="https://nitter.net/disclosetv/status/1460000151498637312#m"/>
+        <updated>2021-11-14T21:42:16.000Z</updated>
+        <summary type="html"><![CDATA[UPDATE - Austria is considering a nighttime curfew that would also apply to the vaccinated population: Health Minister]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A ghc-proposal for custom type warnings]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/qtyv4u/a_ghcproposal_for_custom_type_warnings/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/qtyv4u/a_ghcproposal_for_custom_type_warnings/"/>
+        <updated>2021-11-14T20:38:53.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/adamgundry  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why disaster happens at the edges: An introduction to queue theory]]></title>
+        <id>https://news.ycombinator.com/item?id=29220338</id>
+        <link href="https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/"/>
+        <updated>2021-11-14T20:27:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/
+Comments URL: https://news.ycombinator.com/item?id=29220338
+Points: 134
+# Comments: 17]]></summary>
+        <author>
+            <name>ayewo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YAML: It's Time to Move On]]></title>
+        <id>https://news.ycombinator.com/item?id=29220320</id>
+        <link href="https://nestedtext.org/en/latest/alternatives.html#yaml"/>
+        <updated>2021-11-14T20:25:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nestedtext.org/en/latest/alternatives.html#yaml
+Comments URL: https://news.ycombinator.com/item?id=29220320
+Points: 161
+# Comments: 256]]></summary>
+        <author>
+            <name>firearm-halter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China and India will have to ‘justify’ watered down coal pledge–Cop26 president]]></title>
+        <id>https://news.ycombinator.com/item?id=29220190</id>
+        <link href="https://www.irishtimes.com/news/environment/china-and-india-will-have-to-justify-watered-down-coal-pledge-cop26-president-1.4728496"/>
+        <updated>2021-11-14T20:10:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.irishtimes.com/news/environment/china-and-india-will-have-to-justify-watered-down-coal-pledge-cop26-president-1.4728496
+Comments URL: https://news.ycombinator.com/item?id=29220190
+Points: 28
+# Comments: 26]]></summary>
+        <author>
+            <name>dredmorbius</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - U.S., Poland, and Allies are united in imposing significant costs on Russia for its "military aggression and malign activities" in the region: State Dept]]></title>
+        <id>https://nitter.net/disclosetv/status/1459973511355711502#m</id>
+        <link href="https://nitter.net/disclosetv/status/1459973511355711502#m"/>
+        <updated>2021-11-14T19:56:24.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - U.S., Poland, and Allies are united in imposing significant costs on Russia for its "military aggression and malign activities" in the region: State Dept]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From zero to hero: contributing to open source (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=29219962</id>
+        <link href="https://miparnisariblog.wordpress.com/2017/10/31/contributing-to-open-source/"/>
+        <updated>2021-11-14T19:44:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://miparnisariblog.wordpress.com/2017/10/31/contributing-to-open-source/
+Comments URL: https://news.ycombinator.com/item?id=29219962
+Points: 71
+# Comments: 13]]></summary>
+        <author>
+            <name>mparnisari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for a tutor / help]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/qtwhhq/looking_for_a_tutor_help/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/qtwhhq/looking_for_a_tutor_help/"/>
+        <updated>2021-11-14T18:49:43.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I'm having a terrible time with haskell. I'm taking a class in college, office hours are offered but only when I'm working and i can't make it in for help during them. I'm looking for someone available in the evenings 7 or later EST. The first topic I'm looking for guidance in would be parsing. 
+ Thanks
+    submitted by    /u/useduser  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[grimes should take his phone away]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/qtvudz/grimes_should_take_his_phone_away/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/qtvudz/grimes_should_take_his_phone_away/"/>
+        <updated>2021-11-14T18:20:22.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/longlivemrwolf  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will real estate ever be normal again?]]></title>
+        <id>https://news.ycombinator.com/item?id=29218930</id>
+        <link href="https://www.nytimes.com/2021/11/12/magazine/real-estate-pandemic.html"/>
+        <updated>2021-11-14T17:50:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/11/12/magazine/real-estate-pandemic.html
+Comments URL: https://news.ycombinator.com/item?id=29218930
+Points: 60
+# Comments: 99]]></summary>
+        <author>
+            <name>jbredeche</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exercise/Practice Resources for Beginners / Intermediate]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/qtuccq/exercisepractice_resources_for_beginners/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/qtuccq/exercisepractice_resources_for_beginners/"/>
+        <updated>2021-11-14T17:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey there,
+ currently I'm trying to learn Haskell but I am a person that depends heavily on exercises or practicing
+ their newly acquired knowledge. I'm following learn you a Haskell and Real world Haskell but
+ I'd like to get more experience and knowledge by doing exercises..
+ Could someone point me in the right direction and to some exercises or old homeworks?
+ Thanks in advance!
+    submitted by    /u/hacksoos  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yann LeCun’s 2021 Deep Learning Course at CDS free and fully online]]></title>
+        <id>https://news.ycombinator.com/item?id=29218520</id>
+        <link href="https://cds.nyu.edu/deep-learning/"/>
+        <updated>2021-11-14T17:04:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cds.nyu.edu/deep-learning/
+Comments URL: https://news.ycombinator.com/item?id=29218520
+Points: 165
+# Comments: 11]]></summary>
+        <author>
+            <name>MAXPOOL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I built a jigsaw puzzle website]]></title>
+        <id>https://news.ycombinator.com/item?id=29218401</id>
+        <link href="https://puzzlepanda.com"/>
+        <updated>2021-11-14T16:51:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://puzzlepanda.com
+Comments URL: https://news.ycombinator.com/item?id=29218401
+Points: 96
+# Comments: 50]]></summary>
+        <author>
+            <name>snake_case</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Array of Eithers type?]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/qttk1t/array_of_eithers_type/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/qttk1t/array_of_eithers_type/"/>
+        <updated>2021-11-14T16:36:15.000Z</updated>
+        <summary type="html"><![CDATA[Data.Vector.Unboxed essentially gives a Structure of Arrays representation - Vector (a,b) can be stored as (Vector a, Vector b). 
+ This has some minor issues - deriving doesn't really work, writing the typeclass by hand is really annoying, GHC cannot optimize away dead reads if you only use one field - but overall it's a reasonably nice and composable abstraction.
+ I'm currently playing with some code which accepts messages and must store them efficiently before they get batch-executed. To make this extensible I'd like some freer monads, more extensible effects style interface, composing the command enum like Either Op1 Op2.
+ But my usecase could be seen as a mildly wonky Op-Based CRDT which means the operations commute and order doesn't matter. It would be really nice if internally I could store everything as (MVector Op1, MVector Op2)behind the scenes.
+ This lead me to a number of questions:
+  
+Is there an array-of-sums representation that stores Vector (Either Op1 Op2) as (Vector Op1, Vector Op2)?
+ Is there a better way to derive unboxed vector boilerplate? I have seen https://hackage.haskell.org/package/vector-th-unbox-0.2.2/docs/Data-Vector-Unboxed-Deriving.html before but it feels like DerivingVia should be able to handle it if the monad was constrained to be representational
+ Are there interface ideas to manipulate unboxed vectors structurally? Say, lift projection functions like Vector (a,b) -> Vector a? In my case also things like pop one Op1 value, or take all Op2 values
+ Is there an approach to structurally manipulate types in Haskell? Most code in Haskell only folds over the generic representation but e.g. StrictCheck has some tooling to add a functor at each level of a type, typescript has a bunch of tools for this like
+  
+ 
+type ExtractPII<Type> = { [Property in keyof Type]: Type[Property] extends { pii: true } ? true : false; }; 
+ If people have ideas to any of these points I'd really like to hear about them!
+    submitted by    /u/Tarmen  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Journal of Functional Programming moving to open access]]></title>
+        <id>https://news.ycombinator.com/item?id=29218202</id>
+        <link href="https://www.cambridge.org/core/blog/2021/11/11/journal-of-functional-programming-moving-to-open-access/"/>
+        <updated>2021-11-14T16:31:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cambridge.org/core/blog/2021/11/11/journal-of-functional-programming-moving-to-open-access/
+Comments URL: https://news.ycombinator.com/item?id=29218202
+Points: 134
+# Comments: 25]]></summary>
+        <author>
+            <name>matt_d</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The bullet effects in Terminator 2 weren’t CGI]]></title>
+        <id>https://news.ycombinator.com/item?id=29218144</id>
+        <link href="https://hackaday.com/2021/11/14/those-bullet-effects-in-terminator-2-werent-cgi/"/>
+        <updated>2021-11-14T16:25:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hackaday.com/2021/11/14/those-bullet-effects-in-terminator-2-werent-cgi/
+Comments URL: https://news.ycombinator.com/item?id=29218144
+Points: 612
+# Comments: 180]]></summary>
+        <author>
+            <name>zdw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easylang – An easy online programming language and development environment]]></title>
+        <id>https://news.ycombinator.com/item?id=29218101</id>
+        <link href="https://easylang.online/"/>
+        <updated>2021-11-14T16:21:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://easylang.online/
+Comments URL: https://news.ycombinator.com/item?id=29218101
+Points: 103
+# Comments: 32]]></summary>
+        <author>
+            <name>thunderbong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[People who try to humanize billionaires are so cucked]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/qtswh1/people_who_try_to_humanize_billionaires_are_so/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/qtswh1/people_who_try_to_humanize_billionaires_are_so/"/>
+        <updated>2021-11-14T16:05:34.000Z</updated>
+        <summary type="html"><![CDATA[Bezos fanboys come across as particularly pathetic. Saw someone shaming people for hoping Bezos’ penis rocket exploded, asking us “how would you feel if it was your rocketship” without a hint of irony. 
+ By far the worst tho are people who assume that anyone who hates rich people is just jealous of them.
+ Anyway, billionaires aren’t human and their heads belong on spikes. I sincerely hope we break out the guillotine for them in my lifetime.
+ Kill the rich. They aren’t human and they don’t deserve our kindness or sympathy.
+    submitted by    /u/bussyboyfourtwenty  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colorado 'solar garden' is a farm under solar panels]]></title>
+        <id>https://news.ycombinator.com/item?id=29217929</id>
+        <link href="https://www.npr.org/2021/11/14/1054942590/solar-energy-colorado-garden-farm-land"/>
+        <updated>2021-11-14T15:55:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/11/14/1054942590/solar-energy-colorado-garden-farm-land
+Comments URL: https://news.ycombinator.com/item?id=29217929
+Points: 245
+# Comments: 180]]></summary>
+        <author>
+            <name>akeck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. sets goal to drive down cost of removing CO2 from atmosphere]]></title>
+        <id>https://news.ycombinator.com/item?id=29217810</id>
+        <link href="https://www.reuters.com/business/cop/us-sets-goal-drive-down-cost-removing-co2-atmosphere-2021-11-05/"/>
+        <updated>2021-11-14T15:39:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/cop/us-sets-goal-drive-down-cost-removing-co2-atmosphere-2021-11-05/
+Comments URL: https://news.ycombinator.com/item?id=29217810
+Points: 214
+# Comments: 277]]></summary>
+        <author>
+            <name>dane-pgp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Windows 2000 on Docker]]></title>
+        <id>https://news.ycombinator.com/item?id=29217622</id>
+        <link href="https://github.com/hectorm/docker-qemu-win2000"/>
+        <updated>2021-11-14T15:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/hectorm/docker-qemu-win2000
+Comments URL: https://news.ycombinator.com/item?id=29217622
+Points: 295
+# Comments: 152]]></summary>
+        <author>
+            <name>hectorm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook employees are now more willing to leave, tech recruiters say]]></title>
+        <id>https://news.ycombinator.com/item?id=29217522</id>
+        <link href="https://www.businessinsider.com/facebook-employees-are-more-willing-to-leave-exodus-recruiters-say-2021-11"/>
+        <updated>2021-11-14T15:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/facebook-employees-are-more-willing-to-leave-exodus-recruiters-say-2021-11
+Comments URL: https://news.ycombinator.com/item?id=29217522
+Points: 215
+# Comments: 234]]></summary>
+        <author>
+            <name>evo_9</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Hacker News knowledge assimilation stack]]></title>
+        <id>https://news.ycombinator.com/item?id=29217485</id>
+        <link href="https://abishekmuthian.com/my-hacker-news-knowledge-assimilation-stack/"/>
+        <updated>2021-11-14T14:53:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://abishekmuthian.com/my-hacker-news-knowledge-assimilation-stack/
+Comments URL: https://news.ycombinator.com/item?id=29217485
+Points: 188
+# Comments: 57]]></summary>
+        <author>
+            <name>Abishek_Muthian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[language is so inspiring: americans have over 1000 words for "burger" -- including whopper, quarter pounder, slapper, and thumper. in fact while foraging, americans can communicate the presence of a burger using a series of slaps and thumps]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/qtr3z6/language_is_so_inspiring_americans_have_over_1000/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/qtr3z6/language_is_so_inspiring_americans_have_over_1000/"/>
+        <updated>2021-11-14T14:38:35.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ChickenTitilater  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - Trump says in a new statement that the "subversion of justice" will not be allowed to continue in the United States.]]></title>
+        <id>https://nitter.net/disclosetv/status/1459891929144078339#m</id>
+        <link href="https://nitter.net/disclosetv/status/1459891929144078339#m"/>
+        <updated>2021-11-14T14:32:14.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - Trump says in a new statement that the "subversion of justice" will not be allowed to continue in the United States.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wild bidding wars erupt at used-tractor auctions across the U.S.]]></title>
+        <id>https://news.ycombinator.com/item?id=29217280</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-11-13/deere-strike-ignites-bidding-wars-for-used-tractors"/>
+        <updated>2021-11-14T14:17:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-11-13/deere-strike-ignites-bidding-wars-for-used-tractors
+Comments URL: https://news.ycombinator.com/item?id=29217280
+Points: 150
+# Comments: 130]]></summary>
+        <author>
+            <name>SQL2219</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple buying Google ads for high-value subscription apps]]></title>
+        <id>https://news.ycombinator.com/item?id=29217277</id>
+        <link href="https://www.forbes.com/sites/johnkoetsier/2021/11/12/apple-quietly-buying-ads-via-google-for-high-value-subscription-apps-to-capture-app-publisher-revenue/"/>
+        <updated>2021-11-14T14:16:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.forbes.com/sites/johnkoetsier/2021/11/12/apple-quietly-buying-ads-via-google-for-high-value-subscription-apps-to-capture-app-publisher-revenue/
+Comments URL: https://news.ycombinator.com/item?id=29217277
+Points: 236
+# Comments: 149]]></summary>
+        <author>
+            <name>jitl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @disclosetv: The new restrictions in Austria will be enforced on an "unprecedented scale," the interior minister said, with fines of up to 30,000 euros.]]></title>
+        <id>https://nitter.net/disclosetv/status/1459876253431963649#m</id>
+        <link href="https://nitter.net/disclosetv/status/1459876253431963649#m"/>
+        <updated>2021-11-14T13:29:56.000Z</updated>
+        <summary type="html"><![CDATA[The new restrictions in Austria will be enforced on an "unprecedented scale," the interior minister said, with fines of up to 30,000 euros.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-exhaustive patterns warning problem]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/qtp911/nonexhaustive_patterns_warning_problem/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/qtp911/nonexhaustive_patterns_warning_problem/"/>
+        <updated>2021-11-14T12:55:03.000Z</updated>
+        <summary type="html"><![CDATA[Hello, I am working on two functions that filter values from a list of Cupcake type objects, and I am getting a "Pattern match(es) are non-exhaustive" error when running them, which causes any example I try on them to give me *** Exception: Assessed3.hs:(25,1)-(31,67): Non-exhaustive patterns in function priceRange.
+ I really don't see anything wrong:
+ priceRange :: Price -> Price -> [Cupcake] -> [Cupcake]
+ priceRange minprice maxprice [] = []
+ priceRange minprice maxprice [CC p i] = [CC p i | pricelower minprice p, pricelower p maxprice]
+ where
+ pricelower :: Price -> Price -> Bool
+ pricelower (P x) (P y) 
+ | x<=y = True
+ | otherwise = False
+ Assessed3.hs:25:1: warning: [-Wincomplete-patterns]
+ Pattern match(es) are non-exhaustive
+ In an equation for ‘priceRange’:
+ Patterns not matched:
+ (P _) (P _) ((CC (P _) []):_:_)
+ (P _) (P _) ((CC (P _) (_:_)):_:_)
+ |
+ 25 | priceRange minprice maxprice [] = [] 
+ For this it says I didn't match the two cases in which the list inside is empty or non empty but I really don't see how that will give me an error.
+    submitted by    /u/budasergu  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - Austria authorizes the world's first nationwide lockdown for unvaccinated people over the age of 12, which goes into effect at midnight tonight.]]></title>
+        <id>https://nitter.net/disclosetv/status/1459851862321119237#m</id>
+        <link href="https://nitter.net/disclosetv/status/1459851862321119237#m"/>
+        <updated>2021-11-14T11:53:01.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - Austria authorizes the world's first nationwide lockdown for unvaccinated people over the age of 12, which goes into effect at midnight tonight.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a common use case for flip?]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/qtkyf0/what_is_a_common_use_case_for_flip/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/qtkyf0/what_is_a_common_use_case_for_flip/"/>
+        <updated>2021-11-14T07:49:40.000Z</updated>
+        <summary type="html"><![CDATA[Learn You a Haskell says, "The most common use case with flip is calling it with just the function
+ parameter and then passing the resulting function on to a map or a filter. "
+ I saw this: https://stackoverflow.com/q/14397128/9481613
+ But what are some use cases?
+    submitted by    /u/webNoob13  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I wrote an overview article.]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/qtktjt/i_wrote_an_overview_article/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/qtktjt/i_wrote_an_overview_article/"/>
+        <updated>2021-11-14T07:39:36.000Z</updated>
+        <summary type="html"><![CDATA[I wrote a super tiny introductory article for people who haven't worked with Haskell before.
+ https://github.com/vipulbhj/vipulbhj/tree/main/blogs/ProgrammingLanguages/Haskell/Haskell101 
+ P.S: This is not a serious article and is not meant to be read for educational purposes, please read it as a joke and enjoy the light hearted read.
+    submitted by    /u/Advanced_Put_2880  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Small-Scale Question Sunday for November 14, 2021]]></title>
+        <id>https://www.reddit.com/r/TheMotte/comments/qtkhe3/smallscale_question_sunday_for_november_14_2021/</id>
+        <link href="https://www.reddit.com/r/TheMotte/comments/qtkhe3/smallscale_question_sunday_for_november_14_2021/"/>
+        <updated>2021-11-14T07:15:10.000Z</updated>
+        <summary type="html"><![CDATA[Do you have a dumb question that you're kind of embarrassed to ask in the main thread? Is there something you're just not sure about? 
+ This is your opportunity to ask questions. No question too simple or too silly. 
+ Culture war topics are accepted, and proposals for a better intro post are appreciated.
+    submitted by    /u/AutoModerator  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : TheMotte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @disclosetv: The spam messages were sent by abusing insecure code in an FBI online portal designed to share information with state and local law enforcement authorities.
+
+https://krebsonsecurity.com/2021/11/hoax-email-blast-abused-poor-coding-in-fbi-website/]]></title>
+        <id>https://nitter.net/disclosetv/status/1459656260698185731#m</id>
+        <link href="https://nitter.net/disclosetv/status/1459656260698185731#m"/>
+        <updated>2021-11-13T22:55:46.000Z</updated>
+        <summary type="html"><![CDATA[The spam messages were sent by abusing insecure code in an FBI online portal designed to share information with state and local law enforcement authorities.
+
+krebsonsecurity.com/2021/11/…]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @disclosetv: Example mail sent out to users via FBI email servers:]]></title>
+        <id>https://nitter.net/disclosetv/status/1459637312111972359#m</id>
+        <link href="https://nitter.net/disclosetv/status/1459637312111972359#m"/>
+        <updated>2021-11-13T21:40:28.000Z</updated>
+        <summary type="html"><![CDATA[Example mail sent out to users via FBI email servers:]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - Hackers compromised the FBI external email system today, sending out fake emails about fake cyberattacks (Spamhaus/Bloomberg)]]></title>
+        <id>https://nitter.net/disclosetv/status/1459636542083899396#m</id>
+        <link href="https://nitter.net/disclosetv/status/1459636542083899396#m"/>
+        <updated>2021-11-13T21:37:25.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - Hackers compromised the FBI external email system today, sending out fake emails about fake cyberattacks (Spamhaus/Bloomberg)]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - Pope thanked journalists today for exposing sexual abuse scandals that the Roman Catholic Church initially tried to cover up (Reuters)]]></title>
+        <id>https://nitter.net/disclosetv/status/1459623699808768002#m</id>
+        <link href="https://nitter.net/disclosetv/status/1459623699808768002#m"/>
+        <updated>2021-11-13T20:46:23.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - Pope thanked journalists today for exposing sexual abuse scandals that the Roman Catholic Church initially tried to cover up (Reuters)]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - Polish soldier was shot and killed serving on the border with Belarus. The incident was an accident, according to the military.]]></title>
+        <id>https://nitter.net/disclosetv/status/1459618076727644166#m</id>
+        <link href="https://nitter.net/disclosetv/status/1459618076727644166#m"/>
+        <updated>2021-11-13T20:24:02.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - Polish soldier was shot and killed serving on the border with Belarus. The incident was an accident, according to the military.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - Germany puts 12,000 soldiers on standby to "support hospitals, health departments, and nursing homes" (Spiegel)]]></title>
+        <id>https://nitter.net/disclosetv/status/1459486500555481091#m</id>
+        <link href="https://nitter.net/disclosetv/status/1459486500555481091#m"/>
+        <updated>2021-11-13T11:41:12.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - Germany puts 12,000 soldiers on standby to "support hospitals, health departments, and nursing homes" (Spiegel)]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOW - Tens of thousands protest in #Melbourne against new pandemic law that would give the executive indefinite emergency powers to "protect public health".]]></title>
+        <id>https://nitter.net/disclosetv/status/1459472668831399940#m</id>
+        <link href="https://nitter.net/disclosetv/status/1459472668831399940#m"/>
+        <updated>2021-11-13T10:46:14.000Z</updated>
+        <summary type="html"><![CDATA[NOW - Tens of thousands protest in #Melbourne against new pandemic law that would give the executive indefinite emergency powers to "protect public health".]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @disclosetv: CORRECTION: "staggeringly overbroad" (first Tweet). Twitter still has no edit button. Telegram has. Follow us on Telegram:
+
+https://t.me/disclosetv]]></title>
+        <id>https://nitter.net/disclosetv/status/1459318690307088387#m</id>
+        <link href="https://nitter.net/disclosetv/status/1459318690307088387#m"/>
+        <updated>2021-11-13T00:34:23.000Z</updated>
+        <summary type="html"><![CDATA[CORRECTION: "staggeringly overbroad" (first Tweet). Twitter still has no edit button. Telegram has. Follow us on Telegram:
+
+t.me/disclosetv]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @disclosetv: Biden's vaccine mandate "raises serious constitutional concerns" and "likely exceeds the federal government’s authority."]]></title>
+        <id>https://nitter.net/disclosetv/status/1459316204787716101#m</id>
+        <link href="https://nitter.net/disclosetv/status/1459316204787716101#m"/>
+        <updated>2021-11-13T00:24:30.000Z</updated>
+        <summary type="html"><![CDATA[Biden's vaccine mandate "raises serious constitutional concerns" and "likely exceeds the federal government’s authority."]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - U.S. federal appeals court affirms hold on Biden's vaccine mandate, calls it "staggeringly overboard".]]></title>
+        <id>https://nitter.net/disclosetv/status/1459314051255783430#m</id>
+        <link href="https://nitter.net/disclosetv/status/1459314051255783430#m"/>
+        <updated>2021-11-13T00:15:57.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - U.S. federal appeals court affirms hold on Biden's vaccine mandate, calls it "staggeringly overboard".]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Other Looks at the Conditional Border Radius Trick]]></title>
+        <id>https://css-tricks.com/?p=356304</id>
+        <link href="https://css-tricks.com/other-looks-at-the-conditional-border-radius-trick/"/>
+        <updated>2021-11-12T23:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Remember when Ahmad Shadeed wrote about that border-radius “toggle” he found in Facebook’s CSS? It was interesting! I covered it. A few weeks after that surge of linkage, a couple of articles came out digging into it a little deeper. …
+The post Other Looks at the Conditional Border Radius Trick appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - Steve Bannon indicted by federal grand jury - media reports.]]></title>
+        <id>https://nitter.net/disclosetv/status/1459263652117291008#m</id>
+        <link href="https://nitter.net/disclosetv/status/1459263652117291008#m"/>
+        <updated>2021-11-12T20:55:41.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - Steve Bannon indicted by federal grand jury - media reports.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - Gov. Evers authorizes the deployment of National Guard troops to Kenosha in anticipation of Kyle Rittenhouse verdict.]]></title>
+        <id>https://nitter.net/disclosetv/status/1459257043274158081#m</id>
+        <link href="https://nitter.net/disclosetv/status/1459257043274158081#m"/>
+        <updated>2021-11-12T20:29:25.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - Gov. Evers authorizes the deployment of National Guard troops to Kenosha in anticipation of Kyle Rittenhouse verdict.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @disclosetv: CORRECTION: Glen de Vries, who flew into space alongside William Shatner on Jeff Bezos' Blue Origin rocket last month, dies in a small plane crash in New Jersey.]]></title>
+        <id>https://nitter.net/disclosetv/status/1459248149420253190#m</id>
+        <link href="https://nitter.net/disclosetv/status/1459248149420253190#m"/>
+        <updated>2021-11-12T19:54:04.000Z</updated>
+        <summary type="html"><![CDATA[CORRECTION: Glen de Vries, who flew into space alongside William Shatner on Jeff Bezos' Blue Origin rocket last month, dies in a small plane crash in New Jersey.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - Glen de Vries, who flew into space with Jeff Bezos last month, dies in a small plane crash in New Jersey.]]></title>
+        <id>https://nitter.net/disclosetv/status/1459244707616333827#m</id>
+        <link href="https://nitter.net/disclosetv/status/1459244707616333827#m"/>
+        <updated>2021-11-12T19:40:24.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - Glen de Vries, who flew into space with Jeff Bezos last month, dies in a small plane crash in New Jersey.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interactive Rebase: Clean up your Commit History]]></title>
+        <id>https://css-tricks.com/?p=355658</id>
+        <link href="https://css-tricks.com/interactive-rebase-clean-up-your-commit-history/"/>
+        <updated>2021-11-12T15:16:24.000Z</updated>
+        <summary type="html"><![CDATA[Interactive Rebase is the Swiss Army knife of Git commands: lots of use cases and lots of possibilities! It's really a great addition to any developer's tool chain, because it lets you revise your local commit history—before you share your work with the rest of the team. Let's see what you can do with an interactive rebase and then look at some practical examples.
+The post Interactive Rebase: Clean up your Commit History appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Tobias Günther</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Semantic menu context]]></title>
+        <id>https://css-tricks.com/?p=356652</id>
+        <link href="https://css-tricks.com/semantic-menu-context/"/>
+        <updated>2021-11-11T20:07:40.000Z</updated>
+        <summary type="html"><![CDATA[Scott digs into the history of the <menu> element. He traced it as far back as HTML 2 (!) in a 1994 changelog. The vibe then, it seems, was to mark up a list. I would suspect the intention …
+The post Semantic menu context appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easy Dark Mode (and Multiple Color Themes!) in React]]></title>
+        <id>https://css-tricks.com/?p=355683</id>
+        <link href="https://css-tricks.com/easy-dark-mode-and-multiple-color-themes-in-react/"/>
+        <updated>2021-11-11T15:28:04.000Z</updated>
+        <summary type="html"><![CDATA[I was working on a large React application for a startup, and aside from just wanting some good strategies to keep our styles organized, I wanted to give this whole “dark mode” thing a shot. With the huge ecosystem around …
+The post Easy Dark Mode (and Multiple Color Themes!) in React appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Abram Thau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quickly Get Alerted to Front-End Errors and Performance Issues]]></title>
+        <id>https://css-tricks.com/?p=355516</id>
+        <link href="https://css-tricks.com/quickly-get-alerted-to-front-end-errors-and-performance-issues/"/>
+        <updated>2021-11-11T15:22:31.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Measuring things is great. They say what you only fix what you measure. Raygun is great at measuring websites. Measuring performance, measuring errors and crashes, measuring code problems. 
+You know what’s even better than …
+The post Quickly Get Alerted to Front-End Errors and Performance Issues appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t Snore on CORS]]></title>
+        <id>https://css-tricks.com/?p=356058</id>
+        <link href="https://css-tricks.com/dont-snore-on-cors/"/>
+        <updated>2021-11-10T22:38:05.000Z</updated>
+        <summary type="html"><![CDATA[Whatever, I just needed a title. Everyone’s favorite web security feature has crossed my desk a bunch of times lately and I always feel like that is a sign I should write something because that’s what blogging is. 
+The main …
+The post Don’t Snore on CORS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick and Dirty Bootstrap Overrides at Runtime]]></title>
+        <id>https://css-tricks.com/?p=355649</id>
+        <link href="https://css-tricks.com/quick-and-dirty-bootstrap-overrides-at-runtime/"/>
+        <updated>2021-11-10T15:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Oh, Bootstrap, that old standard web library that either you hate or you spend all your time defending as “it’s fine, it’s not that bad.” Regardless of what side you fall on, it’s a powerful UI framework that’s everywhere, …
+The post Quick and Dirty Bootstrap Overrides at Runtime appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Meredith Matthews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cleanup.pictures]]></title>
+        <id>https://css-tricks.com/?p=356208</id>
+        <link href="https://css-tricks.com/cleanup-pictures/"/>
+        <updated>2021-11-10T14:55:26.000Z</updated>
+        <summary type="html"><![CDATA[Nice domain, eh? Does just what it says on the tin: cleans up pictures. You draw over areas of the image you want cleaned up, and it does its best using weird science. It’s like Photoshop’s Spot Healing Brush…
+The post cleanup.pictures appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detecting Specific Text Input with HTML and CSS]]></title>
+        <id>https://css-tricks.com/?p=356142</id>
+        <link href="https://css-tricks.com/detecting-specific-text-input-with-html-and-css/"/>
+        <updated>2021-11-09T22:53:45.000Z</updated>
+        <summary type="html"><![CDATA[Louis Lazaris breaks down some bonafide CSS trickery from Jane. The Pen shows off interactivity where:
+You have to press a special combination of keys on a keyboard.
+Then type a secret password.
+From there, a special message pops …
+The post Detecting Specific Text Input with HTML and CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VideoPress for WordPress]]></title>
+        <id>https://css-tricks.com/?p=356370</id>
+        <link href="https://css-tricks.com/videopress-for-wordpress/"/>
+        <updated>2021-11-09T22:53:18.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+The leade here is that VideoPress makes video on WordPress way better. VideoPress is a part of Jetpack. And now, if VideoPress is the only thing you care about from the Jetpack world, you …
+The post VideoPress for WordPress appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Suspense: Lessons Learned While Loading Data]]></title>
+        <id>https://css-tricks.com/?p=356187</id>
+        <link href="https://css-tricks.com/react-suspense-lessons-learned-while-loading-data/"/>
+        <updated>2021-11-09T15:20:10.000Z</updated>
+        <summary type="html"><![CDATA[Suspense is React’s forthcoming feature that helps coordinate asynchronous actions—like data loading—allowing you to easily prevent inconsistent state in your UI. I’ll provide a better explanation of what exactly that means, along with a quick introduction of Suspense, and then …
+The post React Suspense: Lessons Learned While Loading Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haskell in Production: Scarf]]></title>
+        <id>https://serokell.io/blog/how-scarf-uses-haskell</id>
+        <link href="https://serokell.io/blog/how-scarf-uses-haskell"/>
+        <updated>2021-11-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Read our interview with Avi Press, the CEO & co-founder of Scarf, to find out the pros and cons of using Haskell for developing production-level applications.]]></summary>
+        <author>
+            <name>hi+gintsdreimanis@serokell.io (Gints Dreimanis)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Grid Can Do Auto Height Transitions]]></title>
+        <id>https://css-tricks.com/?p=356204</id>
+        <link href="https://css-tricks.com/css-grid-can-do-auto-height-transitions/"/>
+        <updated>2021-11-08T19:01:31.000Z</updated>
+        <summary type="html"><![CDATA[Bonafide CSS trick alert! Nelson Menezes figured out a new way (that only works in Firefox for now) that is awfully clever.
+Perhaps you know that CSS cannot animate to auto dimensions, which is super unfortunate. Animating from …
+The post CSS Grid Can Do Auto Height Transitions appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Icon Glassmorphism Effect in CSS]]></title>
+        <id>https://css-tricks.com/?p=322098</id>
+        <link href="https://css-tricks.com/icon-glassmorphism-effect-in-css/"/>
+        <updated>2021-11-08T14:57:42.000Z</updated>
+        <summary type="html"><![CDATA[I recently came across a cool effect known as glassmorphism in a Dribble shot. My first thought was I could quickly recreate it in a few minutes if I just use some emojis for the icons without wasting time …
+The post Icon Glassmorphism Effect in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ana Tudor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does the Next Generation of Static Site Generators Make Building Sites Better?]]></title>
+        <id>https://css-tricks.com/?p=356134</id>
+        <link href="https://css-tricks.com/does-the-next-generation-of-static-site-generators-make-building-sites-better/"/>
+        <updated>2021-11-08T14:56:23.000Z</updated>
+        <summary type="html"><![CDATA[Just ran across îles, a new static site generator mostly centered around Vue. The world has no particular shortage of static site generators, but it’s interesting to see what this “next generation” of SSGs seem to focus on or …
+The post Does the Next Generation of Static Site Generators Make Building Sites Better? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Favicons: How to Make Sure Browsers Only Download the SVG Version]]></title>
+        <id>https://css-tricks.com/?p=355780</id>
+        <link href="https://css-tricks.com/favicons-how-to-make-sure-browsers-only-download-the-svg-version/"/>
+        <updated>2021-11-05T20:47:32.000Z</updated>
+        <summary type="html"><![CDATA[Šime Vidas DM’d me the other day about this thread from subzey on Twitter. My HTML for favicons was like this:
+<!-- Warning! Typo! --<link rel="icon" href="/favicon.ico" size="any"<link rel="icon" href="/favicon.svg" type="image/svg+xml"
+The attribute size is a typo there, …
+The post Favicons: How to Make Sure Browsers Only Download the SVG Version appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serokell Blog: Year 3 in Review]]></title>
+        <id>https://serokell.io/blog/serokell-blog-year-3</id>
+        <link href="https://serokell.io/blog/serokell-blog-year-3"/>
+        <updated>2021-11-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Which were the most popular Serokell blog posts of the last year? What are our plans for the future? Find out the answers by reading our celebratory blog post.]]></summary>
+        <author>
+            <name>hi+gintsdreimanis@serokell.io (Gints Dreimanis)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Self-Supervised Learning the Future of AI?]]></title>
+        <id>https://serokell.io/blog/is-self-supervised-learning-future-of-ai</id>
+        <link href="https://serokell.io/blog/is-self-supervised-learning-future-of-ai"/>
+        <updated>2021-11-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Self-supervised learning is one of the most popular approaches to ML today. SSL algorithms don’t require manual target labeling and can obtain all the information they need from the data. Find out more about how they work in our new post.]]></summary>
+        <author>
+            <name>hi+yuliagavrilova@serokell.io (Yulia Gavrilova)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Whitespace to Idris: Interview With Edwin Brady]]></title>
+        <id>https://serokell.io/blog/from-whitespace-to-idris</id>
+        <link href="https://serokell.io/blog/from-whitespace-to-idris"/>
+        <updated>2021-10-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Want to find out what type-driven development is? Listen to (or read) our interview with Edwin Brady, the creator of Idris, one of the most popular dependently-typed programming languages.]]></summary>
+        <author>
+            <name>hi+jonnmostovoy@serokell.io (Jonn Mostovoy)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn From Errors: Overlapping Instances]]></title>
+        <id>https://serokell.io/blog/learn-from-errors-overlapping-instances</id>
+        <link href="https://serokell.io/blog/learn-from-errors-overlapping-instances"/>
+        <updated>2021-10-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll look at the overlapping instances error. We'll try to understand the many variants of it, and what the error means in each of those cases.]]></summary>
+        <author>
+            <name>hi+sandeepchandrika@serokell.io (Sandeep Chandrika)</name>
+        </author>
+    </entry>
+</feed>
