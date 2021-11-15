@@ -1212,6 +1212,12 @@
           "title": "JUST IN - Glen de Vries, who flew into space with Jeff Bezos last month, dies in a small plane crash in New Jersey."
         }
       ]
+    },
+    {
+      "title": "Balaji Srinivasan",
+      "feedUrl": "https://balajis.com/rss/",
+      "siteUrl": "https://balajis.com/",
+      "articles": []
     }
   ],
   "cliVersion": "1.11.3"
