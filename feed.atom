@@ -2,10 +2,1235 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://srid.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-19T00:50:49.250Z</updated>
+    <updated>2021-11-20T00:49:55.840Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://srid.github.io/feeds/index.html"/>
     <link rel="self" href="https://srid.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[kadena-io /
+
+      chainweb-node]]></title>
+        <id>https://github.com/kadena-io/chainweb-node</id>
+        <link href="https://github.com/kadena-io/chainweb-node"/>
+        <updated>2021-11-20T00:49:55.805Z</updated>
+        <summary type="html"><![CDATA[Chainweb: A Proof-of-Work Parallel-Chain Architecture for Massive Throughput
+    
+Language: Haskell
+                            
+Star: 142
+                            
+Fork: 56]]></summary>
+        <author>
+            <name>kadena-io</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mwotton /
+
+      squealgen]]></title>
+        <id>https://github.com/mwotton/squealgen</id>
+        <link href="https://github.com/mwotton/squealgen"/>
+        <updated>2021-11-20T00:49:55.729Z</updated>
+        <summary type="html"><![CDATA[generate haskell types for Squeal from a running postgresql database.
+    
+Language: Haskell
+                            
+Star: 21
+                            
+Fork: 3]]></summary>
+        <author>
+            <name>mwotton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[launchdarkly /
+
+      haskell-server-sdk]]></title>
+        <id>https://github.com/launchdarkly/haskell-server-sdk</id>
+        <link href="https://github.com/launchdarkly/haskell-server-sdk"/>
+        <updated>2021-11-20T00:49:55.690Z</updated>
+        <summary type="html"><![CDATA[LaunchDarkly Server-Side SDK for Haskell
+    
+Language: Haskell
+                            
+Star: 9
+                            
+Fork: 6]]></summary>
+        <author>
+            <name>launchdarkly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cdepillabout /
+
+      servant-rawm]]></title>
+        <id>https://github.com/cdepillabout/servant-rawm</id>
+        <link href="https://github.com/cdepillabout/servant-rawm"/>
+        <updated>2021-11-20T00:49:55.585Z</updated>
+        <summary type="html"><![CDATA[Effectful Raw handler for Servant servers.
+    
+Language: Haskell
+                            
+Star: 11
+                            
+Fork: 7]]></summary>
+        <author>
+            <name>cdepillabout</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sweirich /
+
+      dth]]></title>
+        <id>https://github.com/sweirich/dth</id>
+        <link href="https://github.com/sweirich/dth"/>
+        <updated>2021-11-20T00:49:55.544Z</updated>
+        <summary type="html"><![CDATA[Examples of Dependently-typed programs in Haskell
+    
+Language: Haskell
+                            
+Star: 279
+                            
+Fork: 25]]></summary>
+        <author>
+            <name>sweirich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simspace /
+
+      on-error]]></title>
+        <id>https://github.com/Simspace/on-error</id>
+        <link href="https://github.com/Simspace/on-error"/>
+        <updated>2021-11-20T00:49:55.506Z</updated>
+        <summary type="html"><![CDATA[Clearly-delineated error-handling
+    
+Language: Haskell
+                            
+Star: 33
+                            
+Fork: 1]]></summary>
+        <author>
+            <name>Simspace</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[launchdarkly /
+
+      hello-haskell-server]]></title>
+        <id>https://github.com/launchdarkly/hello-haskell-server</id>
+        <link href="https://github.com/launchdarkly/hello-haskell-server"/>
+        <updated>2021-11-20T00:49:55.465Z</updated>
+        <summary type="html"><![CDATA[Hello LaunchDarkly for Haskell
+    
+Language: Haskell
+                            
+Star: 1
+                            
+Fork: 2]]></summary>
+        <author>
+            <name>launchdarkly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[github /
+
+      deli]]></title>
+        <id>https://github.com/github/deli</id>
+        <link href="https://github.com/github/deli"/>
+        <updated>2021-11-20T00:49:55.442Z</updated>
+        <summary type="html"><![CDATA[Language: Haskell
+                            
+Star: 157
+                            
+Fork: 9]]></summary>
+        <author>
+            <name>github</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[olivierverdier /
+
+      zsh-git-prompt]]></title>
+        <id>https://github.com/olivierverdier/zsh-git-prompt</id>
+        <link href="https://github.com/olivierverdier/zsh-git-prompt"/>
+        <updated>2021-11-20T00:49:55.405Z</updated>
+        <summary type="html"><![CDATA[Informative git prompt for zsh
+    
+Language: Haskell
+                            
+Star: 1,536
+                            
+Fork: 368]]></summary>
+        <author>
+            <name>olivierverdier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bavardage /
+
+      mu2]]></title>
+        <id>https://github.com/bavardage/mu2</id>
+        <link href="https://github.com/bavardage/mu2"/>
+        <updated>2021-11-20T00:49:55.342Z</updated>
+        <summary type="html"><![CDATA[A lamba calculus implemented in haskell.
+    
+Language: Haskell
+                            
+Star: 2
+                            
+Fork:]]></summary>
+        <author>
+            <name>bavardage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW - Former Gov. Cuomo's admin "materially misrepresented" the extent of nursing homes deaths an investigation concludes (NYT)]]></title>
+        <id>https://nitter.net/disclosetv/status/1461847001193238533#m</id>
+        <link href="https://nitter.net/disclosetv/status/1461847001193238533#m"/>
+        <updated>2021-11-20T00:00:59.000Z</updated>
+        <summary type="html"><![CDATA[NEW - Former Gov. Cuomo's admin "materially misrepresented" the extent of nursing homes deaths an investigation concludes (NYT)]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A smart collar for cows]]></title>
+        <id>https://news.ycombinator.com/item?id=29283748</id>
+        <link href="https://thehustle.co/11192021-cow-smart-collar/"/>
+        <updated>2021-11-19T23:07:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thehustle.co/11192021-cow-smart-collar/
+Comments URL: https://news.ycombinator.com/item?id=29283748
+Points: 23
+# Comments: 32]]></summary>
+        <author>
+            <name>rmason</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to scrape Hackage?]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/qxrizc/how_to_scrape_hackage/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/qxrizc/how_to_scrape_hackage/"/>
+        <updated>2021-11-19T22:45:31.000Z</updated>
+        <summary type="html"><![CDATA[In GHC proposal docs, I've seen people say things like "I searched through X packages on Hackage and found that Y% of them use syntax A over B". Is there a tool that people use for this, or do I need to just write a script to iterate over packages in my local Hackage index, download the package, and grep the source code myself?
+    submitted by    /u/brandonchinn178  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How can we represent semver]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/qxrg0p/how_can_we_represent_semver/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/qxrg0p/how_can_we_represent_semver/"/>
+        <updated>2021-11-19T22:41:20.000Z</updated>
+        <summary type="html"><![CDATA[Hi, we were trying to figure out an ideal way to represent Semver. There are a few ways we've tried representing semver however each has its drawbacks. Here are the 3 possible implementations we've considered each of them have drawbacks:
+  
+Simple data type data Version Natural Natural Natural
+ 
+Sum type data Version = Major0Minor1Patch0 | Major0Minor2Patch0 | Major1Minor0Patch0 | Major1Minor1Patch0
+ 
+Use a sum type on each major minor patch version. This is the approach we are currently taking: ```haskell data Patch = Patch0 deriving (Eq, Show, Generic, Enum, Bounded)
+ 
+ data Minor = Minor0 | Minor1 deriving (Eq, Show, Generic, Enum, Bounded)
+ data Major = Major0 deriving (Eq, Show, Generic, Enum, Bounded)
+ data Version = Version { major :: Major , minor :: Minor , patch :: Patch } deriving (Generic, Eq, Show) ```
+ Requirements:
+ Serialization/deserialization via aeson
+ Complicated pattern matching
+ This is important with event sourcing as some consumers may not care about minor version changes only major version changes.
+ If we have a new major version and we don't handle it then we want to fail to compile.
+ 1: Wouldn't give us strong compile-time guarantees. I don't know all actual versions we have.
+ 2: Forces us to handle all versions even if the consumer does not care. I don't have a way to say I only care about Major versions.
+ 3: Lets us handle only major version changes, and we know all possible major versions. However, we are representing a product and can introduce versions that don't really exist. e.g. if we have 0.1.0, 1.0.0, 1.1.0 then if we create a 1.2.0 we are now also representing 0.2.0.
+ I'm curious if anyone has an alternative representation that might be better. Thanks!
+    submitted by    /u/syedajafri1992  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reimagine Atomic CSS]]></title>
+        <id>https://css-tricks.com/?p=357234</id>
+        <link href="https://css-tricks.com/reimagine-atomic-css/"/>
+        <updated>2021-11-19T22:01:05.000Z</updated>
+        <summary type="html"><![CDATA[I’m not the biggest fan of Atomic CSS myself. I don’t like all the classes. I like to express my styles in CSS because I find CSS… good. But I appreciate that a lot of people seem to like it, …
+The post Reimagine Atomic CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plutus Pioneer Program developers, where are you now?]]></title>
+        <id>https://www.reddit.com/r/CardanoDevelopers/comments/qxqlkh/plutus_pioneer_program_developers_where_are_you/</id>
+        <link href="https://www.reddit.com/r/CardanoDevelopers/comments/qxqlkh/plutus_pioneer_program_developers_where_are_you/"/>
+        <updated>2021-11-19T21:58:04.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Ninjamanperson  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : CardanoDevelopers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @disclosetv: UPDATE - At least two people had been shot by police in #Rotterdam, according to Public broadcaster NOS. Conditions unknown.]]></title>
+        <id>https://nitter.net/disclosetv/status/1461811816867274753#m</id>
+        <link href="https://nitter.net/disclosetv/status/1461811816867274753#m"/>
+        <updated>2021-11-19T21:41:10.000Z</updated>
+        <summary type="html"><![CDATA[UPDATE - At least two people had been shot by police in #Rotterdam, according to Public broadcaster NOS. Conditions unknown.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The ‘Zelle Fraud’ Scam: How It Works, How to Fight Back]]></title>
+        <id>https://news.ycombinator.com/item?id=29282870</id>
+        <link href="https://krebsonsecurity.com/2021/11/the-zelle-fraud-scam-how-it-works-how-to-fight-back/"/>
+        <updated>2021-11-19T21:37:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/11/the-zelle-fraud-scam-how-it-works-how-to-fight-back/
+Comments URL: https://news.ycombinator.com/item?id=29282870
+Points: 38
+# Comments: 11]]></summary>
+        <author>
+            <name>picture</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding Font Game]]></title>
+        <id>https://css-tricks.com/?p=357227</id>
+        <link href="https://css-tricks.com/coding-font-game/"/>
+        <updated>2021-11-19T21:18:50.000Z</updated>
+        <summary type="html"><![CDATA[A tournament bracket UI where you pick your favorite between two coding fonts and your choices are whittled down all the way to a final winner. A clever way to suss out your own taste and arrive at a choice.…
+The post Coding Font Game appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google - Whats the deal? Partnership?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qxpl7u/google_whats_the_deal_partnership/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qxpl7u/google_whats_the_deal_partnership/"/>
+        <updated>2021-11-19T21:06:48.000Z</updated>
+        <summary type="html"><![CDATA[Has anyone been paying attention between IOHK and Google? Is ADA headed towards a partnership? I've seen quite a bit of stir about the topic, could anyone fill me in?
+    submitted by    /u/boxcarjakey  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pabio (YC S21) Is Hiring a Senior Full Stack JavaScript/TS Engineer]]></title>
+        <id>https://news.ycombinator.com/item?id=29282418</id>
+        <link href="https://careers.pabio.com/Senior-Full-Stack-JS-TS-Engineer-ba04ed2641b64499b57e91786d2c7bc6"/>
+        <updated>2021-11-19T21:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://careers.pabio.com/Senior-Full-Stack-JS-TS-Engineer-ba04ed2641b64499b57e91786d2c7bc6
+Comments URL: https://news.ycombinator.com/item?id=29282418
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>anandchowdhary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Are Topre Keyboards So Expensive?]]></title>
+        <id>https://news.ycombinator.com/item?id=29282401</id>
+        <link href="https://switchandclick.com/why-are-topre-keyboards-so-expensive/"/>
+        <updated>2021-11-19T21:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://switchandclick.com/why-are-topre-keyboards-so-expensive/
+Comments URL: https://news.ycombinator.com/item?id=29282401
+Points: 112
+# Comments: 191]]></summary>
+        <author>
+            <name>behnamoh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maladex: A DEX with Programmable Swaps]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qxp9o4/maladex_a_dex_with_programmable_swaps/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qxp9o4/maladex_a_dex_with_programmable_swaps/"/>
+        <updated>2021-11-19T20:51:16.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Crypto_Simp  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @disclosetv: UPDATE - Biden now says he’s "angry and concerned" over the Rittenhouse verdict in a new statement.]]></title>
+        <id>https://nitter.net/disclosetv/status/1461797739541504008#m</id>
+        <link href="https://nitter.net/disclosetv/status/1461797739541504008#m"/>
+        <updated>2021-11-19T20:45:14.000Z</updated>
+        <summary type="html"><![CDATA[UPDATE - Biden now says he’s "angry and concerned" over the Rittenhouse verdict in a new statement.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @disclosetv: NOW - Chaos in #Rotterdam. Sounds of explosions and gunfire.]]></title>
+        <id>https://nitter.net/disclosetv/status/1461795610504355842#m</id>
+        <link href="https://nitter.net/disclosetv/status/1461795610504355842#m"/>
+        <updated>2021-11-19T20:36:47.000Z</updated>
+        <summary type="html"><![CDATA[NOW - Chaos in #Rotterdam. Sounds of explosions and gunfire.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOW - Violent protests against Covid-restrictions in #Rotterdam, Netherlands.]]></title>
+        <id>https://nitter.net/disclosetv/status/1461794811846045696#m</id>
+        <link href="https://nitter.net/disclosetv/status/1461794811846045696#m"/>
+        <updated>2021-11-19T20:33:36.000Z</updated>
+        <summary type="html"><![CDATA[NOW - Violent protests against Covid-restrictions in #Rotterdam, Netherlands.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Renaissance Science – XXII: Land Surveying]]></title>
+        <id>https://news.ycombinator.com/item?id=29281986</id>
+        <link href="https://thonyc.wordpress.com/2021/11/04/renaissance-science-xxii/"/>
+        <updated>2021-11-19T20:29:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thonyc.wordpress.com/2021/11/04/renaissance-science-xxii/
+Comments URL: https://news.ycombinator.com/item?id=29281986
+Points: 25
+# Comments: 0]]></summary>
+        <author>
+            <name>commons-tragedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Metro Agencies Design the Letter 'M']]></title>
+        <id>https://news.ycombinator.com/item?id=29281981</id>
+        <link href="https://www.bloomberg.com/news/articles/2015-06-08/how-77-metro-agencies-design-the-letter-m-for-their-transit-logo"/>
+        <updated>2021-11-19T20:29:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2015-06-08/how-77-metro-agencies-design-the-letter-m-for-their-transit-logo
+Comments URL: https://news.ycombinator.com/item?id=29281981
+Points: 25
+# Comments: 13]]></summary>
+        <author>
+            <name>quakeguy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haskell Foundation Board meeting minutes 2021-11-18]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/qxos3z/haskell_foundation_board_meeting_minutes_20211118/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/qxos3z/haskell_foundation_board_meeting_minutes_20211118/"/>
+        <updated>2021-11-19T20:26:58.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/TechnoEmpress  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOW - Rittenhouse defense attorney Mark Richards: "Biden said some things that I think are so incorrect and untrue."]]></title>
+        <id>https://nitter.net/disclosetv/status/1461792456333271043#m</id>
+        <link href="https://nitter.net/disclosetv/status/1461792456333271043#m"/>
+        <updated>2021-11-19T20:24:15.000Z</updated>
+        <summary type="html"><![CDATA[NOW - Rittenhouse defense attorney Mark Richards: "Biden said some things that I think are so incorrect and untrue."]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardano Status Update - November 19, 2021]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qxocfx/cardano_status_update_november_19_2021/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qxocfx/cardano_status_update_november_19_2021/"/>
+        <updated>2021-11-19T20:05:28.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/BlackFlower9  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @disclosetv: Biden added, "I feel great... And so I'm now looking forward to celebrating my 58th birthday."]]></title>
+        <id>https://nitter.net/disclosetv/status/1461785289970622481#m</id>
+        <link href="https://nitter.net/disclosetv/status/1461785289970622481#m"/>
+        <updated>2021-11-19T19:55:46.000Z</updated>
+        <summary type="html"><![CDATA[Biden added, "I feel great... And so I'm now looking forward to celebrating my 58th birthday."]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: I feel so shallow and dumb when I see what other smart people are doing]]></title>
+        <id>https://news.ycombinator.com/item?id=29281468</id>
+        <link href="https://news.ycombinator.com/item?id=29281468"/>
+        <updated>2021-11-19T19:51:25.000Z</updated>
+        <summary type="html"><![CDATA[I was watching a video game documentary about the history of the RollerCoaster Tycoon franchise, a theme park management game that had both an easy learning curve but with incredibly sophisticated dynamics. What really impressed me however was the origins of the first two titles: written by one man in assembly language.
+At that point, I realized how mediocre and untalented I was. Nothing I’m doing in my life are anything that people will remember me for. Throughout my life, I’ve seen many awe inspiring projects done by extremely talented people, way more intelligent than I am, come to fruition. Over the years, I realized how shallow and dumb I really am. I’m uninteresting.
+Most of my career revolved around software development, something that I’ve done since I was 17 (now I'm 30) until a f…]]></summary>
+        <author>
+            <name>cdahmedeh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slot leaders and input endorsers]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qxo0rh/slot_leaders_and_input_endorsers/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qxo0rh/slot_leaders_and_input_endorsers/"/>
+        <updated>2021-11-19T19:49:43.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone,
+ Can someone please enlighten me about slot leader and input endorsers?
+ From searching docs, I find the following:
+ "Slot leaders operate in epochs to listen for and confirm transactions to produce blocks, which are then approved by input endorsers. A Cardano input endorser is the second set of stakeholders that verifies transactions included in blocks. It’s believed this design is scalable since the network can increase the number of slots per epoch and run multiple epochs across the network simultaneously."
+ Does that mean that: 1) Sufficiently saturated (but not oversaturated) stake pools get a high chance of randomly selected as slot leaders for a certain epoch.
+ 2) Non-selected stake pools get given a role of "input endorser" for this epoch. Or does this mean delegators using a "heavy client" such as Daedalus? 
+ Additional questions: *What does it mean to increase the number of slots per epoch? Add more stake pools, while reducing the saturation point per pool? *How exactly does this increase transaction speed or capacity? 
+ Thank you in advance.
+    submitted by    /u/AlertElderberry  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOW - Biden "stands by" on the jury's decision in the Rittenhouse trial.]]></title>
+        <id>https://nitter.net/disclosetv/status/1461782143504367616#m</id>
+        <link href="https://nitter.net/disclosetv/status/1461782143504367616#m"/>
+        <updated>2021-11-19T19:43:16.000Z</updated>
+        <summary type="html"><![CDATA[NOW - Biden "stands by" on the jury's decision in the Rittenhouse trial.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zstandard RFC 8878]]></title>
+        <id>https://news.ycombinator.com/item?id=29281360</id>
+        <link href="https://datatracker.ietf.org/doc/html/rfc8878"/>
+        <updated>2021-11-19T19:41:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://datatracker.ietf.org/doc/html/rfc8878
+Comments URL: https://news.ycombinator.com/item?id=29281360
+Points: 73
+# Comments: 39]]></summary>
+        <author>
+            <name>itroot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The WeeCee – Tiny Vortex86-Based DOS Gaming PC]]></title>
+        <id>https://news.ycombinator.com/item?id=29281337</id>
+        <link href="https://www.vogons.org/viewtopic.php?t=80651"/>
+        <updated>2021-11-19T19:39:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.vogons.org/viewtopic.php?t=80651
+Comments URL: https://news.ycombinator.com/item?id=29281337
+Points: 85
+# Comments: 26]]></summary>
+        <author>
+            <name>nickt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[text-2.0-rc1 with UTF8 underlying representation is available for testing!]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/qxnfkc/text20rc1_with_utf8_underlying_representation_is/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/qxnfkc/text20rc1_with_utf8_underlying_representation_is/"/>
+        <updated>2021-11-19T19:20:14.000Z</updated>
+        <summary type="html"><![CDATA[I'm happy to announce that the first release candidate for upcoming text-2.0 with UTF-8 underlying representation has been just uploaded on Hackage: https://hackage.haskell.org/package/text-2.0/candidate
+ Changelog: https://hackage.haskell.org/package/text-2.0/candidate/changelog
+ Please give it a try.
+ What's next?
+ In the next couple of months I'll be working with maintainers of downstream packages to identify migration opportunities. The plan is to patch entire head.hackage (which includes, for instance, pandoc) before cutting a final release of text-2.0.
+ Thanks to Ben Gamari's efforts, text submodule in GHC source tree has been already bumped to 2.0-rc1. The next major release of GHC (9.4, ~Q3 2022) will ship with text-2.0.
+    submitted by    /u/Bodigrim  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transformers from Scratch (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=29280909</id>
+        <link href="http://peterbloem.nl/blog/transformers"/>
+        <updated>2021-11-19T19:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://peterbloem.nl/blog/transformers
+Comments URL: https://news.ycombinator.com/item?id=29280909
+Points: 36
+# Comments: 3]]></summary>
+        <author>
+            <name>softwaredoug</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's hard to say who's winning the streaming wars, but customers are losing]]></title>
+        <id>https://news.ycombinator.com/item?id=29280812</id>
+        <link href="https://apitman.com/27/#losing-the-streaming-wars"/>
+        <updated>2021-11-19T18:52:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://apitman.com/27/#losing-the-streaming-wars
+Comments URL: https://news.ycombinator.com/item?id=29280812
+Points: 201
+# Comments: 271]]></summary>
+        <author>
+            <name>anderspitman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultracold, superdense atoms become invisible]]></title>
+        <id>https://news.ycombinator.com/item?id=29280780</id>
+        <link href="https://news.mit.edu/2021/atoms-ultracold-scatter-light-1118"/>
+        <updated>2021-11-19T18:49:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://news.mit.edu/2021/atoms-ultracold-scatter-light-1118
+Comments URL: https://news.ycombinator.com/item?id=29280780
+Points: 90
+# Comments: 34]]></summary>
+        <author>
+            <name>gmays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW - Many U.S. media outlets and journalists labeled Kyle Rittenhouse, who acted in self-defense, a mass murderer or worse, and may now face defamation lawsuits - reports.]]></title>
+        <id>https://nitter.net/disclosetv/status/1461766926775033868#m</id>
+        <link href="https://nitter.net/disclosetv/status/1461766926775033868#m"/>
+        <updated>2021-11-19T18:42:48.000Z</updated>
+        <summary type="html"><![CDATA[NEW - Many U.S. media outlets and journalists labeled Kyle Rittenhouse, who acted in self-defense, a mass murderer or worse, and may now face defamation lawsuits - reports.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Functions of ADA?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qxmmfn/functions_of_ada/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qxmmfn/functions_of_ada/"/>
+        <updated>2021-11-19T18:40:50.000Z</updated>
+        <summary type="html"><![CDATA[I was wondering if people could break down what all you can do with your ADA. Most people on here already know about staking, others trade it or hold it in hopes of profit. 
+ I’m wondering what are some other ways I can utilize my ADA that maybe aren’t so mainstream in the Cardano community. 
+ I’ve heard of lending, but am not sure how to go about it. I’ve also heard of the Drunken Dragon game, but don’t know too much about it. 
+ Can anyone give me some suggestions on how to fully utilize my ADA?
+    submitted by    /u/kalvinmcgargill  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @disclosetv: NOW - Kyle Rittenhouse's reaction after being acquitted on all charges by the jury.]]></title>
+        <id>https://nitter.net/disclosetv/status/1461762848997191685#m</id>
+        <link href="https://nitter.net/disclosetv/status/1461762848997191685#m"/>
+        <updated>2021-11-19T18:26:36.000Z</updated>
+        <summary type="html"><![CDATA[NOW - Kyle Rittenhouse's reaction after being acquitted on all charges by the jury.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon lobbyists who kill U.S. consumer privacy protections]]></title>
+        <id>https://news.ycombinator.com/item?id=29280530</id>
+        <link href="https://www.reuters.com/investigates/special-report/amazon-privacy-lobbying/"/>
+        <updated>2021-11-19T18:26:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/investigates/special-report/amazon-privacy-lobbying/
+Comments URL: https://news.ycombinator.com/item?id=29280530
+Points: 276
+# Comments: 123]]></summary>
+        <author>
+            <name>conductor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rittenhouse walks]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/qxm3x8/rittenhouse_walks/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/qxm3x8/rittenhouse_walks/"/>
+        <updated>2021-11-19T18:16:17.000Z</updated>
+        <summary type="html"><![CDATA[We now turn our attention to Ghislaine
+    submitted by    /u/a_lostgay  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - Jury finds Kyle Rittenhouse NOT GUILTY on all counts.]]></title>
+        <id>https://nitter.net/disclosetv/status/1461759771619569670#m</id>
+        <link href="https://nitter.net/disclosetv/status/1461759771619569670#m"/>
+        <updated>2021-11-19T18:14:22.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - Jury finds Kyle Rittenhouse NOT GUILTY on all counts.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @disclosetv: UPDATE - Jude confirms a verdict has been reached in the Rittenhouse trial. The jury is now called into the courtroom.]]></title>
+        <id>https://nitter.net/disclosetv/status/1461757438986801152#m</id>
+        <link href="https://nitter.net/disclosetv/status/1461757438986801152#m"/>
+        <updated>2021-11-19T18:05:06.000Z</updated>
+        <summary type="html"><![CDATA[UPDATE - Jude confirms a verdict has been reached in the Rittenhouse trial. The jury is now called into the courtroom.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is have to put (Show a) => here]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/qxlb2d/why_is_have_to_put_show_a_here/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/qxlb2d/why_is_have_to_put_show_a_here/"/>
+        <updated>2021-11-19T17:38:34.000Z</updated>
+        <summary type="html"><![CDATA[In the following code
+ ```hs data Car = Car { company :: String , model :: String , year :: Int } deriving (Show)
+ tellCar :: Car -> String tellCar (Car {company = c, model = m, year = y}) = "This " ++ c ++ " " ++ m ++ " was made in " ++ show y
+ data Car' a b c = Car' { company' :: a , model' :: b , year' :: c } deriving (Show)
+ tellCar' :: Car' String String a -> String tellCar' (Car' {company' = c, model' = m, year' = y}) = "This " ++ c ++ " " ++ m 
+ ```
+ Why it is showing me this error
+ ~~~ No instance for (Show a) arising from a use of ‘show’ Possible fix: add (Show a) to the context of the type signature for: tellCar' :: forall a. Car' String String a -> String ~~~ Where i have written deriving(Show) in the defination of Car'
+    submitted by    /u/Soham-Chatterjee  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - Rittenhouse verdict expected within the next hour - media reports]]></title>
+        <id>https://nitter.net/disclosetv/status/1461749655524585477#m</id>
+        <link href="https://nitter.net/disclosetv/status/1461749655524585477#m"/>
+        <updated>2021-11-19T17:34:10.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - Rittenhouse verdict expected within the next hour - media reports]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @disclosetv: UPDATE - Biden no longer under anesthesia and has resumed his presidential powers: White House]]></title>
+        <id>https://nitter.net/disclosetv/status/1461746365558579205#m</id>
+        <link href="https://nitter.net/disclosetv/status/1461746365558579205#m"/>
+        <updated>2021-11-19T17:21:06.000Z</updated>
+        <summary type="html"><![CDATA[UPDATE - Biden no longer under anesthesia and has resumed his presidential powers: White House]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Error while building transaction option (–tx-out: unexpected ‘.’ expecting space, letter or digit, white space, “+” or end of input)]]></title>
+        <id>https://www.reddit.com/r/CardanoDevelopers/comments/qxkf0y/error_while_building_transaction_option_txout/</id>
+        <link href="https://www.reddit.com/r/CardanoDevelopers/comments/qxkf0y/error_while_building_transaction_option_txout/"/>
+        <updated>2021-11-19T16:57:28.000Z</updated>
+        <summary type="html"><![CDATA[I was following this tutorial about minting nfts and when I entered this command to build the transaction: cardano-cli transaction build \
+ --mainnet \
+ --alonzo-era \
+ --tx-in 32b522ab6f403cf5032d4aed87673298ef5ef4f4af774b38307d2bf3fa645131#0 \
+ --tx-out $address+$output+"$tokenamount $policyid.$tokenname" \
+ --change-address $address \
+ --mint="$tokenamount $policyid.$tokenname" \
+ --minting-script-file $script \
+ --metadata-json-file metadata.json \
+ --invalid-hereafter $slotnumber \
+ --witness-override 2 \
+ --out-file matx.raw
+ I got this error back: option --tx-out: unexpected '.' expecting space, letter or digit, white space, "+" or end of input
+ Any ideas on how to solve this? You can find the tutorial here->(Minting NFTs | Cardano Developer Portal 1)
+    submitted by    /u/LostOpinion99  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : CardanoDevelopers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rollups on Cardano Discussion | Cardano Live #48]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qxjy2f/rollups_on_cardano_discussion_cardano_live_48/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qxjy2f/rollups_on_cardano_discussion_cardano_live_48/"/>
+        <updated>2021-11-19T16:34:40.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/KyleTCE  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Whiteboard session] - Decentralized Lending and Borrowing (with Mantas from AADA)]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qxjikr/whiteboard_session_decentralized_lending_and/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qxjikr/whiteboard_session_decentralized_lending_and/"/>
+        <updated>2021-11-19T16:13:19.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Shiferiz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ep. 67: Interoperabilidad 🎙Cardano Podcast: Descentralización Total! 🎙fe...]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qxjhal/ep_67_interoperabilidad_cardano_podcast/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qxjhal/ep_67_interoperabilidad_cardano_podcast/"/>
+        <updated>2021-11-19T16:11:32.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/IndividuoDigital  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why are you invested in Cardano?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qxiwe0/why_are_you_invested_in_cardano/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qxiwe0/why_are_you_invested_in_cardano/"/>
+        <updated>2021-11-19T15:43:30.000Z</updated>
+        <summary type="html"><![CDATA[For me it was due to the TED talk by Charles six years ago. Bringing identification services and banking services to those that need it most is nothing but exceptional. Even if the project failed (which it wont) it is still worthy to contribute, makes me sleep well at night. This really can change lives for the better. Im HODLing hard.
+    submitted by    /u/cryptoconsh  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adults who microdose psychedelics report lower levels of depression and anxiety [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=29278229</id>
+        <link href="https://www.nature.com/articles/s41598-021-01811-4.pdf"/>
+        <updated>2021-11-19T15:36:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41598-021-01811-4.pdf
+Comments URL: https://news.ycombinator.com/item?id=29278229
+Points: 253
+# Comments: 228]]></summary>
+        <author>
+            <name>miobrien</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Pony – a messenger for mindful correspondence]]></title>
+        <id>https://news.ycombinator.com/item?id=29278180</id>
+        <link href="https://www.ponymessenger.com"/>
+        <updated>2021-11-19T15:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ponymessenger.com
+Comments URL: https://news.ycombinator.com/item?id=29278180
+Points: 526
+# Comments: 186]]></summary>
+        <author>
+            <name>dmitryminkovsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flags vs. Gates]]></title>
+        <id>https://news.ycombinator.com/item?id=29278149</id>
+        <link href="https://brandur.org/fragments/flags-v-gates"/>
+        <updated>2021-11-19T15:29:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brandur.org/fragments/flags-v-gates
+Comments URL: https://news.ycombinator.com/item?id=29278149
+Points: 42
+# Comments: 14]]></summary>
+        <author>
+            <name>boberoni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parallax Powered by CSS Custom Properties]]></title>
+        <id>https://css-tricks.com/?p=357192</id>
+        <link href="https://css-tricks.com/parallax-powered-by-css-custom-properties/"/>
+        <updated>2021-11-19T15:13:46.000Z</updated>
+        <summary type="html"><![CDATA[Good friend Kent C. Dodds has recently dropped his new website which had a lot of work go into it. I was fortunate enough that Kent reached out a while back and asked if I could come up with some …
+The post Parallax Powered by CSS Custom Properties appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jhey Tompkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOW - "Build Back Better" bill dances in front of the U.S. Capitol.]]></title>
+        <id>https://nitter.net/disclosetv/status/1461713355358490628#m</id>
+        <link href="https://nitter.net/disclosetv/status/1461713355358490628#m"/>
+        <updated>2021-11-19T15:09:55.000Z</updated>
+        <summary type="html"><![CDATA[NOW - "Build Back Better" bill dances in front of the U.S. Capitol.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech journalism is less diverse than tech (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=29277661</id>
+        <link href="https://oonwoye.com/2020/07/31/tech-journalism-is-less-diverse-than-tech/"/>
+        <updated>2021-11-19T14:44:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://oonwoye.com/2020/07/31/tech-journalism-is-less-diverse-than-tech/
+Comments URL: https://news.ycombinator.com/item?id=29277661
+Points: 211
+# Comments: 195]]></summary>
+        <author>
+            <name>1cvmask</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @disclosetv: UPDATE - Biden will transfer power to Kamala Harris while undergoing a colonoscopy under anesthesia.]]></title>
+        <id>https://nitter.net/disclosetv/status/1461704033329201163#m</id>
+        <link href="https://nitter.net/disclosetv/status/1461704033329201163#m"/>
+        <updated>2021-11-19T14:32:53.000Z</updated>
+        <summary type="html"><![CDATA[UPDATE - Biden will transfer power to Kamala Harris while undergoing a colonoscopy under anesthesia.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixing the Drift in Shape Rotations]]></title>
+        <id>https://news.ycombinator.com/item?id=29277375</id>
+        <link href="https://www.steveruiz.me/posts/rotating-shapes"/>
+        <updated>2021-11-19T14:19:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.steveruiz.me/posts/rotating-shapes
+Comments URL: https://news.ycombinator.com/item?id=29277375
+Points: 36
+# Comments: 14]]></summary>
+        <author>
+            <name>steveruizok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haskell & Cryptocurrency course by Lars Brünjes & Andres Löh]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/qxh13s/haskell_cryptocurrency_course_by_lars_brünjes/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/qxh13s/haskell_cryptocurrency_course_by_lars_brünjes/"/>
+        <updated>2021-11-19T14:11:50.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/sridfr  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daedalus 4.5 - Stuck on “Connecting to Network”]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qxgjrn/daedalus_45_stuck_on_connecting_to_network/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qxgjrn/daedalus_45_stuck_on_connecting_to_network/"/>
+        <updated>2021-11-19T13:47:33.000Z</updated>
+        <summary type="html"><![CDATA[Just got the update for 4.5 last night, but now my Daedalus client will not connect to network when booting up. I’ve already tried a completely fresh install, but it’s doing the same thing. Anyone else having this issue?
+    submitted by    /u/heyitsronin33  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - Germany: Producer price inflation rises 18.4% year-on-year in October, the highest increase since 1951.]]></title>
+        <id>https://nitter.net/disclosetv/status/1461691992174469121#m</id>
+        <link href="https://nitter.net/disclosetv/status/1461691992174469121#m"/>
+        <updated>2021-11-19T13:45:02.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - Germany: Producer price inflation rises 18.4% year-on-year in October, the highest increase since 1951.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Missing Tokens & Cardano Blockchain History]]></title>
+        <id>https://www.reddit.com/r/CardanoDevelopers/comments/qxgi4t/missing_tokens_cardano_blockchain_history/</id>
+        <link href="https://www.reddit.com/r/CardanoDevelopers/comments/qxgi4t/missing_tokens_cardano_blockchain_history/"/>
+        <updated>2021-11-19T13:44:59.000Z</updated>
+        <summary type="html"><![CDATA[I am tracking some NFT's and token's that went missing from my wallet through various blockchain explorers. The entire NFTs and FTs in the wallet went missing while testing out ccwallets swap feature. 
+ Two questions: 
+  
+All the tokens are going from an DdzFF type address to another every few hours. Is there anywhere like pool.pm that supports viewing of this type of (Byron era/Daedalus) wallet? 
+ Can anyone explain why all of my former tokens are the sole tokens in the wallet and why they are moving from one wallet to another? I would assume if it's on an exchange, there would be far more than just the tokens I had in the wallet.
+ 
+ Diving deep into blockchain. Any educational blockchain exploration resources and answers to the questions are much appreciated.
+    submitted by    /u/andandand365  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : CardanoDevelopers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Balkans moment]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/qxgdqp/balkans_moment/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/qxgdqp/balkans_moment/"/>
+        <updated>2021-11-19T13:38:12.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Gigadweeb  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - FDA approves Pfizer and Moderna vaccine booster shots under Emergency Use Authorization for all adults in the U.S.]]></title>
+        <id>https://nitter.net/disclosetv/status/1461689602473963524#m</id>
+        <link href="https://nitter.net/disclosetv/status/1461689602473963524#m"/>
+        <updated>2021-11-19T13:35:32.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - FDA approves Pfizer and Moderna vaccine booster shots under Emergency Use Authorization for all adults in the U.S.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In-orbit demonstration of an iodine electric propulsion system]]></title>
+        <id>https://news.ycombinator.com/item?id=29276960</id>
+        <link href="https://www.nature.com/articles/s41586-021-04015-y"/>
+        <updated>2021-11-19T13:35:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41586-021-04015-y
+Comments URL: https://news.ycombinator.com/item?id=29276960
+Points: 121
+# Comments: 36]]></summary>
+        <author>
+            <name>jollybean</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CS SYD - Announcing `autodocodec`]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/qxg7i9/cs_syd_announcing_autodocodec/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/qxg7i9/cs_syd_announcing_autodocodec/"/>
+        <updated>2021-11-19T13:28:31.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/NorfairKing2  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pangea Aerospace successfully hot fire tests the first MethaLox aerospike engine]]></title>
+        <id>https://news.ycombinator.com/item?id=29276746</id>
+        <link href="https://www.satellite-evolution.com/post/pangea-aerospace-successfully-hot-fire-tests-the-first-methalox-aerospike-engine-in-the-world"/>
+        <updated>2021-11-19T13:09:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.satellite-evolution.com/post/pangea-aerospace-successfully-hot-fire-tests-the-first-methalox-aerospike-engine-in-the-world
+Comments URL: https://news.ycombinator.com/item?id=29276746
+Points: 196
+# Comments: 139]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make invalid laziness unrepresentable]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/qxfs2d/make_invalid_laziness_unrepresentable/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/qxfs2d/make_invalid_laziness_unrepresentable/"/>
+        <updated>2021-11-19T13:03:54.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/tomejaguar  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Need a way to contact VeriTree directly for company involvement - carbon offsets for large aviation company]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qxfhag/need_a_way_to_contact_veritree_directly_for/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qxfhag/need_a_way_to_contact_veritree_directly_for/"/>
+        <updated>2021-11-19T12:46:37.000Z</updated>
+        <summary type="html"><![CDATA[[Edit: Solved] Guys - can somebody help me out with a more direct contact to VeriTree than the generic form on their web page? I'm happy to be relayed via involved people of Cardano Foundation etc. if you don't know a direct contact or discord or something (DM me).
+ Background: A couple of weeks ago, I've contacted compensaid (https://compensaid.com/) who are managing the carbon offsets for Lufthansa (https://en.wikipedia.org/wiki/Lufthansa), the second largest European Airline, and suggested that VeriTree would bring some much-needed accountability into their carbon offset projects. After receiving a rather generic answer at first, they followed up personally, asking for a qualified contact at VeriTree. Alas, while I do have some of their tokens in my wallet, I don't have a direct contact.
+ [Edit]: All good! Contact was found, people were introduced, things are moving forward. Thanks to everyone who pitched in!
+    submitted by    /u/kogmaa  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW - Hillary Clinton: #Bitcoin threatens US dollar as reserve currency.]]></title>
+        <id>https://nitter.net/disclosetv/status/1461677237091115008#m</id>
+        <link href="https://nitter.net/disclosetv/status/1461677237091115008#m"/>
+        <updated>2021-11-19T12:46:24.000Z</updated>
+        <summary type="html"><![CDATA[NEW - Hillary Clinton: #Bitcoin threatens US dollar as reserve currency.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This has relevance to the Atala prisim program and what future emplyers and start ups are after.]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qxe8ve/this_has_relevance_to_the_atala_prisim_program/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qxe8ve/this_has_relevance_to_the_atala_prisim_program/"/>
+        <updated>2021-11-19T11:26:21.000Z</updated>
+        <summary type="html"><![CDATA[https://youtu.be/6pvnXoWCuqo?t=873. The whole thing is interesting, but this is what modern business executives and future CEOs ( could be you) will be implementing as part of your business structure. From the london business school live presentation Ask an Entrepreneur series, just a segment about tracking education and verifying qualifications.
+ This just shows how far forward Cardano is thinking, setting standards before standards are there.
+    submitted by    /u/Ausfininja  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ADAVerse - The Cardano Outlook - Episode 1]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qxdwjk/adaverse_the_cardano_outlook_episode_1/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qxdwjk/adaverse_the_cardano_outlook_episode_1/"/>
+        <updated>2021-11-19T11:02:53.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ezmario  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charles Hoskinson Speaks up on The US Crypto Infrastructure Bill]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qxdmfr/charles_hoskinson_speaks_up_on_the_us_crypto/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qxdmfr/charles_hoskinson_speaks_up_on_the_us_crypto/"/>
+        <updated>2021-11-19T10:42:23.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ShawnaWestby  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mapping Cardano founder’s idea of a future Metaverse]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qxcspw/mapping_cardano_founders_idea_of_a_future/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qxcspw/mapping_cardano_founders_idea_of_a_future/"/>
+        <updated>2021-11-19T09:41:45.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/sportifynews  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does anyone use Sublime as their primary environment for Haskell learning as a beginner]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/qxc1ef/does_anyone_use_sublime_as_their_primary/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/qxc1ef/does_anyone_use_sublime_as_their_primary/"/>
+        <updated>2021-11-19T08:45:25.000Z</updated>
+        <summary type="html"><![CDATA[Does anyone use Sublime as their primary environment for Haskell learning as a beginner ?
+ What packages you use, which linter, etc. What other helpful things do you use ? 
+ P.S: I googled around for some tutorials but most seem outdated, I know I can use some more specific IDE's but I would like to continue using Sublime.
+    submitted by    /u/Advanced_Put_2880  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardano's ADA Finance Emerges as the ''Best DeFi Project of the Year'' at AIBC Summit | DailyCoin]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qxba8q/cardanos_ada_finance_emerges_as_the_best_defi/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qxba8q/cardanos_ada_finance_emerges_as_the_best_defi/"/>
+        <updated>2021-11-19T07:50:04.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ReadDailyCoin  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where to monitor funded Catalyst projects?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qxb5i7/where_to_monitor_funded_catalyst_projects/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qxb5i7/where_to_monitor_funded_catalyst_projects/"/>
+        <updated>2021-11-19T07:40:05.000Z</updated>
+        <summary type="html"><![CDATA[Is there a solid place to track the actual success or failure of funded Catalyst projects? We're on Fund 7 now and I have no idea how the projects from 1-6 have gone?
+    submitted by    /u/quicktyson  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cardano Onslaught]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qxavnh/the_cardano_onslaught/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qxavnh/the_cardano_onslaught/"/>
+        <updated>2021-11-19T07:20:34.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ArmyofSpies  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardano Rumor Rundown November 19, 2021]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qxaubc/cardano_rumor_rundown_november_19_2021/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qxaubc/cardano_rumor_rundown_november_19_2021/"/>
+        <updated>2021-11-19T07:17:47.000Z</updated>
+        <summary type="html"><![CDATA[Hey Everyone!
+ Let's go...
+ Newly covered today: 
+  
+Here is the coming onslaught of Cardano dApps summed up in just six lines. https://twitter.com/DCdoso/status/1461340919731523586
+ Pavia says they will drop the extended land map next week and that it will include some new land types. https://twitter.com/Pavia_io/status/1461331532069711876
+ The smaller “fix-it” bill that would attempt to remedy the bad crypto language in the Bipartisan Infrastructure Bill has now been introduced in the House of Representatives. https://twitter.com/jerrybrito/status/1461317078175072263
+ Charles says input endorsers can improve the performance of the base layer by a factor of 20-40x!!!! https://youtu.be/Lf2C4fq4ZY4?t=790
+  
+Previously Covered but still interesting:
+  
+Remember! There is no mobile Daedalus w…]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is there a Cardano Platform App creating / trading Commodity based tokens?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qxahx7/is_there_a_cardano_platform_app_creating_trading/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qxahx7/is_there_a_cardano_platform_app_creating_trading/"/>
+        <updated>2021-11-19T06:53:48.000Z</updated>
+        <summary type="html"><![CDATA[Old New Guy here, looking over the Cryptocurrency space, and Cardano in particular. From what little I've learned to date, I'm impressed with the Spirit of this effort, the Logic of slow but steady Peer reviewed progress to further the effort. So much to wrap ones mind around.
+ A practical question I have, is there anyone utilizing the Cardano Platform for an Apllication/program for the creation of stablecoins backed by commodities, and Precious Metals in particular?
+    submitted by    /u/amaSuwA  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clarity for plutus application backend]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qxafjc/clarity_for_plutus_application_backend/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qxafjc/clarity_for_plutus_application_backend/"/>
+        <updated>2021-11-19T06:49:03.000Z</updated>
+        <summary type="html"><![CDATA[So the information is really murky to me on what the PAB means as far as the ADA ecosystem firing up. I thought PAB deadline was mid November, Is that what it means? Are DEXes around the corner? Will I actually be able to use the token to create or are we waiting a long time while the price plummets too low for me to have dry powder do anything? I bought the majority of my cardano in anticipation to use for the ecosystem and get in on the ground floor, I really don't care about the price unless it cuts my sandbox funds in half. How are we supposed to participate as a community if we're firewalled everywhere?
+    submitted by    /u/slipsbups  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardano Daily Discussion - Questions & Market Thread - November 19, 2021]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qxa5q8/cardano_daily_discussion_questions_market_thread/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qxa5q8/cardano_daily_discussion_questions_market_thread/"/>
+        <updated>2021-11-19T06:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone,
+ Welcome to the Cardano Daily Discussion - Questions & Market Thread!
+ The standard sub rules apply here (see sidebar), with the exception that price discussion is allowed in this thread.
+ Cardano Newbies Guide
+ https://preview.redd.it/5wwnmsjuckx71.jpg?width=1538&format=pjpg&auto=webp&s=50259c3dbcc8a28be5b4380abe9a6f985ad97c7e
+ 🎓 If you're looking for the newbies guide click here! 🎓
+ (newbies guide temporarily unpinned while questions are gathered for the fireside chat).
+ ​
+ NFTs for Planting Trees
+ https://preview.redd.it/d9l75zowckx71.jpg?width=1600&format=pjpg&auto=webp&s=9a13a91cb371dce5d318b96dea2692dad9348b21
+ You can donate ADA and receive NFTs for doing so, each ADA is a tree planted, it's a win win! Read about veritree here and take part on https://ito.veritree.…]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HELP how can I get my ADA off this Daedalus wallet without having to download it to my computer?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qx901d/help_how_can_i_get_my_ada_off_this_daedalus/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qx901d/help_how_can_i_get_my_ada_off_this_daedalus/"/>
+        <updated>2021-11-19T05:16:32.000Z</updated>
+        <summary type="html"><![CDATA[Ive had the Daedalus wallet on my pc laptop for a few years now. The wallet is up to date yet it keeps disconnecting from the server as I get to 99.9%. Sometimes I can see the wallets and amounts but the blockchain syncs and then stops node. its so frustrating. 
+ ​
+ I then downloaded onto my MacBook Air but 8 hrs later, its at 99.9% and Im not out of space. This wallet sucks so much. I understand that its downloading the entire blockchain but after a week of trying to download on 2 different computers, Im not having much luck. Is there another way to get my ADA off there?
+    submitted by    /u/Ambitious-Bird-1645  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haskell sum types from set theory's disjoint union]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/qx81xz/haskell_sum_types_from_set_theorys_disjoint_union/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/qx81xz/haskell_sum_types_from_set_theorys_disjoint_union/"/>
+        <updated>2021-11-19T04:19:43.000Z</updated>
+        <summary type="html"><![CDATA[So as I understand, something like this
+ data List a = Nil | Cons a (List a) 
+ is considered a sum type because it is a sort of set theory "sum" or "disjoint union" of the two constructors. A disjoint union, as I understand, is just when you have a union of sets that have nothing shared; you "summed" the sets. So we imagine our List above a sort of disjoint union of Nil and Cons a (List a). Correct? What gets confusing is from a Wikipedia article on Algebraic data types :
+  
+In set theory the equivalent of a sum type is a disjoint union, a set whose elements are pairs consisting of a tag (equivalent to a constructor) and an object of a type corresponding to the tag (equivalent to the constructor arguments).
+  
+The disjoint union article was fairly understandable, but I'm not making the connection between my List above and this quote above about tags and constructors and constructor arguments. Nice if someone could shine some light on this for me.
+    submitted by    /u/teilchen010  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What will you be earning when staking with a Dex pool?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qx7o1t/what_will_you_be_earning_when_staking_with_a_dex/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qx7o1t/what_will_you_be_earning_when_staking_with_a_dex/"/>
+        <updated>2021-11-19T03:57:46.000Z</updated>
+        <summary type="html"><![CDATA[Like Sundaeswap is about to start doing. Will you be receiving Sundaeswap tokens instead of your usual staking rewards?
+    submitted by    /u/Flipscuba  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parsing Permutations]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/qx6v44/parsing_permutations/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/qx6v44/parsing_permutations/"/>
+        <updated>2021-11-19T03:13:53.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/drewolson  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[finding this sub after being on the rest of reddit]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/qx5wio/finding_this_sub_after_being_on_the_rest_of_reddit/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/qx5wio/finding_this_sub_after_being_on_the_rest_of_reddit/"/>
+        <updated>2021-11-19T02:22:02.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/deadpan_jane  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dapphub /
 
@@ -205,6 +1430,17 @@ Fork:]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[ANN] Release Candidate for `mtl-2.3`]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/qx3ze9/ann_release_candidate_for_mtl23/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/qx3ze9/ann_release_candidate_for_mtl23/"/>
+        <updated>2021-11-19T00:39:43.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/emilypii  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I looked at my Haskell code from 5 years ago. I hope I have learnt a few things]]></title>
         <id>https://www.reddit.com/r/haskell/comments/qx36r2/i_looked_at_my_haskell_code_from_5_years_ago_i/</id>
         <link href="https://www.reddit.com/r/haskell/comments/qx36r2/i_looked_at_my_haskell_code_from_5_years_ago_i/"/>
@@ -251,6 +1487,22 @@ Points: 35
         <summary type="html"><![CDATA[JUST IN - Biden's $1.8 trillion "Build Back Better" plan would add $367 billion to the U.S. deficit over ten years, CBO says.]]></summary>
         <author>
             <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Is My Mainnet Node Revealing An Empty Wallet But Explorer Shows The Correct Balance?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/qx29l1/why_is_my_mainnet_node_revealing_an_empty_wallet/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/qx29l1/why_is_my_mainnet_node_revealing_an_empty_wallet/"/>
+        <updated>2021-11-18T23:11:48.000Z</updated>
+        <summary type="html"><![CDATA[So I have a wallet on mainnet that has been funded with a few ADA @ https://explorer.cardano.org/en/transaction?id=617ba47b8e8d35a7512eb81c73b470b1aba78ed029838409313d4a127d895dd3
+ You can see from the link that the funds exist, thus they must have been written to the chain.
+ But when I query that address in cardano-cli, it is returning nothing as if the wallet is empty:
+ "--------------------------------------------------------------------------"
+ I'm unable to mint a native token without the TxHash/TxIx from that output - any idea what I'm doing wrong?
+    submitted by    /u/olginnyorganics  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
         </author>
     </entry>
     <entry>
@@ -6325,31 +7577,6 @@ As described in the announcement post, I worked on support for recent GHC versio
         <summary type="html"><![CDATA[In this article, we'll look at the overlapping instances error. We'll try to understand the many variants of it, and what the error means in each of those cases.]]></summary>
         <author>
             <name>hi+sandeepchandrika@serokell.io (Sandeep Chandrika)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Type-checking plugins, Part I: Why write a type-checking plugin?]]></title>
-        <id>https://tweag.io/blog/2021-10-21-tcplugins-1/</id>
-        <link href="https://tweag.io/blog/2021-10-21-tcplugins-1/"/>
-        <updated>2021-10-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Type-checking plugins for GHC are a powerful tool which allows users to
-inject domain-specific knowledge into GHC’s type-checker. In this
-series of posts, we will explore why you might want to write your own plugin, and how to do so.
-I: Why write a type-checking plugin?
-II: GHC’s constraint solver
-III: Writing a type-checking plugin
-In this first blog post of the series, I’ll be outlining a few
-examples that showcase some limitations in GHC’s instance resolution
-and type family reduction mechanisms. With a type-checker plugin, we
-are no longer restricted by these limitations, and can decide ourselves
-how to solve constraints and reduce type families.
-
-Instance resolution
-Recall how GHC goes about instance resolution, as per the user’s guide.
-A typeclass instance has two components:
-instanc…]]></summary>
-        <author>
-            <name>Tweag - Engineering blog</name>
         </author>
     </entry>
 </feed>
