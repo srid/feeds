@@ -369,6 +369,96 @@
       "siteUrl": "https://www.reddit.com/r/haskell/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/haskell/comments/qz7yci/odd_variable_binding_standard_with_where_blocks/",
+          "author": null,
+          "description": "Consider the following function which pulls out the elements of m with keys of the form [i,j] for some characters i and j. Can you spot the mistake?\n import Data.Map as M subTable :: Char -> M.Map String Int -> M.Map Char Int subTable i m = M.foldrWithKey maybeInsert M.empty m where maybeInsert :: String -> Int -> Row -> Row maybeInsert [i,j] v r = insert j v r maybeInsert _ _ r = r \n Indeed, the mistake is that in maybeInsert I am trying to pattern match on a previously bound variable i. But the compiler no longer recognises i as bound, and it compiles fine... but the code doesn't behave as intended. Should the compiler allow this in a where block? I would suggest it should at least include a warning. I imagine many of us have made this mistake at some point...\n For reference, my intended behaviour is achieved by \n maybeInsert [i1,j] v r | i1==i = insert j v r | otherwise = r \n    submitted by    /u/Sad_Illustrator4381  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/qz7yci/odd_variable_binding_standard_with_where_blocks/",
+          "publishedOn": "2021-11-21T23:58:28.000Z",
+          "wordCount": 302,
+          "title": "Odd variable binding standard with `where` blocks."
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/qz6fzt/is_haskell_considered_a_von_neumann_programming/",
+          "author": null,
+          "description": "im not asking strictly about this \"Many widely used programming languages such as C, C++ and Java have ceased to be strictly von Neumann by adding support for parallel processing, in the form of threads\"\n is more about the type of abstraction like all is data\n    submitted by    /u/mrnothing-  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/qz6fzt/is_haskell_considered_a_von_neumann_programming/",
+          "publishedOn": "2021-11-21T22:43:12.000Z",
+          "wordCount": 513,
+          "title": "Is haskell considered a Von Neumann programming language?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/qz56kk/automatically_migrating_eq_of_no_reasonably/",
+          "author": null,
+          "description": "submitted by    /u/isovector  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/qz56kk/automatically_migrating_eq_of_no_reasonably/",
+          "publishedOn": "2021-11-21T21:42:26.000Z",
+          "wordCount": 129,
+          "title": "Automatically Migrating Eq of No (/=) :: Reasonably Polymorphic"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/qz4ra9/denotational_homomorphic_property_testing/",
+          "author": null,
+          "description": "submitted by    /u/alexeyr  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/qz4ra9/denotational_homomorphic_property_testing/",
+          "publishedOn": "2021-11-21T21:21:53.000Z",
+          "wordCount": 112,
+          "title": "Denotational homomorphic property testing"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/qz1uo6/the_current_implementation_of_hascallstack_breaks/",
+          "author": null,
+          "description": "For example\n import GHC.Stack x :: HasCallStack => Int x = (srcLocStartLine . snd . last . getCallStack) callStack main = do print x print x print x \n results in\n 7 8 9 \n and after rewriting with a rewrite rule we take for granted:\n import GHC.Stack x :: HasCallStack => Int x = (srcLocStartLine . snd . last . getCallStack) callStack main = do let y = x print y print y print y \n outputs\n 7 7 7 \n That is to say, referential transparency is violated. There's an easy fix: change the type of callStack from\n callStack :: HasCallStack => CallStack \n to\n callStack :: HasCallStack => IO CallStack \n Observing call stacks in IO is perfectly reasonable. (So technically it's not HasCallStack that breaks referential transparency, but callStack.)\n But I can't be the first person to make this objection. It must have been made before the proposal to add HasCallStack was accepted. What was the explanation for dismissing it? I can't find the proposal in the ghc-proposals repo. Perhaps the functionality predates that repo.\n    submitted by    /u/tomejaguar  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/qz1uo6/the_current_implementation_of_hascallstack_breaks/",
+          "publishedOn": "2021-11-21T19:03:11.000Z",
+          "wordCount": 987,
+          "title": "The current implementation of HasCallStack breaks referential transparency"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/qyz7dg/migration_guide_for_eq_of_no/",
+          "author": null,
+          "description": "submitted by    /u/Bodigrim  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/qyz7dg/migration_guide_for_eq_of_no/",
+          "publishedOn": "2021-11-21T17:00:58.000Z",
+          "wordCount": 209,
+          "title": "Migration guide for Eq of no (/=)"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/qyymr6/ann_hexgrip_commercial_haskell_ide_preview/",
+          "author": null,
+          "description": "submitted by    /u/bitconnor  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/qyymr6/ann_hexgrip_commercial_haskell_ide_preview/",
+          "publishedOn": "2021-11-21T16:33:53.000Z",
+          "wordCount": 1637,
+          "title": "[ANN] Hexgrip: Commercial Haskell IDE (preview)"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/qysisn/how_to_play_with_imported_text_in_ghci/",
+          "author": null,
+          "description": "I have been playing with some text processing in Haskell, and I would like to import a text file `\"AliceInWonderland.txt\"` and see how my functions perform. However, when I try to read the file `alice = readFile \"AliceInWonderland.txt\"` I naturally encounter the obstacle that `alice` is not a `String` but rather an `IO String` on which I cannot readily apply my `functions :: String -> Whatever`, nor can I `show` their result if I lift their return value to IO (`liftedFun x = return $ functions x` can then be composed as `alice >>= liftedFun`). Aside: Is there a better way to lift a function than `liftedFun x = return $ functions x`?\n Is there a good way around this? I would like to just import the text and keep playing and testing my code, preferably without having to play laborious for every step.\n    submitted by    /u/Sad_Illustrator4381  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/qysisn/how_to_play_with_imported_text_in_ghci/",
+          "publishedOn": "2021-11-21T10:47:09.000Z",
+          "wordCount": 397,
+          "title": "How to play with imported text in GHCI"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/qyoar7/scanl_is_confusing_me_about_foldl/",
+          "author": null,
+          "description": "This is throwing me off:\n ghci > scanl ( flip (:)) [] [3 ,2 ,1] [[] ,[3] ,[2 ,3] ,[1 ,2 ,3]] \n scanl is like foldl, so isn't the first call to the lambda have 2 parameters [] and 3?\n The accumulator and x like:\n (/acc x -> x : acc) --so why is it giving [] as the first element of result? \n The [] is an intermediate accumulator in the case of scanl? So it's like foldl but slightly different?\n This definition on Hoogle for foldl:\n foldl :: Foldable t => (b -> a -> b) -> b -> t a -> b\n vs what I imagined it to be but is wrong:\n fold::(b->a->b) -> b -> [a] -> b \n t a means \"the current value of some List of type a\"?\n ​\n    submitted by    /u/webNoob13  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/qyoar7/scanl_is_confusing_me_about_foldl/",
+          "publishedOn": "2021-11-21T05:46:30.000Z",
+          "wordCount": 671,
+          "title": "scanl is confusing me about foldl"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/qyng1h/help_the_proof_assistants_stack_exchange_reach/",
+          "author": null,
+          "description": "submitted by    /u/jmite  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/qyng1h/help_the_proof_assistants_stack_exchange_reach/",
+          "publishedOn": "2021-11-21T04:53:17.000Z",
+          "wordCount": 130,
+          "title": "Help the Proof Assistants Stack Exchange reach Beta! [x-post r/dependent_types]"
+        },
+        {
           "id": "https://www.reddit.com/r/haskell/comments/qyht06/immutable_publishing_policy/",
           "author": null,
           "description": "submitted by    /u/Chrisdone2  \n [link]   [comments]",
@@ -826,6 +916,33 @@
       "siteUrl": "https://www.reddit.com/r/CardanoDevelopers/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/qz3pvq/seeking_cnft_metadata/",
+          "author": null,
+          "description": "Hello! \n I am currently trying to use Hashlips Program on Github to create my own CNFT Collection, It works amazing but sadly the only issue is that it does not create suitable Metadata for CNFT's/MakerPro. \n Does anyone know of or have anything similar that would work to fulfil this problem for me <3 Sadly I am extremely new to any sort of code and watched too many videos to count by now and i'm struggling bad to solve this problem.\n    submitted by    /u/EhFo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/qz3pvq/seeking_cnft_metadata/",
+          "publishedOn": "2021-11-21T20:31:39.000Z",
+          "wordCount": 212,
+          "title": "Seeking CNFT MetaData"
+        },
+        {
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/qyrzke/crust_cardano_node_in_rust_project_catalyst/",
+          "author": null,
+          "description": "Hi all,I would like to bring some visibility to the Project Catalyst proposal which aims to get funding to implement alternative node implementation for Cardano, alongside the Haskell reference implementation for Fund7.\n    submitted by    /u/markstopka  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/qyrzke/crust_cardano_node_in_rust_project_catalyst/",
+          "publishedOn": "2021-11-21T10:07:01.000Z",
+          "wordCount": 350,
+          "title": "[CRUST] Cardano Node in Rust (Project Catalyst)"
+        },
+        {
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/qynfa7/multisig_vs_smart_contracts/",
+          "author": null,
+          "description": "submitted by    /u/jfischoff  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/qynfa7/multisig_vs_smart_contracts/",
+          "publishedOn": "2021-11-21T04:51:52.000Z",
+          "wordCount": 101,
+          "title": "Multisig vs Smart Contracts"
+        },
+        {
           "id": "https://www.reddit.com/r/CardanoDevelopers/comments/qxt1qo/native_tokens_few_questions/",
           "author": null,
           "description": "Hello guys. im new to cardano and i started researching more and more. Im a elixir and go developer and i have some project in mind. lets get to point. I want my project to be as a platform that has currency in it. in form of cardano token. I played around with cli and it seems so much straigh forward than eth. i have few questions.\n • How do i calculate worth of my token • Is it even possible to use token as a currency? • Once i create a token, is there a way to add more tokens to a pool?\n Please keep in mind, im still new to this stuff. i know the basics. please explain to me like im a child :)\n    submitted by    /u/inetjojo69  \n [link]   [comments]",
@@ -1012,6 +1129,231 @@
       "feedUrl": "https://www.reddit.com/r/cardano/top/.rss?sort=top&t=day",
       "siteUrl": "https://www.reddit.com/r/cardano/top/?sort=top&t=day",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qz7hnh/cardano_appears_to_be_at_94_network_capacity/",
+          "author": null,
+          "description": "submitted by    /u/zerosdontcount  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qz7hnh/cardano_appears_to_be_at_94_network_capacity/",
+          "publishedOn": "2021-11-21T23:34:37.000Z",
+          "wordCount": 587,
+          "title": "Cardano appears to be at 94% network capacity, thoughts?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qz2js1/how_much_will_staking_rewards_decay_each_year/",
+          "author": null,
+          "description": "Hello,\n I am working on some data visualization and I was wondering, how much are staking rewards expected to decline per year ?\n Is it 5% ? Thank you, I looked but couldn't find an estimate.\n So right now its APY 4.5-5% but next year, we can expect a little decline to around 4.275-4.75% ?\n I also read that \"fees\" will come in and help pay rewards in the future, will this mitigate the natural decay of reserve ?\n    submitted by    /u/TheWavefunction  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qz2js1/how_much_will_staking_rewards_decay_each_year/",
+          "publishedOn": "2021-11-21T19:36:09.000Z",
+          "wordCount": 546,
+          "title": "How much will staking rewards decay each year."
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qz1py9/wow_my_daughter_is_so_smart/",
+          "author": null,
+          "description": "submitted by    /u/Sprucey26  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qz1py9/wow_my_daughter_is_so_smart/",
+          "publishedOn": "2021-11-21T18:57:34.000Z",
+          "wordCount": 403,
+          "title": "Wow, my daughter is so smart"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qz16pz/surprise_ama_11212021/",
+          "author": null,
+          "description": "submitted by    /u/BlackFlower9  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qz16pz/surprise_ama_11212021/",
+          "publishedOn": "2021-11-21T18:32:14.000Z",
+          "wordCount": 1266,
+          "title": "Surprise AMA 11/21/2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qz0t9k/request_for_feedback_on_catalyst_proposal/",
+          "author": null,
+          "description": "submitted by    /u/GLASS_Protocol  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qz0t9k/request_for_feedback_on_catalyst_proposal/",
+          "publishedOn": "2021-11-21T18:14:51.000Z",
+          "wordCount": 217,
+          "title": "Request for feedback on Catalyst Proposal"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qz04sg/getting_hired_by_iohk/",
+          "author": null,
+          "description": "I'm a software developer, and I used to work in TradFi before I got sick of how bad it was/is for the world, and left to find a new job. I'm in the application phase now, but it's my absolute dream to get hired by IOHK; I also have a compilers background, so I have plenty of experience with languages like Haskell and Rust.\n Anyone know about any Cardano companies that are hiring for this kinda work?\n    submitted by    /u/tldrthestoryofmylife  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qz04sg/getting_hired_by_iohk/",
+          "publishedOn": "2021-11-21T17:43:48.000Z",
+          "wordCount": 414,
+          "title": "Getting hired by IOHK"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qz01e7/mainnet_daedalus_wallet_not_working_since_541/",
+          "author": null,
+          "description": "submitted by    /u/Myl0high  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qz01e7/mainnet_daedalus_wallet_not_working_since_541/",
+          "publishedOn": "2021-11-21T17:39:22.000Z",
+          "wordCount": 404,
+          "title": "Mainnet Daedalus wallet not working since 5.4.1 update. Anyone else?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qyzcpp/question_regarding_payments/",
+          "author": null,
+          "description": "Hey all!\n I have a shop in Athens, Greece. I am considering to accept Cardano as a method of payment for my products.\n Does anyone know how I can make such thing possible?\n    submitted by    /u/Iscadarin  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qyzcpp/question_regarding_payments/",
+          "publishedOn": "2021-11-21T17:07:48.000Z",
+          "wordCount": 417,
+          "title": "Question regarding payments"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qyy2uj/vote_for_cardano/",
+          "author": null,
+          "description": "submitted by    /u/Royal-Orange752  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qyy2uj/vote_for_cardano/",
+          "publishedOn": "2021-11-21T16:07:08.000Z",
+          "wordCount": 210,
+          "title": "Vote for Cardano"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qyw7mf/what_can_a_normal_person_without_much_money_or/",
+          "author": null,
+          "description": "I’m very passionate about the project, and badly want to contribute to this ecosystem. I have time, but am somewhat short on expertise and applicable skills, so while I want to contribute somehow, I don’t see any route to doing so besides applying for a new CS/STEM degree, and focusing on that for half a decade. I’d prefer to start getting my paws dirty now, and use that time in a more directed way. That’s not to say I’m not looking for advice about relevant education to acquire, but rather that I’d prefer to choose some kind of activity which doesn’t have a mountain of prerequisite knowledge blocking it. What does Cardano’s decentralized brain need right now?\n Thanks in advance for any thoughts on this.\n    submitted by    /u/Dovala  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qyw7mf/what_can_a_normal_person_without_much_money_or/",
+          "publishedOn": "2021-11-21T14:34:27.000Z",
+          "wordCount": 1442,
+          "title": "What can a normal person without much money or sophisticated knowledge in programming/computing do to contribute to the future being built on and via Cardano?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qyw6it/the_next_big_metaverse_game_on_cardano/",
+          "author": null,
+          "description": "submitted by    /u/KyllingFrokost  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qyw6it/the_next_big_metaverse_game_on_cardano/",
+          "publishedOn": "2021-11-21T14:32:53.000Z",
+          "wordCount": 224,
+          "title": "The Next big Metaverse Game on Cardano?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qyvsjj/we_are_getting_closer_cardano_voting_for_listing/",
+          "author": null,
+          "description": "A kind reminder to vote for Cardano EVERY DAY. We are doing great already but we are behind TRON 32% vs 37% only 5% behind !\n BitPlay listing of ADA will boost the price and provide more visibility. \n https://mobile.twitter.com/bitpay/status/1458977852230180868\n    submitted by    /u/makaros622  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qyvsjj/we_are_getting_closer_cardano_voting_for_listing/",
+          "publishedOn": "2021-11-21T14:13:00.000Z",
+          "wordCount": 420,
+          "title": "We are getting closer: Cardano voting for listing to BitPlay (ADA went to 32% from 29%, TRON from 39% to 37%) - LETS DO IT"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qyvpzt/i_made_a_free_crypto_education_site_all_the_info/",
+          "author": null,
+          "description": "submitted by    /u/ClarityinCrypto  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qyvpzt/i_made_a_free_crypto_education_site_all_the_info/",
+          "publishedOn": "2021-11-21T14:09:19.000Z",
+          "wordCount": 527,
+          "title": "I made a free crypto education site! 🙂 All the info I wish I knew when I started, in one place. ADA is my top holding, so lots of Cardano stuff, but also the broader picture of what’s happening, and how to be successful in crypto. Feel free to use/share! (Especially newer Cardanians) 😊"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qyvdgp/list_of_small_pools_to_support_decentralisation/",
+          "author": null,
+          "description": "Is there a way to know whether a stake pool is owned by big entities like binance? I want to avoid staking into these kind of pools. Even better if there is such a website that lists small stake pools or marks them so that it is easier for us to stake on them.\n    submitted by    /u/EntrepreneurBoth1158  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qyvdgp/list_of_small_pools_to_support_decentralisation/",
+          "publishedOn": "2021-11-21T13:50:31.000Z",
+          "wordCount": 374,
+          "title": "List of small pools to support decentralisation"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qyvajd/bitpay_poll_we_are_gaining_on_the_tron_botslfg/",
+          "author": null,
+          "description": "submitted by    /u/brittmat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qyvajd/bitpay_poll_we_are_gaining_on_the_tron_botslfg/",
+          "publishedOn": "2021-11-21T13:46:00.000Z",
+          "wordCount": 479,
+          "title": "Bitpay Poll: We are gaining on the Tron bots…LFG!!! Vote. Everyday."
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qyqutz/participate_in_community_governance_by_voting_in/",
+          "author": null,
+          "description": "submitted by    /u/Nemesis916  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qyqutz/participate_in_community_governance_by_voting_in/",
+          "publishedOn": "2021-11-21T08:44:24.000Z",
+          "wordCount": 286,
+          "title": "Participate in Community Governance by Voting in Project Catalyst Fund7"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qyql1z/cardano_set_to_get_listed_on_europes_largest/",
+          "author": null,
+          "description": "BITPLAY IS NEXT\n VOTE NOW EVERY DAY HERE\n WE ARE 7% BEHIND THE LEADING COIN\n https://mobile.twitter.com/bitpay/status/1458977852230180868\n UPDATE 21.11.2021:\n We are 5% behind!!\n UPDATE 2 21.11.2021:\n Amazing! We are now only 3% behind!!\n    submitted by    /u/makaros622  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qyql1z/cardano_set_to_get_listed_on_europes_largest/",
+          "publishedOn": "2021-11-21T08:24:26.000Z",
+          "wordCount": 497,
+          "title": "Cardano Set To Get Listed on Europe’s Largest Crypto Exchange ! BITPLAY is NEXT"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qyqi37/7_behind_the_1st_vote_now_for_ada_i_just_did/",
+          "author": null,
+          "description": "submitted by    /u/makaros622  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qyqi37/7_behind_the_1st_vote_now_for_ada_i_just_did/",
+          "publishedOn": "2021-11-21T08:18:12.000Z",
+          "wordCount": 284,
+          "title": "7% BEHIND THE 1ST - VOTE NOW FOR ADA - I JUST DID"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qyprpc/bit_of_fun_show_your_cardano_pride_and_add_a_to/",
+          "author": null,
+          "description": "For those that have a letter A to replace with ₳ in your Twitter username or name, please do. \n Show that you support Cardano and your a part of the ₳da ₳rmy!\n Many have had this in your usernames or Twitter profiles already. Just need the rest of us!\n    submitted by    /u/astroboysoup  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qyprpc/bit_of_fun_show_your_cardano_pride_and_add_a_to/",
+          "publishedOn": "2021-11-21T07:25:25.000Z",
+          "wordCount": 322,
+          "title": "Bit of fun. Show your Cardano pride and add a ₳ to your Twitter name."
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qyoz0n/cardano_daily_discussion_questions_market_thread/",
+          "author": null,
+          "description": "Hello everyone,\n Welcome to the Cardano Daily Discussion - Questions & Market Thread!\n The standard sub rules apply here (see sidebar), with the exception that price discussion is allowed in this thread.\n Cardano Newbies Guide\n https://preview.redd.it/5wwnmsjuckx71.jpg?width=1538&format=pjpg&auto=webp&s=50259c3dbcc8a28be5b4380abe9a6f985ad97c7e\n 🎓 If you're looking for the newbies guide click here! 🎓\n (newbies guide temporarily unpinned while questions are gathered for the fireside chat).\n ​\n NFTs for Planting Trees\n https://preview.redd.it/d9l75zowckx71.jpg?width=1600&format=pjpg&auto=webp&s=9a13a91cb371dce5d318b96dea2692dad9348b21\n You can donate ADA and receive NFTs for doing so, each ADA is a tree planted, it's a win win! Read about veritree here and take part on https://ito.veritree.…",
+          "link": "https://www.reddit.com/r/cardano/comments/qyoz0n/cardano_daily_discussion_questions_market_thread/",
+          "publishedOn": "2021-11-21T06:30:21.000Z",
+          "wordCount": 1027,
+          "title": "Cardano Daily Discussion - Questions & Market Thread - November 21, 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qyopuk/charles_is_getting_spicy/",
+          "author": null,
+          "description": "submitted by    /u/TheTurboToad  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qyopuk/charles_is_getting_spicy/",
+          "publishedOn": "2021-11-21T06:13:23.000Z",
+          "wordCount": 425,
+          "title": "Charles is getting spicy"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qyn09y/were_gonna_win_as_an_ecosystem_as_a_movement/",
+          "author": null,
+          "description": "submitted by    /u/ADA4DPeople  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qyn09y/were_gonna_win_as_an_ecosystem_as_a_movement/",
+          "publishedOn": "2021-11-21T04:26:16.000Z",
+          "wordCount": 705,
+          "title": "\"We're gonna win, as an ecosystem, as a movement\" - Charles Hoskinson"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qymmgk/what_are_some_of_the_cool_things_you_all_are/",
+          "author": null,
+          "description": "I have a decent amount staked but I'm trying to see what else I can do with it.\n    submitted by    /u/Failbot-2  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qymmgk/what_are_some_of_the_cool_things_you_all_are/",
+          "publishedOn": "2021-11-21T04:03:17.000Z",
+          "wordCount": 533,
+          "title": "What are some of the cool things you all are doing with your ada at the moment?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qyjjwm/new_to_ada_make_sure_you_register_for_voting/",
+          "author": null,
+          "description": "Reminder that registration to vote for Fund7 is now live. There’s a guide on how to register here. \n Just make sure you hold more than 500 ADA in your wallet to register to vote. Registration must be completed before January 6, 2022. \n Looking forward to voting on some great proposals!\n    submitted by    /u/002timmy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qyjjwm/new_to_ada_make_sure_you_register_for_voting/",
+          "publishedOn": "2021-11-21T01:10:36.000Z",
+          "wordCount": 642,
+          "title": "New to ADA? Make sure you register for voting"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/qyjeog/can_you_see_the_opportunities/",
+          "author": null,
+          "description": "submitted by    /u/ArtWalkers  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/qyjeog/can_you_see_the_opportunities/",
+          "publishedOn": "2021-11-21T01:02:50.000Z",
+          "wordCount": 431,
+          "title": "can you see the opportunities?"
+        },
         {
           "id": "https://www.reddit.com/r/cardano/comments/qyh5ae/we_should_be_really_pushing_and_spreading_the_ada/",
           "author": null,
@@ -2559,6 +2901,33 @@
       "siteUrl": "https://www.reddit.com/r/redscarepod/top/?sort=top&t=day&limit=3",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redscarepod/comments/qz11e1/is_inviting_someone_to_hang_out_that_weird/",
+          "author": null,
+          "description": "submitted by    /u/Otocolobus_manul8  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/qz11e1/is_inviting_someone_to_hang_out_that_weird/",
+          "publishedOn": "2021-11-21T18:25:19.000Z",
+          "wordCount": 519,
+          "title": "Is inviting someone to hang out that weird?"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/qyjt7m/theres_only_one_way_to_solve_americas_political/",
+          "author": null,
+          "description": "Two celebrity killers enter, one celebrity killer leaves. Whichever side wins gets the Presidency for the next four years.\n    submitted by    /u/sisterrayrobinson  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/qyjt7m/theres_only_one_way_to_solve_americas_political/",
+          "publishedOn": "2021-11-21T01:25:29.000Z",
+          "wordCount": 466,
+          "title": "There’s only one way to solve America’s political divide: a shootout between Kyle Rittenhouse and Alec Baldwin"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/qyj84f/avg_rs_laborer/",
+          "author": null,
+          "description": "submitted by    /u/SadZoomerSelfie  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/qyj84f/avg_rs_laborer/",
+          "publishedOn": "2021-11-21T00:52:57.000Z",
+          "wordCount": 674,
+          "title": "avg rs laborer"
+        },
+        {
           "id": "https://www.reddit.com/r/redscarepod/comments/qy8mho/get_mike_tyson_on_the_pod/",
           "author": null,
           "description": "submitted by    /u/swankygoos  \n [link]   [comments]",
@@ -2754,6 +3123,60 @@
       "feedUrl": "https://rsshub.app/github/trending/daily/haskell",
       "siteUrl": "https://github.com/trending/haskell?since=daily",
       "articles": [
+        {
+          "id": "https://github.com/xmonad/xmonad-contrib",
+          "author": "xmonad",
+          "description": "Contributed modules for xmonad\n    \nLanguage: Haskell\n                            \nStar: 427\n                            \nFork: 239",
+          "link": "https://github.com/xmonad/xmonad-contrib",
+          "publishedOn": "2021-11-22T00:51:33.046Z",
+          "wordCount": 554,
+          "title": "xmonad /\n\n      xmonad-contrib"
+        },
+        {
+          "id": "https://github.com/digital-asset/ghc-lib",
+          "author": "digital-asset",
+          "description": "The GHC API, decoupled from GHC versions\n    \nLanguage: Haskell\n                            \nStar: 136\n                            \nFork: 9",
+          "link": "https://github.com/digital-asset/ghc-lib",
+          "publishedOn": "2021-11-22T00:51:32.665Z",
+          "wordCount": 1558,
+          "title": "digital-asset /\n\n      ghc-lib"
+        },
+        {
+          "id": "https://github.com/obsidiansystems/rhyolite",
+          "author": "obsidiansystems",
+          "description": "Language: Haskell\n                            \nStar: 17\n                            \nFork: 14",
+          "link": "https://github.com/obsidiansystems/rhyolite",
+          "publishedOn": "2021-11-22T00:51:32.469Z",
+          "wordCount": 591,
+          "title": "obsidiansystems /\n\n      rhyolite"
+        },
+        {
+          "id": "https://github.com/digital-asset/ex-bond-issuance",
+          "author": "digital-asset",
+          "description": "Reference DAML application demonstrating a bond issuance use case.\n    \nLanguage: Haskell\n                            \nStar: 14\n                            \nFork: 6",
+          "link": "https://github.com/digital-asset/ex-bond-issuance",
+          "publishedOn": "2021-11-22T00:51:32.424Z",
+          "wordCount": 2649,
+          "title": "digital-asset /\n\n      ex-bond-issuance"
+        },
+        {
+          "id": "https://github.com/digital-asset/ex-healthcare-claims-processing",
+          "author": "digital-asset",
+          "description": "Reference DAML application demonstrating a healthcare use case.\n    \nLanguage: Haskell\n                            \nStar: 22\n                            \nFork: 14",
+          "link": "https://github.com/digital-asset/ex-healthcare-claims-processing",
+          "publishedOn": "2021-11-22T00:51:32.360Z",
+          "wordCount": 1868,
+          "title": "digital-asset /\n\n      ex-healthcare-claims-processing"
+        },
+        {
+          "id": "https://github.com/reach-sh/reach-lang",
+          "author": "reach-sh",
+          "description": "Reach: The Safest and Easiest DApp Programming Language\n    \nLanguage: Haskell\n                            \nStar: 228\n                            \nFork: 69",
+          "link": "https://github.com/reach-sh/reach-lang",
+          "publishedOn": "2021-11-22T00:51:32.274Z",
+          "wordCount": 791,
+          "title": "reach-sh /\n\n      reach-lang"
+        },
         {
           "id": "https://github.com/input-output-hk/iohk-monitoring-framework",
           "author": "input-output-hk",
@@ -3535,6 +3958,186 @@
       "feedUrl": "https://hnrss.org/frontpage",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=29301159",
+          "author": "BerislavLopac",
+          "description": "Article URL: https://www.lse.ac.uk/News/Latest-news-from-LSE/2021/k-November-21/Octopuses-crabs-and-lobsters-welfare-protection\nComments URL: https://news.ycombinator.com/item?id=29301159\nPoints: 5\n# Comments: 0",
+          "link": "https://www.lse.ac.uk/News/Latest-news-from-LSE/2021/k-November-21/Octopuses-crabs-and-lobsters-welfare-protection",
+          "publishedOn": "2021-11-22T00:13:57.000Z",
+          "wordCount": 703,
+          "title": "Octopuses, crabs and lobsters to be recognised as sentient beings under UK law"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29301008",
+          "author": "jger15",
+          "description": "Article URL: https://jessicahagy.substack.com/p/the-many-gifts-of-awkward-silence\nComments URL: https://news.ycombinator.com/item?id=29301008\nPoints: 35\n# Comments: 6",
+          "link": "https://jessicahagy.substack.com/p/the-many-gifts-of-awkward-silence",
+          "publishedOn": "2021-11-21T23:53:10.000Z",
+          "wordCount": 770,
+          "title": "The many gifts of awkward SILENCE"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29300973",
+          "author": "kevinday",
+          "description": "Article URL: https://www.acepace.net/2019-07-27-xlatb/\nComments URL: https://news.ycombinator.com/item?id=29300973\nPoints: 16\n# Comments: 1",
+          "link": "https://www.acepace.net/2019-07-27-xlatb/",
+          "publishedOn": "2021-11-21T23:48:33.000Z",
+          "wordCount": 1711,
+          "title": "I got nerd sniped into benchmarking legacy x86 instructions (2019)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29300881",
+          "author": "sohkamyung",
+          "description": "Article URL: https://spectrum.ieee.org/artificial-pancreas-could-conquer-diabetes/particle-2\nComments URL: https://news.ycombinator.com/item?id=29300881\nPoints: 8\n# Comments: 1",
+          "link": "https://spectrum.ieee.org/artificial-pancreas-could-conquer-diabetes/particle-2",
+          "publishedOn": "2021-11-21T23:33:20.000Z",
+          "wordCount": 5595,
+          "title": "Smart Artificial Pancreas Could Conquer Diabetes"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29300446",
+          "author": "fpert",
+          "description": "Article URL: https://blog.francescoperticarari.com/wework-and-adam-neumann-scam-or-genius-5-lessons-learned-from-their-raise-and-fall\nComments URL: https://news.ycombinator.com/item?id=29300446\nPoints: 18\n# Comments: 5",
+          "link": "https://blog.francescoperticarari.com/wework-and-adam-neumann-scam-or-genius-5-lessons-learned-from-their-raise-and-fall",
+          "publishedOn": "2021-11-21T22:33:27.000Z",
+          "wordCount": 3305,
+          "title": "WeWork and Adam Neumann: Scam or Genius? 5 Lessons Learned"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29299986",
+          "author": "whoisnnamdi",
+          "description": "Article URL: https://byrnehobart.medium.com/writing-is-networking-for-introverts-5cac14ad4c77\nComments URL: https://news.ycombinator.com/item?id=29299986\nPoints: 120\n# Comments: 36",
+          "link": "https://byrnehobart.medium.com/writing-is-networking-for-introverts-5cac14ad4c77",
+          "publishedOn": "2021-11-21T21:36:22.000Z",
+          "wordCount": 123,
+          "title": "Writing Is Networking for Introverts"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29299960",
+          "author": "traverseda",
+          "description": "Article URL: http://www.i-domehouse.com/about_dome_house/\nComments URL: https://news.ycombinator.com/item?id=29299960\nPoints: 64\n# Comments: 48",
+          "link": "http://www.i-domehouse.com/about_dome_house/",
+          "publishedOn": "2021-11-21T21:33:22.000Z",
+          "wordCount": 328,
+          "title": "Japanese Dome House"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29299746",
+          "author": "RageoftheRobots",
+          "description": "Article URL: https://onezero.medium.com/get-ready-for-the-kessler-syndrome-to-wreck-outer-space-7f29cfe62c3e\nComments URL: https://news.ycombinator.com/item?id=29299746\nPoints: 68\n# Comments: 39",
+          "link": "https://onezero.medium.com/get-ready-for-the-kessler-syndrome-to-wreck-outer-space-7f29cfe62c3e",
+          "publishedOn": "2021-11-21T21:09:57.000Z",
+          "wordCount": 100,
+          "title": "The Kessler Syndrome: Space junk in orbit"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29299686",
+          "author": "firebaze",
+          "description": "Article URL: http://backreaction.blogspot.com/2021/11/the-3-best-explanations-for-havana.html\nComments URL: https://news.ycombinator.com/item?id=29299686\nPoints: 44\n# Comments: 16",
+          "link": "http://backreaction.blogspot.com/2021/11/the-3-best-explanations-for-havana.html",
+          "publishedOn": "2021-11-21T21:02:36.000Z",
+          "wordCount": 3075,
+          "title": "Explanations for the Havana Syndrome"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29299671",
+          "author": "ankitvgupta",
+          "description": "Article URL: https://jobs.lever.co/reverielabs/a9d925c7-25cf-47b0-992d-bf75dc67581a\nComments URL: https://news.ycombinator.com/item?id=29299671\nPoints: 1\n# Comments: 0",
+          "link": "https://jobs.lever.co/reverielabs/a9d925c7-25cf-47b0-992d-bf75dc67581a",
+          "publishedOn": "2021-11-21T21:00:21.000Z",
+          "wordCount": 417,
+          "title": "Reverie Labs (YC W18) Is Hiring Data Scientists in Boston (Reverielabs.com)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29299593",
+          "author": "ctoth",
+          "description": "Article URL: https://news.ycombinator.com/item?id=1003052\nComments URL: https://news.ycombinator.com/item?id=29299593\nPoints: 41\n# Comments: 21",
+          "link": "https://news.ycombinator.com/item?id=1003052",
+          "publishedOn": "2021-11-21T20:51:49.000Z",
+          "wordCount": 6751,
+          "title": "Thoughts on “E-Readers” (2009)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29299210",
+          "author": "xrudelis",
+          "description": "Article URL: https://github.com/xrudelis/pytrait\nComments URL: https://news.ycombinator.com/item?id=29299210\nPoints: 31\n# Comments: 15",
+          "link": "https://github.com/xrudelis/pytrait",
+          "publishedOn": "2021-11-21T20:03:51.000Z",
+          "wordCount": 956,
+          "title": "Show HN: Rust-Like Traits in Python"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29299140",
+          "author": "shepherdjerred",
+          "description": "Article URL: https://bartoszmilewski.com/2021/02/16/functorio/\nComments URL: https://news.ycombinator.com/item?id=29299140\nPoints: 178\n# Comments: 40",
+          "link": "https://bartoszmilewski.com/2021/02/16/functorio/",
+          "publishedOn": "2021-11-21T19:55:35.000Z",
+          "wordCount": 5095,
+          "title": "Functorio"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29299094",
+          "author": "isaacimagine",
+          "description": "Article URL: https://graydon2.dreamwidth.org/253769.html#cutid1\nComments URL: https://news.ycombinator.com/item?id=29299094\nPoints: 90\n# Comments: 37",
+          "link": "https://graydon2.dreamwidth.org/253769.html#cutid1",
+          "publishedOn": "2021-11-21T19:48:50.000Z",
+          "wordCount": 4893,
+          "title": "What's next for language design? (2017)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29299036",
+          "author": "apsec112",
+          "description": "Article URL: https://moultano.wordpress.com/2021/08/23/doorways/\nComments URL: https://news.ycombinator.com/item?id=29299036\nPoints: 28\n# Comments: 3",
+          "link": "https://moultano.wordpress.com/2021/08/23/doorways/",
+          "publishedOn": "2021-11-21T19:42:28.000Z",
+          "wordCount": 4422,
+          "title": "There are infinite worlds to explore"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29298017",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://cj.rs//blog/git-ls-files-is-faster-than-fd-and-find/\nComments URL: https://news.ycombinator.com/item?id=29298017\nPoints: 106\n# Comments: 54",
+          "link": "https://cj.rs//blog/git-ls-files-is-faster-than-fd-and-find/",
+          "publishedOn": "2021-11-21T17:33:39.000Z",
+          "wordCount": 2204,
+          "title": "Git ls-files is Faster Than Fd and Find"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29297594",
+          "author": "DerekBickerton",
+          "description": "I use this mental model called 'Play to your strengths'. It's more a saying than a model, but a model nonetheless. Anyways it has helped me build great things, since I can only ever build on strength. I fix my weaknesses where I can, but I don't pay my weaknesses too much attention.\nThere's this whole cult about 'fixing' yourself, and seminars galore by 'successful people' who want you to mimic their behaviors so you can be 'successful' too, so I avoid this groupthink.\nWhat other little sayings do you repeat to yourself or what other mental models do you employ daily?\nComments URL: https://news.ycombinator.com/item?id=29297594\nPoints: 169\n# Comments: 135",
+          "link": "https://news.ycombinator.com/item?id=29297594",
+          "publishedOn": "2021-11-21T16:43:35.000Z",
+          "wordCount": 9453,
+          "title": "Ask HN: What mental models do you use everyday?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29297507",
+          "author": "DerekBickerton",
+          "description": "Article URL: https://danielkeep.github.io/tlborm/book/README.html\nComments URL: https://news.ycombinator.com/item?id=29297507\nPoints: 148\n# Comments: 20",
+          "link": "https://danielkeep.github.io/tlborm/book/README.html",
+          "publishedOn": "2021-11-21T16:34:51.000Z",
+          "wordCount": 191,
+          "title": "The Little Book of Rust Macros"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29296713",
+          "author": "hezedu",
+          "description": "Article URL: https://hezedu.github.io/history-navigation-vue/\nComments URL: https://news.ycombinator.com/item?id=29296713\nPoints: 105\n# Comments: 61",
+          "link": "https://hezedu.github.io/history-navigation-vue/",
+          "publishedOn": "2021-11-21T15:15:36.000Z",
+          "wordCount": 100,
+          "title": "Native-like Navigation of Web apps"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29296479",
+          "author": "kiyanwang",
+          "description": "Article URL: https://increment.com/planning/reframing-tech-debt/\nComments URL: https://news.ycombinator.com/item?id=29296479\nPoints: 31\n# Comments: 22",
+          "link": "https://increment.com/planning/reframing-tech-debt/",
+          "publishedOn": "2021-11-21T14:43:10.000Z",
+          "wordCount": 1794,
+          "title": "Reframing Tech Debt"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=29292918",
           "author": "littlecosmic",
@@ -4802,6 +5405,60 @@
       "feedUrl": "https://nitter.net/disclosetv/rss",
       "siteUrl": "https://nitter.net/disclosetv",
       "articles": [
+        {
+          "id": "https://nitter.net/disclosetv/status/1462580629036544001#m",
+          "author": "@disclosetv",
+          "description": "NOW - Terrifying video of the moment a red SUV plowed through the first group during the Waukesha Holiday Parade. There is another video of at least one other group of young girls being hit.\n\n🛑 WARNING: Graphic footage",
+          "link": "https://nitter.net/disclosetv/status/1462580629036544001#m",
+          "publishedOn": "2021-11-22T00:36:10.000Z",
+          "wordCount": 423,
+          "title": "R to @disclosetv: NOW - Terrifying video of the moment a red SUV plowed through the first group during the Waukesha Holiday Parade. There is another video of at least one other group of young girls being hit.\n\n🛑 WARNING: Graphic footage"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1462570495380013058#m",
+          "author": "@disclosetv",
+          "description": "UPDATE - SUV plowed through a marching band. The car did not slow and appeared to try to hit as many as possible, per witness video seen by CBS58.",
+          "link": "https://nitter.net/disclosetv/status/1462570495380013058#m",
+          "publishedOn": "2021-11-21T23:55:54.000Z",
+          "wordCount": 440,
+          "title": "R to @disclosetv: UPDATE - SUV plowed through a marching band. The car did not slow and appeared to try to hit as many as possible, per witness video seen by CBS58."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1462562447269715969#m",
+          "author": "@disclosetv",
+          "description": "UPDATE - This was recorded from the City of Waukesha’s Facebook account, which was streaming the parade when a car broke through the police line and plowed through the Christmas parade.",
+          "link": "https://nitter.net/disclosetv/status/1462562447269715969#m",
+          "publishedOn": "2021-11-21T23:23:55.000Z",
+          "wordCount": 370,
+          "title": "R to @disclosetv: UPDATE - This was recorded from the City of Waukesha’s Facebook account, which was streaming the parade when a car broke through the police line and plowed through the Christmas parade."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1462560193129201673#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Car plowed through the Christmas parade in Waukesha, Wisconsin. Multiple people on the ground injured, reports of shots fired. Triage strike team deployed, per police scanner.",
+          "link": "https://nitter.net/disclosetv/status/1462560193129201673#m",
+          "publishedOn": "2021-11-21T23:14:57.000Z",
+          "wordCount": 298,
+          "title": "JUST IN - Car plowed through the Christmas parade in Waukesha, Wisconsin. Multiple people on the ground injured, reports of shots fired. Triage strike team deployed, per police scanner."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1462422587938643974#m",
+          "author": "@disclosetv",
+          "description": "Hunter Biden's firm helped secure China's dominance over the precious metal cobalt, which is one of the key components of the batteries used for electric vehicles.\n\ndailymail.co.uk/news/article…",
+          "link": "https://nitter.net/disclosetv/status/1462422587938643974#m",
+          "publishedOn": "2021-11-21T14:08:10.000Z",
+          "wordCount": 343,
+          "title": "R to @disclosetv: Hunter Biden's firm helped secure China's dominance over the precious metal cobalt, which is one of the key components of the batteries used for electric vehicles.\n\nhttps://www.dailymail.co.uk/news/article-10226309/Hunter-Biden-firm-helped-Chinese-company-purchase-one-worlds-largest-cobalt-mines.html"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1462421854019325956#m",
+          "author": "@disclosetv",
+          "description": "NEW - Hunter Biden's firm helped Chinese conglomerate buy American-owned cobalt mine in $3.8 billion deal: Purchase helped China company gain world's largest deposit of precious metal used to make batteries for electric vehicles (Daily)",
+          "link": "https://nitter.net/disclosetv/status/1462421854019325956#m",
+          "publishedOn": "2021-11-21T14:05:15.000Z",
+          "wordCount": 359,
+          "title": "NEW - Hunter Biden's firm helped Chinese conglomerate buy American-owned cobalt mine in $3.8 billion deal: Purchase helped China company gain world's largest deposit of precious metal used to make batteries for electric vehicles (Daily)"
+        },
         {
           "id": "https://nitter.net/disclosetv/status/1462206908639633415#m",
           "author": "@disclosetv",
