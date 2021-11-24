@@ -2,10 +2,948 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://srid.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-23T00:50:55.046Z</updated>
+    <updated>2021-11-24T00:50:35.212Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://srid.github.io/feeds/index.html"/>
     <link rel="self" href="https://srid.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[carp-lang /
+
+      Carp]]></title>
+        <id>https://github.com/carp-lang/Carp</id>
+        <link href="https://github.com/carp-lang/Carp"/>
+        <updated>2021-11-24T00:50:34.718Z</updated>
+        <summary type="html"><![CDATA[A statically typed lisp, without a GC, for real-time applications.
+    
+Language: Haskell
+                            
+Star: 4,366
+                            
+Fork: 153]]></summary>
+        <author>
+            <name>carp-lang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      cardano-sl]]></title>
+        <id>https://github.com/input-output-hk/cardano-sl</id>
+        <link href="https://github.com/input-output-hk/cardano-sl"/>
+        <updated>2021-11-24T00:50:34.669Z</updated>
+        <summary type="html"><![CDATA[Cryptographic currency implementing Ouroboros PoS protocol
+    
+Language: Haskell
+                            
+Star: 3,712
+                            
+Fork: 619]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[codecurve /
+
+      FieldML-Haskell-01]]></title>
+        <id>https://github.com/codecurve/FieldML-Haskell-01</id>
+        <link href="https://github.com/codecurve/FieldML-Haskell-01"/>
+        <updated>2021-11-24T00:50:34.595Z</updated>
+        <summary type="html"><![CDATA[A prototype for a future version of FieldML
+    
+Language: Haskell
+                            
+Star: 1
+                            
+Fork: 1]]></summary>
+        <author>
+            <name>codecurve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - 6th person, 8-year-old Jackson Sparks, dies from injuries in the Waukesha Christmas parade rampage.
+
+https://cbs58.com/news/8-year-old-boy-dies-from-injuries-in-waukesha-holiday-parade-tragedy/]]></title>
+        <id>https://nitter.net/disclosetv/status/1463279635861540864#m</id>
+        <link href="https://nitter.net/disclosetv/status/1463279635861540864#m"/>
+        <updated>2021-11-23T22:53:46.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - 6th person, 8-year-old Jackson Sparks, dies from injuries in the Waukesha Christmas parade rampage.
+
+cbs58.com/news/8-year-old-bo…]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[California moves to recommend delaying algebra to 9th grade statewide]]></title>
+        <id>https://news.ycombinator.com/item?id=29324551</id>
+        <link href="https://sfstandard.com/controversy-rages-as-california-follows-sfs-lead-with-new-approach-to-teaching-math/"/>
+        <updated>2021-11-23T22:50:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sfstandard.com/controversy-rages-as-california-follows-sfs-lead-with-new-approach-to-teaching-math/
+Comments URL: https://news.ycombinator.com/item?id=29324551
+Points: 153
+# Comments: 284]]></summary>
+        <author>
+            <name>moultano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @disclosetv: UPDATE - 6th person, a child, has died in the deadly Wisconsin Christmas parade rampage.]]></title>
+        <id>https://nitter.net/disclosetv/status/1463277467670614026#m</id>
+        <link href="https://nitter.net/disclosetv/status/1463277467670614026#m"/>
+        <updated>2021-11-23T22:45:09.000Z</updated>
+        <summary type="html"><![CDATA[UPDATE - 6th person, a child, has died in the deadly Wisconsin Christmas parade rampage.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - $5 million cash bail for Darrell Brook, charged with 5 counts of first-degree intentional homicide, granted.]]></title>
+        <id>https://nitter.net/disclosetv/status/1463275231993376773#m</id>
+        <link href="https://nitter.net/disclosetv/status/1463275231993376773#m"/>
+        <updated>2021-11-23T22:36:16.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - $5 million cash bail for Darrell Brook, charged with 5 counts of first-degree intentional homicide, granted.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoDaddy Breach Widens to TsoHost, Media Temple, 123Reg, Domain Factory and More]]></title>
+        <id>https://news.ycombinator.com/item?id=29324363</id>
+        <link href="https://www.wordfence.com/blog/2021/11/godaddy-tsohost-mediatemple-123reg-domain-factory-heart-internet-host-europe/"/>
+        <updated>2021-11-23T22:29:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wordfence.com/blog/2021/11/godaddy-tsohost-mediatemple-123reg-domain-factory-heart-internet-host-europe/
+Comments URL: https://news.ycombinator.com/item?id=29324363
+Points: 45
+# Comments: 7]]></summary>
+        <author>
+            <name>mmaunder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wanting to build a DApp on Cardano?]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/r0o7tl/wanting_to_build_a_dapp_on_cardano/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/r0o7tl/wanting_to_build_a_dapp_on_cardano/"/>
+        <updated>2021-11-23T21:48:45.000Z</updated>
+        <summary type="html"><![CDATA[Hey Haskell Devs,
+ I am a Blockchain Master student - not a Dev though - who went through an incubation program for a DApp idea that is especially targeting the Global South/Africa and hence aligns very well with the vision of Cardano. Now I am looking for Haskell capable Devs who wanna team up and then also try to get some funding from the catalyst program and ultimately create a DAO that serves the needs of people in the Global South with a viable use case.
+    submitted by    /u/Cryptomias31  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - Biden admin will require essential, nonresident travelers crossing U.S. land borders, such as truck drivers, to be fully vaccinated against #COVID19 (WaPo)]]></title>
+        <id>https://nitter.net/disclosetv/status/1463260069768970245#m</id>
+        <link href="https://nitter.net/disclosetv/status/1463260069768970245#m"/>
+        <updated>2021-11-23T21:36:01.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - Biden admin will require essential, nonresident travelers crossing U.S. land borders, such as truck drivers, to be fully vaccinated against #COVID19 (WaPo)]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW - Biden's Energy Secretary does not know how much oil the United States uses per day.]]></title>
+        <id>https://nitter.net/disclosetv/status/1463257376895680516#m</id>
+        <link href="https://nitter.net/disclosetv/status/1463257376895680516#m"/>
+        <updated>2021-11-23T21:25:19.000Z</updated>
+        <summary type="html"><![CDATA[NEW - Biden's Energy Secretary does not know how much oil the United States uses per day.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOW - Psaki deflects from Biden calling Kyle Rittenhouse a white supremacist and instead blames Trump.]]></title>
+        <id>https://nitter.net/disclosetv/status/1463253292247666691#m</id>
+        <link href="https://nitter.net/disclosetv/status/1463253292247666691#m"/>
+        <updated>2021-11-23T21:09:05.000Z</updated>
+        <summary type="html"><![CDATA[NOW - Psaki deflects from Biden calling Kyle Rittenhouse a white supremacist and instead blames Trump.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let’s keep up the Votes on bitpay!]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r0nad2/lets_keep_up_the_votes_on_bitpay/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r0nad2/lets_keep_up_the_votes_on_bitpay/"/>
+        <updated>2021-11-23T21:06:41.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Nemesis916  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dover (YC S19) is hiring]]></title>
+        <id>https://news.ycombinator.com/item?id=29323477</id>
+        <link href="https://dover.com/careers"/>
+        <updated>2021-11-23T21:01:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dover.com/careers
+Comments URL: https://news.ycombinator.com/item?id=29323477
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>mkx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to list all possible ways to pair up a list?]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/r0my2t/how_to_list_all_possible_ways_to_pair_up_a_list/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/r0my2t/how_to_list_all_possible_ways_to_pair_up_a_list/"/>
+        <updated>2021-11-23T20:51:39.000Z</updated>
+        <summary type="html"><![CDATA[I'm new to Haskell and need to list all possible ways to pair up (even) lists of Ints.
+ E.g.
+ [1,2,3,4] -> [[(1,2),(3,4)], [(2,3),(1,4)], [(1,3),(2,4)], ...] 
+ Generating all possible pairs is easy enough (shown below) but I can't work out how to return only ways to pair up the entire input list.
+ pairs :: [a] -> [[(a, a)]] pairs l = [(x,y) | (x:ys) <- tails l, y <- ys] 
+ Any help appreciated!
+    submitted by    /u/ominousomanytes  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our fundraising learning post-YC]]></title>
+        <id>https://news.ycombinator.com/item?id=29323315</id>
+        <link href="https://wasp-lang.dev/blog/2021/11/22/fundraising-learnings"/>
+        <updated>2021-11-23T20:51:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wasp-lang.dev/blog/2021/11/22/fundraising-learnings
+Comments URL: https://news.ycombinator.com/item?id=29323315
+Points: 41
+# Comments: 24]]></summary>
+        <author>
+            <name>matijash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Catherine Project: A new experiment in liberal education]]></title>
+        <id>https://news.ycombinator.com/item?id=29323260</id>
+        <link href="https://hedgehogreview.com/web-features/thr/posts/where-the-humanities-arent-in-crisis"/>
+        <updated>2021-11-23T20:45:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hedgehogreview.com/web-features/thr/posts/where-the-humanities-arent-in-crisis
+Comments URL: https://news.ycombinator.com/item?id=29323260
+Points: 93
+# Comments: 98]]></summary>
+        <author>
+            <name>besmirch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook can pursue malware lawsuit against Israel's NSO Group -US appeals court]]></title>
+        <id>https://news.ycombinator.com/item?id=29323095</id>
+        <link href="https://www.reuters.com/technology/facebook-can-pursue-malware-lawsuit-against-israels-nso-group-us-appeals-court-2021-11-08/"/>
+        <updated>2021-11-23T20:34:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/facebook-can-pursue-malware-lawsuit-against-israels-nso-group-us-appeals-court-2021-11-08/
+Comments URL: https://news.ycombinator.com/item?id=29323095
+Points: 78
+# Comments: 5]]></summary>
+        <author>
+            <name>nceqs3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Problem with Bash commands]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/r0mc95/problem_with_bash_commands/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/r0mc95/problem_with_bash_commands/"/>
+        <updated>2021-11-23T20:24:22.000Z</updated>
+        <summary type="html"><![CDATA[This code does not create the Greeting.txt on my hard drive. Can anyone help?
+ (a, b, c) <- readProcessWithExitCode "echo" ["Hello world!", ">>", "Greeting.txt"] "" 
+    submitted by    /u/notooth1  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - Jan 6 "select committee" subpoenas leaders of Proud Boys & Oath Keeper.]]></title>
+        <id>https://nitter.net/disclosetv/status/1463242003706220545#m</id>
+        <link href="https://nitter.net/disclosetv/status/1463242003706220545#m"/>
+        <updated>2021-11-23T20:24:14.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - Jan 6 "select committee" subpoenas leaders of Proud Boys & Oath Keeper.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So PAB has already been released?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r0m846/so_pab_has_already_been_released/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r0m846/so_pab_has_already_been_released/"/>
+        <updated>2021-11-23T20:19:16.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Revolutionary-Bell78  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW - Biden reads from the teleprompter incl. an "end of quote" notice.]]></title>
+        <id>https://nitter.net/disclosetv/status/1463239341845659656#m</id>
+        <link href="https://nitter.net/disclosetv/status/1463239341845659656#m"/>
+        <updated>2021-11-23T20:13:39.000Z</updated>
+        <summary type="html"><![CDATA[NEW - Biden reads from the teleprompter incl. an "end of quote" notice.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What does Emurgo do for the Cardano Ecosystem justifying the 1B Ada they got?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r0lzom/what_does_emurgo_do_for_the_cardano_ecosystem/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r0lzom/what_does_emurgo_do_for_the_cardano_ecosystem/"/>
+        <updated>2021-11-23T20:09:04.000Z</updated>
+        <summary type="html"><![CDATA[Given that Emurgo received the same 1B ADA as IOHK and CF I would expect them to contribute a lot to support on Deals, adoption etc. Emurgo was initially classified as the commercial arm, however the only big deals seem to come from IOHK and the CF. If they didn't sell anything they will receives 50 million ADA/year on steaking rewards and the only prominent thing that they have delivered is YOROI. 
+ Now they offer developer courses for money. Even the Plutus pioneers program was free. Did I miss something? Please clarify, but for me this seems like a very good deal for them, bad for us.
+    submitted by    /u/Invictus1870  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wholesomepost]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/r0loh6/wholesomepost/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/r0loh6/wholesomepost/"/>
+        <updated>2021-11-23T19:55:34.000Z</updated>
+        <summary type="html"><![CDATA[I've had a little fling going on for the past month. It started out as a hookup, then turned into hooking up a couple times a week, then hooking up every other day for the past two weeks. Heading in the direction of something more and I really like her.
+ She's going home for Thanksgiving, and we hung out before she left. We were in the kitchen eating a snack as I was getting ready to leave, when one of her friends came in to say goodbye. She knows the two of us are hooking up but I'd never met any of her friends before. We all made small talk for a few minutes but I really did have to go. I was debating whether I should kiss her goodbye in front of her friend but I didn't want to come on too strong, but also didn't want to not do it since I always kiss her goodbye. Said fuck it and just went for it, just a peck on the lips, nothing crazy. She walked me out and gave me another kiss where her friend couldn't see. The door closed, and I paused to pull out my headphones, when I heard the two of them squealing like little schoolgirls (it's not that weird, we're only seniors in college).
+ Hopefully it was the good kind of squeals lol
+ Life is good and I feel like im like 15 again :)
+    submitted by    /u/TurbulentRecording72  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Things I learned from building a production database]]></title>
+        <id>https://news.ycombinator.com/item?id=29322515</id>
+        <link href="https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html"/>
+        <updated>2021-11-23T19:55:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html
+Comments URL: https://news.ycombinator.com/item?id=29322515
+Points: 136
+# Comments: 24]]></summary>
+        <author>
+            <name>dangoldin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charles discusses Etoro]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r0likw/charles_discusses_etoro/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r0likw/charles_discusses_etoro/"/>
+        <updated>2021-11-23T19:48:23.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/EpicMichaelFreeman  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden: Happy Thanksgiving! I'm heading to a food kitchen... now.
+
+Reporters: When will you answer our questions, sir?
+
+Biden leaves.]]></title>
+        <id>https://nitter.net/disclosetv/status/1463230821628878850#m</id>
+        <link href="https://nitter.net/disclosetv/status/1463230821628878850#m"/>
+        <updated>2021-11-23T19:39:48.000Z</updated>
+        <summary type="html"><![CDATA[Biden: Happy Thanksgiving! I'm heading to a food kitchen... now.
+
+Reporters: When will you answer our questions, sir?
+
+Biden leaves.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOW - Biden blames high gas prices on oil-producing countries and large companies not ramping up production.]]></title>
+        <id>https://nitter.net/disclosetv/status/1463229189608427524#m</id>
+        <link href="https://nitter.net/disclosetv/status/1463229189608427524#m"/>
+        <updated>2021-11-23T19:33:18.000Z</updated>
+        <summary type="html"><![CDATA[NOW - Biden blames high gas prices on oil-producing countries and large companies not ramping up production.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which SVG technique performs best for way too many icons?]]></title>
+        <id>https://css-tricks.com/?p=357412</id>
+        <link href="https://css-tricks.com/which-svg-technique-performs-best-for-way-too-many-icons/"/>
+        <updated>2021-11-23T19:21:28.000Z</updated>
+        <summary type="html"><![CDATA[Tyler Sticka digs in here in the best possible way: by making a test page and literally measuring performance. Maybe 1,000 icons is a little bit of an edge case, but hey, 250 rows of data with four icons in …
+The post Which SVG technique performs best for way too many icons? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An engineer's observations on Web3 and its possibilities]]></title>
+        <id>https://news.ycombinator.com/item?id=29321987</id>
+        <link href="https://www.psl.com/feed-posts/web3-engineer-take"/>
+        <updated>2021-11-23T19:16:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.psl.com/feed-posts/web3-engineer-take
+Comments URL: https://news.ycombinator.com/item?id=29321987
+Points: 123
+# Comments: 85]]></summary>
+        <author>
+            <name>treblig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Tamagui – React design systems optimized for native and web]]></title>
+        <id>https://news.ycombinator.com/item?id=29321748</id>
+        <link href="https://tamagui.dev"/>
+        <updated>2021-11-23T18:59:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tamagui.dev
+Comments URL: https://news.ycombinator.com/item?id=29321748
+Points: 53
+# Comments: 6]]></summary>
+        <author>
+            <name>nwienert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C64]]></title>
+        <id>https://news.ycombinator.com/item?id=29321637</id>
+        <link href="https://replit.com/@mattiselin/C64?v=1"/>
+        <updated>2021-11-23T18:51:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://replit.com/@mattiselin/C64?v=1
+Comments URL: https://news.ycombinator.com/item?id=29321637
+Points: 113
+# Comments: 27]]></summary>
+        <author>
+            <name>amasad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[German car that was super-aerodynamic but impractical]]></title>
+        <id>https://news.ycombinator.com/item?id=29321519</id>
+        <link href="https://rarehistoricalphotos.com/schlorwagen-photographs-1939/"/>
+        <updated>2021-11-23T18:44:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rarehistoricalphotos.com/schlorwagen-photographs-1939/
+Comments URL: https://news.ycombinator.com/item?id=29321519
+Points: 74
+# Comments: 52]]></summary>
+        <author>
+            <name>davesailer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Turn Authorization Logic into SQL]]></title>
+        <id>https://news.ycombinator.com/item?id=29321504</id>
+        <link href="https://www.osohq.com/post/logic-into-sql"/>
+        <updated>2021-11-23T18:43:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.osohq.com/post/logic-into-sql
+Comments URL: https://news.ycombinator.com/item?id=29321504
+Points: 97
+# Comments: 31]]></summary>
+        <author>
+            <name>gneray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blueboat, an open-source alternative to Cloudflare Workers]]></title>
+        <id>https://news.ycombinator.com/item?id=29321442</id>
+        <link href="https://github.com/losfair/blueboat"/>
+        <updated>2021-11-23T18:39:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/losfair/blueboat
+Comments URL: https://news.ycombinator.com/item?id=29321442
+Points: 121
+# Comments: 12]]></summary>
+        <author>
+            <name>ushakov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOW - Infowars' Alex Jones says he will probably plead the 5th and not testify before the Jan 6 "select committee".]]></title>
+        <id>https://nitter.net/disclosetv/status/1463208847456276492#m</id>
+        <link href="https://nitter.net/disclosetv/status/1463208847456276492#m"/>
+        <updated>2021-11-23T18:12:28.000Z</updated>
+        <summary type="html"><![CDATA[NOW - Infowars' Alex Jones says he will probably plead the 5th and not testify before the Jan 6 "select committee".]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple sues NSO Group to curb the abuse of state-sponsored spyware]]></title>
+        <id>https://news.ycombinator.com/item?id=29320986</id>
+        <link href="https://www.apple.com/newsroom/2021/11/apple-sues-nso-group-to-curb-the-abuse-of-state-sponsored-spyware/"/>
+        <updated>2021-11-23T18:04:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2021/11/apple-sues-nso-group-to-curb-the-abuse-of-state-sponsored-spyware/
+Comments URL: https://news.ycombinator.com/item?id=29320986
+Points: 687
+# Comments: 266]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good probably explanation why Etoro is delisting ADA. Don't be afraid.]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r0icjg/good_probably_explanation_why_etoro_is_delisting/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r0icjg/good_probably_explanation_why_etoro_is_delisting/"/>
+        <updated>2021-11-23T17:27:23.000Z</updated>
+        <summary type="html"><![CDATA[https://www.etoro.com/en-us/news-and-analysis/etoro-updates/important-update-regarding-ada-and-trx/
+  
+it has nothing to do with the Howey test as Digital Aset News speculated here: https://youtu.be/EvCzRpetyOQ
+  
+Because XRP is also available to trade on Etoro for US clients.
+ And ADA and TRX are not even on the list here https://www.cryptoratingcouncil.com/asset-ratings that could be securities where XRP has a 4.o rating.
+ ALGO has a 2.0 rating and is much more centralized as ADA. 
+ Charles has confirmed here: https://youtu.be/WYQTkf8ndpY that "we've never received any regulatory summons or subpoena or any of these things everything's fine cardano's fine"
+ so it is reasonable to believe that the same is valid for Tron.
+ 2) its related to the new law shuffled in the Infrastructure Bill ju…]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Haskell being hard (probably) doesn't matter in the long run]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r0ibkx/why_haskell_being_hard_probably_doesnt_matter_in/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r0ibkx/why_haskell_being_hard_probably_doesnt_matter_in/"/>
+        <updated>2021-11-23T17:26:08.000Z</updated>
+        <summary type="html"><![CDATA[Hey crypto people :)
+ I've been hearing a lot about how Haskell is "hard" and devs won't develop on it because of this.
+ I would like to give my thoughts on this:
+ First, the truth. Haskell is hard. In more broader terms, functional/Declarative languages are hard/less intuitive then the imperative ones (Java/Python/etc...) and we can't ignore this fact.
+ BUT the thing is...
+ It probably won't matter in the long run. Why? Because this project is huge. The funding is huge and also the trust and the community. And thus, people will go where the money is. Do you really think people will care when there are multiple dexes/loans protocols/PTE games/etc... that they are written in Haskell? No they won't. They want to make money. Period.
+ For example, Bitcoin is also very very tough the develop on (due to the utxo model and the weird scripting language it has). This didn't (and doesn't) stop countless developers to develop on it (myself included). Do you know why (I guess you do by now :) ) ? Because the community, trust and money are there and I think that this will probably be the case for Cardano as well.
+ Also, I might be wrong :) Just my 2 cents.
+ Cheers
+    submitted by    /u/omrip34  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardano has a fair distribution of ADA coins]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r0i03e/cardano_has_a_fair_distribution_of_ada_coins/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r0i03e/cardano_has_a_fair_distribution_of_ada_coins/"/>
+        <updated>2021-11-23T17:11:33.000Z</updated>
+        <summary type="html"><![CDATA[Decentralization at team level vs. protocol
+ Distributed networks and decentralization are concepts much older than Bitcoin. Satoshi Nakamoto proved that it was possible to create decentralized value that people could own, share and transfer without a middleman. In doing so, he laid the foundation for the entire cryptocurrency industry, or if you prefer, blockchain networks. Every public blockchain network needs native coins to enable decentralization itself. Coins may play a different role in each project, but they have one thing in common. It is necessary to ensure their fair distribution.
+ Imagine you want to start a new decentralized project. What do you need? First of all, someone has to define the goals or mission of the project and its basic parameters. Then, some research and analy…]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Block size understanding]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r0hzhz/block_size_understanding/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r0hzhz/block_size_understanding/"/>
+        <updated>2021-11-23T17:10:48.000Z</updated>
+        <summary type="html"><![CDATA[Hello fellow peoples,
+ ​
+ We all know cardano is going to test a 12.5% bigger block size next month to handle all the activity we are having on this great network.
+ And it got me thinking, does a bigger block size affect decentralization under the supreme Ouroboros protocol? the future possible nobel prize winner maker protocol that is maintaining the cardano heart beating seamlessly in a secure and decentralized way?
+ I have been looking through docs and failed to find anything.
+ A great person in a discord told me that technically it makes it slightly less decentralized, but not much. The block size would have to be about 8MB and no changes in how cardano deals with transaction for it to be a worry.
+ ​
+ What´s your opinion on this?
+    submitted by    /u/Easy-Dust-3129  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Etoro being sketchy]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r0hz5a/etoro_being_sketchy/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r0hz5a/etoro_being_sketchy/"/>
+        <updated>2021-11-23T17:10:25.000Z</updated>
+        <summary type="html"><![CDATA[If anyone holds on Etoro they may want to consider closing their positions and switching platforms. They are pulling some sketchy stuff currently.
+    submitted by    /u/dannyd56  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boards are dangerous to founder/CEOs]]></title>
+        <id>https://news.ycombinator.com/item?id=29320078</id>
+        <link href="https://reactionwheel.net/2021/11/your-boards-of-directors-is-probably-going-to-fire-you.html"/>
+        <updated>2021-11-23T16:50:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://reactionwheel.net/2021/11/your-boards-of-directors-is-probably-going-to-fire-you.html
+Comments URL: https://news.ycombinator.com/item?id=29320078
+Points: 464
+# Comments: 212]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Next ‘Lab Leak’]]></title>
+        <id>https://news.ycombinator.com/item?id=29319833</id>
+        <link href="https://www.nytimes.com/2021/11/23/magazine/covid-lab-leak.html"/>
+        <updated>2021-11-23T16:35:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/11/23/magazine/covid-lab-leak.html
+Comments URL: https://news.ycombinator.com/item?id=29319833
+Points: 122
+# Comments: 261]]></summary>
+        <author>
+            <name>johncena33</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - Police to increase presence at retail stores amid mob looting crimewave in San Francisco, California Gov. Newsom announces.]]></title>
+        <id>https://nitter.net/disclosetv/status/1463182324321996804#m</id>
+        <link href="https://nitter.net/disclosetv/status/1463182324321996804#m"/>
+        <updated>2021-11-23T16:27:05.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - Police to increase presence at retail stores amid mob looting crimewave in San Francisco, California Gov. Newsom announces.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Max Headroom Incident]]></title>
+        <id>https://news.ycombinator.com/item?id=29319651</id>
+        <link href="https://allthatsinteresting.com/max-headroom-hack"/>
+        <updated>2021-11-23T16:23:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://allthatsinteresting.com/max-headroom-hack
+Comments URL: https://news.ycombinator.com/item?id=29319651
+Points: 243
+# Comments: 138]]></summary>
+        <author>
+            <name>sec400</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Control Layout in a Multi-Directional Website]]></title>
+        <id>https://css-tricks.com/?p=356977</id>
+        <link href="https://css-tricks.com/control-layout-in-a-multi-directional-website/"/>
+        <updated>2021-11-23T16:06:44.000Z</updated>
+        <summary type="html"><![CDATA[Many business websites need a multilingual setup. As with anything development-related, implementing one in an easy, efficient, and maintainable way is desirable. Designing and developing to be ready for multiple languages, whether it happens right at launch or is expected …
+The post Control Layout in a Multi-Directional Website appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Alaa Abd El-Rahim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Tale of Java Hash Tables]]></title>
+        <id>https://news.ycombinator.com/item?id=29319151</id>
+        <link href="https://www.andreinc.net/2021/11/08/a-tale-of-java-hash-tables"/>
+        <updated>2021-11-23T15:46:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.andreinc.net/2021/11/08/a-tale-of-java-hash-tables
+Comments URL: https://news.ycombinator.com/item?id=29319151
+Points: 98
+# Comments: 69]]></summary>
+        <author>
+            <name>nomemory</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Django, HTMX and Alpine.js: Modern websites, JavaScript optional]]></title>
+        <id>https://news.ycombinator.com/item?id=29319034</id>
+        <link href="https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/"/>
+        <updated>2021-11-23T15:37:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/
+Comments URL: https://news.ycombinator.com/item?id=29319034
+Points: 307
+# Comments: 180]]></summary>
+        <author>
+            <name>czue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Email from etoro this morning :/]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r0frb7/email_from_etoro_this_morning/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r0frb7/email_from_etoro_this_morning/"/>
+        <updated>2021-11-23T15:31:19.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Jay250Mass  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bash Patterns I Use Weekly]]></title>
+        <id>https://news.ycombinator.com/item?id=29318751</id>
+        <link href="https://will-keleher.com/posts/5-Useful-Bash-Patterns.html"/>
+        <updated>2021-11-23T15:16:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://will-keleher.com/posts/5-Useful-Bash-Patterns.html
+Comments URL: https://news.ycombinator.com/item?id=29318751
+Points: 166
+# Comments: 63]]></summary>
+        <author>
+            <name>gcmeplz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Very interesting news here. Why is Ada being targeted here?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r0fdhh/very_interesting_news_here_why_is_ada_being/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r0fdhh/very_interesting_news_here_why_is_ada_being/"/>
+        <updated>2021-11-23T15:13:09.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Crypto_Creepa  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project Overview: Liqwid Finance: A DeFi Lending Protocol - Part 1]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r0dopx/project_overview_liqwid_finance_a_defi_lending/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r0dopx/project_overview_liqwid_finance_a_defi_lending/"/>
+        <updated>2021-11-23T13:51:44.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Crypto_Simp  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Its time for azalea to get her own pod.]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/r0d7t3/its_time_for_azalea_to_get_her_own_pod/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/r0d7t3/its_time_for_azalea_to_get_her_own_pod/"/>
+        <updated>2021-11-23T13:26:53.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Linappppppp  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charles Hoskinson Unravels Proxy Keys as Cardano (ADA) Passes 20M Transactions]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r0ctgb/charles_hoskinson_unravels_proxy_keys_as_cardano/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r0ctgb/charles_hoskinson_unravels_proxy_keys_as_cardano/"/>
+        <updated>2021-11-23T13:06:04.000Z</updated>
+        <summary type="html"><![CDATA[Hoskinson is not stoping!
+ https://crypto-academy.org/charles-hoskinson-unravels-proxy-keys-as-cardano/
+    submitted by    /u/titi1992ks  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A red scare conspiracy theory too hot for Alex Jones.]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/r0cicr/a_red_scare_conspiracy_theory_too_hot_for_alex/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/r0cicr/a_red_scare_conspiracy_theory_too_hot_for_alex/"/>
+        <updated>2021-11-23T12:50:14.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/debaser11  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardano (ADA) achieved another milestone earlier today as it surpassed the 20 million transaction count without a single day of downtime.]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r0chrc/cardano_ada_achieved_another_milestone_earlier/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r0chrc/cardano_ada_achieved_another_milestone_earlier/"/>
+        <updated>2021-11-23T12:49:17.000Z</updated>
+        <summary type="html"><![CDATA[» 20 Million transaction with no transaction time.
+ » ZERO down time.
+ » The blockchain network hasn’t suffered a downtime for 1522 days.
+ https://preview.redd.it/hu4dkosrcc181.jpg?width=1280&format=pjpg&auto=webp&s=f0ee1ed21e56dd4eabc72e0a0bab35632f0f2da9
+    submitted by    /u/Willing_Bee5874  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - United States to release up to 50 million barrels of oil from its strategic petroleum reserve: White House]]></title>
+        <id>https://nitter.net/disclosetv/status/1463116584805978112#m</id>
+        <link href="https://nitter.net/disclosetv/status/1463116584805978112#m"/>
+        <updated>2021-11-23T12:05:51.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - United States to release up to 50 million barrels of oil from its strategic petroleum reserve: White House]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just like you guys asked. Here is your daily reminded to vote for cardano to be supported by bitpay. We’re up to 38% ahead of the runner up at 34%. Wont stop updating till we’re 60%+!]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r090es/just_like_you_guys_asked_here_is_your_daily/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r090es/just_like_you_guys_asked_here_is_your_daily/"/>
+        <updated>2021-11-23T08:51:39.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/amamamafk  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardano & 20 Million Reasons]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r07xo8/cardano_20_million_reasons/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r07xo8/cardano_20_million_reasons/"/>
+        <updated>2021-11-23T07:38:08.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ArmyofSpies  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardano Rumor Rundown November 23, 2021]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r07wo4/cardano_rumor_rundown_november_23_2021/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r07wo4/cardano_rumor_rundown_november_23_2021/"/>
+        <updated>2021-11-23T07:36:15.000Z</updated>
+        <summary type="html"><![CDATA[Hey Everyone!
+ Let's go...
+ Newly covered today:
+  
+Apparently, we have surpassed 20MM transactions on the Cardano network. https://twitter.com/CardanoTech/status/1462805643874680835
+ World Mobile gives a peek at their aerostat hanger where they will launch balloons to connect the unconnected in Africa. https://twitter.com/WorldMobileTeam/status/1462715361015521280
+ Pavia has dropped some very cool images of their avatars (or at least “background characters”). https://twitter.com/Pavia_io/status/1461713781122232327
+ Remember, Cardano 360 is the last Thursday of every month. That means this Thursday, November 25th! https://twitter.com/InputOutputHK/status/1462793042587443206
+ Jerome Powell is named to a second term as Chairman of the Federal Reserve. https://www.wsj.com/articles/biden-will-…]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardano Daily Discussion - November 23, 2021]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r06w8n/cardano_daily_discussion_november_23_2021/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r06w8n/cardano_daily_discussion_november_23_2021/"/>
+        <updated>2021-11-23T06:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone,
+ Welcome to the Cardano Daily Discussion!
+ The standard sub rules apply here (see sidebar), with the exception that price discussion is allowed in this thread, though we encourage you to try not to make this the focus and talk about the project itself. Please ask questions, help others and be civil - be sure to get involved in Project Catalyst too!
+ If you're new, please make sure you're read through the newbies guide and share it with others (use the ?newbies comment command to reference it).
+ NFTs for Planting Trees
+ https://preview.redd.it/d9l75zowckx71.jpg?width=1600&format=pjpg&auto=webp&s=9a13a91cb371dce5d318b96dea2692dad9348b21
+ You can donate ADA and receive NFTs for doing so, each ADA is a tree planted, it's a win win! Read about veritree here and take part on http…]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Confused about type when using `state` function of `State` monad]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/r05ui6/confused_about_type_when_using_state_function_of/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/r05ui6/confused_about_type_when_using_state_function_of/"/>
+        <updated>2021-11-23T05:25:27.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone, I have a question about State Transformer
+ I am confused about rollDie 's type and state 's type.Why is the type of
+ state :: Monad m => (s -> (a, s)) -> StateT s m a rollDie :: State StdGen Die 
+ in the code block below, can be lined up?
+ module RandomExample2 where import Control.Applicative (liftA3) import Control.Monad (replicateM) import Control.Monad.Trans.State import System.Random -- Six-sided die data Die = DieOne | DieTwo | DieThree | DieFour | DieFive | DieSix deriving (Eq, Show) intToDie :: Int -> Die intToDie n = case n of 1 -> DieOne 2 -> DieTwo 3 -> DieThree 4 -> DieFour 5 -> DieFive 6 -> DieSix -- Use this tactic _extremely_ sparingly. x -> error $ "intToDie got non 1-6 integer: " ++ show x rollDie :: State StdGen Die rollDie = let x = state $ do (n, s) <- randomR (1, 6) :: ((->) s) (Int, s) :: s -> (Int, s) return (intToDie n, s) :: ((->) s) (Die, s) :: s -> (Die, s) in x 
+ Thank you!
+    submitted by    /u/CucumberCareful1693  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What separates Cardano Comunity from the others. Why we get the hate:]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r056p5/what_separates_cardano_comunity_from_the_others/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r056p5/what_separates_cardano_comunity_from_the_others/"/>
+        <updated>2021-11-23T04:47:34.000Z</updated>
+        <summary type="html"><![CDATA[I’m starting to think that ADA people are anti cultural. We are because we have no desire to be instantly gratified and coddled at every turn. 
+ I see that most of us view the world as chess players. We seem to look at the projects and tech in terms of decades while every one else views their coin in cycles or just month to month. 
+ It’s kind of frustrating interacting with people who see life in right now / all or nothing terms. I can’t even talk half the time to these types without feeling like I’m sacrificing my true opinions.
+ Nope. I don’t see the rest the crypto comunity liking us very much because we are not the type of people to just pretend, and put all of our money on ‘red’ or ‘black’. 
+ I do think that there are a lot of non Cardano holders of great projects. But damn it seems like Main Stream crypto folks are no different than the guys I play craps with at the casino. This is why I think we get hated on so much. We’re just not like them. 
+ I hope I don’t seem too arrogant but that’s my point. I guess when you look at life a few moves ahead of the other guy then you do come off as arrogant. So be it... I’m no better than them their no better than me but let’s just face it, we’re not like the rest.
+    submitted by    /u/Dissmass1980  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's some good news that I had no idea about!]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r0436j/heres_some_good_news_that_i_had_no_idea_about/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r0436j/heres_some_good_news_that_i_had_no_idea_about/"/>
+        <updated>2021-11-23T03:47:15.000Z</updated>
+        <summary type="html"><![CDATA[Cardano is about to be listed on one of Europe's largest exchanges, Bitstamp. Supposed to happen either tomorrow or Thursday. Great news!
+ https://investorplace.com/2021/11/dear-cardano-crypto-fans-mark-your-calendars-for-a-catalyst-on-nov-24/
+ PS - Please don't confuse this with the Bitpay exchange, though. That's another exchange that we've all been recently voting for to list ADA. That voting will continue for another 39 days so vote every day.
+ ADOPTION!
+    submitted by    /u/reddit_1999  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitpay pole votes]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r03n23/bitpay_pole_votes/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r03n23/bitpay_pole_votes/"/>
+        <updated>2021-11-23T03:23:29.000Z</updated>
+        <summary type="html"><![CDATA[Cardano up to 37% LFG. Let’s keep momentum. Keep voting!
+    submitted by    /u/HostAcceptable6697  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardano Catalyst coming up? ADA getting listed on Euro exchange Nov 24th.]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r034k3/cardano_catalyst_coming_up_ada_getting_listed_on/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r034k3/cardano_catalyst_coming_up_ada_getting_listed_on/"/>
+        <updated>2021-11-23T02:56:35.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Inthogen  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardano daily transactions over 495k. With the block size increasing and the plutus script size increasing in the coming weeks, it will make everything better. Cardano is a marathon, not a sprint. Stay strong.]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r02ihp/cardano_daily_transactions_over_495k_with_the/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r02ihp/cardano_daily_transactions_over_495k_with_the/"/>
+        <updated>2021-11-23T02:24:26.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Professional-Tank-51  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let’s not accuse Tron supporters of botting the BitPay poll]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r02f8u/lets_not_accuse_tron_supporters_of_botting_the/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r02f8u/lets_not_accuse_tron_supporters_of_botting_the/"/>
+        <updated>2021-11-23T02:19:29.000Z</updated>
+        <summary type="html"><![CDATA[All this does is make us look like sore losers or call into question the validity of the poll if we win. I get being a ADA-fan, but let’s not be sour towards other crypto-coin communities— that just makes all crypto enthusiasts look bad
+    submitted by    /u/002timmy  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buckle up, it's going to be a big epoch (#304)]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/r020cm/buckle_up_its_going_to_be_a_big_epoch_304/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/r020cm/buckle_up_its_going_to_be_a_big_epoch_304/"/>
+        <updated>2021-11-23T01:58:04.000Z</updated>
+        <summary type="html"><![CDATA[​
+ https://explorer.cardano.org/en
+ Already at half a million transactions and not even a quarter of the way through 😮
+    submitted by    /u/itesasecret  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - Thomas Jefferson statue removed from New York City Hall after 187 years. The "Public Design Commission" voted to banish the statute of the third U.S. president.
+
+https://nypost.com/2021/11/22/thomas-jefferson-statue-leaves-city-hall-after-187-years/]]></title>
+        <id>https://nitter.net/disclosetv/status/1462955796933885954#m</id>
+        <link href="https://nitter.net/disclosetv/status/1462955796933885954#m"/>
+        <updated>2021-11-23T01:26:57.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - Thomas Jefferson statue removed from New York City Hall after 187 years. The "Public Design Commission" voted to banish the statute of the third U.S. president.
+
+nypost.com/2021/11/22/thomas…]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Has anyone taken any courses at the Emurgo acedemy?]]></title>
+        <id>https://www.reddit.com/r/CardanoDevelopers/comments/r018iz/has_anyone_taken_any_courses_at_the_emurgo_acedemy/</id>
+        <link href="https://www.reddit.com/r/CardanoDevelopers/comments/r018iz/has_anyone_taken_any_courses_at_the_emurgo_acedemy/"/>
+        <updated>2021-11-23T01:16:44.000Z</updated>
+        <summary type="html"><![CDATA[I'm currently about to select a date to start the Cardano Architecture and Designer developer course from the Emurgo academy and I'm curious if anyone has paid for the course and what they think about it.
+    submitted by    /u/MiddleFix9783  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : CardanoDevelopers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[facebook /
 
@@ -40,6 +978,21 @@ Star: 109
 Fork: 18]]></summary>
         <author>
             <name>SPY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threw together a hackage-grep script for grepping source code on Hackage]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/r00ci1/threw_together_a_hackagegrep_script_for_grepping/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/r00ci1/threw_together_a_hackagegrep_script_for_grepping/"/>
+        <updated>2021-11-23T00:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Follow up from this thread, didn't really find anything for my needs.
+ GitHub: https://github.com/brandonchinn178/hackage-grep
+ Features: * Orders packages by most downloads (currently only download count from last 30 days, see https://github.com/haskell/hackage-server/issues/458#issuecomment-975995226) * Limit search to N packages * Cleans up source code after grepping
+ TODO: * Add caching * Add progress bar
+    submitted by    /u/brandonchinn178  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
         </author>
     </entry>
     <entry>

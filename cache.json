@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=357412",
+          "author": "Chris Coyier",
+          "description": "Tyler Sticka digs in here in the best possible way: by making a test page and literally measuring performance. Maybe 1,000 icons is a little bit of an edge case, but hey, 250 rows of data with four icons in …\nThe post Which SVG technique performs best for way too many icons? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/which-svg-technique-performs-best-for-way-too-many-icons/",
+          "publishedOn": "2021-11-23T19:21:28.000Z",
+          "wordCount": 461,
+          "title": "Which SVG technique performs best for way too many icons?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356977",
+          "author": "Alaa Abd El-Rahim",
+          "description": "Many business websites need a multilingual setup. As with anything development-related, implementing one in an easy, efficient, and maintainable way is desirable. Designing and developing to be ready for multiple languages, whether it happens right at launch or is expected …\nThe post Control Layout in a Multi-Directional Website appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/control-layout-in-a-multi-directional-website/",
+          "publishedOn": "2021-11-23T16:06:44.000Z",
+          "wordCount": 4037,
+          "title": "Control Layout in a Multi-Directional Website"
+        },
+        {
           "id": "https://css-tricks.com/?p=357149",
           "author": "Chris Coyier",
           "description": "Inspired by Eva PenzeyMoog’s new book, Jeremy highlights the widespread user tracking situation in this industry:\nThere was a line that really stood out to me: \nThe idea that it’s alright to do whatever unethical thing is currently the \n…\nThe post On User Tracking and Industry Standards on Privacy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -395,6 +413,51 @@
       "feedUrl": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
       "siteUrl": "https://www.reddit.com/r/haskell/top/?sort=top&t=day",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r0o7tl/wanting_to_build_a_dapp_on_cardano/",
+          "author": null,
+          "description": "Hey Haskell Devs,\n I am a Blockchain Master student - not a Dev though - who went through an incubation program for a DApp idea that is especially targeting the Global South/Africa and hence aligns very well with the vision of Cardano. Now I am looking for Haskell capable Devs who wanna team up and then also try to get some funding from the catalyst program and ultimately create a DAO that serves the needs of people in the Global South with a viable use case.\n    submitted by    /u/Cryptomias31  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r0o7tl/wanting_to_build_a_dapp_on_cardano/",
+          "publishedOn": "2021-11-23T21:48:45.000Z",
+          "wordCount": 558,
+          "title": "Wanting to build a DApp on Cardano?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r0my2t/how_to_list_all_possible_ways_to_pair_up_a_list/",
+          "author": null,
+          "description": "I'm new to Haskell and need to list all possible ways to pair up (even) lists of Ints.\n E.g.\n [1,2,3,4] -> [[(1,2),(3,4)], [(2,3),(1,4)], [(1,3),(2,4)], ...] \n Generating all possible pairs is easy enough (shown below) but I can't work out how to return only ways to pair up the entire input list.\n pairs :: [a] -> [[(a, a)]] pairs l = [(x,y) | (x:ys) <- tails l, y <- ys] \n Any help appreciated!\n    submitted by    /u/ominousomanytes  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r0my2t/how_to_list_all_possible_ways_to_pair_up_a_list/",
+          "publishedOn": "2021-11-23T20:51:39.000Z",
+          "wordCount": 276,
+          "title": "How to list all possible ways to pair up a list?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r0mc95/problem_with_bash_commands/",
+          "author": null,
+          "description": "This code does not create the Greeting.txt on my hard drive. Can anyone help?\n (a, b, c) <- readProcessWithExitCode \"echo\" [\"Hello world!\", \">>\", \"Greeting.txt\"] \"\" \n    submitted by    /u/notooth1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r0mc95/problem_with_bash_commands/",
+          "publishedOn": "2021-11-23T20:24:22.000Z",
+          "wordCount": 195,
+          "title": "Problem with Bash commands"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r05ui6/confused_about_type_when_using_state_function_of/",
+          "author": null,
+          "description": "Hi everyone, I have a question about State Transformer\n I am confused about rollDie 's type and state 's type.Why is the type of\n state :: Monad m => (s -> (a, s)) -> StateT s m a rollDie :: State StdGen Die \n in the code block below, can be lined up?\n module RandomExample2 where import Control.Applicative (liftA3) import Control.Monad (replicateM) import Control.Monad.Trans.State import System.Random -- Six-sided die data Die = DieOne | DieTwo | DieThree | DieFour | DieFive | DieSix deriving (Eq, Show) intToDie :: Int -> Die intToDie n = case n of 1 -> DieOne 2 -> DieTwo 3 -> DieThree 4 -> DieFour 5 -> DieFive 6 -> DieSix -- Use this tactic _extremely_ sparingly. x -> error $ \"intToDie got non 1-6 integer: \" ++ show x rollDie :: State StdGen Die rollDie = let x = state $ do (n, s) <- randomR (1, 6) :: ((->) s) (Int, s) :: s -> (Int, s) return (intToDie n, s) :: ((->) s) (Die, s) :: s -> (Die, s) in x \n Thank you!\n    submitted by    /u/CucumberCareful1693  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r05ui6/confused_about_type_when_using_state_function_of/",
+          "publishedOn": "2021-11-23T05:25:27.000Z",
+          "wordCount": 578,
+          "title": "Confused about type when using `state` function of `State` monad"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r00ci1/threw_together_a_hackagegrep_script_for_grepping/",
+          "author": null,
+          "description": "Follow up from this thread, didn't really find anything for my needs.\n GitHub: https://github.com/brandonchinn178/hackage-grep\n Features: * Orders packages by most downloads (currently only download count from last 30 days, see https://github.com/haskell/hackage-server/issues/458#issuecomment-975995226) * Limit search to N packages * Cleans up source code after grepping\n TODO: * Add caching * Add progress bar\n    submitted by    /u/brandonchinn178  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r00ci1/threw_together_a_hackagegrep_script_for_grepping/",
+          "publishedOn": "2021-11-23T00:30:58.000Z",
+          "wordCount": 210,
+          "title": "Threw together a hackage-grep script for grepping source code on Hackage"
+        },
         {
           "id": "https://www.reddit.com/r/haskell/comments/qzox0y/help_finding_a_blog_post_of_an_interview_with/",
           "author": null,
@@ -1006,6 +1069,15 @@
       "siteUrl": "https://www.reddit.com/r/CardanoDevelopers/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/r018iz/has_anyone_taken_any_courses_at_the_emurgo_acedemy/",
+          "author": null,
+          "description": "I'm currently about to select a date to start the Cardano Architecture and Designer developer course from the Emurgo academy and I'm curious if anyone has paid for the course and what they think about it.\n    submitted by    /u/MiddleFix9783  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/r018iz/has_anyone_taken_any_courses_at_the_emurgo_acedemy/",
+          "publishedOn": "2021-11-23T01:16:44.000Z",
+          "wordCount": 218,
+          "title": "Has anyone taken any courses at the Emurgo acedemy?"
+        },
+        {
           "id": "https://www.reddit.com/r/CardanoDevelopers/comments/qz3pvq/seeking_cnft_metadata/",
           "author": null,
           "description": "Hello! \n I am currently trying to use Hashlips Program on Github to create my own CNFT Collection, It works amazing but sadly the only issue is that it does not create suitable Metadata for CNFT's/MakerPro. \n Does anyone know of or have anything similar that would work to fulfil this problem for me <3 Sadly I am extremely new to any sort of code and watched too many videos to count by now and i'm struggling bad to solve this problem.\n    submitted by    /u/EhFo  \n [link]   [comments]",
@@ -1219,6 +1291,231 @@
       "feedUrl": "https://www.reddit.com/r/cardano/top/.rss?sort=top&t=day",
       "siteUrl": "https://www.reddit.com/r/cardano/top/?sort=top&t=day",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r0nad2/lets_keep_up_the_votes_on_bitpay/",
+          "author": null,
+          "description": "submitted by    /u/Nemesis916  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r0nad2/lets_keep_up_the_votes_on_bitpay/",
+          "publishedOn": "2021-11-23T21:06:41.000Z",
+          "wordCount": 287,
+          "title": "Let’s keep up the Votes on bitpay!"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r0m846/so_pab_has_already_been_released/",
+          "author": null,
+          "description": "submitted by    /u/Revolutionary-Bell78  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r0m846/so_pab_has_already_been_released/",
+          "publishedOn": "2021-11-23T20:19:16.000Z",
+          "wordCount": 494,
+          "title": "So PAB has already been released?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r0lzom/what_does_emurgo_do_for_the_cardano_ecosystem/",
+          "author": null,
+          "description": "Given that Emurgo received the same 1B ADA as IOHK and CF I would expect them to contribute a lot to support on Deals, adoption etc. Emurgo was initially classified as the commercial arm, however the only big deals seem to come from IOHK and the CF. If they didn't sell anything they will receives 50 million ADA/year on steaking rewards and the only prominent thing that they have delivered is YOROI. \n Now they offer developer courses for money. Even the Plutus pioneers program was free. Did I miss something? Please clarify, but for me this seems like a very good deal for them, bad for us.\n    submitted by    /u/Invictus1870  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r0lzom/what_does_emurgo_do_for_the_cardano_ecosystem/",
+          "publishedOn": "2021-11-23T20:09:04.000Z",
+          "wordCount": 740,
+          "title": "What does Emurgo do for the Cardano Ecosystem justifying the 1B Ada they got?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r0likw/charles_discusses_etoro/",
+          "author": null,
+          "description": "submitted by    /u/EpicMichaelFreeman  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r0likw/charles_discusses_etoro/",
+          "publishedOn": "2021-11-23T19:48:23.000Z",
+          "wordCount": 203,
+          "title": "Charles discusses Etoro"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r0icjg/good_probably_explanation_why_etoro_is_delisting/",
+          "author": null,
+          "description": "https://www.etoro.com/en-us/news-and-analysis/etoro-updates/important-update-regarding-ada-and-trx/\n  \nit has nothing to do with the Howey test as Digital Aset News speculated here: https://youtu.be/EvCzRpetyOQ\n  \nBecause XRP is also available to trade on Etoro for US clients.\n And ADA and TRX are not even on the list here https://www.cryptoratingcouncil.com/asset-ratings that could be securities where XRP has a 4.o rating.\n ALGO has a 2.0 rating and is much more centralized as ADA. \n Charles has confirmed here: https://youtu.be/WYQTkf8ndpY that \"we've never received any regulatory summons or subpoena or any of these things everything's fine cardano's fine\"\n so it is reasonable to believe that the same is valid for Tron.\n 2) its related to the new law shuffled in the Infrastructure Bill ju…",
+          "link": "https://www.reddit.com/r/cardano/comments/r0icjg/good_probably_explanation_why_etoro_is_delisting/",
+          "publishedOn": "2021-11-23T17:27:23.000Z",
+          "wordCount": 697,
+          "title": "Good probably explanation why Etoro is delisting ADA. Don't be afraid."
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r0ibkx/why_haskell_being_hard_probably_doesnt_matter_in/",
+          "author": null,
+          "description": "Hey crypto people :)\n I've been hearing a lot about how Haskell is \"hard\" and devs won't develop on it because of this.\n I would like to give my thoughts on this:\n First, the truth. Haskell is hard. In more broader terms, functional/Declarative languages are hard/less intuitive then the imperative ones (Java/Python/etc...) and we can't ignore this fact.\n BUT the thing is...\n It probably won't matter in the long run. Why? Because this project is huge. The funding is huge and also the trust and the community. And thus, people will go where the money is. Do you really think people will care when there are multiple dexes/loans protocols/PTE games/etc... that they are written in Haskell? No they won't. They want to make money. Period.\n For example, Bitcoin is also very very tough the develop on (due to the utxo model and the weird scripting language it has). This didn't (and doesn't) stop countless developers to develop on it (myself included). Do you know why (I guess you do by now :) ) ? Because the community, trust and money are there and I think that this will probably be the case for Cardano as well.\n Also, I might be wrong :) Just my 2 cents.\n Cheers\n    submitted by    /u/omrip34  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r0ibkx/why_haskell_being_hard_probably_doesnt_matter_in/",
+          "publishedOn": "2021-11-23T17:26:08.000Z",
+          "wordCount": 975,
+          "title": "Why Haskell being hard (probably) doesn't matter in the long run"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r0i03e/cardano_has_a_fair_distribution_of_ada_coins/",
+          "author": null,
+          "description": "Decentralization at team level vs. protocol\n Distributed networks and decentralization are concepts much older than Bitcoin. Satoshi Nakamoto proved that it was possible to create decentralized value that people could own, share and transfer without a middleman. In doing so, he laid the foundation for the entire cryptocurrency industry, or if you prefer, blockchain networks. Every public blockchain network needs native coins to enable decentralization itself. Coins may play a different role in each project, but they have one thing in common. It is necessary to ensure their fair distribution.\n Imagine you want to start a new decentralized project. What do you need? First of all, someone has to define the goals or mission of the project and its basic parameters. Then, some research and analy…",
+          "link": "https://www.reddit.com/r/cardano/comments/r0i03e/cardano_has_a_fair_distribution_of_ada_coins/",
+          "publishedOn": "2021-11-23T17:11:33.000Z",
+          "wordCount": 3682,
+          "title": "Cardano has a fair distribution of ADA coins"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r0hzhz/block_size_understanding/",
+          "author": null,
+          "description": "Hello fellow peoples,\n ​\n We all know cardano is going to test a 12.5% bigger block size next month to handle all the activity we are having on this great network.\n And it got me thinking, does a bigger block size affect decentralization under the supreme Ouroboros protocol? the future possible nobel prize winner maker protocol that is maintaining the cardano heart beating seamlessly in a secure and decentralized way?\n I have been looking through docs and failed to find anything.\n A great person in a discord told me that technically it makes it slightly less decentralized, but not much. The block size would have to be about 8MB and no changes in how cardano deals with transaction for it to be a worry.\n ​\n What´s your opinion on this?\n    submitted by    /u/Easy-Dust-3129  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r0hzhz/block_size_understanding/",
+          "publishedOn": "2021-11-23T17:10:48.000Z",
+          "wordCount": 979,
+          "title": "Block size understanding"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r0hz5a/etoro_being_sketchy/",
+          "author": null,
+          "description": "If anyone holds on Etoro they may want to consider closing their positions and switching platforms. They are pulling some sketchy stuff currently.\n    submitted by    /u/dannyd56  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r0hz5a/etoro_being_sketchy/",
+          "publishedOn": "2021-11-23T17:10:25.000Z",
+          "wordCount": 394,
+          "title": "Etoro being sketchy"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r0frb7/email_from_etoro_this_morning/",
+          "author": null,
+          "description": "submitted by    /u/Jay250Mass  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r0frb7/email_from_etoro_this_morning/",
+          "publishedOn": "2021-11-23T15:31:19.000Z",
+          "wordCount": 853,
+          "title": "Email from etoro this morning :/"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r0fdhh/very_interesting_news_here_why_is_ada_being/",
+          "author": null,
+          "description": "submitted by    /u/Crypto_Creepa  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r0fdhh/very_interesting_news_here_why_is_ada_being/",
+          "publishedOn": "2021-11-23T15:13:09.000Z",
+          "wordCount": 425,
+          "title": "Very interesting news here. Why is Ada being targeted here?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r0dopx/project_overview_liqwid_finance_a_defi_lending/",
+          "author": null,
+          "description": "submitted by    /u/Crypto_Simp  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r0dopx/project_overview_liqwid_finance_a_defi_lending/",
+          "publishedOn": "2021-11-23T13:51:44.000Z",
+          "wordCount": 220,
+          "title": "Project Overview: Liqwid Finance: A DeFi Lending Protocol - Part 1"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r0ctgb/charles_hoskinson_unravels_proxy_keys_as_cardano/",
+          "author": null,
+          "description": "Hoskinson is not stoping!\n https://crypto-academy.org/charles-hoskinson-unravels-proxy-keys-as-cardano/\n    submitted by    /u/titi1992ks  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r0ctgb/charles_hoskinson_unravels_proxy_keys_as_cardano/",
+          "publishedOn": "2021-11-23T13:06:04.000Z",
+          "wordCount": 254,
+          "title": "Charles Hoskinson Unravels Proxy Keys as Cardano (ADA) Passes 20M Transactions"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r0chrc/cardano_ada_achieved_another_milestone_earlier/",
+          "author": null,
+          "description": "» 20 Million transaction with no transaction time.\n » ZERO down time.\n » The blockchain network hasn’t suffered a downtime for 1522 days.\n https://preview.redd.it/hu4dkosrcc181.jpg?width=1280&format=pjpg&auto=webp&s=f0ee1ed21e56dd4eabc72e0a0bab35632f0f2da9\n    submitted by    /u/Willing_Bee5874  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r0chrc/cardano_ada_achieved_another_milestone_earlier/",
+          "publishedOn": "2021-11-23T12:49:17.000Z",
+          "wordCount": 455,
+          "title": "Cardano (ADA) achieved another milestone earlier today as it surpassed the 20 million transaction count without a single day of downtime."
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r090es/just_like_you_guys_asked_here_is_your_daily/",
+          "author": null,
+          "description": "submitted by    /u/amamamafk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r090es/just_like_you_guys_asked_here_is_your_daily/",
+          "publishedOn": "2021-11-23T08:51:39.000Z",
+          "wordCount": 536,
+          "title": "Just like you guys asked. Here is your daily reminded to vote for cardano to be supported by bitpay. We’re up to 38% ahead of the runner up at 34%. Wont stop updating till we’re 60%+!"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r07xo8/cardano_20_million_reasons/",
+          "author": null,
+          "description": "submitted by    /u/ArmyofSpies  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r07xo8/cardano_20_million_reasons/",
+          "publishedOn": "2021-11-23T07:38:08.000Z",
+          "wordCount": 193,
+          "title": "Cardano & 20 Million Reasons"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r07wo4/cardano_rumor_rundown_november_23_2021/",
+          "author": null,
+          "description": "Hey Everyone!\n Let's go...\n Newly covered today:\n  \nApparently, we have surpassed 20MM transactions on the Cardano network. https://twitter.com/CardanoTech/status/1462805643874680835\n World Mobile gives a peek at their aerostat hanger where they will launch balloons to connect the unconnected in Africa. https://twitter.com/WorldMobileTeam/status/1462715361015521280\n Pavia has dropped some very cool images of their avatars (or at least “background characters”). https://twitter.com/Pavia_io/status/1461713781122232327\n Remember, Cardano 360 is the last Thursday of every month. That means this Thursday, November 25th! https://twitter.com/InputOutputHK/status/1462793042587443206\n Jerome Powell is named to a second term as Chairman of the Federal Reserve. https://www.wsj.com/articles/biden-will-…",
+          "link": "https://www.reddit.com/r/cardano/comments/r07wo4/cardano_rumor_rundown_november_23_2021/",
+          "publishedOn": "2021-11-23T07:36:15.000Z",
+          "wordCount": 2895,
+          "title": "Cardano Rumor Rundown November 23, 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r06w8n/cardano_daily_discussion_november_23_2021/",
+          "author": null,
+          "description": "Hello everyone,\n Welcome to the Cardano Daily Discussion!\n The standard sub rules apply here (see sidebar), with the exception that price discussion is allowed in this thread, though we encourage you to try not to make this the focus and talk about the project itself. Please ask questions, help others and be civil - be sure to get involved in Project Catalyst too!\n If you're new, please make sure you're read through the newbies guide and share it with others (use the ?newbies comment command to reference it).\n NFTs for Planting Trees\n https://preview.redd.it/d9l75zowckx71.jpg?width=1600&format=pjpg&auto=webp&s=9a13a91cb371dce5d318b96dea2692dad9348b21\n You can donate ADA and receive NFTs for doing so, each ADA is a tree planted, it's a win win! Read about veritree here and take part on http…",
+          "link": "https://www.reddit.com/r/cardano/comments/r06w8n/cardano_daily_discussion_november_23_2021/",
+          "publishedOn": "2021-11-23T06:30:14.000Z",
+          "wordCount": 1365,
+          "title": "Cardano Daily Discussion - November 23, 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r056p5/what_separates_cardano_comunity_from_the_others/",
+          "author": null,
+          "description": "I’m starting to think that ADA people are anti cultural. We are because we have no desire to be instantly gratified and coddled at every turn. \n I see that most of us view the world as chess players. We seem to look at the projects and tech in terms of decades while every one else views their coin in cycles or just month to month. \n It’s kind of frustrating interacting with people who see life in right now / all or nothing terms. I can’t even talk half the time to these types without feeling like I’m sacrificing my true opinions.\n Nope. I don’t see the rest the crypto comunity liking us very much because we are not the type of people to just pretend, and put all of our money on ‘red’ or ‘black’. \n I do think that there are a lot of non Cardano holders of great projects. But damn it seems like Main Stream crypto folks are no different than the guys I play craps with at the casino. This is why I think we get hated on so much. We’re just not like them. \n I hope I don’t seem too arrogant but that’s my point. I guess when you look at life a few moves ahead of the other guy then you do come off as arrogant. So be it... I’m no better than them their no better than me but let’s just face it, we’re not like the rest.\n    submitted by    /u/Dissmass1980  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r056p5/what_separates_cardano_comunity_from_the_others/",
+          "publishedOn": "2021-11-23T04:47:34.000Z",
+          "wordCount": 1277,
+          "title": "What separates Cardano Comunity from the others. Why we get the hate:"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r0436j/heres_some_good_news_that_i_had_no_idea_about/",
+          "author": null,
+          "description": "Cardano is about to be listed on one of Europe's largest exchanges, Bitstamp. Supposed to happen either tomorrow or Thursday. Great news!\n https://investorplace.com/2021/11/dear-cardano-crypto-fans-mark-your-calendars-for-a-catalyst-on-nov-24/\n PS - Please don't confuse this with the Bitpay exchange, though. That's another exchange that we've all been recently voting for to list ADA. That voting will continue for another 39 days so vote every day.\n ADOPTION!\n    submitted by    /u/reddit_1999  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r0436j/heres_some_good_news_that_i_had_no_idea_about/",
+          "publishedOn": "2021-11-23T03:47:15.000Z",
+          "wordCount": 264,
+          "title": "Here's some good news that I had no idea about!"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r03n23/bitpay_pole_votes/",
+          "author": null,
+          "description": "Cardano up to 37% LFG. Let’s keep momentum. Keep voting!\n    submitted by    /u/HostAcceptable6697  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r03n23/bitpay_pole_votes/",
+          "publishedOn": "2021-11-23T03:23:29.000Z",
+          "wordCount": 161,
+          "title": "Bitpay pole votes"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r034k3/cardano_catalyst_coming_up_ada_getting_listed_on/",
+          "author": null,
+          "description": "submitted by    /u/Inthogen  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r034k3/cardano_catalyst_coming_up_ada_getting_listed_on/",
+          "publishedOn": "2021-11-23T02:56:35.000Z",
+          "wordCount": 171,
+          "title": "Cardano Catalyst coming up? ADA getting listed on Euro exchange Nov 24th."
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r02ihp/cardano_daily_transactions_over_495k_with_the/",
+          "author": null,
+          "description": "submitted by    /u/Professional-Tank-51  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r02ihp/cardano_daily_transactions_over_495k_with_the/",
+          "publishedOn": "2021-11-23T02:24:26.000Z",
+          "wordCount": 264,
+          "title": "Cardano daily transactions over 495k. With the block size increasing and the plutus script size increasing in the coming weeks, it will make everything better. Cardano is a marathon, not a sprint. Stay strong."
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r02f8u/lets_not_accuse_tron_supporters_of_botting_the/",
+          "author": null,
+          "description": "All this does is make us look like sore losers or call into question the validity of the poll if we win. I get being a ADA-fan, but let’s not be sour towards other crypto-coin communities— that just makes all crypto enthusiasts look bad\n    submitted by    /u/002timmy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r02f8u/lets_not_accuse_tron_supporters_of_botting_the/",
+          "publishedOn": "2021-11-23T02:19:29.000Z",
+          "wordCount": 475,
+          "title": "Let’s not accuse Tron supporters of botting the BitPay poll"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r020cm/buckle_up_its_going_to_be_a_big_epoch_304/",
+          "author": null,
+          "description": "​\n https://explorer.cardano.org/en\n Already at half a million transactions and not even a quarter of the way through 😮\n    submitted by    /u/itesasecret  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r020cm/buckle_up_its_going_to_be_a_big_epoch_304/",
+          "publishedOn": "2021-11-23T01:58:04.000Z",
+          "wordCount": 431,
+          "title": "Buckle up, it's going to be a big epoch (#304)"
+        },
         {
           "id": "https://www.reddit.com/r/cardano/comments/qzw61j/iog_to_increase_cardano_block_size_from_8_kb_to/",
           "author": null,
@@ -3216,6 +3513,33 @@
       "siteUrl": "https://www.reddit.com/r/redscarepod/top/?sort=top&t=day&limit=3",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redscarepod/comments/r0loh6/wholesomepost/",
+          "author": null,
+          "description": "I've had a little fling going on for the past month. It started out as a hookup, then turned into hooking up a couple times a week, then hooking up every other day for the past two weeks. Heading in the direction of something more and I really like her.\n She's going home for Thanksgiving, and we hung out before she left. We were in the kitchen eating a snack as I was getting ready to leave, when one of her friends came in to say goodbye. She knows the two of us are hooking up but I'd never met any of her friends before. We all made small talk for a few minutes but I really did have to go. I was debating whether I should kiss her goodbye in front of her friend but I didn't want to come on too strong, but also didn't want to not do it since I always kiss her goodbye. Said fuck it and just went for it, just a peck on the lips, nothing crazy. She walked me out and gave me another kiss where her friend couldn't see. The door closed, and I paused to pull out my headphones, when I heard the two of them squealing like little schoolgirls (it's not that weird, we're only seniors in college).\n Hopefully it was the good kind of squeals lol\n Life is good and I feel like im like 15 again :)\n    submitted by    /u/TurbulentRecording72  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/r0loh6/wholesomepost/",
+          "publishedOn": "2021-11-23T19:55:34.000Z",
+          "wordCount": 886,
+          "title": "Wholesomepost"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/r0d7t3/its_time_for_azalea_to_get_her_own_pod/",
+          "author": null,
+          "description": "submitted by    /u/Linappppppp  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/r0d7t3/its_time_for_azalea_to_get_her_own_pod/",
+          "publishedOn": "2021-11-23T13:26:53.000Z",
+          "wordCount": 535,
+          "title": "Its time for azalea to get her own pod."
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/r0cicr/a_red_scare_conspiracy_theory_too_hot_for_alex/",
+          "author": null,
+          "description": "submitted by    /u/debaser11  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/r0cicr/a_red_scare_conspiracy_theory_too_hot_for_alex/",
+          "publishedOn": "2021-11-23T12:50:14.000Z",
+          "wordCount": 763,
+          "title": "A red scare conspiracy theory too hot for Alex Jones."
+        },
+        {
           "id": "https://www.reddit.com/r/redscarepod/comments/qzsy5n/god_bless/",
           "author": null,
           "description": "submitted by    /u/raccoonboy42  \n [link]   [comments]",
@@ -3465,6 +3789,33 @@
       "feedUrl": "https://rsshub.app/github/trending/daily/haskell",
       "siteUrl": "https://github.com/trending/haskell?since=daily",
       "articles": [
+        {
+          "id": "https://github.com/carp-lang/Carp",
+          "author": "carp-lang",
+          "description": "A statically typed lisp, without a GC, for real-time applications.\n    \nLanguage: Haskell\n                            \nStar: 4,366\n                            \nFork: 153",
+          "link": "https://github.com/carp-lang/Carp",
+          "publishedOn": "2021-11-24T00:50:34.718Z",
+          "wordCount": 1038,
+          "title": "carp-lang /\n\n      Carp"
+        },
+        {
+          "id": "https://github.com/input-output-hk/cardano-sl",
+          "author": "input-output-hk",
+          "description": "Cryptographic currency implementing Ouroboros PoS protocol\n    \nLanguage: Haskell\n                            \nStar: 3,712\n                            \nFork: 619",
+          "link": "https://github.com/input-output-hk/cardano-sl",
+          "publishedOn": "2021-11-24T00:50:34.669Z",
+          "wordCount": 1009,
+          "title": "input-output-hk /\n\n      cardano-sl"
+        },
+        {
+          "id": "https://github.com/codecurve/FieldML-Haskell-01",
+          "author": "codecurve",
+          "description": "A prototype for a future version of FieldML\n    \nLanguage: Haskell\n                            \nStar: 1\n                            \nFork: 1",
+          "link": "https://github.com/codecurve/FieldML-Haskell-01",
+          "publishedOn": "2021-11-24T00:50:34.595Z",
+          "wordCount": 1650,
+          "title": "codecurve /\n\n      FieldML-Haskell-01"
+        },
         {
           "id": "https://github.com/facebook/duckling",
           "author": "facebook",
@@ -4318,6 +4669,186 @@
       "feedUrl": "https://hnrss.org/frontpage",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=29324551",
+          "author": "moultano",
+          "description": "Article URL: https://sfstandard.com/controversy-rages-as-california-follows-sfs-lead-with-new-approach-to-teaching-math/\nComments URL: https://news.ycombinator.com/item?id=29324551\nPoints: 153\n# Comments: 284",
+          "link": "https://sfstandard.com/controversy-rages-as-california-follows-sfs-lead-with-new-approach-to-teaching-math/",
+          "publishedOn": "2021-11-23T22:50:09.000Z",
+          "wordCount": 3474,
+          "title": "California moves to recommend delaying algebra to 9th grade statewide"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29324363",
+          "author": "mmaunder",
+          "description": "Article URL: https://www.wordfence.com/blog/2021/11/godaddy-tsohost-mediatemple-123reg-domain-factory-heart-internet-host-europe/\nComments URL: https://news.ycombinator.com/item?id=29324363\nPoints: 45\n# Comments: 7",
+          "link": "https://www.wordfence.com/blog/2021/11/godaddy-tsohost-mediatemple-123reg-domain-factory-heart-internet-host-europe/",
+          "publishedOn": "2021-11-23T22:29:07.000Z",
+          "wordCount": 510,
+          "title": "GoDaddy Breach Widens to TsoHost, Media Temple, 123Reg, Domain Factory and More"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29323477",
+          "author": "mkx",
+          "description": "Article URL: https://dover.com/careers\nComments URL: https://news.ycombinator.com/item?id=29323477\nPoints: 1\n# Comments: 0",
+          "link": "https://dover.com/careers",
+          "publishedOn": "2021-11-23T21:01:16.000Z",
+          "wordCount": 470,
+          "title": "Dover (YC S19) is hiring"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29323315",
+          "author": "matijash",
+          "description": "Article URL: https://wasp-lang.dev/blog/2021/11/22/fundraising-learnings\nComments URL: https://news.ycombinator.com/item?id=29323315\nPoints: 41\n# Comments: 24",
+          "link": "https://wasp-lang.dev/blog/2021/11/22/fundraising-learnings",
+          "publishedOn": "2021-11-23T20:51:19.000Z",
+          "wordCount": 1748,
+          "title": "Our fundraising learning post-YC"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29323260",
+          "author": "besmirch",
+          "description": "Article URL: https://hedgehogreview.com/web-features/thr/posts/where-the-humanities-arent-in-crisis\nComments URL: https://news.ycombinator.com/item?id=29323260\nPoints: 93\n# Comments: 98",
+          "link": "https://hedgehogreview.com/web-features/thr/posts/where-the-humanities-arent-in-crisis",
+          "publishedOn": "2021-11-23T20:45:41.000Z",
+          "wordCount": 1438,
+          "title": "The Catherine Project: A new experiment in liberal education"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29323095",
+          "author": "nceqs3",
+          "description": "Article URL: https://www.reuters.com/technology/facebook-can-pursue-malware-lawsuit-against-israels-nso-group-us-appeals-court-2021-11-08/\nComments URL: https://news.ycombinator.com/item?id=29323095\nPoints: 78\n# Comments: 5",
+          "link": "https://www.reuters.com/technology/facebook-can-pursue-malware-lawsuit-against-israels-nso-group-us-appeals-court-2021-11-08/",
+          "publishedOn": "2021-11-23T20:34:40.000Z",
+          "wordCount": 762,
+          "title": "Facebook can pursue malware lawsuit against Israel's NSO Group -US appeals court"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29322515",
+          "author": "dangoldin",
+          "description": "Article URL: https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html\nComments URL: https://news.ycombinator.com/item?id=29322515\nPoints: 136\n# Comments: 24",
+          "link": "https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html",
+          "publishedOn": "2021-11-23T19:55:08.000Z",
+          "wordCount": 1654,
+          "title": "Things I learned from building a production database"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29321987",
+          "author": "treblig",
+          "description": "Article URL: https://www.psl.com/feed-posts/web3-engineer-take\nComments URL: https://news.ycombinator.com/item?id=29321987\nPoints: 123\n# Comments: 85",
+          "link": "https://www.psl.com/feed-posts/web3-engineer-take",
+          "publishedOn": "2021-11-23T19:16:26.000Z",
+          "wordCount": 6488,
+          "title": "An engineer's observations on Web3 and its possibilities"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29321748",
+          "author": "nwienert",
+          "description": "Article URL: https://tamagui.dev\nComments URL: https://news.ycombinator.com/item?id=29321748\nPoints: 53\n# Comments: 6",
+          "link": "https://tamagui.dev",
+          "publishedOn": "2021-11-23T18:59:24.000Z",
+          "wordCount": 372,
+          "title": "Show HN: Tamagui – React design systems optimized for native and web"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29321637",
+          "author": "amasad",
+          "description": "Article URL: https://replit.com/@mattiselin/C64?v=1\nComments URL: https://news.ycombinator.com/item?id=29321637\nPoints: 113\n# Comments: 27",
+          "link": "https://replit.com/@mattiselin/C64?v=1",
+          "publishedOn": "2021-11-23T18:51:45.000Z",
+          "wordCount": null,
+          "title": "C64"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29321519",
+          "author": "davesailer",
+          "description": "Article URL: https://rarehistoricalphotos.com/schlorwagen-photographs-1939/\nComments URL: https://news.ycombinator.com/item?id=29321519\nPoints: 74\n# Comments: 52",
+          "link": "https://rarehistoricalphotos.com/schlorwagen-photographs-1939/",
+          "publishedOn": "2021-11-23T18:44:40.000Z",
+          "wordCount": 702,
+          "title": "German car that was super-aerodynamic but impractical"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29321504",
+          "author": "gneray",
+          "description": "Article URL: https://www.osohq.com/post/logic-into-sql\nComments URL: https://news.ycombinator.com/item?id=29321504\nPoints: 97\n# Comments: 31",
+          "link": "https://www.osohq.com/post/logic-into-sql",
+          "publishedOn": "2021-11-23T18:43:53.000Z",
+          "wordCount": 2633,
+          "title": "How We Turn Authorization Logic into SQL"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29321442",
+          "author": "ushakov",
+          "description": "Article URL: https://github.com/losfair/blueboat\nComments URL: https://news.ycombinator.com/item?id=29321442\nPoints: 121\n# Comments: 12",
+          "link": "https://github.com/losfair/blueboat",
+          "publishedOn": "2021-11-23T18:39:12.000Z",
+          "wordCount": 1646,
+          "title": "Blueboat, an open-source alternative to Cloudflare Workers"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29320986",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://www.apple.com/newsroom/2021/11/apple-sues-nso-group-to-curb-the-abuse-of-state-sponsored-spyware/\nComments URL: https://news.ycombinator.com/item?id=29320986\nPoints: 687\n# Comments: 266",
+          "link": "https://www.apple.com/newsroom/2021/11/apple-sues-nso-group-to-curb-the-abuse-of-state-sponsored-spyware/",
+          "publishedOn": "2021-11-23T18:04:45.000Z",
+          "wordCount": 2629,
+          "title": "Apple sues NSO Group to curb the abuse of state-sponsored spyware"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29320078",
+          "author": "tosh",
+          "description": "Article URL: https://reactionwheel.net/2021/11/your-boards-of-directors-is-probably-going-to-fire-you.html\nComments URL: https://news.ycombinator.com/item?id=29320078\nPoints: 464\n# Comments: 212",
+          "link": "https://reactionwheel.net/2021/11/your-boards-of-directors-is-probably-going-to-fire-you.html",
+          "publishedOn": "2021-11-23T16:50:58.000Z",
+          "wordCount": 4367,
+          "title": "Boards are dangerous to founder/CEOs"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29319833",
+          "author": "johncena33",
+          "description": "Article URL: https://www.nytimes.com/2021/11/23/magazine/covid-lab-leak.html\nComments URL: https://news.ycombinator.com/item?id=29319833\nPoints: 122\n# Comments: 261",
+          "link": "https://www.nytimes.com/2021/11/23/magazine/covid-lab-leak.html",
+          "publishedOn": "2021-11-23T16:35:03.000Z",
+          "wordCount": 3928,
+          "title": "The Next ‘Lab Leak’"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29319651",
+          "author": "sec400",
+          "description": "Article URL: https://allthatsinteresting.com/max-headroom-hack\nComments URL: https://news.ycombinator.com/item?id=29319651\nPoints: 243\n# Comments: 138",
+          "link": "https://allthatsinteresting.com/max-headroom-hack",
+          "publishedOn": "2021-11-23T16:23:09.000Z",
+          "wordCount": 1974,
+          "title": "The Max Headroom Incident"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29319151",
+          "author": "nomemory",
+          "description": "Article URL: https://www.andreinc.net/2021/11/08/a-tale-of-java-hash-tables\nComments URL: https://news.ycombinator.com/item?id=29319151\nPoints: 98\n# Comments: 69",
+          "link": "https://www.andreinc.net/2021/11/08/a-tale-of-java-hash-tables",
+          "publishedOn": "2021-11-23T15:46:41.000Z",
+          "wordCount": 7234,
+          "title": "A Tale of Java Hash Tables"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29319034",
+          "author": "czue",
+          "description": "Article URL: https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/\nComments URL: https://news.ycombinator.com/item?id=29319034\nPoints: 307\n# Comments: 180",
+          "link": "https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/",
+          "publishedOn": "2021-11-23T15:37:47.000Z",
+          "wordCount": 4095,
+          "title": "Django, HTMX and Alpine.js: Modern websites, JavaScript optional"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29318751",
+          "author": "gcmeplz",
+          "description": "Article URL: https://will-keleher.com/posts/5-Useful-Bash-Patterns.html\nComments URL: https://news.ycombinator.com/item?id=29318751\nPoints: 166\n# Comments: 63",
+          "link": "https://will-keleher.com/posts/5-Useful-Bash-Patterns.html",
+          "publishedOn": "2021-11-23T15:16:27.000Z",
+          "wordCount": 384,
+          "title": "Bash Patterns I Use Weekly"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=29313133",
           "author": "Rochus",
@@ -5945,6 +6476,132 @@
       "feedUrl": "https://nitter.net/disclosetv/rss",
       "siteUrl": "https://nitter.net/disclosetv",
       "articles": [
+        {
+          "id": "https://nitter.net/disclosetv/status/1463279635861540864#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - 6th person, 8-year-old Jackson Sparks, dies from injuries in the Waukesha Christmas parade rampage.\n\ncbs58.com/news/8-year-old-bo…",
+          "link": "https://nitter.net/disclosetv/status/1463279635861540864#m",
+          "publishedOn": "2021-11-23T22:53:46.000Z",
+          "wordCount": 267,
+          "title": "JUST IN - 6th person, 8-year-old Jackson Sparks, dies from injuries in the Waukesha Christmas parade rampage.\n\nhttps://cbs58.com/news/8-year-old-boy-dies-from-injuries-in-waukesha-holiday-parade-tragedy/"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463277467670614026#m",
+          "author": "@disclosetv",
+          "description": "UPDATE - 6th person, a child, has died in the deadly Wisconsin Christmas parade rampage.",
+          "link": "https://nitter.net/disclosetv/status/1463277467670614026#m",
+          "publishedOn": "2021-11-23T22:45:09.000Z",
+          "wordCount": 252,
+          "title": "R to @disclosetv: UPDATE - 6th person, a child, has died in the deadly Wisconsin Christmas parade rampage."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463275231993376773#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - $5 million cash bail for Darrell Brook, charged with 5 counts of first-degree intentional homicide, granted.",
+          "link": "https://nitter.net/disclosetv/status/1463275231993376773#m",
+          "publishedOn": "2021-11-23T22:36:16.000Z",
+          "wordCount": 246,
+          "title": "JUST IN - $5 million cash bail for Darrell Brook, charged with 5 counts of first-degree intentional homicide, granted."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463260069768970245#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Biden admin will require essential, nonresident travelers crossing U.S. land borders, such as truck drivers, to be fully vaccinated against #COVID19 (WaPo)",
+          "link": "https://nitter.net/disclosetv/status/1463260069768970245#m",
+          "publishedOn": "2021-11-23T21:36:01.000Z",
+          "wordCount": 305,
+          "title": "JUST IN - Biden admin will require essential, nonresident travelers crossing U.S. land borders, such as truck drivers, to be fully vaccinated against #COVID19 (WaPo)"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463257376895680516#m",
+          "author": "@disclosetv",
+          "description": "NEW - Biden's Energy Secretary does not know how much oil the United States uses per day.",
+          "link": "https://nitter.net/disclosetv/status/1463257376895680516#m",
+          "publishedOn": "2021-11-23T21:25:19.000Z",
+          "wordCount": 196,
+          "title": "NEW - Biden's Energy Secretary does not know how much oil the United States uses per day."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463253292247666691#m",
+          "author": "@disclosetv",
+          "description": "NOW - Psaki deflects from Biden calling Kyle Rittenhouse a white supremacist and instead blames Trump.",
+          "link": "https://nitter.net/disclosetv/status/1463253292247666691#m",
+          "publishedOn": "2021-11-23T21:09:05.000Z",
+          "wordCount": 235,
+          "title": "NOW - Psaki deflects from Biden calling Kyle Rittenhouse a white supremacist and instead blames Trump."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463242003706220545#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Jan 6 \"select committee\" subpoenas leaders of Proud Boys & Oath Keeper.",
+          "link": "https://nitter.net/disclosetv/status/1463242003706220545#m",
+          "publishedOn": "2021-11-23T20:24:14.000Z",
+          "wordCount": 205,
+          "title": "JUST IN - Jan 6 \"select committee\" subpoenas leaders of Proud Boys & Oath Keeper."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463239341845659656#m",
+          "author": "@disclosetv",
+          "description": "NEW - Biden reads from the teleprompter incl. an \"end of quote\" notice.",
+          "link": "https://nitter.net/disclosetv/status/1463239341845659656#m",
+          "publishedOn": "2021-11-23T20:13:39.000Z",
+          "wordCount": 185,
+          "title": "NEW - Biden reads from the teleprompter incl. an \"end of quote\" notice."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463230821628878850#m",
+          "author": "@disclosetv",
+          "description": "Biden: Happy Thanksgiving! I'm heading to a food kitchen... now.\n\nReporters: When will you answer our questions, sir?\n\nBiden leaves.",
+          "link": "https://nitter.net/disclosetv/status/1463230821628878850#m",
+          "publishedOn": "2021-11-23T19:39:48.000Z",
+          "wordCount": 229,
+          "title": "Biden: Happy Thanksgiving! I'm heading to a food kitchen... now.\n\nReporters: When will you answer our questions, sir?\n\nBiden leaves."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463229189608427524#m",
+          "author": "@disclosetv",
+          "description": "NOW - Biden blames high gas prices on oil-producing countries and large companies not ramping up production.",
+          "link": "https://nitter.net/disclosetv/status/1463229189608427524#m",
+          "publishedOn": "2021-11-23T19:33:18.000Z",
+          "wordCount": 251,
+          "title": "NOW - Biden blames high gas prices on oil-producing countries and large companies not ramping up production."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463208847456276492#m",
+          "author": "@disclosetv",
+          "description": "NOW - Infowars' Alex Jones says he will probably plead the 5th and not testify before the Jan 6 \"select committee\".",
+          "link": "https://nitter.net/disclosetv/status/1463208847456276492#m",
+          "publishedOn": "2021-11-23T18:12:28.000Z",
+          "wordCount": 307,
+          "title": "NOW - Infowars' Alex Jones says he will probably plead the 5th and not testify before the Jan 6 \"select committee\"."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463182324321996804#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Police to increase presence at retail stores amid mob looting crimewave in San Francisco, California Gov. Newsom announces.",
+          "link": "https://nitter.net/disclosetv/status/1463182324321996804#m",
+          "publishedOn": "2021-11-23T16:27:05.000Z",
+          "wordCount": 180,
+          "title": "JUST IN - Police to increase presence at retail stores amid mob looting crimewave in San Francisco, California Gov. Newsom announces."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463116584805978112#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - United States to release up to 50 million barrels of oil from its strategic petroleum reserve: White House",
+          "link": "https://nitter.net/disclosetv/status/1463116584805978112#m",
+          "publishedOn": "2021-11-23T12:05:51.000Z",
+          "wordCount": 250,
+          "title": "JUST IN - United States to release up to 50 million barrels of oil from its strategic petroleum reserve: White House"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1462955796933885954#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Thomas Jefferson statue removed from New York City Hall after 187 years. The \"Public Design Commission\" voted to banish the statute of the third U.S. president.\n\nnypost.com/2021/11/22/thomas…",
+          "link": "https://nitter.net/disclosetv/status/1462955796933885954#m",
+          "publishedOn": "2021-11-23T01:26:57.000Z",
+          "wordCount": 292,
+          "title": "JUST IN - Thomas Jefferson statue removed from New York City Hall after 187 years. The \"Public Design Commission\" voted to banish the statute of the third U.S. president.\n\nhttps://nypost.com/2021/11/22/thomas-jefferson-statue-leaves-city-hall-after-187-years/"
+        },
         {
           "id": "https://nitter.net/disclosetv/status/1462911226120450051#m",
           "author": "@disclosetv",
