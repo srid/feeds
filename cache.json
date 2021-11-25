@@ -6,6 +6,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=357294",
+          "author": "George Francis",
+          "description": "The browser has long been a medium for art and design. From Lynn Fisher’s joyful A Single Div creations to Diana Smith’s staggeringly detailed CSS paintings, wildly creative, highly skilled developers have — over the years — continuously pushed …\nThe post Creating Generative Patterns with The CSS Paint API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/creating-generative-patterns-with-the-css-paint-api/",
+          "publishedOn": "2021-11-24T15:49:08.000Z",
+          "wordCount": 5274,
+          "title": "Creating Generative Patterns with The CSS Paint API"
+        },
+        {
           "id": "https://css-tricks.com/?p=357412",
           "author": "Chris Coyier",
           "description": "Tyler Sticka digs in here in the best possible way: by making a test page and literally measuring performance. Maybe 1,000 icons is a little bit of an edge case, but hey, 250 rows of data with four icons in …\nThe post Which SVG technique performs best for way too many icons? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -328,6 +337,15 @@
       "siteUrl": "https://serokell.io/blog",
       "articles": [
         {
+          "id": "https://serokell.io/blog/interview-with-louis-pilfold",
+          "author": "hi+jonnmostovoy@serokell.io (Jonn Mostovoy)",
+          "description": "Listen to our interview with Louis Pilfold, the creator of Gleam, which is a fast, friendly, and functional language for building type-safe, scalable systems that runs on BEAM.",
+          "link": "https://serokell.io/blog/interview-with-louis-pilfold",
+          "publishedOn": "2021-11-23T00:00:00.000Z",
+          "wordCount": 5626,
+          "title": "A Portrait of the Language Designer as a Young Man: Interview with Louis Pilfold"
+        },
+        {
           "id": "https://serokell.io/blog/ecto-guide-for-beginners",
           "author": "hi+gintsdreimanis@serokell.io (Gints Dreimanis)",
           "description": "Ecto is the go-to database toolkit for Elixir developers. Read our beginner-oriented article to learn how it works and what's special about it.",
@@ -413,6 +431,42 @@
       "feedUrl": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
       "siteUrl": "https://www.reddit.com/r/haskell/top/?sort=top&t=day",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r1ihcx/lazy_filterm/",
+          "author": null,
+          "description": "Hi everyone! I'm a beginner at Haskell and this is my first question. I figured out how to make things work myself and asking this just to understand Haskell better and improve my code.\n I want to write a file, but its path might exist already so I want to find a free path by adding numbers to the path. E.g. if I already have \"foo.txt\" then I want to write to \"foo 1.txt\", then \"foo 2.txt\" and so on.\n So I wrote this function:  findFreeName :: FilePath -> IO FilePath findFreeName path = head <$> filterM isPathFree (map makePathWithNumber [1, 2 ..]) where -- skipping implementation here: isPathFree :: FilePath -> IO Bool -- uses the path parameter and turns x to \"foo x.txt\" unless x is 0 makePathNumber :: Int -> FilePath  And it started to check paths \"foo.txt\", \"foo 1.txt\", \"foo 2.txt\" and …",
+          "link": "https://www.reddit.com/r/haskell/comments/r1ihcx/lazy_filterm/",
+          "publishedOn": "2021-11-24T23:42:19.000Z",
+          "wordCount": 906,
+          "title": "Lazy filterM"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r11xz4/writing_the_logic_for_ios_app_in_haskell/",
+          "author": null,
+          "description": "I want to write the gui for my iOS app in swift, and the logic in Haskell. How would I go about doing this? It seems for the a macOS app I can create an excecutable in cabal then simply bring that into my Xcode project, but I don’t think I can do this for an iOS app.\n    submitted by    /u/ymishima  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r11xz4/writing_the_logic_for_ios_app_in_haskell/",
+          "publishedOn": "2021-11-24T10:12:50.000Z",
+          "wordCount": 880,
+          "title": "Writing the logic for IOS app in Haskell"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r0y800/beginners_foolishness_causes_infinite_recursion/",
+          "author": null,
+          "description": "Working with the REPL, I just tried this\n mylist1 = [1,2,3] \n then I was foolish enough to do this\n mylist1 = -2 : -1 : 0 : mylist1 \n then\n mylist1 \n The result was runaway recursion that I could stop (I'm in Emacs) only by BREAK and STOP from the Signals menu. Once stopped just entering mylist1 again started the infinite recursion again. It's like mylist1 is a hidden bomb. Can it be defused? So what exactly is happening with my \"don't try this at home\" experiment?\n    submitted by    /u/teilchen010  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r0y800/beginners_foolishness_causes_infinite_recursion/",
+          "publishedOn": "2021-11-24T06:13:22.000Z",
+          "wordCount": 1146,
+          "title": "Beginner's foolishness causes infinite recursion at the REPL"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r0te9n/what_does_exception_preludelast_empty_list_mean/",
+          "author": null,
+          "description": "I keep getting this exception and I'm not sure what the issue is? In all my functions I have cases to deal with empty lists using pattern matching, so I don't see where last would be applied to an empty list in my code. Can someone help me out?\n    submitted by    /u/AmonicB  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r0te9n/what_does_exception_preludelast_empty_list_mean/",
+          "publishedOn": "2021-11-24T01:57:30.000Z",
+          "wordCount": 907,
+          "title": "What does Exception: Prelude.last: empty list mean?"
+        },
         {
           "id": "https://www.reddit.com/r/haskell/comments/r0o7tl/wanting_to_build_a_dapp_on_cardano/",
           "author": null,
@@ -1291,6 +1345,231 @@
       "feedUrl": "https://www.reddit.com/r/cardano/top/.rss?sort=top&t=day",
       "siteUrl": "https://www.reddit.com/r/cardano/top/?sort=top&t=day",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r1gewz/my_cardano_story/",
+          "author": null,
+          "description": "I am a fairly new investor. I joined the Crypto market at the end of October 2021. \n Naturally, I looked at Bitcoin then thought, Nah I missed the train on this one. I needed something that was going to make me lots of money in the medium to long term. I looked at Bitcash and was convinced it was it, only because I imagined that the value would climb up to the current price of BTC. I logged on to Paypal to buy it but for some reason, they would not accept my card payment. After several attempts, I gave up and went to bed. I was destined for something else :)\n The next day I watched a few videos about Crypto and discovered there is more to cryptocurrency than Bitcoin. I looked into the top 20 altcoins and discovered Cardano ADA. I was impressed with the vision, the peer-to-peer review, the …",
+          "link": "https://www.reddit.com/r/cardano/comments/r1gewz/my_cardano_story/",
+          "publishedOn": "2021-11-24T22:02:16.000Z",
+          "wordCount": 1069,
+          "title": "My Cardano Story"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r1g05e/cardano_ada_has_increased_block_size_by_125_we/",
+          "author": null,
+          "description": "submitted by    /u/ConvincingCrypto  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r1g05e/cardano_ada_has_increased_block_size_by_125_we/",
+          "publishedOn": "2021-11-24T21:43:13.000Z",
+          "wordCount": 308,
+          "title": "Cardano (ADA) has increased block size by 12.5%! We explain what this means and why this increase was needed for Dapps and further growth of the ecosystem."
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r1f287/looks_like_cardano_really_did_make_it_to_the/",
+          "author": null,
+          "description": "submitted by    /u/Summit_pool  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r1f287/looks_like_cardano_really_did_make_it_to_the/",
+          "publishedOn": "2021-11-24T20:59:17.000Z",
+          "wordCount": 376,
+          "title": "Looks like Cardano really did make it to the cover of The Economist."
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r1cx5x/if_cardano_is_doing_badly_why_are_there_so_many/",
+          "author": null,
+          "description": "submitted by    /u/thgbrgs  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r1cx5x/if_cardano_is_doing_badly_why_are_there_so_many/",
+          "publishedOn": "2021-11-24T19:21:01.000Z",
+          "wordCount": 501,
+          "title": "If cardano is doing badly, why are there so many open jobs?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r1biz5/daily_reminder_dont_forget_to_vote/",
+          "author": null,
+          "description": "submitted by    /u/Nemesis916  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r1biz5/daily_reminder_dont_forget_to_vote/",
+          "publishedOn": "2021-11-24T18:19:12.000Z",
+          "wordCount": 270,
+          "title": "Daily Reminder: Don’t forget to Vote!"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r1bd3t/how_will_the_looming_ethiopian_civil_war_impact/",
+          "author": null,
+          "description": "Now more than ever I realize that what Charles was talking about is not just relevant but an imperative change needed for the countries prone to destabilization. \n Having the entire student body of Ethiopia, be at risk of losing their academic achievements in the span of days really is eye opening. I hope the system gets put in place before anything bad happens.\n    submitted by    /u/ilikemyname21  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r1bd3t/how_will_the_looming_ethiopian_civil_war_impact/",
+          "publishedOn": "2021-11-24T18:11:42.000Z",
+          "wordCount": 441,
+          "title": "How will the looming Ethiopian civil war impact the implementation of the blockchain into the Ethiopian school system?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r1acn1/follow_cardanos_development_github/",
+          "author": null,
+          "description": "Here a website where you can follow the cardano`s development: https://cardanoupdates.com/\n    submitted by    /u/thgbrgs  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r1acn1/follow_cardanos_development_github/",
+          "publishedOn": "2021-11-24T17:26:47.000Z",
+          "wordCount": 222,
+          "title": "Follow Cardano's development [GitHub]"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r19e84/about_liquidity_and_etoro/",
+          "author": null,
+          "description": "submitted by    /u/niloc1229  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r19e84/about_liquidity_and_etoro/",
+          "publishedOn": "2021-11-24T16:45:01.000Z",
+          "wordCount": 158,
+          "title": "About Liquidity and Etoro"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r18w6h/coti_and_sundaeswap_are_partnering_to_explore/",
+          "author": null,
+          "description": "submitted by    /u/2Monkeys1Cat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r18w6h/coti_and_sundaeswap_are_partnering_to_explore/",
+          "publishedOn": "2021-11-24T16:22:17.000Z",
+          "wordCount": 243,
+          "title": "COTI and SundaeSwap are Partnering to Explore Integration of Djed, Cardano-based Stablecoin"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r18b4a/did_you_buy_cardano_because_you_thought_it_was/",
+          "author": null,
+          "description": "The market is just playing out the cycle.\n Collective human psychology, emotion and intent (sentiment) when working within the confines of a specific ruleset (the market) plays out to predictable results on the longer term in fairly demonstrable fashion.\n Trading bots and algorithms ultimately are working within the same ruleset that is underpinned by that collective sentiment. That is, they don't push the the market sentiment much outside of what you'd consider a fairly benign tolerance level.\n Natural updates, news items or events sometimes push the next big price move further along the timeline or indeed bring it closer to the present but beyond a black swan event specific to the market and/or that specific tech/stock/commodity these things largely play out in their predictive human patterns on the longer view.\n So, Cardano price is... just playing out.\n Catch the 4+4 correlation points below, where do you think this is going next?\n Cardano Price 1Y USD\n  \nDid you buy Cardano because you thought it was going to Zero? No\n Did you buy Cardano because you thought it was crap technology with no future? No\n  \nSo with those two things in mind, as a genuine question, what are you worried about?\n If you 'NEED' the money now, then you shouldn't have invested the money in the first place.\n Sit back, buy some more, or hold what you have, or sell what you have, it's your prerogative but know this - no-one got rich by buying, panicking and then selling on that panic, no one.\n    submitted by    /u/_DESTRUCTION  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r18b4a/did_you_buy_cardano_because_you_thought_it_was/",
+          "publishedOn": "2021-11-24T15:55:24.000Z",
+          "wordCount": 742,
+          "title": "Did you buy Cardano because you thought it was going to zero?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r16nls/i_am_from_india_unfortunately_our_govt_is/",
+          "author": null,
+          "description": "submitted by    /u/GodzillaTBHP  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r16nls/i_am_from_india_unfortunately_our_govt_is/",
+          "publishedOn": "2021-11-24T14:38:41.000Z",
+          "wordCount": 524,
+          "title": "I am from India. Unfortunately our Govt is bringing a Crypto regulation bill on Nov 29. What I realise is Largely people related scams and gambling with Crypto. Any thoughts on how good crypto can be differentiated from bad ones? We can’t let some evil ones derail a better human future."
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r16n7h/ada_prepare_for_cardano_to_have_a_huge_2022/",
+          "author": null,
+          "description": "submitted by    /u/BigBosskitty  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r16n7h/ada_prepare_for_cardano_to_have_a_huge_2022/",
+          "publishedOn": "2021-11-24T14:38:13.000Z",
+          "wordCount": 356,
+          "title": "ADA | PREPARE FOR CARDANO TO HAVE A HUGE 2022"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r16lwf/once_hydra_and_smart_contracts_are_in_full_steam/",
+          "author": null,
+          "description": "Genuinely curious what, from a metric standpoint will be better/worse?\n Gas/speed/security etc.\n    submitted by    /u/Anticrombie233  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r16lwf/once_hydra_and_smart_contracts_are_in_full_steam/",
+          "publishedOn": "2021-11-24T14:36:31.000Z",
+          "wordCount": 604,
+          "title": "Once hydra and smart contracts are in full steam ahead mode, what is objectively worse on ADAs chain vs, say Eth?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r12awk/bitstamp_is_ten_times_larger_as_etoro/",
+          "author": null,
+          "description": "Bitstamp will launch ADA on their Exchange today 24 November 2021 and is 15th on the list of all Exchanges .\n Bitstamp is based in Luxemburg and regulated . https://www.bitstamp.net/about-us/\n Luxemburg is top location preference for institutional investors as Hedge Funds buy PWC https://www.pwc.lu/en/hedge-funds/docs/pwc-hedge-funds-hedge-funds-luxembourg.pdf BITSTAMP offers institutional services : https://www.bitstamp.net/institutional-trading/\n It’s very complicated for a hedge fund to get agreement from the compliance officer to trade on an exchange . They have to be regulated .\n EToro has a TEN times lower volume per day then Bitstamp. And TWENTY times lower then Binance . Because you can NOT transfer your coins from EToro to your wallet , NOT ANY institutional company will receive t…",
+          "link": "https://www.reddit.com/r/cardano/comments/r12awk/bitstamp_is_ten_times_larger_as_etoro/",
+          "publishedOn": "2021-11-24T10:37:26.000Z",
+          "wordCount": 1612,
+          "title": "Bitstamp is ten times larger as EToro"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r12a29/whats_with_regulatory_concerns/",
+          "author": null,
+          "description": "I note etoro pulling cardano over concerns of security which is presumably causing this dip? Should we be concerned it's the next scc issue like Ripple?? 😂 Don't give me hodl as responsive I've done that since march\n    submitted by    /u/Psychological-Tap578  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r12a29/whats_with_regulatory_concerns/",
+          "publishedOn": "2021-11-24T10:35:43.000Z",
+          "wordCount": 809,
+          "title": "What's with regulatory concerns"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r11dk1/caravan_moving_on_microsummits/",
+          "author": null,
+          "description": "New video form Charles: https://www.youtube.com/watch?v=IjXkP_DGRgY\n    submitted by    /u/thgbrgs  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r11dk1/caravan_moving_on_microsummits/",
+          "publishedOn": "2021-11-24T09:34:13.000Z",
+          "wordCount": 227,
+          "title": "Caravan Moving On: MicroSummits"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r10orp/how_cardano_is_paving_new_avenues_for_nft_growth/",
+          "author": null,
+          "description": "submitted by    /u/C4-PO  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r10orp/how_cardano_is_paving_new_avenues_for_nft_growth/",
+          "publishedOn": "2021-11-24T08:46:49.000Z",
+          "wordCount": 169,
+          "title": "How Cardano is paving new avenues for NFT growth"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r10b4q/in_times_of_need_it_is_good_to_turn_to_the/",
+          "author": null,
+          "description": "submitted by    /u/Cadenca  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r10b4q/in_times_of_need_it_is_good_to_turn_to_the/",
+          "publishedOn": "2021-11-24T08:21:51.000Z",
+          "wordCount": 544,
+          "title": "In times of need, it is good to turn to the classics.. The morning after the March 2020 meltdown, Charles made this video. At just 11 000 views, many new people still haven't seen it."
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r0zyrw/8_ahead_well_done_but_vote_again/",
+          "author": null,
+          "description": "submitted by    /u/makaros622  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r0zyrw/8_ahead_well_done_but_vote_again/",
+          "publishedOn": "2021-11-24T08:00:35.000Z",
+          "wordCount": 379,
+          "title": "8% ahead! Well done but vote again!"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r0z0b7/cardano_rumor_rundown_november_24_2021/",
+          "author": null,
+          "description": "Hey Everyone!\n Let's go...\n Newly covered today:\n  \nIt looks like we’re getting a block size increase and a plutus script memory increase on December 1, 2021. https://iohk.io/en/blog/posts/2021/11/22/slow-and-steady-wins-the-race-network-evolution-for-network-growth/ https://twitter.com/cardano_whale/status/1463097104331468803\n Pavia has partnered with ReadyPlayerMe so that you can build your own avatar. https://twitter.com/Pavia_io/status/1463103151893106688\n Charles drops a video on the eToro delisting. It sounds like IOHK knew nothing about this. Interacting with exchanges falls in the Cardano Foundation’s wheelhouse. It’s unclear whether the CF knew anything. He also pointed out it’s very interesting that an old line exchange like Bitstamp has decided to LIST Cardano during this same p…",
+          "link": "https://www.reddit.com/r/cardano/comments/r0z0b7/cardano_rumor_rundown_november_24_2021/",
+          "publishedOn": "2021-11-24T07:00:44.000Z",
+          "wordCount": 2285,
+          "title": "Cardano Rumor Rundown November 24, 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r0yhyk/cardano_daily_discussion_november_24_2021/",
+          "author": null,
+          "description": "Hello everyone,\n Welcome to the Cardano Daily Discussion!\n The standard sub rules apply here (see sidebar), with the exception that price discussion is allowed in this thread, though we encourage you to try not to make this the focus and talk about the project itself. Please ask questions, help others and be civil - be sure to get involved in Project Catalyst too!\n If you're new, please make sure you're read through the newbies guide and share it with others (use the ?newbies comment command to reference it).\n NFTs for Planting Trees\n https://preview.redd.it/d9l75zowckx71.jpg?width=1600&format=pjpg&auto=webp&s=9a13a91cb371dce5d318b96dea2692dad9348b21\n You can donate ADA and receive NFTs for doing so, each ADA is a tree planted, it's a win win! Read about veritree here and take part on http…",
+          "link": "https://www.reddit.com/r/cardano/comments/r0yhyk/cardano_daily_discussion_november_24_2021/",
+          "publishedOn": "2021-11-24T06:30:11.000Z",
+          "wordCount": 850,
+          "title": "Cardano Daily Discussion - November 24, 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r0xwak/new_ama_just_finished_with_a_picture_of/",
+          "author": null,
+          "description": "submitted by    /u/Dangerous_Mud501  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r0xwak/new_ama_just_finished_with_a_picture_of/",
+          "publishedOn": "2021-11-24T05:54:11.000Z",
+          "wordCount": 444,
+          "title": "New AMA just finished with a picture of development and vision for 2022."
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r0wkzf/thoughts_on_etoro_delisting/",
+          "author": null,
+          "description": "submitted by    /u/dmoneyyyyt  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r0wkzf/thoughts_on_etoro_delisting/",
+          "publishedOn": "2021-11-24T04:39:12.000Z",
+          "wordCount": 569,
+          "title": "Thoughts on eToro delisting?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r0ttz1/plutus_application_backend_pab_supporting_dapp/",
+          "author": null,
+          "description": "This blog:-\n https://iohk.io/en/blog/posts/2021/10/28/plutus-application-backend-pab-supporting-dapp-development-on-cardano/\n    submitted by    /u/diwalost  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r0ttz1/plutus_application_backend_pab_supporting_dapp/",
+          "publishedOn": "2021-11-24T02:19:09.000Z",
+          "wordCount": 294,
+          "title": "Plutus Application Backend (PAB): supporting DApp development on Cardano"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r0s7vm/cip007_contracts_and_licenses_on_metadata_how_can/",
+          "author": null,
+          "description": "submitted by    /u/defi_authority  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r0s7vm/cip007_contracts_and_licenses_on_metadata_how_can/",
+          "publishedOn": "2021-11-24T00:57:49.000Z",
+          "wordCount": 258,
+          "title": "CIP-007, Contracts and Licenses on Metadata: how can we better understand what we own on Cardano when owning native assets? Asking for comments and contributions."
+        },
         {
           "id": "https://www.reddit.com/r/cardano/comments/r0nad2/lets_keep_up_the_votes_on_bitpay/",
           "author": null,
@@ -3513,6 +3792,33 @@
       "siteUrl": "https://www.reddit.com/r/redscarepod/top/?sort=top&t=day&limit=3",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redscarepod/comments/r15265/recine/",
+          "author": null,
+          "description": "submitted by    /u/sirenboi12  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/r15265/recine/",
+          "publishedOn": "2021-11-24T13:21:57.000Z",
+          "wordCount": 330,
+          "title": "Recine"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/r137zq/jesus/",
+          "author": null,
+          "description": "submitted by    /u/Morwening  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/r137zq/jesus/",
+          "publishedOn": "2021-11-24T11:37:07.000Z",
+          "wordCount": 707,
+          "title": "jesus"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/r0wkam/this_is_true/",
+          "author": null,
+          "description": "submitted by    /u/Narrow_Table  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/r0wkam/this_is_true/",
+          "publishedOn": "2021-11-24T04:38:05.000Z",
+          "wordCount": 602,
+          "title": "this is true"
+        },
+        {
           "id": "https://www.reddit.com/r/redscarepod/comments/r0loh6/wholesomepost/",
           "author": null,
           "description": "I've had a little fling going on for the past month. It started out as a hookup, then turned into hooking up a couple times a week, then hooking up every other day for the past two weeks. Heading in the direction of something more and I really like her.\n She's going home for Thanksgiving, and we hung out before she left. We were in the kitchen eating a snack as I was getting ready to leave, when one of her friends came in to say goodbye. She knows the two of us are hooking up but I'd never met any of her friends before. We all made small talk for a few minutes but I really did have to go. I was debating whether I should kiss her goodbye in front of her friend but I didn't want to come on too strong, but also didn't want to not do it since I always kiss her goodbye. Said fuck it and just went for it, just a peck on the lips, nothing crazy. She walked me out and gave me another kiss where her friend couldn't see. The door closed, and I paused to pull out my headphones, when I heard the two of them squealing like little schoolgirls (it's not that weird, we're only seniors in college).\n Hopefully it was the good kind of squeals lol\n Life is good and I feel like im like 15 again :)\n    submitted by    /u/TurbulentRecording72  \n [link]   [comments]",
@@ -3789,6 +4095,42 @@
       "feedUrl": "https://rsshub.app/github/trending/daily/haskell",
       "siteUrl": "https://github.com/trending/haskell?since=daily",
       "articles": [
+        {
+          "id": "https://github.com/digitallyinduced/ihp",
+          "author": "digitallyinduced",
+          "description": "🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness\n    \nLanguage: Haskell\n                            \nStar: 2,641\n                            \nFork: 128",
+          "link": "https://github.com/digitallyinduced/ihp",
+          "publishedOn": "2021-11-25T00:51:29.469Z",
+          "wordCount": 1955,
+          "title": "digitallyinduced /\n\n      ihp"
+        },
+        {
+          "id": "https://github.com/elm/compiler",
+          "author": "elm",
+          "description": "Compiler for Elm, a functional language for reliable webapps.\n    \nLanguage: Haskell\n                            \nStar: 6,654\n                            \nFork: 589",
+          "link": "https://github.com/elm/compiler",
+          "publishedOn": "2021-11-25T00:51:27.985Z",
+          "wordCount": 597,
+          "title": "elm /\n\n      compiler"
+        },
+        {
+          "id": "https://github.com/qnikst/iochan-conduit",
+          "author": "qnikst",
+          "description": "IO concurrent promitives for conduit\n    \nLanguage: Haskell\n                            \nStar: 1\n                            \nFork:",
+          "link": "https://github.com/qnikst/iochan-conduit",
+          "publishedOn": "2021-11-25T00:51:27.412Z",
+          "wordCount": 385,
+          "title": "qnikst /\n\n      iochan-conduit"
+        },
+        {
+          "id": "https://github.com/BurntSushi/erd",
+          "author": "BurntSushi",
+          "description": "Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.\n    \nLanguage: Haskell\n                            \nStar: 1,502\n                            \nFork: 124",
+          "link": "https://github.com/BurntSushi/erd",
+          "publishedOn": "2021-11-25T00:51:27.326Z",
+          "wordCount": 2801,
+          "title": "BurntSushi /\n\n      erd"
+        },
         {
           "id": "https://github.com/carp-lang/Carp",
           "author": "carp-lang",
@@ -4669,6 +5011,186 @@
       "feedUrl": "https://hnrss.org/frontpage",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=29336555",
+          "author": "joshburnsxyz",
+          "description": "Article URL: https://github.com/joshburnsxyz/git-plugins\nComments URL: https://news.ycombinator.com/item?id=29336555\nPoints: 12\n# Comments: 2",
+          "link": "https://github.com/joshburnsxyz/git-plugins",
+          "publishedOn": "2021-11-24T23:39:10.000Z",
+          "wordCount": 626,
+          "title": "Show HN: My plugin system/package manager for Git"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29336234",
+          "author": "jw1224",
+          "description": "I’m a CEO with very limited free time/capacity. I would love to recruit someone to help out with “everything else” — that means personal tasks first and foremost, but involvement with the administrative/day-to-day tasks in my business too.\nWhilst I’ve recruited and managed plenty of “traditional” roles in the office, this area is new to me.\nHas anyone hired a PA/EA before, who can share any tips or advice?\nThanks!\nComments URL: https://news.ycombinator.com/item?id=29336234\nPoints: 71\n# Comments: 57",
+          "link": "https://news.ycombinator.com/item?id=29336234",
+          "publishedOn": "2021-11-24T23:03:21.000Z",
+          "wordCount": 4245,
+          "title": "Ask HN: I’d like to hire a personal/executive assistant – any tips or advice?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29335729",
+          "author": "donbrae",
+          "description": "Article URL: https://valhalladsp.com/2021/09/20/getting-started-with-reverb-design-part-1-dev-environments/\nComments URL: https://news.ycombinator.com/item?id=29335729\nPoints: 21\n# Comments: 4",
+          "link": "https://valhalladsp.com/2021/09/20/getting-started-with-reverb-design-part-1-dev-environments/",
+          "publishedOn": "2021-11-24T22:06:30.000Z",
+          "wordCount": 1670,
+          "title": "Getting Started with Reverb Design, Part 1: Dev Environments"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29335646",
+          "author": "themantra514",
+          "description": "Article URL: https://www.nasa.gov/feature/greening-of-the-earth-mitigates-surface-warming/\nComments URL: https://news.ycombinator.com/item?id=29335646\nPoints: 144\n# Comments: 56",
+          "link": "https://www.nasa.gov/feature/greening-of-the-earth-mitigates-surface-warming/",
+          "publishedOn": "2021-11-24T21:57:30.000Z",
+          "wordCount": 16,
+          "title": "Greening of the Earth mitigates surface warming"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29335093",
+          "author": "ryankicks",
+          "description": "Article URL: https://www.workatastartup.com/events/startup-tech-expo-winter-2021\nComments URL: https://news.ycombinator.com/item?id=29335093\nPoints: 1\n# Comments: 0",
+          "link": "https://www.workatastartup.com/events/startup-tech-expo-winter-2021",
+          "publishedOn": "2021-11-24T21:00:51.000Z",
+          "wordCount": 212,
+          "title": "YC Founders Online at YC's Winter Job Expo on Thurs Dec 2nd"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29334210",
+          "author": "pseudolus",
+          "description": "Article URL: https://www.nytimes.com/2021/11/24/arts/music/accordion-repair-francisco-luis-ramirez.html\nComments URL: https://news.ycombinator.com/item?id=29334210\nPoints: 27\n# Comments: 14",
+          "link": "https://www.nytimes.com/2021/11/24/arts/music/accordion-repair-francisco-luis-ramirez.html",
+          "publishedOn": "2021-11-24T19:39:03.000Z",
+          "wordCount": 2177,
+          "title": "The brusque Mr. Fix-It for Mexico City’s accordions"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29333694",
+          "author": "evercast",
+          "description": "Article URL: https://support.apple.com/en-us/HT212960\nComments URL: https://news.ycombinator.com/item?id=29333694\nPoints: 357\n# Comments: 95",
+          "link": "https://support.apple.com/en-us/HT212960",
+          "publishedOn": "2021-11-24T18:56:19.000Z",
+          "wordCount": 622,
+          "title": "Apple will notify users about state-sponsored cybersecurity threats"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29333351",
+          "author": "Apocryphon",
+          "description": "Article URL: https://www.vmwareblog.org/3-2-1-backup-rule-data-will-always-survive/\nComments URL: https://news.ycombinator.com/item?id=29333351\nPoints: 83\n# Comments: 99",
+          "link": "https://www.vmwareblog.org/3-2-1-backup-rule-data-will-always-survive/",
+          "publishedOn": "2021-11-24T18:28:42.000Z",
+          "wordCount": 1035,
+          "title": "The 3-2-1 Backup Rule – Why Your Data Will Always Survive (2019)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29332807",
+          "author": "finite_jest",
+          "description": "Article URL: https://www.os2museum.com/wp/the-secret-history-of-atapi/\nComments URL: https://news.ycombinator.com/item?id=29332807\nPoints: 67\n# Comments: 25",
+          "link": "https://www.os2museum.com/wp/the-secret-history-of-atapi/",
+          "publishedOn": "2021-11-24T17:50:16.000Z",
+          "wordCount": 3658,
+          "title": "The Secret History of ATAPI"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29332441",
+          "author": "horseradish",
+          "description": "Article URL: https://www.guernicamag.com/raising-a-stink/\nComments URL: https://news.ycombinator.com/item?id=29332441\nPoints: 72\n# Comments: 18",
+          "link": "https://www.guernicamag.com/raising-a-stink/",
+          "publishedOn": "2021-11-24T17:21:14.000Z",
+          "wordCount": 2680,
+          "title": "Raising a Stink"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29330953",
+          "author": "LordAtlas",
+          "description": "Article URL: https://dinalitovsky.bulletin.com/312411763768865/\nComments URL: https://news.ycombinator.com/item?id=29330953\nPoints: 143\n# Comments: 182",
+          "link": "https://dinalitovsky.bulletin.com/312411763768865/",
+          "publishedOn": "2021-11-24T15:33:09.000Z",
+          "wordCount": 10,
+          "title": "The sticky issue of consent in street photography"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29330908",
+          "author": "x1ph0z",
+          "description": "Article URL: https://www.thespec.com/news/crime/2021/11/23/hamilton-cryptocurrency-bitcoin-theft.html\nComments URL: https://news.ycombinator.com/item?id=29330908\nPoints: 94\n# Comments: 130",
+          "link": "https://www.thespec.com/news/crime/2021/11/23/hamilton-cryptocurrency-bitcoin-theft.html",
+          "publishedOn": "2021-11-24T15:29:33.000Z",
+          "wordCount": 936,
+          "title": "Hamilton teen embroiled in FBI probe, fingered in $46M cryptocurrency theft"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29330599",
+          "author": "kungfudoi",
+          "description": "Article URL: https://www.datacenterdynamics.com/en/news/samsung-plans-17-billion-chip-plant-in-taylor-texas/\nComments URL: https://news.ycombinator.com/item?id=29330599\nPoints: 456\n# Comments: 342",
+          "link": "https://www.datacenterdynamics.com/en/news/samsung-plans-17-billion-chip-plant-in-taylor-texas/",
+          "publishedOn": "2021-11-24T15:01:08.000Z",
+          "wordCount": null,
+          "title": "Samsung plans $17B chip plant in Taylor, Texas"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29330109",
+          "author": "carimura",
+          "description": "Article URL: https://kstefanj.github.io/2021/11/24/gc-progress-8-17.html\nComments URL: https://news.ycombinator.com/item?id=29330109\nPoints: 265\n# Comments: 155",
+          "link": "https://kstefanj.github.io/2021/11/24/gc-progress-8-17.html",
+          "publishedOn": "2021-11-24T14:12:09.000Z",
+          "wordCount": 1188,
+          "title": "GC progress from JDK 8 to JDK 17"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29330015",
+          "author": "mad_ned",
+          "description": "Article URL: https://madned.substack.com/p/the-further-text-adventures-of-scott\nComments URL: https://news.ycombinator.com/item?id=29330015\nPoints: 192\n# Comments: 144",
+          "link": "https://madned.substack.com/p/the-further-text-adventures-of-scott",
+          "publishedOn": "2021-11-24T14:02:35.000Z",
+          "wordCount": 3082,
+          "title": "The Further Text Adventures of Scott Adams"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29329867",
+          "author": "sohkamyung",
+          "description": "Article URL: http://blog.archive.org/2021/11/24/as-calls-to-ban-books-intensify-digital-librarians-offer-perspective/\nComments URL: https://news.ycombinator.com/item?id=29329867\nPoints: 129\n# Comments: 159",
+          "link": "http://blog.archive.org/2021/11/24/as-calls-to-ban-books-intensify-digital-librarians-offer-perspective/",
+          "publishedOn": "2021-11-24T13:42:55.000Z",
+          "wordCount": 1660,
+          "title": "As calls to ban books intensify, digital librarians offer perspective"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29329666",
+          "author": "rwmj",
+          "description": "Article URL: https://theaviationist.com/2021/11/24/f-35b-crash-cover-possible-cause/\nComments URL: https://news.ycombinator.com/item?id=29329666\nPoints: 103\n# Comments: 189",
+          "link": "https://theaviationist.com/2021/11/24/f-35b-crash-cover-possible-cause/",
+          "publishedOn": "2021-11-24T13:16:11.000Z",
+          "wordCount": 1807,
+          "title": "British F-35B crash possibly caused by 'rain cover' left on during launch"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29329570",
+          "author": "arcanus",
+          "description": "Article URL: https://www.nytimes.com/2021/11/24/business/wall-street-remote-work-banks.html\nComments URL: https://news.ycombinator.com/item?id=29329570\nPoints: 143\n# Comments: 152",
+          "link": "https://www.nytimes.com/2021/11/24/business/wall-street-remote-work-banks.html",
+          "publishedOn": "2021-11-24T13:02:34.000Z",
+          "wordCount": 1963,
+          "title": "Wall Street grudgingly allows remote work as bankers dig in"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29329385",
+          "author": "zdyn5",
+          "description": "Article URL: https://belaycpp.com/2021/11/24/is-my-cat-turing-complete/\nComments URL: https://news.ycombinator.com/item?id=29329385\nPoints: 251\n# Comments: 75",
+          "link": "https://belaycpp.com/2021/11/24/is-my-cat-turing-complete/",
+          "publishedOn": "2021-11-24T12:40:39.000Z",
+          "wordCount": 1428,
+          "title": "Is my cat Turing-complete?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29329094",
+          "author": "imartin2k",
+          "description": "Article URL: https://staceyoniot.com/the-unbearable-fussiness-of-the-smart-home/\nComments URL: https://news.ycombinator.com/item?id=29329094\nPoints: 250\n# Comments: 300",
+          "link": "https://staceyoniot.com/the-unbearable-fussiness-of-the-smart-home/",
+          "publishedOn": "2021-11-24T11:56:10.000Z",
+          "wordCount": 2605,
+          "title": "The unbearable fussiness of the smart home"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=29324551",
           "author": "moultano",
@@ -6476,6 +6998,132 @@
       "feedUrl": "https://nitter.net/disclosetv/rss",
       "siteUrl": "https://nitter.net/disclosetv",
       "articles": [
+        {
+          "id": "https://nitter.net/disclosetv/status/1463621984424710148#m",
+          "author": "@disclosetv",
+          "description": "NEW - Ahmaud Arbery's father after trial: \"All lives matter.\"",
+          "link": "https://nitter.net/disclosetv/status/1463621984424710148#m",
+          "publishedOn": "2021-11-24T21:34:08.000Z",
+          "wordCount": 179,
+          "title": "NEW - Ahmaud Arbery's father after trial: \"All lives matter.\""
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463578379664429065#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Jury finds Travis McMichael guilty on all 9 counts for the killing of Ahmaud Arbery.",
+          "link": "https://nitter.net/disclosetv/status/1463578379664429065#m",
+          "publishedOn": "2021-11-24T18:40:52.000Z",
+          "wordCount": 163,
+          "title": "JUST IN - Jury finds Travis McMichael guilty on all 9 counts for the killing of Ahmaud Arbery."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463574849578754054#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Jury reached a verdict in the Ahmaud Arbery trial.",
+          "link": "https://nitter.net/disclosetv/status/1463574849578754054#m",
+          "publishedOn": "2021-11-24T18:26:50.000Z",
+          "wordCount": 208,
+          "title": "JUST IN - Jury reached a verdict in the Ahmaud Arbery trial."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463559799262662659#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - US Central Command has prepared plans to prevent #Iran from getting a nuclear weapon in case talks fail, says Commander General Kenneth McKenzie.",
+          "link": "https://nitter.net/disclosetv/status/1463559799262662659#m",
+          "publishedOn": "2021-11-24T17:27:02.000Z",
+          "wordCount": 215,
+          "title": "JUST IN - US Central Command has prepared plans to prevent #Iran from getting a nuclear weapon in case talks fail, says Commander General Kenneth McKenzie."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463552420559175681#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Sweden's PM-elect Andersson resigns on first day.",
+          "link": "https://nitter.net/disclosetv/status/1463552420559175681#m",
+          "publishedOn": "2021-11-24T16:57:43.000Z",
+          "wordCount": 170,
+          "title": "JUST IN - Sweden's PM-elect Andersson resigns on first day."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463530538044690435#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Slovakia to impose two-week lockdown for all — vaccinated and unvaccinated alike (TA3)",
+          "link": "https://nitter.net/disclosetv/status/1463530538044690435#m",
+          "publishedOn": "2021-11-24T15:30:46.000Z",
+          "wordCount": 212,
+          "title": "JUST IN - Slovakia to impose two-week lockdown for all — vaccinated and unvaccinated alike (TA3)"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463522911839571973#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Saudi Arabia, Russia consider pausing planned oil production increases after the U.S. and others release crude to push prices lower (WSJ)",
+          "link": "https://nitter.net/disclosetv/status/1463522911839571973#m",
+          "publishedOn": "2021-11-24T15:00:27.000Z",
+          "wordCount": 275,
+          "title": "JUST IN - Saudi Arabia, Russia consider pausing planned oil production increases after the U.S. and others release crude to push prices lower (WSJ)"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463516086348005382#m",
+          "author": "@disclosetv",
+          "description": "NOW - WHO's Tedros says is concerned about \"false sense of security\" that vaccines have ended the pandemic.",
+          "link": "https://nitter.net/disclosetv/status/1463516086348005382#m",
+          "publishedOn": "2021-11-24T14:33:20.000Z",
+          "wordCount": 235,
+          "title": "NOW - WHO's Tedros says is concerned about \"false sense of security\" that vaccines have ended the pandemic."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463506385057062915#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - U.S. embassy in Kyiv issues security alert amid unusual Russian military activity near Ukraine's borders, reminding U.S. citizens that \"conditions along the border may change with little or no notice.\"",
+          "link": "https://nitter.net/disclosetv/status/1463506385057062915#m",
+          "publishedOn": "2021-11-24T13:54:47.000Z",
+          "wordCount": 250,
+          "title": "JUST IN - U.S. embassy in Kyiv issues security alert amid unusual Russian military activity near Ukraine's borders, reminding U.S. citizens that \"conditions along the border may change with little or no notice.\""
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463504813023449091#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - U.S. weekly jobless claims decline to lowest level since 1969.",
+          "link": "https://nitter.net/disclosetv/status/1463504813023449091#m",
+          "publishedOn": "2021-11-24T13:48:32.000Z",
+          "wordCount": 180,
+          "title": "JUST IN - U.S. weekly jobless claims decline to lowest level since 1969."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463498644515135489#m",
+          "author": "@disclosetv",
+          "description": "NEW - Norwegian Postal Service's 2021 Christmas ad features a gay-themed story titled \"When Harry Met Santa.\"",
+          "link": "https://nitter.net/disclosetv/status/1463498644515135489#m",
+          "publishedOn": "2021-11-24T13:24:01.000Z",
+          "wordCount": 191,
+          "title": "NEW - Norwegian Postal Service's 2021 Christmas ad features a gay-themed story titled \"When Harry Met Santa.\""
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463471093763694599#m",
+          "author": "@disclosetv",
+          "description": "NEW - U.S. Department of Defense forms new unit to examine unexplained aerial sightings (aka UFOs)\ndisclose.tv/pentagon-new-ufo…",
+          "link": "https://nitter.net/disclosetv/status/1463471093763694599#m",
+          "publishedOn": "2021-11-24T11:34:33.000Z",
+          "wordCount": 262,
+          "title": "NEW - U.S. Department of Defense forms new unit to examine unexplained aerial sightings (aka UFOs)\nhttps://www.disclose.tv/pentagon-new-ufo-investigation-unit-to-replace-navy-group/"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463314080480083975#m",
+          "author": "@disclosetv",
+          "description": "NEW - Dr. Fauci on booster shots: \"We believe\" boosters \"will likely\" give you the highest level of protection yet.",
+          "link": "https://nitter.net/disclosetv/status/1463314080480083975#m",
+          "publishedOn": "2021-11-24T01:10:38.000Z",
+          "wordCount": 231,
+          "title": "NEW - Dr. Fauci on booster shots: \"We believe\" boosters \"will likely\" give you the highest level of protection yet."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463306739990908939#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - U.S. Senate Banking Committee seeks answers on #Tether stablecoin, requesting immediate information about their backings, redemption process, and activities.",
+          "link": "https://nitter.net/disclosetv/status/1463306739990908939#m",
+          "publishedOn": "2021-11-24T00:41:28.000Z",
+          "wordCount": 268,
+          "title": "JUST IN - U.S. Senate Banking Committee seeks answers on #Tether stablecoin, requesting immediate information about their backings, redemption process, and activities."
+        },
         {
           "id": "https://nitter.net/disclosetv/status/1463279635861540864#m",
           "author": "@disclosetv",
