@@ -398,6 +398,15 @@
       "siteUrl": "https://tweag.io",
       "articles": [
         {
+          "id": "https://tweag.io/blog/2021-11-25-varieties-of-haskelling-experience/",
+          "author": null,
+          "description": "Recently, a group of Haskellers within Tweag had a knowledge-sharing event\nwhere we shared our varied Haskell setups with each other, and learned some\nnice tricks and tips for every-day life.\nThe idea was raised of sharing these findings via the blog, so without further\nado, let’s explore the varieties of the Tweag Haskelling experience by\ncovering a few of our personal setups!\n\nNicolas Frisby\nEditor: emacs\nOther main tools: grep, cabal,\ninotify/entr around cabal build all, my own prototype tags generator.\nExplanation: barebones emacs = syntax highlighting + basic Haskell mode for minimal indentation suggestions + a hack of gtags.el for querying my Tweag tags db\nI love: fast start-up, tags for instance declarations, tags only require parse not typecheck, never hangs, never crashes, all sta…",
+          "link": "https://tweag.io/blog/2021-11-25-varieties-of-haskelling-experience/",
+          "publishedOn": "2021-11-25T00:00:00.000Z",
+          "wordCount": 2742,
+          "title": "The Varieties of the Haskelling Experience"
+        },
+        {
           "id": "https://tweag.io/blog/2021-11-17-sparkle-internship/",
           "author": null,
           "description": "During my internship at Tweag, I worked on creating a\nsafe interface for the sparkle library under the excellent mentorship of Facundo\nDomínguez. sparkle is a Haskell library that provides bindings for\nApache Spark using inline-java’s Java interop capabilities.\nAs such, this new safe interface accomplishes the same\nthing that inline-java’s safe interface does; it helps to ensure safe\nmanagement of Java references at compile-time using linear types.\nAs discussed in this earlier post,\nwe need to be careful to free Java references provided by inline-java when they’re done\nbeing used, and we also shouldn’t use them after they’ve been freed. Since sparkle\nmanipulates references to Java objects defined in the Spark Java library, any potential users\nmust take care to safely manage references when…",
@@ -431,6 +440,78 @@
       "feedUrl": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
       "siteUrl": "https://www.reddit.com/r/haskell/top/?sort=top&t=day",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r295jt/help_with_a_bug_in_a_gemini_framework/",
+          "author": null,
+          "description": "I've been working on a Haskell Gemini server framework. Everything seems to be working fine, except that I'm having trouble reading the client certificate when it's sent. I had to do some admittedly janky things to get it in the first place.\n If anyone is familiar with the tls or tcp-streams packages and can tell me what I'm doing wrong, that would be appreciated.\n My code is located on Codeberg, and the most likely relevant functions are Network.Gemini.Capsule.listenLoop and Network.Gemini.Capsule.adjustServerParams.\n    submitted by    /u/jlamothe  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r295jt/help_with_a_bug_in_a_gemini_framework/",
+          "publishedOn": "2021-11-25T23:17:03.000Z",
+          "wordCount": 201,
+          "title": "Help with a Bug in a Gemini Framework"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r26ooi/is_haskell_capable_of_this/",
+          "author": null,
+          "description": "I'm a fairly new Haskeller (~1 year) and I've been getting into graphical programming with Haskell using various C bindings like X11, GTK, and OpenGL/GLFW. And while the bindings seem the be very mature and capable, they tend to have me writing in an imperative way (a lot of do blocks for callbacks and such), probably a reality of being bound to imperative languages.\n This got me wondering if it's possible to do graphical programming in Haskell sans any bindings at all. If so are there any projects that attempt to do this? The closest thing I've found so far is GPipe, which promises an alternative to the imperative style of OpenGL, but seems to be built on the OpenGL bindings itself.\n    submitted by    /u/sh0gunai  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r26ooi/is_haskell_capable_of_this/",
+          "publishedOn": "2021-11-25T21:16:16.000Z",
+          "wordCount": 460,
+          "title": "Is Haskell capable of this?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r20a4j/why_is_the_maybe_monad_transformer_defined_as/",
+          "author": null,
+          "description": "Is there a profound reason the monad transformers work in this direction, or is it just arbitrary?\n    submitted by    /u/ctenbrinke  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r20a4j/why_is_the_maybe_monad_transformer_defined_as/",
+          "publishedOn": "2021-11-25T16:26:15.000Z",
+          "wordCount": 1070,
+          "title": "Why is the maybe monad transformer defined as MaybeT { runMaybeT :: m (Maybe a) } instead of MaybeT { runMaybeT :: Maybe (m a) } ?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r1wz2a/issue_291_haskell_weekly_newsletter/",
+          "author": null,
+          "description": "submitted by    /u/haskellweekly  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r1wz2a/issue_291_haskell_weekly_newsletter/",
+          "publishedOn": "2021-11-25T13:51:13.000Z",
+          "wordCount": 118,
+          "title": "Issue 291 :: Haskell Weekly newsletter"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r1u0xr/matrix/",
+          "author": null,
+          "description": "Hey everyone, can you help me to create a function that creates a complete list of coordinates ((0,0) to (x,y)) from the largest coordinate? I would appreciate.\n    submitted by    /u/Repulsive_Emphasis79  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r1u0xr/matrix/",
+          "publishedOn": "2021-11-25T10:52:21.000Z",
+          "wordCount": 198,
+          "title": "Matrix"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r1tk01/a_tale_of_template_haskell_and_cross_compilation/",
+          "author": null,
+          "description": "submitted by    /u/moodmarch  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r1tk01/a_tale_of_template_haskell_and_cross_compilation/",
+          "publishedOn": "2021-11-25T10:19:25.000Z",
+          "wordCount": 292,
+          "title": "A tale of Template Haskell and cross compilation!"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r1rs0q/is_a_a_monad_in_haskell_just_the_functional/",
+          "author": null,
+          "description": "I've done a lot of OO programming and get the mental model of objects representing bits of state and methods representing ways to enact changes on that state.\n However I'm having a hard time getting my head around Haskell (I've just started). I get the idea of no side effects and I get the idea of pure functions, but I still can't grok how to such a language can have state that exists for the duration of a program.\n Let's say an object that is created at the start and over time the objects state changes. For instance a chess board. How can I stop recreating a new object (let's says it's large), in every function call?\n Edit: thank you everyone. I've got some answers which have really made my thinking much much clearer.\n    submitted by    /u/inwegobingo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r1rs0q/is_a_a_monad_in_haskell_just_the_functional/",
+          "publishedOn": "2021-11-25T08:17:42.000Z",
+          "wordCount": 2732,
+          "title": "Is a a MONAD in Haskell just the functional equivalent of a generic type (such as in C#) and how do MONADs enable things like saving data?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r1jm5c/need_a_haskell_programmer/",
+          "author": null,
+          "description": "Hello,\n We need a Haskell programmer (A helping hand) \n Will be compensated for their work. \n Please pm. \n Thanks and much appreciated!\n    submitted by    /u/Existing_Floor7950  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r1jm5c/need_a_haskell_programmer/",
+          "publishedOn": "2021-11-25T00:40:51.000Z",
+          "wordCount": 141,
+          "title": "Need a Haskell Programmer"
+        },
         {
           "id": "https://www.reddit.com/r/haskell/comments/r1ihcx/lazy_filterm/",
           "author": null,
@@ -1123,6 +1204,33 @@
       "siteUrl": "https://www.reddit.com/r/CardanoDevelopers/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/r28vcr/minting_dapp_coming_december_mintedwithlovelace/",
+          "author": null,
+          "description": "submitted by    /u/thebreathofatree  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/r28vcr/minting_dapp_coming_december_mintedwithlovelace/",
+          "publishedOn": "2021-11-25T23:02:54.000Z",
+          "wordCount": 211,
+          "title": "Minting dApp: Coming December MintedWithLovelace is a fully decentralized NFT launchpad and marketplace. Launch any size project, IPFS or on-chain, automatic image processing and json generation, mint on demand, swap or sell existing assets, and smartcontract registry for royalty enforcement (+more)"
+        },
+        {
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/r1xv7o/not_everyone_is_thankful_for_cardano_this/",
+          "author": null,
+          "description": "submitted by    /u/CRYPTOsauceNews  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/r1xv7o/not_everyone_is_thankful_for_cardano_this/",
+          "publishedOn": "2021-11-25T14:34:22.000Z",
+          "wordCount": 112,
+          "title": "Not Everyone Is Thankful For Cardano This Thanksgiving"
+        },
+        {
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/r1s4kg/using_holium_to_create_wallets/",
+          "author": null,
+          "description": "submitted by    /u/cip43r  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/r1s4kg/using_holium_to_create_wallets/",
+          "publishedOn": "2021-11-25T08:41:21.000Z",
+          "wordCount": 292,
+          "title": "Using Holium to create wallets"
+        },
+        {
           "id": "https://www.reddit.com/r/CardanoDevelopers/comments/r018iz/has_anyone_taken_any_courses_at_the_emurgo_acedemy/",
           "author": null,
           "description": "I'm currently about to select a date to start the Cardano Architecture and Designer developer course from the Emurgo academy and I'm curious if anyone has paid for the course and what they think about it.\n    submitted by    /u/MiddleFix9783  \n [link]   [comments]",
@@ -1345,6 +1453,231 @@
       "feedUrl": "https://www.reddit.com/r/cardano/top/.rss?sort=top&t=day",
       "siteUrl": "https://www.reddit.com/r/cardano/top/?sort=top&t=day",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r292om/im_a_coder_and_creating_this_dapp/",
+          "author": null,
+          "description": "submitted by    /u/thebreathofatree  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r292om/im_a_coder_and_creating_this_dapp/",
+          "publishedOn": "2021-11-25T23:12:54.000Z",
+          "wordCount": 648,
+          "title": "I'm a coder and creating this dApp: MintedWithLovelace - it does some stuff for those creators looking for a nifty, decentralized, you-own-all type of solution. It's almost complete, releasing it in December <3 ~ some key features in alpha: mint-on-demand/any size project/smartcontract registry/++"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r28enu/how_did_cardano_receive_funding_for_development_i/",
+          "author": null,
+          "description": "submitted by    /u/Stonksfall  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r28enu/how_did_cardano_receive_funding_for_development_i/",
+          "publishedOn": "2021-11-25T22:40:03.000Z",
+          "wordCount": 328,
+          "title": "How did cardano receive funding for development? I want to know more about the ICO is any of this info public?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r22ykw/help_me_understand_what_im_investing_in/",
+          "author": null,
+          "description": "TL;DR Cardano allows me to become my own micro lending institution.\n I saw an interview Charles did in which he described the lending rates in African countries, the interest rates seem very high even when compared to my own native payday loan style lending businesses.\n (I live in the US).\n Link to that interview here: https://youtu.be/5-vsuU-OIhI\n So as I understand it, crypto currencies allow the transfer of value across vast distances more efficiently than traditional lending institutions. Due to this technological advantage, their business model allows them to provide a service to a demographic of people who are seen as non-viable clients to traditional banks, the un-banked. However, these emerging markets have access to cell phones and global telecommunication systems which puts them in the same realm as me, a rando in the US with some dollars that I don't immediately need for anything. So, rather than leave this money in a savings account, which gives me back little to nothing. I've used some of my liquidity to buy some ADA in the hopes that eventually, Cardano will become a major player in the world of micro-finance for the \"developing world.\" News about their deals in Africa give me much encouragement as these are the places that would greatly benefit from stable currencies.\n Essentially, I think of it like Uber, which connects people that need rides with people that have cars. Cardano connects people who have liquidity with people that need money. Yes, the blockchain will take its cut, but it will loan money to the un-banked at a less predatory rate than they currently have access to and will give me a higher return on my money than a savings account. Am I wrong in thinking this way? Help me understand.\n    submitted by    /u/salvador_ii  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r22ykw/help_me_understand_what_im_investing_in/",
+          "publishedOn": "2021-11-25T18:25:35.000Z",
+          "wordCount": 690,
+          "title": "Help Me Understand What I'm Investing In"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r224sf/we_would_like_to_share_the_features_youll_be_able/",
+          "author": null,
+          "description": "submitted by    /u/artanoio  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r224sf/we_would_like_to_share_the_features_youll_be_able/",
+          "publishedOn": "2021-11-25T17:48:35.000Z",
+          "wordCount": 255,
+          "title": "We would like to share the features you'll be able to enjoy on Artano, a SC-supported marketplace with a PAB-like proxy solution on Cardano!"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r21lqo/happy_thanksgiving_vote/",
+          "author": null,
+          "description": "submitted by    /u/Nemesis916  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r21lqo/happy_thanksgiving_vote/",
+          "publishedOn": "2021-11-25T17:25:03.000Z",
+          "wordCount": 431,
+          "title": "Happy Thanksgiving: Vote!"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r21gum/my_vision_of_the_cardano_coin_any_comments_are/",
+          "author": null,
+          "description": "submitted by    /u/ArtWalkers  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r21gum/my_vision_of_the_cardano_coin_any_comments_are/",
+          "publishedOn": "2021-11-25T17:19:00.000Z",
+          "wordCount": 378,
+          "title": "My vision of the Cardano coin. Any comments are welcome"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r20hxj/running_cardano_ada_node_with_getblock_whats/",
+          "author": null,
+          "description": "submitted by    /u/getblockio  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r20hxj/running_cardano_ada_node_with_getblock_whats/",
+          "publishedOn": "2021-11-25T16:35:46.000Z",
+          "wordCount": 219,
+          "title": "Running Cardano (ADA) Node With GetBlock: What’s Under Hood of Our APIs"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r20cse/dont_forget_to_join_centaurify_ama_with_token/",
+          "author": null,
+          "description": "submitted by    /u/Year-Ecstatic4  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r20cse/dont_forget_to_join_centaurify_ama_with_token/",
+          "publishedOn": "2021-11-25T16:29:37.000Z",
+          "wordCount": 228,
+          "title": "Don't forget to join Centaurify AMA with Token Hunter.Lots of interesting😊 questions to be answered."
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r1zzwd/sundaeswap_progress_release_date_and_questions/",
+          "author": null,
+          "description": "So I started to research some opportunities to invest in DEX and DeFi on cardano before they go live.\n I stumbled upon multiple posts here that mention SundaeSwap as one of the potential winners. Then I tried to make my research and the result puzzled me quite a bit.\n First of all on the official site team consists of 1 lead engineer, 1 smart contract engineer and 3 frontend engineers. I'm a software engineer myself and it seems that it's really not enough to develop such a big project that implies a lot of backend work. I guess this page could be outdated though.\n So I started to look at their github repositories and I could not find any smart contract that should be deployed to cardano network. Also I don't see a lot of activity in the repositories and most of them are just forks (copies) of the other open source code. From what I've seen it doesn't seem to me that the release date is close.\n So here is the questions part. Does anyone have any additional info about the progress? Maybe I overlooked some information or found a wrong repository.\n What do you think?\n    submitted by    /u/nakedpony  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r1zzwd/sundaeswap_progress_release_date_and_questions/",
+          "publishedOn": "2021-11-25T16:13:03.000Z",
+          "wordCount": 785,
+          "title": "SundaeSwap progress, release date and questions"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r1z6wu/should_the_ones_who_hold_the_most_ada_really_have/",
+          "author": null,
+          "description": "What is the research behind this voting system? Isn't this basically saying that the rich people get more say in how things evolve? Isn't this a problem when the rich favor changes that benefit themselves? Alternatively, I doubt we want every wallet to be 1 vote either. That's also easy to manipulate.\n I would love to see some of the peer reviewed research that has gone into this voting system\n    submitted by    /u/lIllContaktIlIl  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r1z6wu/should_the_ones_who_hold_the_most_ada_really_have/",
+          "publishedOn": "2021-11-25T15:36:46.000Z",
+          "wordCount": 1073,
+          "title": "Should the ones who hold the most ADA really have more votes than everyone else?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r1z145/cardano_for_beginners_infographic_by_changehero/",
+          "author": null,
+          "description": "submitted by    /u/Changehero_io  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r1z145/cardano_for_beginners_infographic_by_changehero/",
+          "publishedOn": "2021-11-25T15:29:18.000Z",
+          "wordCount": 271,
+          "title": "Cardano for Beginners: Infographic by ChangeHero"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r1z0l9/australian_developer_aims_to_bring_cardano/",
+          "author": null,
+          "description": "Nice little article regarding Australian adoption of ADA\n    submitted by    /u/2Monkeys1Cat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r1z0l9/australian_developer_aims_to_bring_cardano/",
+          "publishedOn": "2021-11-25T15:28:37.000Z",
+          "wordCount": 242,
+          "title": "Australian Developer Aims To Bring Cardano Payments To Shopify Stores"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r1wczt/cardano_people_in_nairobi/",
+          "author": null,
+          "description": "Hello people,\n I've just moved to Nairobi, Kenya and would love to connect with like-minded Cardano fans here. I've been working in energy access for the last 4 years in East Africa, so I know the area pretty well but more recent to the blockchain space. Here to learn, meet cool people and even see if there are opportunities for bringing off-grid solar projects onto the blockchain. Any advice / recommendations appreciated.\n    submitted by    /u/CountofConteMristo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r1wczt/cardano_people_in_nairobi/",
+          "publishedOn": "2021-11-25T13:18:12.000Z",
+          "wordCount": 539,
+          "title": "Cardano People in Nairobi?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r1vdpr/cardano_360_november_2021/",
+          "author": null,
+          "description": "submitted by    /u/SL13PNIR  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r1vdpr/cardano_360_november_2021/",
+          "publishedOn": "2021-11-25T12:20:08.000Z",
+          "wordCount": 316,
+          "title": "Cardano 360 November 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r1uhkg/where_do_i_stake_my_ada_the_best_way/",
+          "author": null,
+          "description": "submitted by    /u/Cheap_Team_4106  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r1uhkg/where_do_i_stake_my_ada_the_best_way/",
+          "publishedOn": "2021-11-25T11:23:08.000Z",
+          "wordCount": 910,
+          "title": "Where do I stake my ADA the best way?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r1t0wl/why_cardano_gets_so_much_hate_in_the_crypto_space/",
+          "author": null,
+          "description": "To put it short: Cardano's team puts quality over quantity.\n Developing on ADA is hard, because the code is difficult to master and other crypto currencies are easier to work with, that's why many developers choose to not work on ADA.\n ​\n Is that a bad sign? Absolutely not, because Cardano has different goals than other crypto currencies. Their goal is it to work with countries, banks and companies - not small DeFi or DApp developers.\n Meaning the whole development on ADA goes slower, but it's safer, better for professional use and to put it simply: future proof\n    submitted by    /u/Sisyphusarbeit  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r1t0wl/why_cardano_gets_so_much_hate_in_the_crypto_space/",
+          "publishedOn": "2021-11-25T09:43:20.000Z",
+          "wordCount": 1398,
+          "title": "Why Cardano get's so much hate in the crypto space"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r1rmhk/basho_phase_testnet_today_2511_and_live_next/",
+          "author": null,
+          "description": "submitted by    /u/Flood-Oz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r1rmhk/basho_phase_testnet_today_2511_and_live_next/",
+          "publishedOn": "2021-11-25T08:07:30.000Z",
+          "wordCount": 184,
+          "title": "Basho phase: testnet today (25/11) and live next wednesday (01/12)"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r1ribm/cardano_full_tilt_defi/",
+          "author": null,
+          "description": "submitted by    /u/ArmyofSpies  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r1ribm/cardano_full_tilt_defi/",
+          "publishedOn": "2021-11-25T08:00:10.000Z",
+          "wordCount": 198,
+          "title": "Cardano & Full Tilt DeFi"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r1rhuj/cardano_rumor_rundown_november_25_2021/",
+          "author": null,
+          "description": "Hey Everyone!\n Let's go...\n Newly covered today:\n  \nCharles drops a video about the Caravan moving on despite any FUD (like eToro) that temporarily emerges. https://youtu.be/IjXkP_DGRgY\n The Pavia second land sale saw demand vastly outstrip supply to become (reportedly) the biggest Cardano NFT drop ever. https://twitter.com/Pavia_io/status/1463560375442591753 https://twitter.com/Pavia_io/status/1463547885539278849\n World Mobile got some positive coverage in Tech Crunch! https://techcrunch.com/2021/11/23/world-mobile-group-bringing-zanzibaris-online-through-mobile-network-built-on-blockchain/\n Looks like COTI’s Djed project has teamed up with SundaeSwap. https://twitter.com/COTInetwork/status/1463480313506668546\n The minutes from the Fed’s November FOMC meeting have been published and indic…",
+          "link": "https://www.reddit.com/r/cardano/comments/r1rhuj/cardano_rumor_rundown_november_25_2021/",
+          "publishedOn": "2021-11-25T07:59:14.000Z",
+          "wordCount": 2327,
+          "title": "Cardano Rumor Rundown November 25, 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r1rho9/your_daily_reminder_vote_for_ada/",
+          "author": null,
+          "description": "submitted by    /u/makaros622  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r1rho9/your_daily_reminder_vote_for_ada/",
+          "publishedOn": "2021-11-25T07:58:55.000Z",
+          "wordCount": 400,
+          "title": "Your daily reminder: Vote for ADA"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r1q30j/cardano_daily_discussion_november_25_2021/",
+          "author": null,
+          "description": "Hello everyone,\n Welcome to the Cardano Daily Discussion!\n The standard sub rules apply here (see sidebar), with the exception that price discussion is allowed in this thread, though we encourage you to try not to make this the focus and talk about the project itself. Please ask questions, help others and be civil - be sure to get involved in Project Catalyst too!\n If you're new, please make sure you're read through the newbies guide and share it with others (use the ?newbies comment command to reference it).\n NFTs for Planting Trees\n https://preview.redd.it/d9l75zowckx71.jpg?width=1600&format=pjpg&auto=webp&s=9a13a91cb371dce5d318b96dea2692dad9348b21\n You can donate ADA and receive NFTs for doing so, each ADA is a tree planted, it's a win win! Read about veritree here and take part on http…",
+          "link": "https://www.reddit.com/r/cardano/comments/r1q30j/cardano_daily_discussion_november_25_2021/",
+          "publishedOn": "2021-11-25T06:30:21.000Z",
+          "wordCount": 1197,
+          "title": "Cardano Daily Discussion - November 25, 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r1ppie/cardano_total_value_lockedbefore_many_dapps/",
+          "author": null,
+          "description": "submitted by    /u/Creative_Equal838  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r1ppie/cardano_total_value_lockedbefore_many_dapps/",
+          "publishedOn": "2021-11-25T06:08:36.000Z",
+          "wordCount": 627,
+          "title": "Cardano Total Value Locked...before many dApps launch (Data from blockfrost network info)"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r1pg5h/bitstamp_just_list_ada/",
+          "author": null,
+          "description": "https://www.bitstamp.net/markets/ada/usd/\n    submitted by    /u/basseinman  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r1pg5h/bitstamp_just_list_ada/",
+          "publishedOn": "2021-11-25T05:54:18.000Z",
+          "wordCount": 453,
+          "title": "bitstamp just list ADA"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r1lvpw/active_dapps_on_cardano/",
+          "author": null,
+          "description": "Are there any active dApps on Cardano to use yet?\n    submitted by    /u/StableRare  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r1lvpw/active_dapps_on_cardano/",
+          "publishedOn": "2021-11-25T02:40:23.000Z",
+          "wordCount": 267,
+          "title": "Active dApps on Cardano?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r1k6gw/very_positive_shoutout_to_cardano_from_the/",
+          "author": null,
+          "description": "submitted by    /u/JinShil  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r1k6gw/very_positive_shoutout_to_cardano_from_the/",
+          "publishedOn": "2021-11-25T01:10:04.000Z",
+          "wordCount": 213,
+          "title": "Very positive shoutout to Cardano from the Electrified YouTube channel"
+        },
         {
           "id": "https://www.reddit.com/r/cardano/comments/r1gewz/my_cardano_story/",
           "author": null,
@@ -3792,6 +4125,33 @@
       "siteUrl": "https://www.reddit.com/r/redscarepod/top/?sort=top&t=day&limit=3",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redscarepod/comments/r239wk/bro_im_tryna_get_some_front_hole_tonight/",
+          "author": null,
+          "description": "submitted by    /u/10z20Luka  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/r239wk/bro_im_tryna_get_some_front_hole_tonight/",
+          "publishedOn": "2021-11-25T18:39:42.000Z",
+          "wordCount": 707,
+          "title": "bro im tryna get some front hole tonight"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/r1ru3s/2022_the_rise_of_the_normie_centrist/",
+          "author": null,
+          "description": "submitted by    /u/_andreamarie  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/r1ru3s/2022_the_rise_of_the_normie_centrist/",
+          "publishedOn": "2021-11-25T08:21:46.000Z",
+          "wordCount": 470,
+          "title": "2022 - the rise of the normie centrist"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/r1nkcc/_/",
+          "author": null,
+          "description": "submitted by    /u/soundofhumility  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/r1nkcc/_/",
+          "publishedOn": "2021-11-25T04:10:02.000Z",
+          "wordCount": 372,
+          "title": "."
+        },
+        {
           "id": "https://www.reddit.com/r/redscarepod/comments/r15265/recine/",
           "author": null,
           "description": "submitted by    /u/sirenboi12  \n [link]   [comments]",
@@ -4095,6 +4455,33 @@
       "feedUrl": "https://rsshub.app/github/trending/daily/haskell",
       "siteUrl": "https://github.com/trending/haskell?since=daily",
       "articles": [
+        {
+          "id": "https://github.com/GaloisInc/saw-script",
+          "author": "GaloisInc",
+          "description": "The SAW scripting language.\n    \nLanguage: Haskell\n                            \nStar: 373\n                            \nFork: 51",
+          "link": "https://github.com/GaloisInc/saw-script",
+          "publishedOn": "2021-11-26T00:49:48.995Z",
+          "wordCount": 1159,
+          "title": "GaloisInc /\n\n      saw-script"
+        },
+        {
+          "id": "https://github.com/tweag/asterius",
+          "author": "tweag",
+          "description": "A Haskell to WebAssembly compiler\n    \nLanguage: Haskell\n                            \nStar: 1,783\n                            \nFork: 59",
+          "link": "https://github.com/tweag/asterius",
+          "publishedOn": "2021-11-26T00:49:48.923Z",
+          "wordCount": 909,
+          "title": "tweag /\n\n      asterius"
+        },
+        {
+          "id": "https://github.com/jwoudenberg/shy",
+          "author": "jwoudenberg",
+          "description": "Safely build shell one-liners with live feedback!\n    \nLanguage: Haskell\n                            \nStar: 18\n                            \nFork: 1",
+          "link": "https://github.com/jwoudenberg/shy",
+          "publishedOn": "2021-11-26T00:49:48.729Z",
+          "wordCount": 531,
+          "title": "jwoudenberg /\n\n      shy"
+        },
         {
           "id": "https://github.com/digitallyinduced/ihp",
           "author": "digitallyinduced",
@@ -5011,6 +5398,186 @@
       "feedUrl": "https://hnrss.org/frontpage",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=29346372",
+          "author": "allthings",
+          "description": "Article URL: https://chalkdustmagazine.com/features/an-odd-card-trick/\nComments URL: https://news.ycombinator.com/item?id=29346372\nPoints: 6\n# Comments: 0",
+          "link": "https://chalkdustmagazine.com/features/an-odd-card-trick/",
+          "publishedOn": "2021-11-26T00:23:01.000Z",
+          "wordCount": 2767,
+          "title": "An Odd Card Trick"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29345746",
+          "author": "peterhunt",
+          "description": "Article URL: https://github.com/guettli/deadends-of-it\nComments URL: https://news.ycombinator.com/item?id=29345746\nPoints: 11\n# Comments: 24",
+          "link": "https://github.com/guettli/deadends-of-it",
+          "publishedOn": "2021-11-25T22:48:45.000Z",
+          "wordCount": 5274,
+          "title": "Dead Ends of IT"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29345604",
+          "author": "paganel",
+          "description": "Article URL: https://en.wikipedia.org/wiki/Umarell\nComments URL: https://news.ycombinator.com/item?id=29345604\nPoints: 61\n# Comments: 10",
+          "link": "https://en.wikipedia.org/wiki/Umarell",
+          "publishedOn": "2021-11-25T22:34:03.000Z",
+          "wordCount": 1211,
+          "title": "Umarell, men of retirement age who spend their time watching construction sites"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29345194",
+          "author": "abbassi",
+          "description": "Article URL: https://www.nature.com/articles/d41586-021-03552-w\nComments URL: https://news.ycombinator.com/item?id=29345194\nPoints: 274\n# Comments: 238",
+          "link": "https://www.nature.com/articles/d41586-021-03552-w",
+          "publishedOn": "2021-11-25T21:33:41.000Z",
+          "wordCount": 1621,
+          "title": "Heavily mutated coronavirus variant puts scientists on alert"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29344954",
+          "author": "amckenzie",
+          "description": "Article URL: https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News\nComments URL: https://news.ycombinator.com/item?id=29344954\nPoints: 1\n# Comments: 0",
+          "link": "https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News",
+          "publishedOn": "2021-11-25T21:01:05.000Z",
+          "wordCount": 262,
+          "title": "Rescale (YC W12) Is Hiring Software Engineers"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29344709",
+          "author": "belter",
+          "description": "Article URL: https://www.bbc.com/news/business-59380453\nComments URL: https://news.ycombinator.com/item?id=29344709\nPoints: 151\n# Comments: 43",
+          "link": "https://www.bbc.com/news/business-59380453",
+          "publishedOn": "2021-11-25T20:28:44.000Z",
+          "wordCount": 1085,
+          "title": "Last year 90% of Black Friday deals were cheaper six months before sales event"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29344605",
+          "author": "adrian_mrd",
+          "description": "Article URL: https://knowablemagazine.org/article/food-environment/2021/what-world-can-learn-britains-humble-hedge\nComments URL: https://news.ycombinator.com/item?id=29344605\nPoints: 62\n# Comments: 34",
+          "link": "https://knowablemagazine.org/article/food-environment/2021/what-world-can-learn-britains-humble-hedge",
+          "publishedOn": "2021-11-25T20:15:08.000Z",
+          "wordCount": 4150,
+          "title": "What the world can learn from Britain’s humble hedge"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29343773",
+          "author": "AegirLeet",
+          "description": "Article URL: https://www.php.net/releases/8.1/en.php\nComments URL: https://news.ycombinator.com/item?id=29343773\nPoints: 213\n# Comments: 122",
+          "link": "https://www.php.net/releases/8.1/en.php",
+          "publishedOn": "2021-11-25T18:39:18.000Z",
+          "wordCount": 1348,
+          "title": "PHP 8.1.0"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29343479",
+          "author": "T-A",
+          "description": "Article URL: https://blog.checkpoint.com/2021/11/24/check-point-research-discover-vulnerabilities-in-smartphones-chips-embedded-in-37-of-smartphones-around-the-world/\nComments URL: https://news.ycombinator.com/item?id=29343479\nPoints: 75\n# Comments: 9",
+          "link": "https://blog.checkpoint.com/2021/11/24/check-point-research-discover-vulnerabilities-in-smartphones-chips-embedded-in-37-of-smartphones-around-the-world/",
+          "publishedOn": "2021-11-25T18:06:16.000Z",
+          "wordCount": 1196,
+          "title": "Vulnerabilities in chips in 37% of smartphones"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29343255",
+          "author": "gtirloni",
+          "description": "Article URL: https://aws.amazon.com/linux/amazon-linux-2022/\nComments URL: https://news.ycombinator.com/item?id=29343255\nPoints: 120\n# Comments: 68",
+          "link": "https://aws.amazon.com/linux/amazon-linux-2022/",
+          "publishedOn": "2021-11-25T17:36:31.000Z",
+          "wordCount": 675,
+          "title": "Amazon Linux 2022"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29342944",
+          "author": "feross",
+          "description": "Article URL: https://portswigger.net/daily-swig/new-differential-fuzzing-tool-reveals-novel-http-request-smuggling-techniques\nComments URL: https://news.ycombinator.com/item?id=29342944\nPoints: 106\n# Comments: 24",
+          "link": "https://portswigger.net/daily-swig/new-differential-fuzzing-tool-reveals-novel-http-request-smuggling-techniques",
+          "publishedOn": "2021-11-25T17:02:52.000Z",
+          "wordCount": 1238,
+          "title": "New differential fuzzing tool reveals novel HTTP request smuggling techniques"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29342936",
+          "author": "ourmandave",
+          "description": "Article URL: https://www.theverge.com/22801890/sunbeam-radiant-control-toaster-t20-t35-vista\nComments URL: https://news.ycombinator.com/item?id=29342936\nPoints: 196\n# Comments: 120",
+          "link": "https://www.theverge.com/22801890/sunbeam-radiant-control-toaster-t20-t35-vista",
+          "publishedOn": "2021-11-25T17:02:11.000Z",
+          "wordCount": 1513,
+          "title": "Why a toaster from 1949 is still smarter than any sold today"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29342529",
+          "author": "sebg",
+          "description": "Article URL: https://www.gshi.me/blog/NeuralControl/\nComments URL: https://news.ycombinator.com/item?id=29342529\nPoints: 87\n# Comments: 6",
+          "link": "https://www.gshi.me/blog/NeuralControl/",
+          "publishedOn": "2021-11-25T16:17:08.000Z",
+          "wordCount": 1626,
+          "title": "Neural-control family: what deep learning and control enables in the real world"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29342301",
+          "author": "blacksqr",
+          "description": "Article URL: https://github.com/WheretIB/nullc\nComments URL: https://news.ycombinator.com/item?id=29342301\nPoints: 65\n# Comments: 28",
+          "link": "https://github.com/WheretIB/nullc",
+          "publishedOn": "2021-11-25T15:49:36.000Z",
+          "wordCount": 1680,
+          "title": "Nullc: Fast C-like programming language with advanced features"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29342198",
+          "author": "giuliomagnifico",
+          "description": "Article URL: https://reclaimyourface.eu/new-german-government-calls-for-european-ban-on-biometric-mass-surveillance/\nComments URL: https://news.ycombinator.com/item?id=29342198\nPoints: 494\n# Comments: 111",
+          "link": "https://reclaimyourface.eu/new-german-government-calls-for-european-ban-on-biometric-mass-surveillance/",
+          "publishedOn": "2021-11-25T15:36:32.000Z",
+          "wordCount": 1769,
+          "title": "New German government calls for European ban on biometric mass surveillance"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29342176",
+          "author": "e3bc54b2",
+          "description": "Article URL: https://karthinks.com/software/batteries-included-with-emacs/\nComments URL: https://news.ycombinator.com/item?id=29342176\nPoints: 250\n# Comments: 134",
+          "link": "https://karthinks.com/software/batteries-included-with-emacs/",
+          "publishedOn": "2021-11-25T15:33:42.000Z",
+          "wordCount": 1762,
+          "title": "Batteries included with Emacs"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29342021",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://threedots.ovh/blog/2021/11/what-is-amd-rocm/\nComments URL: https://news.ycombinator.com/item?id=29342021\nPoints: 64\n# Comments: 32",
+          "link": "https://threedots.ovh/blog/2021/11/what-is-amd-rocm/",
+          "publishedOn": "2021-11-25T15:13:34.000Z",
+          "wordCount": 998,
+          "title": "What Is AMD ROCm?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29341400",
+          "author": "joelittlejohn",
+          "description": "Article URL: https://www.juxt.pro/blog/abstract-clojure\nComments URL: https://news.ycombinator.com/item?id=29341400\nPoints: 156\n# Comments: 28",
+          "link": "https://www.juxt.pro/blog/abstract-clojure",
+          "publishedOn": "2021-11-25T13:59:37.000Z",
+          "wordCount": 2247,
+          "title": "Abstract Clojure"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29341390",
+          "author": "RMPR",
+          "description": "Article URL: https://rmpr.xyz/the-fish-shell-is-amazing/\nComments URL: https://news.ycombinator.com/item?id=29341390\nPoints: 312\n# Comments: 211",
+          "link": "https://rmpr.xyz/the-fish-shell-is-amazing/",
+          "publishedOn": "2021-11-25T13:58:17.000Z",
+          "wordCount": 606,
+          "title": "The fish shell is amazing"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29341113",
+          "author": "DeathArrow",
+          "description": "Article URL: https://www.club386.com/tsmc-apple-first-3nm-policy-leads-to-amd-and-qualcomm-mutiny/\nComments URL: https://news.ycombinator.com/item?id=29341113\nPoints: 286\n# Comments: 311",
+          "link": "https://www.club386.com/tsmc-apple-first-3nm-policy-leads-to-amd-and-qualcomm-mutiny/",
+          "publishedOn": "2021-11-25T13:20:28.000Z",
+          "wordCount": 605,
+          "title": "TSMC “Apple-first” 3nm policy leads to AMD and Qualcomm mutiny"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=29336555",
           "author": "joshburnsxyz",
@@ -6998,6 +7565,159 @@
       "feedUrl": "https://nitter.net/disclosetv/rss",
       "siteUrl": "https://nitter.net/disclosetv",
       "articles": [
+        {
+          "id": "https://nitter.net/disclosetv/status/1464000445769256964#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Fully vaccinated Canadian rocker Bryan Adams tests positive for #COVID19 for the second time in a month.",
+          "link": "https://nitter.net/disclosetv/status/1464000445769256964#m",
+          "publishedOn": "2021-11-25T22:38:00.000Z",
+          "wordCount": 187,
+          "title": "JUST IN - Fully vaccinated Canadian rocker Bryan Adams tests positive for #COVID19 for the second time in a month."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463980964208599040#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Israel bans travel from South Africa, Lesotho, Botswana, Zimbabwe, Mozambique, Namibia, and Eswatini amid new variant.",
+          "link": "https://nitter.net/disclosetv/status/1463980964208599040#m",
+          "publishedOn": "2021-11-25T21:20:35.000Z",
+          "wordCount": 203,
+          "title": "JUST IN - Israel bans travel from South Africa, Lesotho, Botswana, Zimbabwe, Mozambique, Namibia, and Eswatini amid new variant."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463977544621903876#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - UK asks France to take back all migrants who crossed Channel (AFP)",
+          "link": "https://nitter.net/disclosetv/status/1463977544621903876#m",
+          "publishedOn": "2021-11-25T21:07:00.000Z",
+          "wordCount": 195,
+          "title": "JUST IN - UK asks France to take back all migrants who crossed Channel (AFP)"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463975678232117250#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - UK bans flights from South Africa, Namibia, Lesotho, Botswana, Eswatini, and Zimbabwe from midday on Friday amid new variant.",
+          "link": "https://nitter.net/disclosetv/status/1463975678232117250#m",
+          "publishedOn": "2021-11-25T20:59:35.000Z",
+          "wordCount": 228,
+          "title": "JUST IN - UK bans flights from South Africa, Namibia, Lesotho, Botswana, Eswatini, and Zimbabwe from midday on Friday amid new variant."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463973525249835009#m",
+          "author": "@disclosetv",
+          "description": "UPDATE - UK government sources: The new variant from South Africa poses \"a potentially significant threat to the vaccine programme which we have to protect at all costs\" (Guardian)",
+          "link": "https://nitter.net/disclosetv/status/1463973525249835009#m",
+          "publishedOn": "2021-11-25T20:51:02.000Z",
+          "wordCount": 238,
+          "title": "R to @disclosetv: UPDATE - UK government sources: The new variant from South Africa poses \"a potentially significant threat to the vaccine programme which we have to protect at all costs\" (Guardian)"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463970674477834249#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - UK will place South Africa on its travel \"red list\" imminently amid new multi-mutant variant (BBC)",
+          "link": "https://nitter.net/disclosetv/status/1463970674477834249#m",
+          "publishedOn": "2021-11-25T20:39:42.000Z",
+          "wordCount": 251,
+          "title": "JUST IN - UK will place South Africa on its travel \"red list\" imminently amid new multi-mutant variant (BBC)"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463966166637031431#m",
+          "author": "@disclosetv",
+          "description": "Czech President Zeman recently received a third dose of the vaccine. He left the hospital despite the fact that the Central Military Hospital recommended that he stay in the hospital.",
+          "link": "https://nitter.net/disclosetv/status/1463966166637031431#m",
+          "publishedOn": "2021-11-25T20:21:47.000Z",
+          "wordCount": 287,
+          "title": "R to @disclosetv: Czech President Zeman recently received a third dose of the vaccine. He left the hospital despite the fact that the Central Military Hospital recommended that he stay in the hospital."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463963209006731264#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Czech President Zeman is back in the hospital, now with #COVID19, just a few hours after being released from it after 6 weeks of treatment.",
+          "link": "https://nitter.net/disclosetv/status/1463963209006731264#m",
+          "publishedOn": "2021-11-25T20:10:02.000Z",
+          "wordCount": 267,
+          "title": "JUST IN - Czech President Zeman is back in the hospital, now with #COVID19, just a few hours after being released from it after 6 weeks of treatment."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463945558587068422#m",
+          "author": "@disclosetv",
+          "description": "NOW - Egypt reopens the 1.7-mile long \"Avenue of Sphinxes\" that links the ancient Egyptian temples of Luxor and Karnak.",
+          "link": "https://nitter.net/disclosetv/status/1463945558587068422#m",
+          "publishedOn": "2021-11-25T18:59:54.000Z",
+          "wordCount": 190,
+          "title": "NOW - Egypt reopens the 1.7-mile long \"Avenue of Sphinxes\" that links the ancient Egyptian temples of Luxor and Karnak."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463932462447403014#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Portugal, one of the most vaccinated countries in the world, declares state of emergency and imposes new restrictions to curb the sudden surge of #COVID19 cases.",
+          "link": "https://nitter.net/disclosetv/status/1463932462447403014#m",
+          "publishedOn": "2021-11-25T18:07:52.000Z",
+          "wordCount": 337,
+          "title": "JUST IN - Portugal, one of the most vaccinated countries in the world, declares state of emergency and imposes new restrictions to curb the sudden surge of #COVID19 cases."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463920912051359747#m",
+          "author": "@disclosetv",
+          "description": "MORE - University of Cambridge professor Francesco Muschitiello, an author of the study, said the findings were worrisome because it suggests there might be a flaw in the models scientists use to predict how the climate will change (CNN)",
+          "link": "https://nitter.net/disclosetv/status/1463920912051359747#m",
+          "publishedOn": "2021-11-25T17:21:58.000Z",
+          "wordCount": 346,
+          "title": "R to @disclosetv: MORE - University of Cambridge professor Francesco Muschitiello, an author of the study, said the findings were worrisome because it suggests there might be a flaw in the models scientists use to predict how the climate will change (CNN)"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463903558923870212#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Arctic Ocean began warming since the onset of the 20th century, decades earlier than previously thought, a new study finds.\n\nscience.org/doi/10.1126/scia…",
+          "link": "https://nitter.net/disclosetv/status/1463903558923870212#m",
+          "publishedOn": "2021-11-25T16:13:01.000Z",
+          "wordCount": 318,
+          "title": "JUST IN - Arctic Ocean began warming since the onset of the 20th century, decades earlier than previously thought, a new study finds.\n\nhttps://www.science.org/doi/10.1126/sciadv.abj2946"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463894436220489733#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - South Africa requests an urgent WHO meeting on multi-mutation #COVID19 variant B.1.1.529, first detected in Botswana.",
+          "link": "https://nitter.net/disclosetv/status/1463894436220489733#m",
+          "publishedOn": "2021-11-25T15:36:46.000Z",
+          "wordCount": 217,
+          "title": "JUST IN - South Africa requests an urgent WHO meeting on multi-mutation #COVID19 variant B.1.1.529, first detected in Botswana."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463890741504184329#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Czech Republic declares state of emergency due to surge in #COVID19 cases, effective from midnight today.",
+          "link": "https://nitter.net/disclosetv/status/1463890741504184329#m",
+          "publishedOn": "2021-11-25T15:22:05.000Z",
+          "wordCount": 230,
+          "title": "JUST IN - Czech Republic declares state of emergency due to surge in #COVID19 cases, effective from midnight today."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463843996757860354#m",
+          "author": "@disclosetv",
+          "description": "FDA is requesting a court give them up to 55 years to release information being requested about the Pfizer-BioNTech vaccine.\n\ndailymail.co.uk/health/artic…",
+          "link": "https://nitter.net/disclosetv/status/1463843996757860354#m",
+          "publishedOn": "2021-11-25T12:16:20.000Z",
+          "wordCount": 353,
+          "title": "R to @disclosetv: FDA is requesting a court give them up to 55 years to release information being requested about the Pfizer-BioNTech vaccine.\n\nhttps://www.dailymail.co.uk/health/article-10222035/FDA-says-need-55-YEARS-make-vaccine-related-information-available-public.html"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463843429675319296#m",
+          "author": "@disclosetv",
+          "description": "NEW - FDA says it wants 55 YEARS to process FOIA requests about #COVID19 vaccines - meaning data may not be available to the public until 2076 (Daily)",
+          "link": "https://nitter.net/disclosetv/status/1463843429675319296#m",
+          "publishedOn": "2021-11-25T12:14:05.000Z",
+          "wordCount": 269,
+          "title": "NEW - FDA says it wants 55 YEARS to process FOIA requests about #COVID19 vaccines - meaning data may not be available to the public until 2076 (Daily)"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1463840252783734787#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - European drug regulator EMA approves Pfizer's #COVID19 vaccine for injection in kids ages 5-11.",
+          "link": "https://nitter.net/disclosetv/status/1463840252783734787#m",
+          "publishedOn": "2021-11-25T12:01:27.000Z",
+          "wordCount": 211,
+          "title": "JUST IN - European drug regulator EMA approves Pfizer's #COVID19 vaccine for injection in kids ages 5-11."
+        },
         {
           "id": "https://nitter.net/disclosetv/status/1463621984424710148#m",
           "author": "@disclosetv",
