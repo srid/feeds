@@ -441,6 +441,51 @@
       "siteUrl": "https://www.reddit.com/r/haskell/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/haskell/comments/r4fj3f/deriving_inputt_for_creating_newtype_monad/",
+          "author": null,
+          "description": "I'm wanting to create a monad transformer using the mtl way. What do I need to derive in order to access getInputLine :: a Function of the inputT monad. It isn't MonadInput.\n type Mon a = StateT Int (InputT IO) a\n newtype MyMon a = Mymon {unMon :: Mon a}\n deriving (Monad, Functor, Applicative, MonadState Int)\n ​\n m :: MyMon ()\n m = do\n st <- get\n inp <- getInputLine \"input>> \" -- Error here\n return ()\n    submitted by    /u/LunaComing  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r4fj3f/deriving_inputt_for_creating_newtype_monad/",
+          "publishedOn": "2021-11-28T21:57:49.000Z",
+          "wordCount": 338,
+          "title": "Deriving InputT for creating newtype monad transformer"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r4ec10/jet_cli_structural_editor_for_json/",
+          "author": null,
+          "description": "​\n https://reddit.com/link/r4ec10/video/uo4i9j4zge281/player\n Jet is a structural editor for JSON.\n That is, it's an editor which is aware of the structure of JSON and allows you to manipulate it directly. As a result, the document is always in a valid state. \n $ cabal update && cabal install jet $ jet my.json \n Hit '?' for the key bindings. Maybe back up any important files first. \n Give it a go and let me know what you think https://github.com/ChrisPenner/jet\n ​\n The implementation uses a zipper over a Cofree tree, which should be pretty adaptable to most recursive structures (e.g. ASTs). You can find the Cofree Zipper here: https://github.com/ChrisPenner/recursive-zipper#readme\n ​\n To head off the \"just use a text-editor\" comments; yes, you should probably just use a text editor. This was mainly written as a research exercise for more complex structural editors, and also because I couldn't find many good resources on writing structural editors and wanted to see what the abstractions might look like. Hopefully you enjoy the experiment as much as I enjoyed writing it 😄\n ​\n Cheers!\n    submitted by    /u/ChrisPenner  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r4ec10/jet_cli_structural_editor_for_json/",
+          "publishedOn": "2021-11-28T21:04:08.000Z",
+          "wordCount": 317,
+          "title": "Jet: CLI Structural editor for JSON"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r44qxr/what_are_the_limitations_of_template_haskell_and/",
+          "author": null,
+          "description": "I have two questions one involves type inference and the other involves reflection.\n  \n1. Template Haskell vs type inference\n I'm using refinement types from the refined library and template haskell refinement refineTH. For example I have these following definitions, the unrefined type: \n data UnrefinedStandardCurveDef a = UnrefinedStandardCurveDef { prime_s :: a, aCoeff_s :: a, bCoeff_s :: a, generator_s :: (a, a), order_s :: NN.Integer, cofactor_s :: NN.Integer } deriving Lift \n the refinement types:\n data StandardCurveDefValidator instance (Typeable a, Integral a) => Predicate StandardCurveDefValidator (UnrefinedStandardCurveDef a) where validate pred def = ... type RefinedStandardCurveDef' a = Refined StandardCurveDefValidator (UnrefinedStandardCurveDef a) newtype RefinedStandardCurveD…",
+          "link": "https://www.reddit.com/r/haskell/comments/r44qxr/what_are_the_limitations_of_template_haskell_and/",
+          "publishedOn": "2021-11-28T13:51:51.000Z",
+          "wordCount": 713,
+          "title": "What are the limitations of Template Haskell and type inference and also reflection?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r40781/amazonka_200rc1_is_ready_for_testing/",
+          "author": null,
+          "description": "submitted by    /u/_jackdk_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r40781/amazonka_200rc1_is_ready_for_testing/",
+          "publishedOn": "2021-11-28T09:07:08.000Z",
+          "wordCount": 412,
+          "title": "Amazonka 2.0.0-rc1 is ready for testing"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r3r6nq/i_cant_figure_out_how_to_do_a_function_new_to/",
+          "author": null,
+          "description": "Hello, I come here to ask for help after about 8 frustrating hours trying to solve this exercise, so please help me figure this out.\n I am trying to recursively look in a list of pairs where one element of the pair is a product and the second element is 2 numbers representing its position on the shelves [ (meat,(4,5)) , (soap,(6,7)) , (wine,(4.3)) ] and verify if in any situation I end up with 2 products on the same spot on the shelf.\n ​\n Basically I dont care what the product is, my only concern is that 2 things dont end up trying to be restocked on the same position on the shelves.\n ​\n I have the shelves and the products set has data types so for example I know that Products can only be Milk, Wine, Soap, Eggs, Butter....like 10 more, and That ShelfPos is (Int,Int).\n ​\n What I have been trying to do is has requested on the exercise.\n ​\n positionIsFree :: [(Products, ShelfPos)] -> Bool\n ​\n positionIsFree [ ] = True\n positionIsFree (( products, shelfpos) : [ ] ) = True\n positionIsFree (( p, (x,y)) : ( p2, (x2,y2)) : t) | x == x2 && y == y2 = False\n --------(reddit formating is hard)---------------| otherwise = positionIsFree ((p, (x,y)) : t )\n ​\n This works for the first pair, it runs the list and sees if it causes any conflict. If it doesnt Id like to restart the process with the second pair. The problem I am runing in is whenever I finish doing this I cant restart again since I trew away all my list on the otherwise step.\n I tried to do this backwards, like always comparing the last element, but I end up runing into a types problem where it says it expects a Bool and is getting a list.\n ​\n Thank you for your time reading this.\n    submitted by    /u/KerbalFrog  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r3r6nq/i_cant_figure_out_how_to_do_a_function_new_to/",
+          "publishedOn": "2021-11-28T00:29:36.000Z",
+          "wordCount": 1674,
+          "title": "I cant figure out how to do a function (new to programing)"
+        },
+        {
           "id": "https://www.reddit.com/r/haskell/comments/r3nf0o/how_performant_is_haskell_how_hard_do_you_have_to/",
           "author": null,
           "description": "I’ve tried looking into this question, and so far I understand that using overloaded strings and strictness are good ways to improve performance. However, I don’t understand how fast Haskell is relative to other languages. Some claim that it is slower than Python; others claim that it can be as fast as or faster than C. The programming language benchmark game suggests that Haskell is roughly as fast as Java and C#, but this is complicated by the extensive use of foreign libraries in those languages. \n What does this subreddit think?\n    submitted by    /u/average_emacs_user  \n [link]   [comments]",
@@ -1303,6 +1348,15 @@
       "siteUrl": "https://www.reddit.com/r/CardanoDevelopers/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/r43cep/so_simple_i_cant_find_the_answer/",
+          "author": null,
+          "description": "I'm trying to generate a transaction using javascript, any examples using cardano-wallet-js or cardano-cli would be greatly appreciated.\n    submitted by    /u/Friendly-Part-507  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/r43cep/so_simple_i_cant_find_the_answer/",
+          "publishedOn": "2021-11-28T12:33:11.000Z",
+          "wordCount": 116,
+          "title": "So simple I can't find the answer?"
+        },
+        {
           "id": "https://www.reddit.com/r/CardanoDevelopers/comments/r2gnjz/hi_everyone_im_looking_to_have_some_data_verified/",
           "author": null,
           "description": "Essentially my question is how much does it cost to read and write to the Cardano Blockchain and is there a limit to what kind of Data i can attach? Im a Computer Science Degree Major but have very limited Blockchain Development knowledge any guidance would be greatly appreciated, thanks in advance\n    submitted by    /u/pain_point  \n [link]   [comments]",
@@ -1561,6 +1615,231 @@
       "feedUrl": "https://www.reddit.com/r/cardano/top/.rss?sort=top&t=day",
       "siteUrl": "https://www.reddit.com/r/cardano/top/?sort=top&t=day",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4h8gl/we_hit_15_million_transactions_in_epoch_304/",
+          "author": null,
+          "description": "​\n https://explorer.cardano.org/en.html\n    submitted by    /u/itesasecret  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r4h8gl/we_hit_15_million_transactions_in_epoch_304/",
+          "publishedOn": "2021-11-28T23:17:01.000Z",
+          "wordCount": 264,
+          "title": "We hit 1.5 million transactions in epoch 304!"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4efsz/nft_minting_on_cardano/",
+          "author": null,
+          "description": "Hello, noob in the cardano space here.\n As I understood, NFTs are native to cardanos, meaning you don't need a smart contract to mint them, how exactly do marketplaces like cnft work then?\n Let's say I want to mint 20 nfts (images), and I want to do it manually, without any third party using cardano sdk, what would be the total fee for it?\n Would I be able to sell my nfts on cnft if I did it manually?\n    submitted by    /u/vonum  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r4efsz/nft_minting_on_cardano/",
+          "publishedOn": "2021-11-28T21:08:54.000Z",
+          "wordCount": 365,
+          "title": "NFT minting on cardano"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4eduk/friendly_rivalry_with_noncardano_ecosystems/",
+          "author": null,
+          "description": "I'd like to remind folks that, with a lot on the line in the US, India, and in other large countries where regulation could easily go crypto-sour, we need to stick together.\n Every chain makes different trade-offs with respect to speed, centralization, and security (the Buterin \"Trilemma\"), and each ecosystem has different preferences about speed and methods of development. In the end, multiple chains will likely survive, along with a number of central bank digital currencies. And there may be overlap (e.g., a number of CBDCs may leverage an existing blockchain or its code to jumpstart themselves). There's no need to put anyone down, unless they are committing outright fraud or maliciously obstructing progress.\n Investors and community participants should also take care to match their preferences up with those of the ecosystems they participate in. For example, people who want to move fast, break things, and see fast returns should definitely stay away from Cardano. Cardano is better for the slow, steady planners and thinkers.\n My point is that there is room for all of us here. The real adversaries are people like bad actors, governments that fear loss of control, and investors who put money into a chain that didn't match their expectations. Let's go easy on each other.\n    submitted by    /u/rlgoer  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r4eduk/friendly_rivalry_with_noncardano_ecosystems/",
+          "publishedOn": "2021-11-28T21:06:30.000Z",
+          "wordCount": 461,
+          "title": "Friendly Rivalry with Non-Cardano Ecosystems; Matching Expectations"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4bevu/some_thoughts_on_muesliswap_dex/",
+          "author": null,
+          "description": "submitted by    /u/HGJustTheTip  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r4bevu/some_thoughts_on_muesliswap_dex/",
+          "publishedOn": "2021-11-28T18:53:43.000Z",
+          "wordCount": 1178,
+          "title": "Some Thoughts on MuesliSwap DEX"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4aqeu/cardano_fear_greed_index/",
+          "author": null,
+          "description": "Ive been searching something like it without success.. Does anything like that exists? (Possibly for free :D)\n    submitted by    /u/Safe_Long9374  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r4aqeu/cardano_fear_greed_index/",
+          "publishedOn": "2021-11-28T18:24:16.000Z",
+          "wordCount": 291,
+          "title": "Cardano fear & greed index?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r48p01/simple_smart_contract_for_signing/",
+          "author": null,
+          "description": "Dear all,\n I am looking for a super easy way to store some information in the Cardano blockchain about the engagement with my fiancé and (as a separate transaction) some other information about our marriage. The information should be viewable via a the Cardano explorer or another blockexplorer. Instead of just saving the raw information (e.g. using https://cardanowall.com/en/), there should be a way to let the information be signed by both me and my fiancé. After initial research, I found that https://github.com/sdlck/cardano-utils/blob/master/address-data-decoder/addrDecode.py could be a good solution (create new Cardano address with encoded information in it and signing of the information by me and my fiancé by sending some ADAs to the addresss). However, I assume that the information would not be viewable via the explorer with this method, right? Therefore, I think I will need a smart contract to achieve this, right?\n THANK YOU FOR ANY HINTS!\n    submitted by    /u/mucalex23  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r48p01/simple_smart_contract_for_signing/",
+          "publishedOn": "2021-11-28T16:55:05.000Z",
+          "wordCount": 431,
+          "title": "Simple smart contract for signing engagement/marriage in Cardano blockchain"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r47pgj/keep_voting_tron_is_catching_up_to_cardano/",
+          "author": null,
+          "description": "submitted by    /u/Royal-Orange752  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r47pgj/keep_voting_tron_is_catching_up_to_cardano/",
+          "publishedOn": "2021-11-28T16:10:39.000Z",
+          "wordCount": 442,
+          "title": "Keep Voting! Tron is catching up to Cardano."
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r47czl/cardano_is_trying_to_solve_fundamental_issues/",
+          "author": null,
+          "description": "submitted by    /u/ReitHodlr  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r47czl/cardano_is_trying_to_solve_fundamental_issues/",
+          "publishedOn": "2021-11-28T15:55:34.000Z",
+          "wordCount": 628,
+          "title": "Cardano is trying to solve fundamental issues. Quality takes time. Quality means doing it right."
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r457cr/starting_to_build_example_code_for_nami_wallet/",
+          "author": null,
+          "description": "Github: https://github.com/dendorferpatrick/nami-wallet-examples\n    submitted by    /u/Low-Albatross-9158  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r457cr/starting_to_build_example_code_for_nami_wallet/",
+          "publishedOn": "2021-11-28T14:14:40.000Z",
+          "wordCount": 175,
+          "title": "Starting to build example code for nami wallet integration: https://github.com/dendorferpatrick/nami-wallet-examples"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r44man/best_hardware_ledger_for_ada/",
+          "author": null,
+          "description": "I tried Ledger - unfortunately got two defective devices in a row and am not going around shipping it Back to France everytime for exchange.\n ​\n Does anyone use Prokey ? Any opinions?\n    submitted by    /u/Mean_Yellow690  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r44man/best_hardware_ledger_for_ada/",
+          "publishedOn": "2021-11-28T13:45:00.000Z",
+          "wordCount": 323,
+          "title": "Best Hardware Ledger for ADA"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r44242/cardano_may_truly_skyrocket_as_it_becomes_a/",
+          "author": null,
+          "description": "Key Takeaways from this article:\n  \nCardano has a lot more in store for investors and users.\n Its ultimate goal is to become a self-sustaining system.\n Cardano may truly skyrocket as the network expands and work to reach its goal.\n May want to consider selling a very high-risk name and reallocating the cash into Cardano. \n The network already is showing its usefulness in industries from education to healthcare.\n Has speed advantage compared to Ethereum.\n Cardano upgrades happen after peer review that limits potential flaws.\n Cardano’s five stages of development are encouraging.\n All cryptocurrencies involve a decent amount of risk.\n You should never invest more in crypto than you can afford to lose. \n If you favor Cardano over riskier meme coins then you may gain over the long term.\n  \nhttps://www.fool.com/investing/2021/11/28/do-this-before-cardano-skyrockets/\n    submitted by    /u/Progress_8  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r44242/cardano_may_truly_skyrocket_as_it_becomes_a/",
+          "publishedOn": "2021-11-28T13:14:07.000Z",
+          "wordCount": 938,
+          "title": "Cardano may truly skyrocket as it becomes a self-sustaining system."
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r43dvv/social_network_on_cardano_blockchain/",
+          "author": null,
+          "description": "I am only one dreaming about decentralized social network like Facebook, but without data steal and other nasty things? Is it even possible do some similiar on Cardano blockchain in future?\n    submitted by    /u/Fifajs  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r43dvv/social_network_on_cardano_blockchain/",
+          "publishedOn": "2021-11-28T12:35:42.000Z",
+          "wordCount": 451,
+          "title": "Social network on Cardano blockchain"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r42h1q/is_museliswap_legit_or_not/",
+          "author": null,
+          "description": "submitted by    /u/abu_alkindi  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r42h1q/is_museliswap_legit_or_not/",
+          "publishedOn": "2021-11-28T11:38:05.000Z",
+          "wordCount": 711,
+          "title": "Is museliswap legit or not?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r3zfst/the_cardano_police/",
+          "author": null,
+          "description": "submitted by    /u/ArmyofSpies  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r3zfst/the_cardano_police/",
+          "publishedOn": "2021-11-28T08:14:16.000Z",
+          "wordCount": 219,
+          "title": "The Cardano Police"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r3zfdf/cardano_rumor_rundown_november_28_2021/",
+          "author": null,
+          "description": "Hey Everyone!\n Let's go...\n Newly covered today:\n  \nIOHK drops a new article on a tiered transaction fee system that would still preserve determinism. https://iohk.io/en/blog/posts/2021/11/26/network-traffic-and-tiered-pricing/\n Here’s a good concise tweetstorm inspired by the Raul Pal/ Breedlove conversation about how the last 100 or so years led us here to this macro environment and crypto. https://twitter.com/JamesRothmann/status/1464305493099393028\n Interesting discussion of the SundaeSwap ISO, the Scooper Model, and decentralization. https://youtu.be/94N8KXNs_as\n John O’Connor drops an IOHK article on “RealFi” including thoughts on the ramifications of validated identity for uncollateralized loans in markets like Kenya and the projects in Ethiopia and Zanzibar. https://iohk.io/en/blog…",
+          "link": "https://www.reddit.com/r/cardano/comments/r3zfdf/cardano_rumor_rundown_november_28_2021/",
+          "publishedOn": "2021-11-28T08:13:24.000Z",
+          "wordCount": 2517,
+          "title": "Cardano Rumor Rundown November 28, 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r3zdvh/i_bought_hosky_and_executed_my_first_contract_my/",
+          "author": null,
+          "description": "I have been a long time ADA fan. I bought before the Shelly upgrade and I couldn't even stake because my Exchanged took long to upgrade their wallet and I couldn't withdraw. So I've been here long.\n So you guys can imagine, when Yoroi came out, staking and then the run up to native assets and smart contracts. I am in heaven and loving ADA. I am also a developer and ADA is my main blockchain.\n That being said, I haven't executed a smart contract or held other tokens in my Yoroi wallet. And a few days ago, I decided it was time.\n Currently, there aren't many tokens and Dexes and I don't want to throw 1000 ADA into some NFT. So I bought 20 ADA of Hosky on their Dex. Their Dex is a very simple orderbook system. I actually don't know how orders are matched but you can also match with other orde…",
+          "link": "https://www.reddit.com/r/cardano/comments/r3zdvh/i_bought_hosky_and_executed_my_first_contract_my/",
+          "publishedOn": "2021-11-28T08:10:31.000Z",
+          "wordCount": 816,
+          "title": "I bought Hosky and executed my first contract. My experience."
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r3y6cu/haskell_is_not_a_barrier_to_overcome_but_a/",
+          "author": null,
+          "description": "It is true that for now you need to learn some basic Haskell to develop on Cardano Platform but that is not a negative in my mind. We hear about all these scam coins like Squid Game and all those Doge meme coins. Guess what they are all build on Ethereum or BNC platforms. They not only give them a bad name, but they also clutter, slowdown and sometimes overwhelm the transaction of the whole echo system. Do I even need to bring up the Crypto Kitties to prove my point.\n The fact that it takes more time, effort and knowledge to build on Cardano for the time being is a great deterrent for those shitty, scammy projects to stay away from this newly developed echo system. IT will have less wanna be, 5 minute, money hungry only projects attracted to the space then others. We have seen that already. Sundaeswap has delayed its original ICO due to questions and concerns from investors and Cardano community at large. It seems to me that those involved in building on Cardano network find transparency and quality more important then just obtaining funding and short term success. They seem to adopt the building and developing priorities from Cardano team, which always chose product quality over profits. \n Cardano network as a whole, will attract new blood into the echo system, with new inspiration, ambition and hard working ethics, developers that will become the future in this space. There was almost 10 billion dollars stolen just in last 12 months by bad project build by people with bad intentions, pretending to be great innovator. I believe the temporary barriers that Haskell offers will prevent those kid of project to be build on Cardano platform which might just be the thing we need to make it the most reliable and quality focus platform out there.\n    submitted by    /u/Professional-Time-50  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r3y6cu/haskell_is_not_a_barrier_to_overcome_but_a/",
+          "publishedOn": "2021-11-28T06:51:25.000Z",
+          "wordCount": 1167,
+          "title": "Haskell is not a barrier to overcome but a benefit to Cardano's future and reputation."
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r3xtz9/cardano_daily_discussion_november_28_2021/",
+          "author": null,
+          "description": "Hello everyone,\n Welcome to the Cardano Daily Discussion!\n The standard sub rules apply here (see sidebar), with the exception that price discussion is allowed in this thread, though we encourage you to try not to make this the focus and talk about the project itself. Please ask questions, help others and be civil - be sure to get involved in Project Catalyst too!\n If you're new, please make sure you're read through the newbies guide and share it with others (use the ?newbies comment command to reference it).\n NFTs for Planting Trees\n https://preview.redd.it/d9l75zowckx71.jpg?width=1600&format=pjpg&auto=webp&s=9a13a91cb371dce5d318b96dea2692dad9348b21\n You can donate ADA and receive NFTs for doing so, each ADA is a tree planted, it's a win win! Read about veritree here and take part on http…",
+          "link": "https://www.reddit.com/r/cardano/comments/r3xtz9/cardano_daily_discussion_november_28_2021/",
+          "publishedOn": "2021-11-28T06:30:14.000Z",
+          "wordCount": 972,
+          "title": "Cardano Daily Discussion - November 28, 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r3wz54/i_got_land_yesterday_using_cardano_coins/",
+          "author": null,
+          "description": "It was virtual land in the metaverse tho\n I have no idea what a metaverse is\n I have no idea what I can do with my virtual land\n But I have some\n    submitted by    /u/8512764EA  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r3wz54/i_got_land_yesterday_using_cardano_coins/",
+          "publishedOn": "2021-11-28T05:38:18.000Z",
+          "wordCount": 1005,
+          "title": "I got land yesterday using Cardano Coins"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r3vtai/cardano_will_be_unicorn/",
+          "author": null,
+          "description": "Do I understand it right guys ? I read somewhere that while Cardano is using UTXO model, You can stake Your Cardano just right before epoch end and You will get your reward, meaning You do not need to stake all 5 days, but just before epoch end. What made me think, Am I able to farm with my Cardano (when farms will be ready) for 4 days and then stake in a pool on the fifth day to get my staking reward ? If so then it will be something awesome. :)\n    submitted by    /u/indass  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r3vtai/cardano_will_be_unicorn/",
+          "publishedOn": "2021-11-28T04:30:14.000Z",
+          "wordCount": 642,
+          "title": "Cardano will be unicorn ?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r3vrcb/cardano_tearing_up_ethereum_in_nft_space/",
+          "author": null,
+          "description": "“ “We’re seeing a lot of tech come online… we’re seeing explosive growth in the CNFT community.” ...\n One transaction on Ethereum literally uses as much power as the conventional hospital uses in a day and a half. It’s simply just not sustainable.” \n ​\n https://ambcrypto.com/this-makes-cardano-literally-most-anticipated-smart-contract-platform-in-blockchain-space/\n    submitted by    /u/CardanoCrusader  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r3vrcb/cardano_tearing_up_ethereum_in_nft_space/",
+          "publishedOn": "2021-11-28T04:27:03.000Z",
+          "wordCount": 278,
+          "title": "Cardano Tearing Up Ethereum in NFT Space"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r3vprz/so_what_happened_to_celsius_moving_to_cardano/",
+          "author": null,
+          "description": "submitted by    /u/JLo212867  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r3vprz/so_what_happened_to_celsius_moving_to_cardano/",
+          "publishedOn": "2021-11-28T04:24:30.000Z",
+          "wordCount": 546,
+          "title": "So what happened to Celsius moving to Cardano?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r3tl0i/upcoming_dexs_and_stake_pools/",
+          "author": null,
+          "description": "Now that the Minswap FISO is over, where is everyone moving their delegated funds? \n Some popular ones I hear are mentioned are:\n  \nhttps://mirqur.io/\n https://rraayy.com/\n https://sundaeswap.finance/\n https://meld-com.webflow.io/\n https://maladex.com/\n  \nAny others we should know about? :)\n    submitted by    /u/SatsStacker69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r3tl0i/upcoming_dexs_and_stake_pools/",
+          "publishedOn": "2021-11-28T02:30:52.000Z",
+          "wordCount": 285,
+          "title": "Upcoming DEXs and Stake Pools?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r3sh8f/coinmarketcap_says_the_plutus_application_backend/",
+          "author": null,
+          "description": "PAB Basically provides the components and environment to help dev create and test DApps. Does this mean we could some dapps on cardano by the end of December ?\n    submitted by    /u/Glizzyator3000  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r3sh8f/coinmarketcap_says_the_plutus_application_backend/",
+          "publishedOn": "2021-11-28T01:34:35.000Z",
+          "wordCount": 518,
+          "title": "CoinMarketCap says The Plutus Application backend (PAB) is coming live on November 30th."
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r3sfkz/is_there_a_cardano_discord/",
+          "author": null,
+          "description": "would love to get involved. let me know\n    submitted by    /u/MoneyMan1913  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r3sfkz/is_there_a_cardano_discord/",
+          "publishedOn": "2021-11-28T01:32:16.000Z",
+          "wordCount": 222,
+          "title": "is there a cardano discord ?"
+        },
         {
           "id": "https://www.reddit.com/r/cardano/comments/r3o0da/can_anyone_explain_why_charles_and_iohk_are/",
           "author": null,
@@ -4683,6 +4962,33 @@
       "siteUrl": "https://www.reddit.com/r/redscarepod/top/?sort=top&t=day&limit=3",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redscarepod/comments/r49ik8/bow_down_woke_twitter/",
+          "author": null,
+          "description": "submitted by    /u/scratchedboots  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/r49ik8/bow_down_woke_twitter/",
+          "publishedOn": "2021-11-28T17:30:50.000Z",
+          "wordCount": 510,
+          "title": "bow down woke twitter"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/r41kq3/_/",
+          "author": null,
+          "description": "submitted by    /u/azthrowaway666  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/r41kq3/_/",
+          "publishedOn": "2021-11-28T10:38:22.000Z",
+          "wordCount": 185,
+          "title": "."
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/r3tz7m/wtf_my_ex_just_sent_me_this_we_met_up_so_i_could/",
+          "author": null,
+          "description": "submitted by    /u/koyaanisqatsi____  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/r3tz7m/wtf_my_ex_just_sent_me_this_we_met_up_so_i_could/",
+          "publishedOn": "2021-11-28T02:51:34.000Z",
+          "wordCount": 621,
+          "title": "wtf my ex just sent me this. we met up so i could get the rest of my stuff. i hadnt texted him after or anything. can’t even believe this is real lmao"
+        },
+        {
           "id": "https://www.reddit.com/r/redscarepod/comments/r3hgdg/3/",
           "author": null,
           "description": "submitted by    /u/Dc533333  \n [link]   [comments]",
@@ -5065,8 +5371,35 @@
     {
       "title": "Trending Haskell repositories on GitHub today · GitHub",
       "feedUrl": "https://rsshub.app/github/trending/daily/haskell",
-      "siteUrl": "https://github.com/trending/haskell?since=daily&spoken_language_code=",
+      "siteUrl": "https://github.com/trending/haskell?since=daily",
       "articles": [
+        {
+          "id": "https://github.com/nebuta/dom-selector",
+          "author": "nebuta",
+          "description": "CSS DOM selectors for xml-conduit package in Haskell\n    \nLanguage: Haskell\n                            \nStar: 8\n                            \nFork: 2",
+          "link": "https://github.com/nebuta/dom-selector",
+          "publishedOn": "2021-11-29T00:50:52.621Z",
+          "wordCount": 358,
+          "title": "nebuta /\n\n      dom-selector"
+        },
+        {
+          "id": "https://github.com/input-output-hk/plutus-pioneer-program",
+          "author": "input-output-hk",
+          "description": "Language: Haskell\n                            \nStar: 917\n                            \nFork: 416",
+          "link": "https://github.com/input-output-hk/plutus-pioneer-program",
+          "publishedOn": "2021-11-29T00:50:52.466Z",
+          "wordCount": 1011,
+          "title": "input-output-hk /\n\n      plutus-pioneer-program"
+        },
+        {
+          "id": "https://github.com/LambdaHack/LambdaHack",
+          "author": "LambdaHack",
+          "description": "Haskell game engine library for roguelike dungeon crawlers; please offer feedback, e.g., after trying out the sample game with the web frontend at\n    \nLanguage: Haskell\n                            \nStar: 504\n                            \nFork: 50",
+          "link": "https://github.com/LambdaHack/LambdaHack",
+          "publishedOn": "2021-11-29T00:50:52.412Z",
+          "wordCount": 2883,
+          "title": "LambdaHack /\n\n      LambdaHack"
+        },
         {
           "id": "https://github.com/ghcjs/ghcjs",
           "author": "ghcjs",
@@ -6064,6 +6397,186 @@
       "feedUrl": "https://hnrss.org/frontpage",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=29374716",
+          "author": "finite_jest",
+          "description": "Article URL: https://johncarlosbaez.wordpress.com/2021/11/28/anthocyanins/\nComments URL: https://news.ycombinator.com/item?id=29374716\nPoints: 7\n# Comments: 0",
+          "link": "https://johncarlosbaez.wordpress.com/2021/11/28/anthocyanins/",
+          "publishedOn": "2021-11-29T00:09:16.000Z",
+          "wordCount": 1113,
+          "title": "Anthocyanins"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29374240",
+          "author": "auxym",
+          "description": "Article URL: https://www.outsideonline.com/culture/essays-culture/how-to-save-a-ski-town-west-tourism-economy/\nComments URL: https://news.ycombinator.com/item?id=29374240\nPoints: 9\n# Comments: 3",
+          "link": "https://www.outsideonline.com/culture/essays-culture/how-to-save-a-ski-town-west-tourism-economy/",
+          "publishedOn": "2021-11-28T23:15:05.000Z",
+          "wordCount": 6254,
+          "title": "How to Save a Ski Town"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29373536",
+          "author": "BrendanThompson",
+          "description": "Article URL: https://capiche.com/e/consumer-dev-tools-command-palette\nComments URL: https://news.ycombinator.com/item?id=29373536\nPoints: 105\n# Comments: 95",
+          "link": "https://capiche.com/e/consumer-dev-tools-command-palette",
+          "publishedOn": "2021-11-28T22:07:20.000Z",
+          "wordCount": 3049,
+          "title": "Command Palettes: How Typing Commands Became the Norm Again"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29373440",
+          "author": "bluehex",
+          "description": "In the past couple of months I have noticed much more difficulty having my taps on links in Chrome iOS register. I'll tap the same link multiple times with no response whatsoever. When this happens scrolling the page a bit and retrying does seem to help. I would estimate that about a third of my initial taps fail to register. This is on the main article links as well as the harder to hit tiny links for comment, upvote, etc. I have no idea if this is an issue with recent updates to iOS, Chrome or this site. It has been quite frustrating. Has anyone else been experiencing this?\nComments URL: https://news.ycombinator.com/item?id=29373440\nPoints: 50\n# Comments: 36",
+          "link": "https://news.ycombinator.com/item?id=29373440",
+          "publishedOn": "2021-11-28T21:56:58.000Z",
+          "wordCount": 1652,
+          "title": "Ask HN: Have you noticed difficulty tapping links on HN on iOS lately?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29373127",
+          "author": "Claude_Shannon",
+          "description": "Article URL: https://colobot.info/\nComments URL: https://news.ycombinator.com/item?id=29373127\nPoints: 42\n# Comments: 13",
+          "link": "https://colobot.info/",
+          "publishedOn": "2021-11-28T21:16:03.000Z",
+          "wordCount": 329,
+          "title": "Colobot, an RTS game where you program your units in C++ like language"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29373066",
+          "author": "hh3k0",
+          "description": "Article URL: https://www.who.int/news/item/28-11-2021-update-on-omicron\nComments URL: https://news.ycombinator.com/item?id=29373066\nPoints: 184\n# Comments: 303",
+          "link": "https://www.who.int/news/item/28-11-2021-update-on-omicron",
+          "publishedOn": "2021-11-28T21:10:06.000Z",
+          "wordCount": 1297,
+          "title": "Update on Omicron"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29372969",
+          "author": "stmw",
+          "description": "Article URL: https://www.bmj.com/content/375/bmj.n2895\nComments URL: https://news.ycombinator.com/item?id=29372969\nPoints: 84\n# Comments: 92",
+          "link": "https://www.bmj.com/content/375/bmj.n2895",
+          "publishedOn": "2021-11-28T21:00:52.000Z",
+          "wordCount": 2111,
+          "title": "Why don’t we just open the windows? Covid-19 prevention lost in translation"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29372546",
+          "author": "flreln",
+          "description": "Article URL: https://westportfacialplasticsurgery.com/blog/turbinate/\nComments URL: https://news.ycombinator.com/item?id=29372546\nPoints: 73\n# Comments: 68",
+          "link": "https://westportfacialplasticsurgery.com/blog/turbinate/",
+          "publishedOn": "2021-11-28T20:18:48.000Z",
+          "wordCount": 1431,
+          "title": "The truth about turbinates (and sinusitis)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29371908",
+          "author": "eatonphil",
+          "description": "Article URL: https://github.com/udem-dlteam/ribbit\nComments URL: https://news.ycombinator.com/item?id=29371908\nPoints: 74\n# Comments: 15",
+          "link": "https://github.com/udem-dlteam/ribbit",
+          "publishedOn": "2021-11-28T19:16:13.000Z",
+          "wordCount": 954,
+          "title": "A small Scheme implementation with AOT and incremental compilers that fits in 4K"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29371890",
+          "author": "comeagain",
+          "description": "Article URL: https://www.illustratedphilosopher.com/episodes/the-fuel-of-philosophers\nComments URL: https://news.ycombinator.com/item?id=29371890\nPoints: 31\n# Comments: 18",
+          "link": "https://www.illustratedphilosopher.com/episodes/the-fuel-of-philosophers",
+          "publishedOn": "2021-11-28T19:14:31.000Z",
+          "wordCount": 504,
+          "title": "The Fuel of Philosophers"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29371530",
+          "author": "11001100",
+          "description": "Article URL: https://theaviationgeekclub.com/story-behind-famed-sr-71-blackbird-super-low-knife-edge-pass/\nComments URL: https://news.ycombinator.com/item?id=29371530\nPoints: 189\n# Comments: 68",
+          "link": "https://theaviationgeekclub.com/story-behind-famed-sr-71-blackbird-super-low-knife-edge-pass/",
+          "publishedOn": "2021-11-28T18:37:08.000Z",
+          "wordCount": 1604,
+          "title": "The slowest SR-71 Blackbird fly-by"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29370875",
+          "author": "picture",
+          "description": "Article URL: https://www.righto.com/2021/11/reverse-engineering-yamaha-dx7_28.html\nComments URL: https://news.ycombinator.com/item?id=29370875\nPoints: 191\n# Comments: 39",
+          "link": "https://www.righto.com/2021/11/reverse-engineering-yamaha-dx7_28.html",
+          "publishedOn": "2021-11-28T17:33:37.000Z",
+          "wordCount": 4607,
+          "title": "The Yamaha DX7 synthesizer's clever exponential circuit, reverse-engineered"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29370692",
+          "author": "belter",
+          "description": "Article URL: https://lkml.org/lkml/2020/5/29/1038\nComments URL: https://news.ycombinator.com/item?id=29370692\nPoints: 199\n# Comments: 159",
+          "link": "https://lkml.org/lkml/2020/5/29/1038",
+          "publishedOn": "2021-11-28T17:17:13.000Z",
+          "wordCount": 671,
+          "title": "Linus on Line Breaks (2020)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29370374",
+          "author": "pulse65535",
+          "description": "Article URL: https://indiedevs.net/\nComments URL: https://news.ycombinator.com/item?id=29370374\nPoints: 62\n# Comments: 30",
+          "link": "https://indiedevs.net/",
+          "publishedOn": "2021-11-28T16:46:55.000Z",
+          "wordCount": 513,
+          "title": "Show HN: Indiedevs.net – A place for indie game developers"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29370217",
+          "author": "zekenie",
+          "description": "Article URL: https://offbyone.us/posts/remarkable/\nComments URL: https://news.ycombinator.com/item?id=29370217\nPoints: 158\n# Comments: 188",
+          "link": "https://offbyone.us/posts/remarkable/",
+          "publishedOn": "2021-11-28T16:31:15.000Z",
+          "wordCount": 1353,
+          "title": "I returned my Remarkable2"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29370029",
+          "author": "TangerineDream",
+          "description": "Article URL: https://torrentfreak.com/the-pirate-bay-cant-be-stopped-co-founder-says-211128/\nComments URL: https://news.ycombinator.com/item?id=29370029\nPoints: 192\n# Comments: 200",
+          "link": "https://torrentfreak.com/the-pirate-bay-cant-be-stopped-co-founder-says-211128/",
+          "publishedOn": "2021-11-28T16:15:20.000Z",
+          "wordCount": 1327,
+          "title": "“The Pirate Bay can’t be stopped,” co-founder says"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29369941",
+          "author": "atum47",
+          "description": "Article URL: https://victorribeiro.com/random4/\nComments URL: https://news.ycombinator.com/item?id=29369941\nPoints: 119\n# Comments: 30",
+          "link": "https://victorribeiro.com/random4/",
+          "publishedOn": "2021-11-28T16:05:28.000Z",
+          "wordCount": 4,
+          "title": "Show HN: Giving a 2D grid a 3D look – part 4"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29369877",
+          "author": "joelthelion",
+          "description": "Article URL: https://joelthelion.github.io/life_web/demo/\nComments URL: https://news.ycombinator.com/item?id=29369877\nPoints: 134\n# Comments: 27",
+          "link": "https://joelthelion.github.io/life_web/demo/",
+          "publishedOn": "2021-11-28T15:57:23.000Z",
+          "wordCount": 86,
+          "title": "Show HN: Life Simulation Written in Rust"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29369706",
+          "author": "ingve",
+          "description": "Article URL: https://github.com/damoeb/rss-proxy\nComments URL: https://news.ycombinator.com/item?id=29369706\nPoints: 146\n# Comments: 14",
+          "link": "https://github.com/damoeb/rss-proxy",
+          "publishedOn": "2021-11-28T15:39:40.000Z",
+          "wordCount": 716,
+          "title": "RSS-proxy: create an RSS/ATOM or JSON feed of almost any website"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29368552",
+          "author": "roytanck",
+          "description": "Article URL: https://tanck.nl/wallpaper/\nComments URL: https://news.ycombinator.com/item?id=29368552\nPoints: 209\n# Comments: 58",
+          "link": "https://tanck.nl/wallpaper/",
+          "publishedOn": "2021-11-28T12:55:21.000Z",
+          "wordCount": 15,
+          "title": "Show HN: 4K Desktop Wallpaper Generator"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=29364892",
           "author": "julianogtz",
@@ -8582,6 +9095,42 @@
       "feedUrl": "https://nitter.net/disclosetv/rss",
       "siteUrl": "https://nitter.net/disclosetv",
       "articles": [
+        {
+          "id": "https://nitter.net/disclosetv/status/1465022016646533120#m",
+          "author": "@disclosetv",
+          "description": "NOW - South Africa's President Ramaphosa urges vaccination to \"restore social freedoms\" amid the rise of the #Omicron variant.",
+          "link": "https://nitter.net/disclosetv/status/1465022016646533120#m",
+          "publishedOn": "2021-11-28T18:17:22.000Z",
+          "wordCount": 234,
+          "title": "NOW - South Africa's President Ramaphosa urges vaccination to \"restore social freedoms\" amid the rise of the #Omicron variant."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1465015031884652549#m",
+          "author": "@disclosetv",
+          "description": "MORE - Later today Fauci and the #COVID19 response team will brief Biden on the \"#Omicron variant\" and discuss the \"administration’s response.\"",
+          "link": "https://nitter.net/disclosetv/status/1465015031884652549#m",
+          "publishedOn": "2021-11-28T17:49:36.000Z",
+          "wordCount": 291,
+          "title": "R to @disclosetv: MORE - Later today Fauci and the #COVID19 response team will brief Biden on the \"#Omicron variant\" and discuss the \"administration’s response.\""
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1465013415173316610#m",
+          "author": "@disclosetv",
+          "description": "NOW - Dr. Fauci says \"everything is on the table\" when asked about vaccine mandates for domestic air travel in the U.S.",
+          "link": "https://nitter.net/disclosetv/status/1465013415173316610#m",
+          "publishedOn": "2021-11-28T17:43:11.000Z",
+          "wordCount": 283,
+          "title": "NOW - Dr. Fauci says \"everything is on the table\" when asked about vaccine mandates for domestic air travel in the U.S."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1464915828860755968#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Major M7.5 earthquake strikes Peru - prelim (EMSC)",
+          "link": "https://nitter.net/disclosetv/status/1464915828860755968#m",
+          "publishedOn": "2021-11-28T11:15:25.000Z",
+          "wordCount": 239,
+          "title": "JUST IN - Major M7.5 earthquake strikes Peru - prelim (EMSC)"
+        },
         {
           "id": "https://nitter.net/disclosetv/status/1464643342453641223#m",
           "author": "@disclosetv",
