@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=357565",
+          "author": "Geoff Graham",
+          "description": "Apple Music has this “Spatial Audio” feature where the direction of the music in your headphones is based on the location of the device. It’s tough to explain just how neat it is. But that’s not what I’m here to …\nThe post Recreating the Apple Music Hits Playlist Animation in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/recreating-the-apple-music-hits-playlist-animation-in-css/",
+          "publishedOn": "2021-11-29T16:38:49.000Z",
+          "wordCount": 1371,
+          "title": "Recreating the Apple Music Hits Playlist Animation in CSS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357976",
+          "author": "Chris Coyier",
+          "description": "This is a neat idea for a research project. The big map is fun, but the research had some tidbits in it worth looking at.\nThe average favicon network request takes 130ms, at least from our speedy cloud instance.\n…\nThe post We Analyzed 425,909 Favicons appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/we-analyzed-425909-favicons/",
+          "publishedOn": "2021-11-29T16:38:07.000Z",
+          "wordCount": 483,
+          "title": "We Analyzed 425,909 Favicons"
+        },
+        {
           "id": "https://css-tricks.com/?p=357271",
           "author": "Chris Coyier",
           "description": "I’ve got some blind spots in CSS-related performance things. One example is the will-change property. It’s a good name. You’re telling the browser some particular property (or the scroll-position or content) uh, will, change:\n.el {\n  will-change: opacity;\n\n…\nThe post When is it “Right” to Reach for  contain and will-change in CSS? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -440,6 +458,69 @@
       "feedUrl": "https://www.reddit.com/r/haskell/top/.rss?sort=top&t=day",
       "siteUrl": "https://www.reddit.com/r/haskell/top/?sort=top&t=day",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r52l2p/unihack_2021_international_hackathon/",
+          "author": null,
+          "description": "Hi guys! There is this contest you might want to check!\n UniHack is an international hackathon for university and high school students with a focus on solving civic issues. 📷\n If you are eager to learn from our mentors, challenge your hacking abilities, and bond with new students from around the world, then this is the event for you. 📷\n You will have 48h to develop software or hardware with your team members and get a chance to qualify for track prizes or even for the grand prize. Solving a civic issue gets your team bonus points. 📷\n This year’s edition will be online. 📷\n Register now for UniHack 2021 at https://unihack.eu\n    submitted by    /u/slowmindedthingy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r52l2p/unihack_2021_international_hackathon/",
+          "publishedOn": "2021-11-29T18:47:09.000Z",
+          "wordCount": 221,
+          "title": "UniHack 2021 - International Hackathon"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r51mps/ann_haskelllanguageserver151_has_been_released/",
+          "author": null,
+          "description": "This is a bug fix release for two regressions found after releasing 1.5.0:\n ​\n - [#2365](https://github.com/haskell/haskell-language-server/issue/2365): hs-boot files not handled correctly, discovered in the ghc codebase and fixed with [#2377](https://github.com/haskell/haskell-language-server/pull/2377)\n - [#2379](https://github.com/haskell/haskell-language-server/issue/2379): `tried to look at linkable for GetModIfaceWithoutLinkable for NormalizedFilePath...` error handling template haskell, fixed with [#2380](https://github.com/haskell/haskell-language-server/pull/2380)\n ​\n Both quick fixes thanks to u/pepeiborra\n ​\n Also it fixes some long standing bugs in the hlint plugin due to comments being ignored (see [#2366](https://github.com/haskell/haskell-language-server/pull/2366))\n    submitted by    /u/jneira  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r51mps/ann_haskelllanguageserver151_has_been_released/",
+          "publishedOn": "2021-11-29T18:04:00.000Z",
+          "wordCount": 208,
+          "title": "[ANN] haskell-language-server-1.5.1 has been released"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r4wxi6/a_survey_for_haskell_users_in_the_industry_how_do/",
+          "author": null,
+          "description": "I started a thread on Twitter asking people how do they handle effects (IO, RIO, mtl, free, polysemy, etc..?) in their industrial codebases: https://twitter.com/availablegreen/status/1465295477071622148.\n Would be happy if r/haskell could contribute as well — preferably in the Twitter thread, but comments here would also work.\n Thanks!\n    submitted by    /u/peargreen  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r4wxi6/a_survey_for_haskell_users_in_the_industry_how_do/",
+          "publishedOn": "2021-11-29T14:24:30.000Z",
+          "wordCount": 759,
+          "title": "A survey for Haskell users in the industry: how do you handle effects?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r4uhjw/define_data_type_as_filtering_of_another_data_type/",
+          "author": null,
+          "description": "I am currently trying to implement surreal numbers (using Conways definition) in Haskell.For this, I would like to filter a data type to create a new type.e.G. I have defined some data that can be filtereddata Raw = ...isValid :: Raw -> Bool\n and I would like to produce a new type consisting of x :: Raw such that isValid x == True .\n My current method has the unfiltered type where I need to function isValid to recurse through the object instead of having it neatly inside the data definiton.\n module Surreal where\n -- unlike Conways definition, the arguments may be invalid Numbers\n -- use isValid to recurse through arguments\n data Number = Pair [Number] [Number]\n deriving (Show,Eq)\n -- Examples of Numbers\n zero = Pair [] []\n one = Pair [zero] []\n minusone = Pair [] [zero]\n star = Pair [zero] [zero]\n -- x = (l1,r1) >= y = (l2,r2) if\n -- ! exists r in r1 : r <= y and\n -- ! exists l in l2 : y <= l\n geq :: Number -> Number -> Bool\n geq (Pair l1 r1) (Pair l2 r2) = (first ++ second == [])\n where\n first = [ r | r <- r1, leq r (Pair l2 r2) ]\n second = [ l | l <- l2, leq (Pair l1 r1) l ]\n leq :: Number -> Number -> Bool\n leq x y = geq y x\n -- x = (l,r) is valid if\n -- ! exists s in l, t in r : s >= t\n isValid' (Pair l r) = (invalids == [])\n where\n invalids = [(s,t) | s <- l, t <- r, geq s t]\n -- to ensure that the subobjects are valid themselves\n isValid (Pair l r) = isValid' (Pair l r) && foldr1 (&&) childrenValid\n where\n childrenValid = map isValid (l ++ r)\n    submitted by    /u/demieert  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r4uhjw/define_data_type_as_filtering_of_another_data_type/",
+          "publishedOn": "2021-11-29T12:09:45.000Z",
+          "wordCount": 428,
+          "title": "Define data type as filtering of another data type."
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r4qr7m/if_haskell_had_subtyping_what_would_it_be_like/",
+          "author": null,
+          "description": "For example, suppose we had a relation on records where A ≤ B exactly when B has all the fields that A has and possibly some extra fields. That is to say, let the relation on records be induced by the subset relation on the sets of field labels.\n Example:\n data A = A {x, y: Int} data B = B {x, y, z: Int} \n Here, B has an extra field z, so we are justified in saying that A ≤ B.\n Now:\n  \nA function that takes A can also take B (and ignore all the extra fields).\n In other words, if f ∷ A → Y and b ∷ B, then f b ∷ Y is well-typed.\n \nA function that gives B can also give A (and forget all the extra fields).\n In other words, if f ∷ X → B and x ∷ X, then f x ∷ B is well-typed.\n \n This can currently be done by writing boring code, so having it as a feature would reduce the amount of boring code, which is good. In real life, records tend to be big, so the reduction is substantial.\n A dual construction can be offered for sum types: for example, a function that can take A + B can handle an A or a B as well.\n Is this less than ideal? What are the problems? In a dream world of infinite possibilities, where you can add subtyping to Haskell, how would you go about it?\n  \nI imagine there are some people here that know everything there is to know about type systems, some people that have no idea of what a type system with subtyping looks like (me — I only know C and Haskell), and many people somewhere in between. So hopefully this conversation can be a common ground. I realize that the presentation above is already too technical for some and unbearably naïve to others. Please ask questions, and please correct my errors, thank you!\n    submitted by    /u/kindaro  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r4qr7m/if_haskell_had_subtyping_what_would_it_be_like/",
+          "publishedOn": "2021-11-29T07:52:38.000Z",
+          "wordCount": 1652,
+          "title": "If Haskell had subtyping, what would it be like?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r4purs/should_i_remove_haskell_cabal_and_start_over/",
+          "author": null,
+          "description": "I'm trying to install Hasktorch and my Cabal was deemed outdated so I tried\n cabal install cabal-install Warning: The install command is a part of the legacy v1 style of cabal usage. Please switch to using either the new project style and the new-install command or the legacy v1-install alias as new-style projects will become the default in the next version of cabal-install. Please file a bug if you cannot replicate a working v1- use case with the new-style commands. For more information, see: https://wiki.haskell.org/Cabal/NewBuild Resolving dependencies... Downloading Cabal-3.6.2.0 Downloading base16-bytestring-1.0.2.0 Downloaded base16-bytestring-1.0.2.0 Downloading base64-bytestring-1.2.1.0 Starting base16-bytestring-1.0.2.0 Downloaded base64-bytestring-1.2.1.0 Downloading cryptohash-s…",
+          "link": "https://www.reddit.com/r/haskell/comments/r4purs/should_i_remove_haskell_cabal_and_start_over/",
+          "publishedOn": "2021-11-29T06:53:32.000Z",
+          "wordCount": 674,
+          "title": "Should I remove Haskell, Cabal and start over?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/r4j1y8/haskell_vs_code_setup_in_2021/",
+          "author": null,
+          "description": "Hey guys,\n I just wrote an article about VS Code setup for Haskell. Any feedback would be highly appreciated: https://medium.com/@iandrc/haskell-vs-code-setup-in-2021-6267cc991551\n Thanks in advance :)\n    submitted by    /u/iandrc  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/r4j1y8/haskell_vs_code_setup_in_2021/",
+          "publishedOn": "2021-11-29T00:45:26.000Z",
+          "wordCount": 408,
+          "title": "Haskell VS Code Setup in 2021"
+        },
         {
           "id": "https://www.reddit.com/r/haskell/comments/r4fj3f/deriving_inputt_for_creating_newtype_monad/",
           "author": null,
@@ -1348,6 +1429,24 @@
       "siteUrl": "https://www.reddit.com/r/CardanoDevelopers/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/r4u26k/why_is_it_transaction_fee_and_minimum_custom/",
+          "author": null,
+          "description": "Hi,\n as far as i understand, the general fee of a transaction gets higher the more bytes are in the transaction body. And the transaction body size increases the more UTXOs i have in the inputs and outputs.\n This would already prevent me from creating worthless custom tokens to spam the network, because i would be burning money (in the form of normal transaction fees) while doing that.\n But as the docs say (https://developers.cardano.org/docs/native-tokens/), i need to send a minimum value (some docs say it's 1ADA, in some others i've seen something like 1.4ADA not sure whats correct now) in *addition* to the normal fee whenever i transfer native tokens instead of ada. Why is that? I don't understand why the normal transaction fee is not enough for that as described in the paragraph above.\n    submitted by    /u/derjonge  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/r4u26k/why_is_it_transaction_fee_and_minimum_custom/",
+          "publishedOn": "2021-11-29T11:42:48.000Z",
+          "wordCount": 376,
+          "title": "Why is it Transaction Fee AND minimum custom token fee together?"
+        },
+        {
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/r4j5ay/is_there_a_command_for_the_cardano_node_cli_to/",
+          "author": null,
+          "description": "While I have just started looking into this, I wonder if there a way to sort transaction types.\n Is there a tag for NFT, Smart Contracts, regular transactions?\n    submitted by    /u/tied_laces  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/r4j5ay/is_there_a_command_for_the_cardano_node_cli_to/",
+          "publishedOn": "2021-11-29T00:50:06.000Z",
+          "wordCount": 184,
+          "title": "Is there a command for the Cardano Node (CLI) to filter tx types?"
+        },
+        {
           "id": "https://www.reddit.com/r/CardanoDevelopers/comments/r43cep/so_simple_i_cant_find_the_answer/",
           "author": null,
           "description": "I'm trying to generate a transaction using javascript, any examples using cardano-wallet-js or cardano-cli would be greatly appreciated.\n    submitted by    /u/Friendly-Part-507  \n [link]   [comments]",
@@ -1615,6 +1714,231 @@
       "feedUrl": "https://www.reddit.com/r/cardano/top/.rss?sort=top&t=day",
       "siteUrl": "https://www.reddit.com/r/cardano/top/?sort=top&t=day",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r57hd2/companies_hiring_haskell_developers/",
+          "author": null,
+          "description": "submitted by    /u/Nemesis916  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r57hd2/companies_hiring_haskell_developers/",
+          "publishedOn": "2021-11-29T22:29:26.000Z",
+          "wordCount": 440,
+          "title": "Companies hiring Haskell Developers:"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r53l7f/cardano_foundation_put_this_quiz_out_on_twitter_i/",
+          "author": null,
+          "description": "submitted by    /u/Lisanne_H  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r53l7f/cardano_foundation_put_this_quiz_out_on_twitter_i/",
+          "publishedOn": "2021-11-29T19:32:52.000Z",
+          "wordCount": 768,
+          "title": "Cardano Foundation put this quiz out on Twitter, I got 13/15 questions right, but it doesn't show the answers and I want to figure out which questions I got wrong. I'm sure I'm not the only one? Let's create a list of the questions and answers here together? 🤓"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r51koo/join_your_first_ever_project_catalyst_class_live/",
+          "author": null,
+          "description": "submitted by    /u/danny_cryptofay  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r51koo/join_your_first_ever_project_catalyst_class_live/",
+          "publishedOn": "2021-11-29T18:01:25.000Z",
+          "wordCount": 227,
+          "title": "Join your first ever Project Catalyst class. Live now by the Catalyst School!"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r50utb/liqwid_v1_roadmap_update_3/",
+          "author": null,
+          "description": "Liqwid v1 Roadmap Update - 3\n ​\n No exact launch dates yet:\n \"Based on our current development pace we are anticipating our protocol updates to be in place during Q1 2022. At this time the entire v1 protocol will be deployed to Cardano mainnet.\"\n ​\n Something about a collaboration with Sundae on governance:\n \"The Governance system was developed by Liqwid Labs and will be utilized in other DeFi protocols including SundaeSwap and LiqwidX. \"\n ​\n As a scalability solution, they will use the Scooper model from Sundae:\n \"The core devs have researched the latest UTXO scalability solutions and we are confident the market escrow system can easily be extended to support the SundaeSwap Scooper model. \"\n    submitted by    /u/82626w8  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r50utb/liqwid_v1_roadmap_update_3/",
+          "publishedOn": "2021-11-29T17:28:41.000Z",
+          "wordCount": 329,
+          "title": "Liqwid v1 Roadmap Update — 3"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4xupm/etoro_insider_trading_scam/",
+          "author": null,
+          "description": "So I just want to state the obvious etoro has recently announce delisting Cardano sometime 2022\n I think this is a lie to collapse the price so they can buy more coins cheap. \n Checkout Cardano staking pool https://pooltool.io etoro are operating dozens of pools with 63 million coins in each. What does anyone else think?\n    submitted by    /u/lazaarath  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r4xupm/etoro_insider_trading_scam/",
+          "publishedOn": "2021-11-29T15:09:20.000Z",
+          "wordCount": 1005,
+          "title": "Etoro insider trading scam"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4xc0y/could_we_use_a_fake_dex_for_education/",
+          "author": null,
+          "description": "My old work used to send emails with links that looked like work emails but would link to a site explaining this was a ‘fake’ malicious link and to pay attention to the links they are clicking. Could this type of education be used in Cardano? Like a random new DEX that tells people they could have just lost all their funds and to do more research before trusting a service? Does it already exist? \n Would scare the absolute crap out of people but better to learn this way than for real.\n    submitted by    /u/JLo212867  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r4xc0y/could_we_use_a_fake_dex_for_education/",
+          "publishedOn": "2021-11-29T14:44:37.000Z",
+          "wordCount": 413,
+          "title": "Could we use a fake DEX for education?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4wjmy/staking_pool_near_saturation_should_i_stay_or/",
+          "author": null,
+          "description": "A quick question/request for advice. The title says it all. I’ve picked my pools primarily on what they say support (social, environmental issues etc) and not just ROS. Do you normally look for another less saturated pool or stay with one that’s now saturated?\n Thanks.\n    submitted by    /u/Rpousman  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r4wjmy/staking_pool_near_saturation_should_i_stay_or/",
+          "publishedOn": "2021-11-29T14:05:02.000Z",
+          "wordCount": 793,
+          "title": "Staking pool near saturation; “Should I stay or should I go?”"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4wfmi/its_2_months_since_alonzo_was_activated_if_you/",
+          "author": null,
+          "description": "submitted by    /u/y_angelov  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r4wfmi/its_2_months_since_alonzo_was_activated_if_you/",
+          "publishedOn": "2021-11-29T13:59:59.000Z",
+          "wordCount": 367,
+          "title": "It's 2 months since Alonzo was activated. If you want a recap of what Alonzo changed, what's happened since and want to learn what's next for Cardano, check this summary - I hope you find it useful 🤓"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4w7mg/recovery_see_phrase/",
+          "author": null,
+          "description": "yes, I am as dumb as a bag of rocks\n wrote down 24 word recovery phrase\n put it in a safe, no digital copy cos thats what you do right\n Deadalus crashed, fine uninstall reinstall,\n uninstalled...\n I only wrote down 23 words...\n Hit me, i deserve it\n 1500 ADA....\n ​\n ​\n ​\n EDIT,,,,,,,,,,update,,,,,,,,,,,,\n ​\n Fork me, some start to the day.\n Found it.\n Some of you kind folks reminded me I had to input the seed phrase to verify.\n I must have had the full list at some point.\n Back to safe, have a few USB drives in there with photos of my kid, other personal info.\n Started plugging them in, usual stuff.\n Odd looking zipped file...ok...\n \"Enter password\" , flip.... tried some of my go to passwords.. \n 24 beautiful words\n ​\n I had completely forgotten about this \n Wallet restored and syncing...\n ​\n Massive thanks to all of you for chiming in and either offering support or having a laugh at my expense, fully deserved it\n ​\n Thank you all \n ​\n    submitted by    /u/festermcseptic  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r4w7mg/recovery_see_phrase/",
+          "publishedOn": "2021-11-29T13:48:06.000Z",
+          "wordCount": 983,
+          "title": "recovery see phrase"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4vfb2/advantage_of_cardano_on_decentralisationsecurity/",
+          "author": null,
+          "description": "submitted by    /u/SuccotashAdditional  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r4vfb2/advantage_of_cardano_on_decentralisationsecurity/",
+          "publishedOn": "2021-11-29T13:05:26.000Z",
+          "wordCount": 356,
+          "title": "Advantage of Cardano on decentralisation(security) and possible double yields in defi(delegation + lp rewards)."
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4v8gu/project_catalyst_fund8_strategic_goals_16m_in_ada/",
+          "author": null,
+          "description": "​\n https://preview.redd.it/vm275t6a6j281.png?width=1914&format=png&auto=webp&s=9b4bb699393f80431cb4bc1105cc786dde8dd108\n 🥁 #FeedbackChallenge continues\n Cardano's Fund8 in Project #Catalyst is set to command $16M in ada\n 🤝 Take a responsibility & voice your feedback on community direction via F8 Challenge Setting Category already TODAY\n 💡 There are 94 areas of interest. Voice your opinion on how to improve these\n 📖 Learn more about what Challenge Setting is about from this timestamped presentation by James Dunseith of Gimbalabs: https://youtu.be/nP0r5KwNtQk?t=4790\n 👉 Browse ideascale proposals:https://bit.ly/31b6gyr \n Learn more about Feedback Challenge here. \n Get in touch about Catalyst\n Have questions or any doubts about Catalyst? Comment below or DM me directly here on reddit, via twitter or telegram - and let's have a conversation.\n Have a wonderful week ahead,\n Danny\n --------------------------------------------------------------------\n Where to find Project Catalyst?\n 📣 Catalyst Announcements only: https://t.me/cardanocatalyst\n 📧 Subscribe to the Catalyst mailing list: https://bit.ly/3dSZJvx\n    submitted by    /u/danny_cryptofay  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r4v8gu/project_catalyst_fund8_strategic_goals_16m_in_ada/",
+          "publishedOn": "2021-11-29T12:55:00.000Z",
+          "wordCount": 413,
+          "title": "Project Catalyst - Fund8 Strategic Goals - $16M in ada 👀"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4v34l/a_video_about_cardano_by_coinmarketcap/",
+          "author": null,
+          "description": "submitted by    /u/Street-Engineer-5079  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r4v34l/a_video_about_cardano_by_coinmarketcap/",
+          "publishedOn": "2021-11-29T12:46:10.000Z",
+          "wordCount": 253,
+          "title": "A video about Cardano by CoinMarketCap"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4unf1/ardana_whats_everyones_feelings_and_view_of_their/",
+          "author": null,
+          "description": "submitted by    /u/steveatron__aus  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r4unf1/ardana_whats_everyones_feelings_and_view_of_their/",
+          "publishedOn": "2021-11-29T12:20:04.000Z",
+          "wordCount": 573,
+          "title": "Ardana, what’s everyone’s feelings and view of their future."
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4uflm/identity_project/",
+          "author": null,
+          "description": "Hi there, \n Much love for the community.\n I want to get involved and work an a project that might be built on ADA's network. As anyone, I am trying have an impact in the world, even if it's small, that's still ok. So in this regard, I want to find a project that solves some real world issues.\n Use case: For people that travel but not limited to: I need a place/wallet to store my papers: passport, drivers licence, ID, Covid green certificate etc. I always seem to misplace them and find it stressful to carry them with me when I can just have a safe smart contract where they live. Governments would have to approve of the safety and legitimacy of the network to provide valid documents. \n There's plenty of things I probably have not thought about, but I just want to get a conversation going as I'd like to get involved into a nice project. How does this idea sound? \n As far as skills, I can commit to customer facing tasks: user experience, marketing, sales and community management.\n    submitted by    /u/salatawille  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r4uflm/identity_project/",
+          "publishedOn": "2021-11-29T12:06:24.000Z",
+          "wordCount": 430,
+          "title": "Identity project"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4u0vl/unpopular_opinion_i_dont_think_muesliswap_is_bad/",
+          "author": null,
+          "description": "I can see people throwing \"massive red flags\" everywhere, but the justification is questionable - number one \"massive red flag\" is that these guys are anonymous. So what? Satoshi Nakamoto was anonymous and look at how Bitcoin is doing. Anonymity on its own, especially in crypto space is not anything unusual.\n Purists say their DEX is not 100% DEX because of the bot they use, but frankly speaking, from user perspective I don't really care if it's 100% DEX or only 90% DEX, I can connect my NAMI wallet and I can trade with no need for KYC, registration or anything of that sort that is required on traditional CEXes and I get my tokens from matched pairs directly to my on-chain wallet.\n Their source code is fake? They did release it, the code is real and clearly it works. The repositories may n…",
+          "link": "https://www.reddit.com/r/cardano/comments/r4u0vl/unpopular_opinion_i_dont_think_muesliswap_is_bad/",
+          "publishedOn": "2021-11-29T11:40:17.000Z",
+          "wordCount": 1489,
+          "title": "Unpopular opinion - I don't think MuesliSwap is bad for Cardano"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4slj9/my_ledger_nano_s_stopped_working_with_yoroi/",
+          "author": null,
+          "description": "Hi guys,\n Today I wanted to send some ADA and I realised that my yoroi wallet does not connect anymore to my ledger nano S. Is this happening only to me?\n I'm using firefox and I wanted to \"clone\" the yoroi wallet to chrome but....yoroi does not connect to my ledger nano S on chrome as well. What should I do?\n ​\n EDIT:\n I tried to delete and reinstall the app on my ledger but it changed nothing. Then I decided to install yoroi on my mac book pro and it worked at first try. For some reasons I can't connect yoroi on my linux machine using either firefox or chrome.\n    submitted by    /u/rage997  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r4slj9/my_ledger_nano_s_stopped_working_with_yoroi/",
+          "publishedOn": "2021-11-29T10:00:59.000Z",
+          "wordCount": 723,
+          "title": "My ledger nano S stopped working with yoroi"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4rmlr/whats_the_benefit_of_staking_with_sundaeswap_spo/",
+          "author": null,
+          "description": "I recently came across this post here where the list of elected stake pool operators are listed.\n The question I have now is, what is the benefit to staking with any of these SPO's? I have a feeling it has to do with some Initial Staking Pool Offering (ISO) but I am not sure how that works.\n So my question are: - Whats the benefit of staking with SundaeSwap SPO? - What does staking with these SPO do for SundaeSwap? - What is ISO?\n Direct answers to these questions or pointers to resources where I can find answers will be appreciated.\n    submitted by    /u/finlaydotweber  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r4rmlr/whats_the_benefit_of_staking_with_sundaeswap_spo/",
+          "publishedOn": "2021-11-29T08:52:29.000Z",
+          "wordCount": 741,
+          "title": "Whats the benefit of staking with SundaeSwap SPO?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4qknv/cardano_rumor_rundown_november_29_2021/",
+          "author": null,
+          "description": "Hey Everyone!\n Let's go...\n Newly covered today:\n  \nThere is at least one “Cardano” baby. Is this the first or have there been others? https://twitter.com/Brunokarno1/status/1464762911746773002\n The % of total ADA staked is still over 71% (11.29). https://twitter.com/matiwinnetou/status/1464921027922866188\n The Cardano Community takes a moment to enjoy contemplating the circumstance that there will never need to be a “magical Cardano 2” in order for our blockchain to survive. https://twitter.com/IOHK_Charles/status/1465089315340488704\n  \nPreviously Covered but still interesting:\n  \nPeople are buying luxury real estate in Portugal with Cardano. https://twitter.com/danny_cryptofay/status/1451113239669092356\n Over 292,000 votes were cast in Catalyst Fund 6. https://twitter.com/InputOutputHK/s…",
+          "link": "https://www.reddit.com/r/cardano/comments/r4qknv/cardano_rumor_rundown_november_29_2021/",
+          "publishedOn": "2021-11-29T07:40:22.000Z",
+          "wordCount": 2443,
+          "title": "Cardano Rumor Rundown November 29, 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4q7ee/rock_solid_cardano/",
+          "author": null,
+          "description": "submitted by    /u/ArmyofSpies  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r4q7ee/rock_solid_cardano/",
+          "publishedOn": "2021-11-29T07:16:16.000Z",
+          "wordCount": 192,
+          "title": "Rock Solid Cardano"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4q6nu/learning_lessons_11_oracles/",
+          "author": null,
+          "description": "submitted by    /u/StakeForNature  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r4q6nu/learning_lessons_11_oracles/",
+          "publishedOn": "2021-11-29T07:15:00.000Z",
+          "wordCount": 324,
+          "title": "Learning Lessons - 11#. Oracles"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4phui/cardano_daily_discussion_november_29_2021/",
+          "author": null,
+          "description": "Hello everyone,\n Welcome to the Cardano Daily Discussion!\n The standard sub rules apply here (see sidebar), with the exception that price discussion is allowed in this thread, though we encourage you to try not to make this the focus and talk about the project itself. Please ask questions, help others and be civil - be sure to get involved in Project Catalyst too!\n If you're new, please make sure you're read through the newbies guide and share it with others (use the ?newbies comment command to reference it).\n NFTs for Planting Trees\n https://preview.redd.it/d9l75zowckx71.jpg?width=1600&format=pjpg&auto=webp&s=9a13a91cb371dce5d318b96dea2692dad9348b21\n You can donate ADA and receive NFTs for doing so, each ADA is a tree planted, it's a win win! Read about veritree here and take part on http…",
+          "link": "https://www.reddit.com/r/cardano/comments/r4phui/cardano_daily_discussion_november_29_2021/",
+          "publishedOn": "2021-11-29T06:30:18.000Z",
+          "wordCount": 1027,
+          "title": "Cardano Daily Discussion - November 29, 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4ormc/why_muesliswap/",
+          "author": null,
+          "description": "submitted by    /u/EddieFrmDaBlockchain  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r4ormc/why_muesliswap/",
+          "publishedOn": "2021-11-29T05:45:56.000Z",
+          "wordCount": 818,
+          "title": "Why MuesliSwap?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4khdd/adahandle_explanation_needed/",
+          "author": null,
+          "description": "can someone tell me how this will work? say i got a mate who i won a bet with and he now owes me 5 ada. let’s say we both got nami wallet and i’ve purchased the name “sendmemyada”.. does he now type this name in the sending address field? and 5 ada in the amount and hit send? and it’ll come to my nami as i hold the “sendmemyada” nft?\n    submitted by    /u/yungfilly  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r4khdd/adahandle_explanation_needed/",
+          "publishedOn": "2021-11-29T01:57:32.000Z",
+          "wordCount": 616,
+          "title": "adahandle explanation needed"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4j9ig/question_about_minswap_sundaeswap_isodelegation/",
+          "author": null,
+          "description": "Hello everyone!\n I participated on the Minswap FISO for a few epochs and now I've been looking forward to be part of the ISO for Sundaeswap, ever since the list of pools selected for the ISO was released.\n My questions are:\n  \nWhen should I start delegating to a different pool, to be part of the Sundaeswap ISO?\n If I were to change the pool I am delegating to right now, to one on the Sundaeswap list of ISO pools, would I still be able to claim my MIN and MINt tokens?\n  \nThanks in advance for the attention!\n    submitted by    /u/proxycrosseccho  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r4j9ig/question_about_minswap_sundaeswap_isodelegation/",
+          "publishedOn": "2021-11-29T00:55:51.000Z",
+          "wordCount": 417,
+          "title": "Question about Minswap & Sundaeswap ISO/Delegation"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/r4il44/what_happens_when_we_get_rid_of_banks/",
+          "author": null,
+          "description": "So we all know Defi, smart contracts, and everything that cryptocurrency technology brings to the global stage is going to replace all traditional financial institutions.\n How do you see this playing out? Will it be a rapid movement where banks would have to adapt or get left behind? Or will they try their best to fight back? I mean we know nothing they do will work so..\n    submitted by    /u/WSBTurnipGod  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/r4il44/what_happens_when_we_get_rid_of_banks/",
+          "publishedOn": "2021-11-29T00:22:18.000Z",
+          "wordCount": 896,
+          "title": "What happens when we get rid of banks?"
+        },
         {
           "id": "https://www.reddit.com/r/cardano/comments/r4h8gl/we_hit_15_million_transactions_in_epoch_304/",
           "author": null,
@@ -4962,6 +5286,33 @@
       "siteUrl": "https://www.reddit.com/r/redscarepod/top/?sort=top&t=day&limit=3",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redscarepod/comments/r4wmz7/casual_sex_kinda_sucks/",
+          "author": null,
+          "description": "I don’t mean a drunken one night stand, that’s perfectly natural and sucks in a different, less bleak way. I’m talkin bout fwb/situationships. What idiot thought that would be a good idea to make a normal part of life. Deranged\n    submitted by    /u/TurbulentRecording72  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/r4wmz7/casual_sex_kinda_sucks/",
+          "publishedOn": "2021-11-29T14:09:38.000Z",
+          "wordCount": 635,
+          "title": "Casual sex kinda sucks"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/r4spgl/_/",
+          "author": null,
+          "description": "submitted by    /u/Cole12345  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/r4spgl/_/",
+          "publishedOn": "2021-11-29T10:07:59.000Z",
+          "wordCount": 555,
+          "title": "🤖"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/r4j4it/_/",
+          "author": null,
+          "description": "submitted by    /u/kung-flu-fighting  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/r4j4it/_/",
+          "publishedOn": "2021-11-29T00:49:04.000Z",
+          "wordCount": 375,
+          "title": "."
+        },
+        {
           "id": "https://www.reddit.com/r/redscarepod/comments/r49ik8/bow_down_woke_twitter/",
           "author": null,
           "description": "submitted by    /u/scratchedboots  \n [link]   [comments]",
@@ -5373,6 +5724,15 @@
       "feedUrl": "https://rsshub.app/github/trending/daily/haskell",
       "siteUrl": "https://github.com/trending/haskell?since=daily",
       "articles": [
+        {
+          "id": "https://github.com/simplex-chat/simplex-chat",
+          "author": "simplex-chat",
+          "description": "🚀 SimpleX - decentralized chat with a focus on users’ privacy - doesn't use global user identities - now with groups and sending files!\n    \nLanguage: Haskell\n                            \nStar: 188\n                            \nFork: 12",
+          "link": "https://github.com/simplex-chat/simplex-chat",
+          "publishedOn": "2021-11-30T00:52:42.432Z",
+          "wordCount": 2413,
+          "title": "simplex-chat /\n\n      simplex-chat"
+        },
         {
           "id": "https://github.com/nebuta/dom-selector",
           "author": "nebuta",
@@ -6397,6 +6757,186 @@
       "feedUrl": "https://hnrss.org/frontpage",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=29386605",
+          "author": "abnercoimbre",
+          "description": "Article URL: https://media.handmade-seattle.com/essence/\nComments URL: https://news.ycombinator.com/item?id=29386605\nPoints: 25\n# Comments: 8",
+          "link": "https://media.handmade-seattle.com/essence/",
+          "publishedOn": "2021-11-29T23:15:22.000Z",
+          "wordCount": 208,
+          "title": "The Essence operating system at Handmade Seattle 2021 [video]"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29386239",
+          "author": "authed",
+          "description": "Article URL: https://www.npr.org/2021/11/29/1059821677/google-dont-be-evil-lawsuit\nComments URL: https://news.ycombinator.com/item?id=29386239\nPoints: 236\n# Comments: 155",
+          "link": "https://www.npr.org/2021/11/29/1059821677/google-dont-be-evil-lawsuit",
+          "publishedOn": "2021-11-29T22:41:08.000Z",
+          "wordCount": 931,
+          "title": "Ex-Google workers sue company, saying it betrayed 'Don't Be Evil' motto"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29386175",
+          "author": "infodocket",
+          "description": "Article URL: https://www.umass.edu/news/article/satellites-reveal-arctic-rivers-are-changing-faster-we-thought\nComments URL: https://news.ycombinator.com/item?id=29386175\nPoints: 16\n# Comments: 2",
+          "link": "https://www.umass.edu/news/article/satellites-reveal-arctic-rivers-are-changing-faster-we-thought",
+          "publishedOn": "2021-11-29T22:34:36.000Z",
+          "wordCount": 1687,
+          "title": "Satellites Reveal Arctic Rivers are Changing Faster Than We Thought"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29386102",
+          "author": "hi5eyes",
+          "description": "Article URL: https://www.theguardian.com/science/2021/nov/29/amazing-science-researchers-find-xenobots-can-give-rise-to-offspring\nComments URL: https://news.ycombinator.com/item?id=29386102\nPoints: 18\n# Comments: 4",
+          "link": "https://www.theguardian.com/science/2021/nov/29/amazing-science-researchers-find-xenobots-can-give-rise-to-offspring",
+          "publishedOn": "2021-11-29T22:28:19.000Z",
+          "wordCount": 753,
+          "title": "Researchers find xenobots can give rise to offspring"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29385591",
+          "author": "arexxbifs",
+          "description": "Article URL: https://americanaffairsjournal.org/2021/11/crises-of-elite-competition-in-the-east-and-west/\nComments URL: https://news.ycombinator.com/item?id=29385591\nPoints: 24\n# Comments: 0",
+          "link": "https://americanaffairsjournal.org/2021/11/crises-of-elite-competition-in-the-east-and-west/",
+          "publishedOn": "2021-11-29T21:36:08.000Z",
+          "wordCount": 6369,
+          "title": "Crises of Elite Competition in the East and West"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29385266",
+          "author": "mickeyt500",
+          "description": "Article URL: https://cloudshim.com/calculator\nComments URL: https://news.ycombinator.com/item?id=29385266\nPoints: 19\n# Comments: 1",
+          "link": "https://cloudshim.com/calculator",
+          "publishedOn": "2021-11-29T21:03:47.000Z",
+          "wordCount": 15,
+          "title": "Show HN: An AWS Savings Plans Calculator"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29385230",
+          "author": "ethanyu94",
+          "description": "Article URL: https://jobs.ashbyhq.com/motion\nComments URL: https://news.ycombinator.com/item?id=29385230\nPoints: 1\n# Comments: 0",
+          "link": "https://jobs.ashbyhq.com/motion",
+          "publishedOn": "2021-11-29T21:01:00.000Z",
+          "wordCount": 13,
+          "title": "Motion (YC W20) is hiring engineers to build the future of time management"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29385120",
+          "author": "dantiberian",
+          "description": "Article URL: https://aws.amazon.com/blogs/aws/announcing-pull-through-cache-repositories-for-amazon-elastic-container-registry/\nComments URL: https://news.ycombinator.com/item?id=29385120\nPoints: 34\n# Comments: 16",
+          "link": "https://aws.amazon.com/blogs/aws/announcing-pull-through-cache-repositories-for-amazon-elastic-container-registry/",
+          "publishedOn": "2021-11-29T20:51:32.000Z",
+          "wordCount": 1449,
+          "title": "Pull Through Cache Repositories for Amazon Elastic Container Registry"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29385006",
+          "author": "tekkertje",
+          "description": "Article URL: https://github.com/tenderlove/asmrepl\nComments URL: https://news.ycombinator.com/item?id=29385006\nPoints: 116\n# Comments: 40",
+          "link": "https://github.com/tenderlove/asmrepl",
+          "publishedOn": "2021-11-29T20:43:15.000Z",
+          "wordCount": 632,
+          "title": "Asmrepl: REPL for x86 Assembly Language"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29384856",
+          "author": "thunderbong",
+          "description": "Article URL: https://ungoogled-software.github.io/\nComments URL: https://news.ycombinator.com/item?id=29384856\nPoints: 177\n# Comments: 145",
+          "link": "https://ungoogled-software.github.io/",
+          "publishedOn": "2021-11-29T20:31:33.000Z",
+          "wordCount": 62,
+          "title": "Google Chromium, sans integration with Google"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29384341",
+          "author": "ericyan",
+          "description": "Article URL: https://github.com/AppFlowy-IO/appflowy\nComments URL: https://news.ycombinator.com/item?id=29384341\nPoints: 82\n# Comments: 14",
+          "link": "https://github.com/AppFlowy-IO/appflowy",
+          "publishedOn": "2021-11-29T19:49:58.000Z",
+          "wordCount": 1245,
+          "title": "AppFlowy: an open-source alternative to Notion"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29384257",
+          "author": "_Microft",
+          "description": "Article URL: https://whatismusic.info/blog/MusicIsNotAPositiveSuperstimulusItsANegativeSuperstimulus.html\nComments URL: https://news.ycombinator.com/item?id=29384257\nPoints: 62\n# Comments: 61",
+          "link": "https://whatismusic.info/blog/MusicIsNotAPositiveSuperstimulusItsANegativeSuperstimulus.html",
+          "publishedOn": "2021-11-29T19:41:51.000Z",
+          "wordCount": 1520,
+          "title": "Music is a negative superstimulus for speech (2020)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29383251",
+          "author": "croes",
+          "description": "Article URL: https://brighterworld.mcmaster.ca/articles/laser-on-silicon-khadijeh-miarabbas-kiani/\nComments URL: https://news.ycombinator.com/item?id=29383251\nPoints: 148\n# Comments: 42",
+          "link": "https://brighterworld.mcmaster.ca/articles/laser-on-silicon-khadijeh-miarabbas-kiani/",
+          "publishedOn": "2021-11-29T18:24:51.000Z",
+          "wordCount": 2590,
+          "title": "Ph.D student demonstrates a single, working laser on silicon"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29382887",
+          "author": "andreyk",
+          "description": "Article URL: https://lastweekin.ai/p/the-inherent-limitations-of-gpt-3\nComments URL: https://news.ycombinator.com/item?id=29382887\nPoints: 68\n# Comments: 85",
+          "link": "https://lastweekin.ai/p/the-inherent-limitations-of-gpt-3",
+          "publishedOn": "2021-11-29T17:57:09.000Z",
+          "wordCount": 1475,
+          "title": "The Inherent Limitations of GPT-3"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29382606",
+          "author": "vlmutolo",
+          "description": "Article URL: https://mccarty.io/cryptography/2021/11/29/chacha20-blake3.html\nComments URL: https://news.ycombinator.com/item?id=29382606\nPoints: 95\n# Comments: 69",
+          "link": "https://mccarty.io/cryptography/2021/11/29/chacha20-blake3.html",
+          "publishedOn": "2021-11-29T17:35:01.000Z",
+          "wordCount": 1829,
+          "title": "Why I Have Settled on XChaCha20+Blake3 for AEAD"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29382127",
+          "author": "alexray",
+          "description": "Hey HN! We’re Alex and David, the founders of Parade (https://getparade.com). Parade uses software to guide founders through early branding decisions, including designing a basic logo, selecting fonts, selecting colors, and defining their company’s overall aesthetic.\nA lot of early stage founders are incredible engineers, but lack the ability to make things look “right”. We’ve seen a bunch of our friends launch products to no reception, some of which seemed due to poor design decisions (like, making buttons hard to find or a landing page that looks like it might steal your credit card).\nTwo years ago, two of my closest friends started a company, raised a small round, and spent tens of thousands of dollars on their initial branding. That was a substantial percentage of their funding, and th…",
+          "link": "https://news.ycombinator.com/item?id=29382127",
+          "publishedOn": "2021-11-29T16:58:54.000Z",
+          "wordCount": 4297,
+          "title": "Launch HN: Parade (YC S20) – Launch your company without hiring a designer"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29382006",
+          "author": "agmm",
+          "description": "Article URL: https://librivox.org/\nComments URL: https://news.ycombinator.com/item?id=29382006\nPoints: 262\n# Comments: 43",
+          "link": "https://librivox.org/",
+          "publishedOn": "2021-11-29T16:49:01.000Z",
+          "wordCount": 548,
+          "title": "Free public domain audiobooks"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29381969",
+          "author": "piebro",
+          "description": "Article URL: https://github.com/piebro/factorio-blueprint-visualizer\nComments URL: https://news.ycombinator.com/item?id=29381969\nPoints: 67\n# Comments: 11",
+          "link": "https://github.com/piebro/factorio-blueprint-visualizer",
+          "publishedOn": "2021-11-29T16:46:25.000Z",
+          "wordCount": 1006,
+          "title": "Show HN: Factorio Blueprint Visualizer"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29381055",
+          "author": "maxshm",
+          "description": "Article URL: https://www.jvsg.com/calculators/cctv-lens-calculator/\nComments URL: https://news.ycombinator.com/item?id=29381055\nPoints: 133\n# Comments: 39",
+          "link": "https://www.jvsg.com/calculators/cctv-lens-calculator/",
+          "publishedOn": "2021-11-29T15:40:04.000Z",
+          "wordCount": 11,
+          "title": "Show HN: Security Camera Lens Calculator"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29380537",
+          "author": "Hard_Space",
+          "description": "Article URL: https://www.unite.ai/why-adversarial-image-attacks-are-no-joke/\nComments URL: https://news.ycombinator.com/item?id=29380537\nPoints: 156\n# Comments: 142",
+          "link": "https://www.unite.ai/why-adversarial-image-attacks-are-no-joke/",
+          "publishedOn": "2021-11-29T14:55:42.000Z",
+          "wordCount": 2632,
+          "title": "Adversarial image attacks are no joke"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=29374716",
           "author": "finite_jest",
@@ -9095,6 +9635,123 @@
       "feedUrl": "https://nitter.net/disclosetv/rss",
       "siteUrl": "https://nitter.net/disclosetv",
       "articles": [
+        {
+          "id": "https://nitter.net/disclosetv/status/1465437014795378695#m",
+          "author": "@disclosetv",
+          "description": "NEW - Designated Minister of Justice, Buschmann (FDP), wants to have the parliament vote on compulsory vaccination for the population in Germany.",
+          "link": "https://nitter.net/disclosetv/status/1465437014795378695#m",
+          "publishedOn": "2021-11-29T21:46:25.000Z",
+          "wordCount": 214,
+          "title": "NEW - Designated Minister of Justice, Buschmann (FDP), wants to have the parliament vote on compulsory vaccination for the population in Germany."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1465429316062351361#m",
+          "author": "@disclosetv",
+          "description": "NEW - Researchers play god and create the first living, AI-designed \"Xenobots\" that can self-replicate.\n\nwyss.harvard.edu/news/team-b…",
+          "link": "https://nitter.net/disclosetv/status/1465429316062351361#m",
+          "publishedOn": "2021-11-29T21:15:49.000Z",
+          "wordCount": 232,
+          "title": "NEW - Researchers play god and create the first living, AI-designed \"Xenobots\" that can self-replicate.\n\nhttps://wyss.harvard.edu/news/team-builds-first-living-robots-that-can-reproduce/"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1465419423666384907#m",
+          "author": "@disclosetv",
+          "description": "NEW - Austrian candy manufacturer producing \"Mozart Balls\" for the US market files for bankruptcy as a result of the pandemic. The company was founded in 1896.",
+          "link": "https://nitter.net/disclosetv/status/1465419423666384907#m",
+          "publishedOn": "2021-11-29T20:36:31.000Z",
+          "wordCount": 197,
+          "title": "NEW - Austrian candy manufacturer producing \"Mozart Balls\" for the US market files for bankruptcy as a result of the pandemic. The company was founded in 1896."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1465351179538509826#m",
+          "author": "@disclosetv",
+          "description": "Former CTO and new Twitter CEO Agrawal in November 2020 interview: \"Our role is not to be bound by the First Amendment... focus[ing] less on thinking about free speech, but thinking about how the times have changed.\"",
+          "link": "https://nitter.net/disclosetv/status/1465351179538509826#m",
+          "publishedOn": "2021-11-29T16:05:20.000Z",
+          "wordCount": 265,
+          "title": "R to @disclosetv: Former CTO and new Twitter CEO Agrawal in November 2020 interview: \"Our role is not to be bound by the First Amendment... focus[ing] less on thinking about free speech, but thinking about how the times have changed.\""
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1465346996814983177#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - CTO Parag Agrawal will replace Jack Dorsey as Twitter CEO.",
+          "link": "https://nitter.net/disclosetv/status/1465346996814983177#m",
+          "publishedOn": "2021-11-29T15:48:43.000Z",
+          "wordCount": 228,
+          "title": "JUST IN - CTO Parag Agrawal will replace Jack Dorsey as Twitter CEO."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1465343466041491460#m",
+          "author": "@disclosetv",
+          "description": "Jump on the lifeboats! Follow us on Telegram:\n\nt.me/disclosetv",
+          "link": "https://nitter.net/disclosetv/status/1465343466041491460#m",
+          "publishedOn": "2021-11-29T15:34:41.000Z",
+          "wordCount": 190,
+          "title": "Jump on the lifeboats! Follow us on Telegram:\n\nhttps://t.me/disclosetv"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1465338938067935232#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Nasdaq SUSPENDS trading in Twitter.",
+          "link": "https://nitter.net/disclosetv/status/1465338938067935232#m",
+          "publishedOn": "2021-11-29T15:16:42.000Z",
+          "wordCount": 213,
+          "title": "JUST IN - Nasdaq SUSPENDS trading in Twitter."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1465333828898246661#m",
+          "author": "@disclosetv",
+          "description": "MORE - Powerful GOP donor Paul Singer is the founder and co-CEO of the Elliott Management hedge fund with a seat on Twitter's board.",
+          "link": "https://nitter.net/disclosetv/status/1465333828898246661#m",
+          "publishedOn": "2021-11-29T14:56:24.000Z",
+          "wordCount": 260,
+          "title": "R to @disclosetv: MORE - Powerful GOP donor Paul Singer is the founder and co-CEO of the Elliott Management hedge fund with a seat on Twitter's board."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1465333217456758791#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Jack Dorsey and Twitter's board have reportedly settled on his successor. Twitter stakeholder Elliott Management tried to replace Jack in 2020.",
+          "link": "https://nitter.net/disclosetv/status/1465333217456758791#m",
+          "publishedOn": "2021-11-29T14:53:58.000Z",
+          "wordCount": 233,
+          "title": "JUST IN - Jack Dorsey and Twitter's board have reportedly settled on his successor. Twitter stakeholder Elliott Management tried to replace Jack in 2020."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1465329238865846285#m",
+          "author": "@disclosetv",
+          "description": "Twitter CEO Jack out: Less or more censorship coming?",
+          "link": "https://nitter.net/disclosetv/status/1465329238865846285#m",
+          "publishedOn": "2021-11-29T14:38:09.000Z",
+          "wordCount": 208,
+          "title": "Twitter CEO Jack out: Less or more censorship coming?"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1465325264553095173#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Jack Dorsey expected to step down as Twitter CEO (CNBC)",
+          "link": "https://nitter.net/disclosetv/status/1465325264553095173#m",
+          "publishedOn": "2021-11-29T14:22:22.000Z",
+          "wordCount": 214,
+          "title": "JUST IN - Jack Dorsey expected to step down as Twitter CEO (CNBC)"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1465288943520436232#m",
+          "author": "@disclosetv",
+          "description": "NEW - Bobulinski, who says he is a former associate of Hunter Biden, will tell the world that \"there is no question\" that the \"big guy\" is Joe Biden. \n\nnypost.com/2021/11/29/joe-bi…",
+          "link": "https://nitter.net/disclosetv/status/1465288943520436232#m",
+          "publishedOn": "2021-11-29T11:58:02.000Z",
+          "wordCount": 297,
+          "title": "NEW - Bobulinski, who says he is a former associate of Hunter Biden, will tell the world that \"there is no question\" that the \"big guy\" is Joe Biden. \n\nhttps://nypost.com/2021/11/29/joe-biden-expected-10-percent-cut-in-deal-with-a-chinese-giant/"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1465267392943169536#m",
+          "author": "@disclosetv",
+          "description": "NOW - WHO's Tedros claims \"the time has come for countries to agree on a common binding approach to a common threat\" amid #Omicron variant.",
+          "link": "https://nitter.net/disclosetv/status/1465267392943169536#m",
+          "publishedOn": "2021-11-29T10:32:24.000Z",
+          "wordCount": 255,
+          "title": "NOW - WHO's Tedros claims \"the time has come for countries to agree on a common binding approach to a common threat\" amid #Omicron variant."
+        },
         {
           "id": "https://nitter.net/disclosetv/status/1465022016646533120#m",
           "author": "@disclosetv",
