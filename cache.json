@@ -6,6 +6,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=356433",
+          "author": "Chris Coyier",
+          "description": "What if HTML had “tabs”? That would be cool, says I. Dave has been spending some of his time and energy, along with a group of “Tabvengers” from OpenUI, on this. A lot of research leads to a bit …",
+          "link": "https://css-tricks.com/spicy-sections/",
+          "publishedOn": "2021-12-07T22:03:19.000Z",
+          "wordCount": 763,
+          "title": "Spicy Sections"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357637",
+          "author": "Eric Bailey",
+          "description": "There is a huge and ever-widening gap between the devices we use to make the web and the devices most people use to consume it. It’s also no secret that the average size of a website is huge, and …",
+          "link": "https://css-tricks.com/test-your-product-on-a-crappy-laptop/",
+          "publishedOn": "2021-12-07T19:01:05.000Z",
+          "wordCount": 1478,
+          "title": "Test Your Product on a Crappy Laptop"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358321",
+          "author": "Chris Coyier",
+          "description": "I’ve always like Jeremy’s categorization of developer tools:\nI’ve mentioned two categories of tools for web development. I still don’t know quite what to call these categories. Internal and external? Developer-facing and user-facing?\nThe first category covers things like \n…",
+          "link": "https://css-tricks.com/inertia/",
+          "publishedOn": "2021-12-07T16:20:21.000Z",
+          "wordCount": 1005,
+          "title": "Inertia"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358411",
+          "author": "Geoff Graham",
+          "description": "(This is a sponsored post.)\nI’ve built WordPress websites for I don’t know how long now, but suffice to say I’ve relied on it for a bulk of the work I do as a freelance front-ender. And in that …",
+          "link": "https://css-tricks.com/jetpack-licensing-for-agencies-and-professionals/",
+          "publishedOn": "2021-12-07T16:18:14.000Z",
+          "wordCount": 699,
+          "title": "Jetpack Licensing for Agencies and Professionals"
+        },
+        {
           "id": "https://css-tricks.com/?p=357869",
           "author": "Jakob Bouchard",
           "description": "I recently started university and, before buying a MacBook Air (the M1 chips are amazing by the way), I had to use an iPad Pro for class. However, being a Computer Science student meant I had to find a way …",
@@ -225,6 +261,60 @@
       "siteUrl": "https://www.reddit.com/r/haskell/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/haskell/comments/rbcama/cryptic_error_response_from_natural_violation/",
+          "author": null,
+          "description": "I've entered this into my REPL\n import Numeric.Natural \n myNat = -1 :: Natural\n then I try this and get\n myNat \n Exception: arithmetic underflow\n no different from just\n -1 :: Natural \n Exception: arithmetic underflow\n With the first equating Haskell seems to wait until I call myNat to say something, and then it gives what seems a cryptic error message. What's going on under the hood here?\n    submitted by    /u/teilchen010  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/rbcama/cryptic_error_response_from_natural_violation/",
+          "publishedOn": "2021-12-07T23:14:00.000Z",
+          "wordCount": 251,
+          "title": "Cryptic error response from Natural violation?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/rbc1y3/what_are_some_stereotypes_about_haskell/",
+          "author": null,
+          "description": "Just for fun, what kind of stereotypes have you heard off. What kind of things have you been associated with.\n    submitted by    /u/dexterdykrataigos  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/rbc1y3/what_are_some_stereotypes_about_haskell/",
+          "publishedOn": "2021-12-07T23:02:45.000Z",
+          "wordCount": 225,
+          "title": "What are some stereotypes about haskell programmers"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/rbaiu3/haskell_jobs_in_europe_v_usa/",
+          "author": null,
+          "description": "It seems to me that there are more Haskell job opportunities in Europe than the US. Is there any hard data to confirm this? If there is a difference, what is going on?\n    submitted by    /u/derivative_art  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/rbaiu3/haskell_jobs_in_europe_v_usa/",
+          "publishedOn": "2021-12-07T21:52:35.000Z",
+          "wordCount": 255,
+          "title": "Haskell jobs in Europe v USA"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/rb8a3y/frp_in_the_osabe_wav_editor/",
+          "author": null,
+          "description": "submitted by    /u/paul_schnapp  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/rb8a3y/frp_in_the_osabe_wav_editor/",
+          "publishedOn": "2021-12-07T20:11:09.000Z",
+          "wordCount": 151,
+          "title": "FRP in the osabe WAV editor"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/rar8eg/advent_of_code_2021_day_07/",
+          "author": null,
+          "description": "https://adventofcode.com\n    submitted by    /u/taylorfausak  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/rar8eg/advent_of_code_2021_day_07/",
+          "publishedOn": "2021-12-07T05:01:11.000Z",
+          "wordCount": 2104,
+          "title": "Advent of Code 2021 day 07"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/ralrbx/i_made_a_playlist_of_7_hours_of_chill_synth_music/",
+          "author": null,
+          "description": "Here\n Bonus\n    submitted by    /u/Iampacificjanjan  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/ralrbx/i_made_a_playlist_of_7_hours_of_chill_synth_music/",
+          "publishedOn": "2021-12-07T00:12:06.000Z",
+          "wordCount": 212,
+          "title": "I made a playlist of 7 hours of chill synth music to lift you up and motivate you while coding/developing. If you are also into this, share yours!"
+        },
+        {
           "id": "https://www.reddit.com/r/haskell/comments/racju5/creating_instance_for_bounded_list_sequence/",
           "author": null,
           "description": "data Letters = A | B | C deriving (Eq, Ord, Bounded, Enum, Show) instance (Eq a, Ord a, Bounded a, Enum a) => Enum [a] where succ = reverse . succ' . reverse where succ' :: [a] -> [a] succ' (x:xs) | x < (maxBound :: a) = (succ x) : xs | x == (maxBound) && xs /= [] = (minBound :: a) : (succ' xs) class (Eq a, Ord a, Enum a, Bounded a) => Buildable a where build :: a -> a -> [a] build start end = reverse $ build' start end [] where build' :: a -> a -> [a] -> [a] build' x y l | x >= (minBound :: a) && x <= y && x < (maxBound :: a) = build' (succ x) y l++[x] | x >= (minBound :: a) && x <= y && x == (maxBound :: a) = l++[x] | otherwise = l instance Buildable Letters \n I have defined succ so that it can be applied to all permutation of [Letters] with a ordered sequence like this:\n succ [A,A,A] = [A,A,B] succ [A,A,B] = [A,A,C] succ [A,A,C] = [A,B,A] ... succ [C,C,B] = [C,C,C] -- succ [C,C,C] is not defined \n build in Buildable is given the start and end value, it builds a ordered list of every element in the set including start and end:\n build A B = [A,B] build B C = [B,C] build A C = [A,B,C] \n ​\n How do I apply Buildable on [Letters] such that I can call build like this:\n build [A] [B] = [[A],[B]] build [A,A] [B,B] = [[A,A],[A,B],[B,A],[B,B]] build [A,A,A] [A,A,C] = [[A,A,A],[A,A,B],[A,A,C]] build [B,B,C] [B,C,C] = [[B,B,C],[B,C,A],[B,C,B],[B,C,C]] \n It seems like I have to define what maxBound and minBound is for [Letters] if I do instance Buildable [a]. How do I do that?\n    submitted by    /u/iloveyoufah  \n [link]   [comments]",
@@ -295,6 +385,60 @@
       "siteUrl": "https://www.reddit.com/r/CardanoDevelopers/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/rb0wny/a_public_testnet_is_available_for_you_to_try_out/",
+          "author": null,
+          "description": "submitted by    /u/benohanlon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/rb0wny/a_public_testnet_is_available_for_you_to_try_out/",
+          "publishedOn": "2021-12-07T14:53:37.000Z",
+          "wordCount": 168,
+          "title": "A public testnet is available for you to try out the migration of AGIX tokens to the Cardano ecosystem"
+        },
+        {
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/razers/looking_for_a_dev_wanting_to_team_up_for_a_dapp/",
+          "author": null,
+          "description": "I am a Blockchain Master student (not a Dev though) who went through an incubation program for my DApp idea that is to tackle the poor postal infrastructure in the Global South, particularly Africa. I also got a fast grant of 30k from NEAR Protocol pitching them my idea. My plan now is to get a team together and start building on several BCs among them Cardano as its vision with respect to Africa is highly complementary. Also, the Catalyst program for initial funding could be the next step. At the end out of this DApp idea a DAO shall be established over time. Feel free to reach out if you want to build a DApp with a real world use case.\n    submitted by    /u/Cryptomias31  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/razers/looking_for_a_dev_wanting_to_team_up_for_a_dapp/",
+          "publishedOn": "2021-12-07T13:38:34.000Z",
+          "wordCount": 297,
+          "title": "Looking for a Dev wanting to team up for a DApp project on Cardano."
+        },
+        {
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/rayv4o/cardano_did_method/",
+          "author": null,
+          "description": "Cardano DID method\n Preamble\n This post is regarding a draft Decentralised ID (DID) method for the Cardano Blockchain. I would love to hear people's feedback on how it can be improved!\n You can also check out the github for the idea and propose changes directly and keep up to date with alterations.\n Introduction\n Cardano is a public blockchain platform. It is open-source and decentralized, with consensus achieved using proof of stake. It can facilitate peer-to-peer transactions with its internal cryptocurrency, Ada. Cardano DID method is a proposed implementation of Decentralised ID (DID) for the Cardano Blockchain and provides a concrete specification for Cardano-specific DID. This method is valid for both the Cardano mainnet and testnet.\n Cardano DID Scheme\n The ABNF notation for DIDs us…",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/rayv4o/cardano_did_method/",
+          "publishedOn": "2021-12-07T13:09:00.000Z",
+          "wordCount": 990,
+          "title": "Cardano DID Method"
+        },
+        {
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/rax4gw/top_blockchain_platforms_for_development_in_2021/",
+          "author": null,
+          "description": "submitted by    /u/GeorgeSpasov  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/rax4gw/top_blockchain_platforms_for_development_in_2021/",
+          "publishedOn": "2021-12-07T11:30:07.000Z",
+          "wordCount": 109,
+          "title": "Top Blockchain Platforms for Development in 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/rars4f/cardano_native_tokens_and_conditional_settlement/",
+          "author": null,
+          "description": "I'm new to learning about Cardano. I've got a question about the interaction between native tokens and smart contracts - how can conditions be imposed on the transfer of tokens on Cardano?\n On Ethereum for example we know any token that isn't ether is a second class citizen and requires interaction with a smart contract to do anything. We know this has all sorts of disadvantages and introduces an overhead in terms of computation required on the EVM.\n But one advantage is that whilst settlement itself is computationally more intensive than needed, it would be very natural to impose conditions on the terms of settlement since that just requires augmenting the smart contract that already necessarily exists.\n How can conditions be imposed on Cardano when tokens are native citizens? Is there an elegant way to force the owner of a token to interact with a smart contract (and the computation layer) before settlement? \n Conceptually speaking, I would imagine the way to do this is to impose datums on every UTXO, then having that self-propagate onto the next UTXO when the transaction is built. But can this be codified at the time of minting? Because my understanding of the resources I've read so far only mentions minting policy, which seems to only concern things like minting and burning.\n Let's say I'm issuing tokens that contain the hashes for something that should be non-transferrable - a university degree, or some form of identification. On Ethereum I could simply write into the smart contract conditions to prevent me from sending the ERC-721 token out of my account. How can this be done on Cardano, and when and where would I need to enumerate these conditions?\n    submitted by    /u/MoleculesOfFreedom  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/rars4f/cardano_native_tokens_and_conditional_settlement/",
+          "publishedOn": "2021-12-07T05:33:42.000Z",
+          "wordCount": 491,
+          "title": "Cardano Native Tokens and Conditional Settlement?"
+        },
+        {
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/raplbi/multiple_purchases_via_cli_a_shortsighted_tutorial/",
+          "author": null,
+          "description": "Again, following through the tutorial found at \n https://developers.cardano.org/docs/integrate-cardano/listening-for-payments-cli\n I realized that this is a simple example (but of course it is), for listening for a single payment. But what in the instance of multiple payments for the same product?\n For example: If you have a product that you want to sell, say for 1 ADA (1,000,000 Lovelace), once you receive that, your rawUTXOTable (in this example) would always be positive...meaning if anyone else came along and bought that same product, listening for it would always say the purchase has been made.\n Now, I get it. A more complicated transaction would need to happen with metadata...but seems short sighted to not build the tutorial for this portion?\n ...I mean theoretically you could always add the UTXO you received initially to a list to avoid, but that only restricts you in one manner...*meh*\n    submitted by    /u/shawnsblog  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/raplbi/multiple_purchases_via_cli_a_shortsighted_tutorial/",
+          "publishedOn": "2021-12-07T03:31:06.000Z",
+          "wordCount": 239,
+          "title": "Multiple Purchases via CLI a shortsighted tutorial"
+        },
+        {
           "id": "https://www.reddit.com/r/CardanoDevelopers/comments/ra69it/some_tips_for_you_testing_the_sundae_swap/",
           "author": null,
           "description": "First of all, set your Nami wallet to testnet.\n ​\n https://preview.redd.it/40px1k9u1x381.png?width=806&format=png&auto=webp&s=b9f63acaf273739e41bcdbc43cbf2afd9390abf2\n https://preview.redd.it/bm1tyn9u1x381.png?width=730&format=png&auto=webp&s=ceb72a115a863ce95c46c7e792ea017bd9fa550c\n https://preview.redd.it/kl8fkm9u1x381.png?width=722&format=png&auto=webp&s=bc68489185e5780ff00fd90e9efd3dcd08ea5487\n ​\n Second, set your colateral otherwise you won't be able to do anything\n ​\n https://preview.redd.it/i8a3gg8y1x381.png?width=744&format=png&auto=webp&s=90e40f112191afba3e6acb0d890596c4031a300c\n ​\n This thing will ask your password, default colateral is 5 tAda.\n ​\n Enter in the faucet and ask some tAda\n https://testnets.cardano.org/en/testnets/cardano/tools/faucet/\n If you want some of mine test net tokens I created a project in nft maker pro testnet so you just need to send tAda to these address in the exact amounts\n CheffTestnet 17 tAda = 1,000,000\n addr_test1vqj0fj4rzhzasnngadrktn0ulsr9v2qdnmdscy67mstucms0m82kp\n HoskyTestnet 6,5 tAda = 1,000,000\n addr_test1vzkmexszjlp7l9lvx0vpderuq2244dfshvncaxfarcu9mccca6fsv\n That's it, you receive your tokens and you can add liquidity and do swaps!\n ​\n https://reddit.com/link/ra69it/video/bwkjs1lj2x381/player\n    submitted by    /u/chefwallets  \n [link]   [comments]",
@@ -346,6 +490,231 @@
       "feedUrl": "https://www.reddit.com/r/cardano/top/.rss?sort=top&t=day",
       "siteUrl": "https://www.reddit.com/r/cardano/top/?sort=top&t=day",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/rbb70s/our_industry_is_the_antidote_to_the_excesses/",
+          "author": null,
+          "description": "submitted by    /u/ADA4DPeople  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/rbb70s/our_industry_is_the_antidote_to_the_excesses/",
+          "publishedOn": "2021-12-07T22:23:24.000Z",
+          "wordCount": 772,
+          "title": "\"Our industry is the antidote to the excesses, corruption and nepotism that we've found\" - Charles Hoskinson"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/rbaepn/frederik_gregaard_ceo_of_the_cardano_foundation/",
+          "author": null,
+          "description": "submitted by    /u/k-c-k999  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/rbaepn/frederik_gregaard_ceo_of_the_cardano_foundation/",
+          "publishedOn": "2021-12-07T21:47:17.000Z",
+          "wordCount": 224,
+          "title": "Frederik Gregaard, CEO of the Cardano Foundation answers your TOP questions! Fireside Chat - November 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/rb7me6/amazon_web_services_down/",
+          "author": null,
+          "description": "This is going to be an interesting Epoch to see how many stake pools rely on AWS exclusively.\n    submitted by    /u/TheOneWondering  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/rb7me6/amazon_web_services_down/",
+          "publishedOn": "2021-12-07T19:41:19.000Z",
+          "wordCount": 310,
+          "title": "Amazon Web Services Down…"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/rb7gmv/scam_mobile_wallet/",
+          "author": null,
+          "description": "submitted by    /u/blaackeer  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/rb7gmv/scam_mobile_wallet/",
+          "publishedOn": "2021-12-07T19:34:21.000Z",
+          "wordCount": 725,
+          "title": "SCAM mobile wallet"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/rb6df9/for_those_concerned_about_the_number_of_nodes/",
+          "author": null,
+          "description": "AWS is having some issues in one of their major datacenters, and it is affecting a lot of services and websites. The Cardano blockchain appears to be unaffected. \n https://nypost.com/2021/12/07/amazon-outage-impacts-thousands-of-users-worldwide/\n https://www.theverge.com/2021/12/7/22822332/amazon-server-aws-down-disney-plus-ring-outage\n    submitted by    /u/cali_dave  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/rb6df9/for_those_concerned_about_the_number_of_nodes/",
+          "publishedOn": "2021-12-07T18:51:42.000Z",
+          "wordCount": 412,
+          "title": "For those concerned about the number of nodes running on Amazon Web Services, know that there is a fairly major outage right now and the Cardano blockchain is continuing to function."
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/rb5aqd/havent_seen_anyone_reminding_about_the_bitpay/",
+          "author": null,
+          "description": "submitted by    /u/Flashy-Passion6545  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/rb5aqd/havent_seen_anyone_reminding_about_the_bitpay/",
+          "publishedOn": "2021-12-07T18:16:03.000Z",
+          "wordCount": 475,
+          "title": "Haven't seen anyone reminding about the bitpay vote recently, let's keep it up! https://gleam.io/1a0mE/bitpay-coin-poll"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/rb4imb/meld_x_maladex_partnership/",
+          "author": null,
+          "description": "submitted by    /u/MaintenanceSea6866  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/rb4imb/meld_x_maladex_partnership/",
+          "publishedOn": "2021-12-07T17:49:12.000Z",
+          "wordCount": 283,
+          "title": "MELD x MALADEX partnership"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/rb4aqd/ergo_pulse_episode_1_with_ergodex_as_the_guest/",
+          "author": null,
+          "description": "submitted by    /u/Gazza_ERG  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/rb4aqd/ergo_pulse_episode_1_with_ergodex_as_the_guest/",
+          "publishedOn": "2021-12-07T17:41:58.000Z",
+          "wordCount": 256,
+          "title": "Ergo Pulse Episode 1 with ErgoDEX as the guest showcasing Ergo and Cardano implementation."
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/rb3mwl/full_demo_of_the_cardano_erc20_converter_live_on/",
+          "author": null,
+          "description": "submitted by    /u/TWPaul  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/rb3mwl/full_demo_of_the_cardano_erc20_converter_live_on/",
+          "publishedOn": "2021-12-07T17:18:24.000Z",
+          "wordCount": 309,
+          "title": "Full demo of the Cardano ERC20 Converter live on Testnet"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/rb269j/agix_erc20_to_ada_converter_testnet_launch/",
+          "author": null,
+          "description": "submitted by    /u/Zzzoem  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/rb269j/agix_erc20_to_ada_converter_testnet_launch/",
+          "publishedOn": "2021-12-07T15:53:51.000Z",
+          "wordCount": 412,
+          "title": "AGIX ERC-20 to ADA Converter Testnet Launch (explained by a 6-year old)"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/rb0x56/a_public_testnet_is_available_for_you_to_try_out/",
+          "author": null,
+          "description": "submitted by    /u/benohanlon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/rb0x56/a_public_testnet_is_available_for_you_to_try_out/",
+          "publishedOn": "2021-12-07T14:54:17.000Z",
+          "wordCount": 309,
+          "title": "A public testnet is available for you to try out the migration of AGIX tokens to the Cardano ecosystem"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/rb0n25/our_first_erc20_converter_is_now_live_on_testnet/",
+          "author": null,
+          "description": "submitted by    /u/ADA4Good  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/rb0n25/our_first_erc20_converter_is_now_live_on_testnet/",
+          "publishedOn": "2021-12-07T14:40:38.000Z",
+          "wordCount": 496,
+          "title": "Our first ERC-20 converter is now live on testnet!"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/rawd1c/is_yoroi_just_always_broken_now/",
+          "author": null,
+          "description": "Past few weeks Yoroi has been hit or miss whether or not it works. As of yesterday, the font is all screwed up and all my old transactions say \"Failed\" even though they have clearly went through.\n    submitted by    /u/SilentKyle  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/rawd1c/is_yoroi_just_always_broken_now/",
+          "publishedOn": "2021-12-07T10:41:36.000Z",
+          "wordCount": 587,
+          "title": "Is Yoroi Just Always Broken Now?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/ravvbn/how_to_swap_tokens_on_sundaeswap/",
+          "author": null,
+          "description": "SundaeSwap DEX runs on Cardano test-net. We bring you a tutorial on how to try out the token swap. We'll show you how to prepare a Nami wallet (without HW wallet support), connect it to the SundaeSwap test-net and do a simple swap of tokens. \n Read the original article that contains a lot of images:\n https://cardanians.io/en/how-to-swap-tokens-on-sundaeswap-182\n    submitted by    /u/Cardanians  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/ravvbn/how_to_swap_tokens_on_sundaeswap/",
+          "publishedOn": "2021-12-07T10:07:12.000Z",
+          "wordCount": 298,
+          "title": "How to Swap tokens on SundaeSwap"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/ravkfp/why_are_people_focusing_too_much_on_sundaeswap/",
+          "author": null,
+          "description": "There's a lot of Dexes besides SundaeSwap that did their own testnet way back and barely talked about in this subreddit. Even though it wasn't the testnet phase, I haven't seen any post talking about any other Dexes that might go live first than SundaeSwap or any other topic regarding any of them. Is it because SundaeSwap's marketing team is good or is it just because Charles supports this project?\n Edit: I saw people asking what are the other dexes. Besides SundaeSwap, there's Minswap, Maladex, Cardax, Ardana, Ergodex (but I've seen a few post regariding this dex in the past), Matrixswap, and Mirquir. I dunno If I missed one. All I know is Minswap is already done with their testnet but not sure about the other dexes.\n    submitted by    /u/implaying  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/ravkfp/why_are_people_focusing_too_much_on_sundaeswap/",
+          "publishedOn": "2021-12-07T09:46:33.000Z",
+          "wordCount": 724,
+          "title": "Why are people focusing too much on SundaeSwap?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/ratmom/why_are_most_people_acting_like_sundaeswap_was/",
+          "author": null,
+          "description": "I'm trying understand the rationale, I thought this community is one of the most mature one out there but it got me thinking as to why everyone's been saying SundaeSwap was the first? Even on other social medias SundaeSwap is hailed as \"first\" and only few people are commenting that MuesliSwap was actually first\n Can someone explain me why SundaeSwap is first when it's in testnet and MuesliSwap was on the mainnet? Forgive my ignorance\n    submitted by    /u/RevolutionaryPie9684  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/ratmom/why_are_most_people_acting_like_sundaeswap_was/",
+          "publishedOn": "2021-12-07T07:31:30.000Z",
+          "wordCount": 682,
+          "title": "Why are most people acting like SundaeSwap was the first DEX in Cardano? I'm sorry but even though most hate it, MuesliSwap was first"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/rat7ju/cardanos_massive_concurrency/",
+          "author": null,
+          "description": "submitted by    /u/ArmyofSpies  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/rat7ju/cardanos_massive_concurrency/",
+          "publishedOn": "2021-12-07T07:03:34.000Z",
+          "wordCount": 153,
+          "title": "Cardano's Massive Concurrency"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/rat6xb/cardano_rumor_rundown_december_7_2021/",
+          "author": null,
+          "description": "Hey Everyone!\n Let's go...\n Newly covered today:\n  \nSundaeSwap went live on testnet with a faucet for free testnet ADA and various ice cream flavored free testnet tokens. All compatible with Nami. https://twitter.com/SundaeSwap/status/1467795614633185280\n ADA Handles were a surprise integration into the SundaeSwap Testnet! https://twitter.com/adahandle/status/1467907015972323328\n The testnet proved valuable quickly as some improvements were identified with the scooper and they were taken offline to make those changes. https://twitter.com/SundaeSwap/status/1467897465768665090\n Here is a beautiful illustration of massive concurrency in action on Cardano’s testnet! https://twitter.com/ProfSmith9000/status/1467978254912946184/photo/1\n  \nPreviously Covered but still interesting:\n  \nCardano Fans…",
+          "link": "https://www.reddit.com/r/cardano/comments/rat6xb/cardano_rumor_rundown_december_7_2021/",
+          "publishedOn": "2021-12-07T07:02:30.000Z",
+          "wordCount": 2428,
+          "title": "Cardano Rumor Rundown December 7, 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/rasov8/cardano_daily_discussion_december_07_2021/",
+          "author": null,
+          "description": "Hello everyone,\n Welcome to the Cardano Daily Discussion!\n The standard sub rules apply here (see sidebar), with the exception that price discussion is allowed in this thread, though we encourage you to try not to make this the focus and talk about the project itself. Please ask questions, help others and be civil - be sure to get involved in Project Catalyst too!\n If you're new, please make sure you're read through the newbies guide and share it with others (use the ?newbies comment command to reference it).\n NFTs for Planting Trees\n https://preview.redd.it/d9l75zowckx71.jpg?width=1600&format=pjpg&auto=webp&s=9a13a91cb371dce5d318b96dea2692dad9348b21\n You can donate ADA and receive NFTs for doing so, each ADA is a tree planted, it's a win win! Read about veritree here and take part on http…",
+          "link": "https://www.reddit.com/r/cardano/comments/rasov8/cardano_daily_discussion_december_07_2021/",
+          "publishedOn": "2021-12-07T06:30:17.000Z",
+          "wordCount": 1232,
+          "title": "Cardano Daily Discussion - December 07, 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/rasj6c/what_charles_hoskinson_wants_for_christmas/",
+          "author": null,
+          "description": "https://www.youtube.com/watch?v=Jex6wItSvzE\n Starting at 22:30\n The one thing I want for Christmas is for everyone to start getting along in our industry. It's extraordinary to me that when people are so close in philosophy and viewpoint, and in some cases technology, they can be so far apart as people. It's extraordinary.\n You don't see this in other industries. You don't see in physics or biology, or cellphone manufacturing, or whatever, pick an industry, the amount of tribalism, hate, and vitriol that our industry has for each other. And as long as we're doing that to each other, there's no reality where we're ever going to be able to overcome the real enemy, which is the legacy systems that hold three billion people and the human race down, destroy our environment, and divide us in ways that make us hate people we've never met and should never have grievances against.\n That has to stop. And the only way it's going to stop is if we get better systems that are more fair. And the only way we do that, is we have to work together. So, we'll see, 2022 whether that's accomplished. People will still try to divide us. Books will be published. Podcasters will say things. Reddit and Twitter will continue to pour rivers of verbal diarrhea. But it's up to each and every one of us to transcend that, step above it, and realize that we have a finite window.\n    submitted by    /u/EpicMichaelFreeman  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/rasj6c/what_charles_hoskinson_wants_for_christmas/",
+          "publishedOn": "2021-12-07T06:19:59.000Z",
+          "wordCount": 553,
+          "title": "What Charles Hoskinson wants for Christmas"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/rascmq/update_on_iele_from_ama/",
+          "author": null,
+          "description": "Someone asked about IELE during the AMA and Charles said he thinks we'll have an end of year update on IELE from Runtime Verification (RV) so he didn't want to front run that but that RV has made an enormous amount of progress this year. He said Cardano is bringing the IELE testnet with Mamba and there will be an IELE sidechain with Mamba coming to Cardano in 2022. They are targeting C and C++.\n Link to AMA below.\n https://youtu.be/Jex6wItSvzE?t=4292\n    submitted by    /u/Icy-Relief2283  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/rascmq/update_on_iele_from_ama/",
+          "publishedOn": "2021-12-07T06:08:34.000Z",
+          "wordCount": 266,
+          "title": "Update on IELE from AMA"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/rap2aa/why_cardano_excellent_cardano_ada_primer_for/",
+          "author": null,
+          "description": "submitted by    /u/freedomrep77  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/rap2aa/why_cardano_excellent_cardano_ada_primer_for/",
+          "publishedOn": "2021-12-07T03:03:22.000Z",
+          "wordCount": 181,
+          "title": "Why Cardano? Excellent Cardano (ADA) Primer for Anyone Late to the Party"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/raoknx/surprise_ama_12062021_charles_hoskinson_youtube/",
+          "author": null,
+          "description": "submitted by    /u/dominatingslash  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/raoknx/surprise_ama_12062021_charles_hoskinson_youtube/",
+          "publishedOn": "2021-12-07T02:38:12.000Z",
+          "wordCount": 1111,
+          "title": "Surprise AMA 12/06/2021 - Charles Hoskinson Youtube"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/raodff/the_adahandle_integration_on_the_sundaeswap/",
+          "author": null,
+          "description": "submitted by    /u/CareGroundbreaking95  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/raodff/the_adahandle_integration_on_the_sundaeswap/",
+          "publishedOn": "2021-12-07T02:27:59.000Z",
+          "wordCount": 487,
+          "title": "The ADAHandle integration on the SundaeSwap Testnet looks so cool"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/ramiwv/sundaeswap_testnet_swap/",
+          "author": null,
+          "description": "submitted by    /u/CareGroundbreaking95  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/ramiwv/sundaeswap_testnet_swap/",
+          "publishedOn": "2021-12-07T00:52:13.000Z",
+          "wordCount": 343,
+          "title": "SundaeSwap Testnet Swap"
+        },
         {
           "id": "https://www.reddit.com/r/cardano/comments/rajh7t/received_my_first_ever_staking_reward/",
           "author": null,
@@ -579,6 +948,33 @@
       "siteUrl": "https://www.reddit.com/r/redscarepod/top/?sort=top&t=day&limit=3",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redscarepod/comments/rb4squ/take_the_bike_pill/",
+          "author": null,
+          "description": "submitted by    /u/xenukidsontheblock  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/rb4squ/take_the_bike_pill/",
+          "publishedOn": "2021-12-07T17:59:17.000Z",
+          "wordCount": 472,
+          "title": "Take the bike pill"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/ray1sd/yes_adam/",
+          "author": null,
+          "description": "submitted by    /u/maper741  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/ray1sd/yes_adam/",
+          "publishedOn": "2021-12-07T12:24:50.000Z",
+          "wordCount": 652,
+          "title": "Yes Adam"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/ranc75/whats_the_consensus_here/",
+          "author": null,
+          "description": "submitted by    /u/theartistsdilemma  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/ranc75/whats_the_consensus_here/",
+          "publishedOn": "2021-12-07T01:34:21.000Z",
+          "wordCount": 1163,
+          "title": "what’s the consensus here"
+        },
+        {
           "id": "https://www.reddit.com/r/redscarepod/comments/ra9b5a/_/",
           "author": null,
           "description": "submitted by    /u/GrumpyOldHistoricist  \n [link]   [comments]",
@@ -612,6 +1008,105 @@
       "feedUrl": "https://rsshub.app/github/trending/daily/haskell",
       "siteUrl": "https://github.com/trending/haskell?since=daily&spoken_language_code=",
       "articles": [
+        {
+          "id": "https://github.com/input-output-hk/cardano-wallet",
+          "author": "input-output-hk",
+          "description": "HTTP server & command-line for managing UTxOs and HD wallets in Cardano.\n    \nLanguage: Haskell\n                            \nStar: 577\n                            \nFork: 145",
+          "link": "https://github.com/input-output-hk/cardano-wallet",
+          "publishedOn": "2021-12-08T00:53:57.879Z",
+          "wordCount": 975,
+          "title": "input-output-hk /\n\n      cardano-wallet"
+        },
+        {
+          "id": "https://github.com/wireapp/wire-server",
+          "author": "wireapp",
+          "description": "🇪🇺 Wire back-end services\n    \nLanguage: Haskell\n                            \nStar: 2,378\n                            \nFork: 324",
+          "link": "https://github.com/wireapp/wire-server",
+          "publishedOn": "2021-12-08T00:53:57.810Z",
+          "wordCount": 1790,
+          "title": "wireapp /\n\n      wire-server"
+        },
+        {
+          "id": "https://github.com/jgm/pandoc",
+          "author": "jgm",
+          "description": "Universal markup converter\n    \nLanguage: Haskell\n                            \nStar: 24,150\n                            \nFork: 2,789",
+          "link": "https://github.com/jgm/pandoc",
+          "publishedOn": "2021-12-08T00:53:57.728Z",
+          "wordCount": 1180,
+          "title": "jgm /\n\n      pandoc"
+        },
+        {
+          "id": "https://github.com/bitnomial/prometheus",
+          "author": "bitnomial",
+          "description": "Prometheus.io Haskell client.\n    \nLanguage: Haskell\n                            \nStar: 50\n                            \nFork: 22",
+          "link": "https://github.com/bitnomial/prometheus",
+          "publishedOn": "2021-12-08T00:53:57.678Z",
+          "wordCount": 745,
+          "title": "bitnomial /\n\n      prometheus"
+        },
+        {
+          "id": "https://github.com/digital-asset/ex-mortgage-repackaging",
+          "author": "digital-asset",
+          "description": "Reference DAML application demonstrating the use case of repackaging Mortgage Based Securities. \n    \nLanguage: Haskell\n                            \nStar: 9\n                            \nFork: 3",
+          "link": "https://github.com/digital-asset/ex-mortgage-repackaging",
+          "publishedOn": "2021-12-08T00:53:57.639Z",
+          "wordCount": 729,
+          "title": "digital-asset /\n\n      ex-mortgage-repackaging"
+        },
+        {
+          "id": "https://github.com/mbg/icfp",
+          "author": "mbg",
+          "description": "Language: Haskell\n                            \nStar: 1\n                            \nFork:",
+          "link": "https://github.com/mbg/icfp",
+          "publishedOn": "2021-12-08T00:53:57.598Z",
+          "wordCount": 341,
+          "title": "mbg /\n\n      icfp"
+        },
+        {
+          "id": "https://github.com/crytic/echidna",
+          "author": "crytic",
+          "description": "Ethereum smart contract fuzzer\n    \nLanguage: Haskell\n                            \nStar: 864\n                            \nFork: 133",
+          "link": "https://github.com/crytic/echidna",
+          "publishedOn": "2021-12-08T00:53:57.565Z",
+          "wordCount": 2427,
+          "title": "crytic /\n\n      echidna"
+        },
+        {
+          "id": "https://github.com/input-output-hk/cardano-ledger",
+          "author": "input-output-hk",
+          "description": "The ledger implementation and specifications of the Cardano blockchain.\n    \nLanguage: Haskell\n                            \nStar: 130\n                            \nFork: 73",
+          "link": "https://github.com/input-output-hk/cardano-ledger",
+          "publishedOn": "2021-12-08T00:53:57.512Z",
+          "wordCount": 1659,
+          "title": "input-output-hk /\n\n      cardano-ledger"
+        },
+        {
+          "id": "https://github.com/input-output-hk/plutus-apps",
+          "author": "input-output-hk",
+          "description": "The Plutus application platform\n    \nLanguage: Haskell\n                            \nStar: 67\n                            \nFork: 45",
+          "link": "https://github.com/input-output-hk/plutus-apps",
+          "publishedOn": "2021-12-08T00:53:57.463Z",
+          "wordCount": 1875,
+          "title": "input-output-hk /\n\n      plutus-apps"
+        },
+        {
+          "id": "https://github.com/purescript/purescript",
+          "author": "purescript",
+          "description": "A strongly-typed language that compiles to JavaScript\n    \nLanguage: Haskell\n                            \nStar: 7,455\n                            \nFork: 545",
+          "link": "https://github.com/purescript/purescript",
+          "publishedOn": "2021-12-08T00:53:57.396Z",
+          "wordCount": 479,
+          "title": "purescript /\n\n      purescript"
+        },
+        {
+          "id": "https://github.com/fullstack-development/developers-roadmap",
+          "author": "fullstack-development",
+          "description": "How to learn front-end or back-end development\n    \nLanguage: Haskell\n                            \nStar: 878\n                            \nFork: 212",
+          "link": "https://github.com/fullstack-development/developers-roadmap",
+          "publishedOn": "2021-12-08T00:53:57.358Z",
+          "wordCount": 905,
+          "title": "fullstack-development /\n\n      developers-roadmap"
+        },
         {
           "id": "https://github.com/commercialhaskell/stack",
           "author": "commercialhaskell",
@@ -845,6 +1340,186 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=29479503",
+          "author": "mp85",
+          "description": "Article URL: https://github.com/miroslavpejic85/p2p\nComments URL: https://news.ycombinator.com/item?id=29479503\nPoints: 11\n# Comments: 10",
+          "link": "https://github.com/miroslavpejic85/p2p",
+          "publishedOn": "2021-12-07T23:27:36.000Z",
+          "wordCount": 581,
+          "title": "Show HN: P2P remote desktop – an alternative to TeamViewer / AnyDesk"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29479258",
+          "author": "simonw",
+          "description": "Article URL: https://simonwillison.net/2021/Dec/7/git-history/\nComments URL: https://news.ycombinator.com/item?id=29479258\nPoints: 19\n# Comments: 4",
+          "link": "https://simonwillison.net/2021/Dec/7/git-history/",
+          "publishedOn": "2021-12-07T22:57:24.000Z",
+          "wordCount": 1839,
+          "title": "Show HN: git-history, for analyzing scraped data collected using Git and SQLite"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29479167",
+          "author": "sysbot",
+          "description": "Article URL: https://open-dynamic-robot-initiative.github.io/\nComments URL: https://news.ycombinator.com/item?id=29479167\nPoints: 39\n# Comments: 8",
+          "link": "https://open-dynamic-robot-initiative.github.io/",
+          "publishedOn": "2021-12-07T22:42:10.000Z",
+          "wordCount": 468,
+          "title": "Open source Boston dynamic like robot platform"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29478639",
+          "author": "Amorymeltzer",
+          "description": "Article URL: https://stackoverflow.blog/2021/12/07/new-data-what-developers-look-for-in-future-job-opportunities/\nComments URL: https://news.ycombinator.com/item?id=29478639\nPoints: 50\n# Comments: 44",
+          "link": "https://stackoverflow.blog/2021/12/07/new-data-what-developers-look-for-in-future-job-opportunities/",
+          "publishedOn": "2021-12-07T21:49:33.000Z",
+          "wordCount": 1367,
+          "title": "New data: What developers look for in future job opportunities"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29478375",
+          "author": "mpweiher",
+          "description": "Article URL: https://martinfowler.com/articles/cant-buy-integration.html\nComments URL: https://news.ycombinator.com/item?id=29478375\nPoints: 74\n# Comments: 44",
+          "link": "https://martinfowler.com/articles/cant-buy-integration.html",
+          "publishedOn": "2021-12-07T21:20:19.000Z",
+          "wordCount": 5433,
+          "title": "You Can't Buy Integration"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29478343",
+          "author": "DamnInteresting",
+          "description": "Article URL: https://www.nasa.gov/feature/goddard/2021/nasa-returns-hubble-to-full-science-operations/\nComments URL: https://news.ycombinator.com/item?id=29478343\nPoints: 218\n# Comments: 72",
+          "link": "https://www.nasa.gov/feature/goddard/2021/nasa-returns-hubble-to-full-science-operations/",
+          "publishedOn": "2021-12-07T21:18:18.000Z",
+          "wordCount": 16,
+          "title": "NASA returns Hubble to full science operations"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29478163",
+          "author": "jshchnz",
+          "description": "Article URL: https://www.ycombinator.com/companies/emerge-tools/jobs/JWtyqvs-senior-android-engineer\nComments URL: https://news.ycombinator.com/item?id=29478163\nPoints: 1\n# Comments: 0",
+          "link": "https://www.ycombinator.com/companies/emerge-tools/jobs/JWtyqvs-senior-android-engineer",
+          "publishedOn": "2021-12-07T21:00:31.000Z",
+          "wordCount": 307,
+          "title": "Emerge Tools (YC W21) Is Hiring a Senior Android Engineer – Remote"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29477375",
+          "author": "sendilkumarn",
+          "description": "Article URL: https://blogs.windows.com/windows-insider/2021/12/07/redesigned-notepad-for-windows-11-begins-rolling-out-to-windows-insiders/\nComments URL: https://news.ycombinator.com/item?id=29477375\nPoints: 100\n# Comments: 175",
+          "link": "https://blogs.windows.com/windows-insider/2021/12/07/redesigned-notepad-for-windows-11-begins-rolling-out-to-windows-insiders/",
+          "publishedOn": "2021-12-07T19:53:08.000Z",
+          "wordCount": 697,
+          "title": "Redesigned Notepad for Windows 11"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29476545",
+          "author": "skanderbm",
+          "description": "Article URL: https://codewithrockstar.com/\nComments URL: https://news.ycombinator.com/item?id=29476545\nPoints: 194\n# Comments: 37",
+          "link": "https://codewithrockstar.com/",
+          "publishedOn": "2021-12-07T18:46:42.000Z",
+          "wordCount": 206,
+          "title": "Rockstar: a language for programs that are also hair metal power ballads"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29475714",
+          "author": "giuliomagnifico",
+          "description": "Article URL: https://www.axios.com/1-local-newspapers-lawsuits-facebook-google-3c3dee3a-cce3-49ef-b0a2-7a98c2e15c91.html\nComments URL: https://news.ycombinator.com/item?id=29475714\nPoints: 206\n# Comments: 155",
+          "link": "https://www.axios.com/1-local-newspapers-lawsuits-facebook-google-3c3dee3a-cce3-49ef-b0a2-7a98c2e15c91.html",
+          "publishedOn": "2021-12-07T17:44:42.000Z",
+          "wordCount": 2089,
+          "title": "Over 200 newspapers now involved in lawsuits vs. Google, Facebook"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29475295",
+          "author": "_Microft",
+          "description": "Article URL: https://www.science.org/content/blog-post/rna-takes-over\nComments URL: https://news.ycombinator.com/item?id=29475295\nPoints: 82\n# Comments: 19",
+          "link": "https://www.science.org/content/blog-post/rna-takes-over",
+          "publishedOn": "2021-12-07T17:17:03.000Z",
+          "wordCount": 1322,
+          "title": "RNA Takes Over"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29474762",
+          "author": "legrande",
+          "description": "Article URL: https://twitter.com/jherskowitz/status/1466078600822677513\nComments URL: https://news.ycombinator.com/item?id=29474762\nPoints: 172\n# Comments: 187",
+          "link": "https://twitter.com/jherskowitz/status/1466078600822677513",
+          "publishedOn": "2021-12-07T16:45:18.000Z",
+          "wordCount": 196,
+          "title": "A few things I’ve come to believe in my years in music tech"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29474743",
+          "author": "danielskogly",
+          "description": "Article URL: https://blog.klungo.no/2021/12/07/cloudflare-images-has-a-lot-of-issues/\nComments URL: https://news.ycombinator.com/item?id=29474743\nPoints: 411\n# Comments: 103",
+          "link": "https://blog.klungo.no/2021/12/07/cloudflare-images-has-a-lot-of-issues/",
+          "publishedOn": "2021-12-07T16:44:21.000Z",
+          "wordCount": 1615,
+          "title": "Issues with Cloudflare Images"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29474274",
+          "author": "tanayagrawal19",
+          "description": "Article URL: https://tanayagrawal.substack.com/p/how-to-schedule-interviews\nComments URL: https://news.ycombinator.com/item?id=29474274\nPoints: 122\n# Comments: 84",
+          "link": "https://tanayagrawal.substack.com/p/how-to-schedule-interviews",
+          "publishedOn": "2021-12-07T16:18:58.000Z",
+          "wordCount": 1188,
+          "title": "Interview success can depend on how you schedule interviews"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29474130",
+          "author": "throwaway894345",
+          "description": "Article URL: https://eevans.co/blog/garage/\nComments URL: https://news.ycombinator.com/item?id=29474130\nPoints: 123\n# Comments: 44",
+          "link": "https://eevans.co/blog/garage/",
+          "publishedOn": "2021-12-07T16:09:35.000Z",
+          "wordCount": 1920,
+          "title": "I host this blog from my garage"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29474092",
+          "author": "jwithington",
+          "description": "Article URL: https://fixvms.com/\nComments URL: https://news.ycombinator.com/item?id=29474092\nPoints: 132\n# Comments: 175",
+          "link": "https://fixvms.com/",
+          "publishedOn": "2021-12-07T16:07:41.000Z",
+          "wordCount": 1039,
+          "title": "A submarine's weakness: its software?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29473630",
+          "author": "judge2020",
+          "description": "Article URL: https://status.aws.amazon.com/\nComments URL: https://news.ycombinator.com/item?id=29473630\nPoints: 1449\n# Comments: 813",
+          "link": "https://status.aws.amazon.com/",
+          "publishedOn": "2021-12-07T15:42:25.000Z",
+          "wordCount": 36906,
+          "title": "AWS us-east-1 outage"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29473439",
+          "author": "chmaynard",
+          "description": "Article URL: https://practical.engineering/blog/2021/12/5/why-retaining-walls-collapse\nComments URL: https://news.ycombinator.com/item?id=29473439\nPoints: 190\n# Comments: 103",
+          "link": "https://practical.engineering/blog/2021/12/5/why-retaining-walls-collapse",
+          "publishedOn": "2021-12-07T15:28:31.000Z",
+          "wordCount": 1951,
+          "title": "Why Retaining Walls Collapse"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29473271",
+          "author": "jack_riminton",
+          "description": "Article URL: https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/\nComments URL: https://news.ycombinator.com/item?id=29473271\nPoints: 308\n# Comments: 61",
+          "link": "https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/",
+          "publishedOn": "2021-12-07T15:13:24.000Z",
+          "wordCount": 18283,
+          "title": "How a Kalman filter works, in pictures"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29472189",
+          "author": "ColinWright",
+          "description": "Article URL: https://arxiv.org/abs/2112.02089\nComments URL: https://news.ycombinator.com/item?id=29472189\nPoints: 206\n# Comments: 84",
+          "link": "https://arxiv.org/abs/2112.02089",
+          "publishedOn": "2021-12-07T13:25:57.000Z",
+          "wordCount": 538,
+          "title": "Regularized Newton Method with Global $O(1/k^2)$ Convergence"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=29467671",
           "author": "craigkerstiens",
           "description": "Article URL: https://github.com/mitchellh/advent-2021-sql\nComments URL: https://news.ycombinator.com/item?id=29467671\nPoints: 7\n# Comments: 0",
@@ -1031,6 +1706,132 @@
       "feedUrl": "https://nitter.net/disclosetv/rss",
       "siteUrl": "https://nitter.net/disclosetv",
       "articles": [
+        {
+          "id": "https://nitter.net/disclosetv/status/1468304140782772245#m",
+          "author": "@disclosetv",
+          "description": "NEW - Only #Fiji tops #Germany with the most restrictive #COVID19 measures currently imposed on its citizens worldwide.",
+          "link": "https://nitter.net/disclosetv/status/1468304140782772245#m",
+          "publishedOn": "2021-12-07T19:39:21.000Z",
+          "wordCount": 221,
+          "title": "NEW - Only #Fiji tops #Germany with the most restrictive #COVID19 measures currently imposed on its citizens worldwide."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1468291374114119687#m",
+          "author": "@disclosetv",
+          "description": "NEW - \"There’s not going to be an endpoint to this vaccination program...,\" says New Zealand PM Jacinda Ardern.",
+          "link": "https://nitter.net/disclosetv/status/1468291374114119687#m",
+          "publishedOn": "2021-12-07T18:48:37.000Z",
+          "wordCount": 254,
+          "title": "NEW - \"There’s not going to be an endpoint to this vaccination program...,\" says New Zealand PM Jacinda Ardern."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1468274472285261824#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - US federal judge sides with Attorney General Wilson and blocks Biden's vaccine requirement for federal contractors.",
+          "link": "https://nitter.net/disclosetv/status/1468274472285261824#m",
+          "publishedOn": "2021-12-07T17:41:28.000Z",
+          "wordCount": 220,
+          "title": "JUST IN - US federal judge sides with Attorney General Wilson and blocks Biden's vaccine requirement for federal contractors."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1468270850596089857#m",
+          "author": "@disclosetv",
+          "description": "NOW - Elon Musk: \"The government is simply the biggest corporation, with the monopoly on violence.\"",
+          "link": "https://nitter.net/disclosetv/status/1468270850596089857#m",
+          "publishedOn": "2021-12-07T17:27:04.000Z",
+          "wordCount": 232,
+          "title": "NOW - Elon Musk: \"The government is simply the biggest corporation, with the monopoly on violence.\""
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1468267286704308224#m",
+          "author": "@disclosetv",
+          "description": "UPDATE - Biden will now brief Macron, Merkel, Draghi, and Johnson following his call with Putin.",
+          "link": "https://nitter.net/disclosetv/status/1468267286704308224#m",
+          "publishedOn": "2021-12-07T17:12:54.000Z",
+          "wordCount": 262,
+          "title": "R to @disclosetv: UPDATE - Biden will now brief Macron, Merkel, Draghi, and Johnson following his call with Putin."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1468261640630067207#m",
+          "author": "@disclosetv",
+          "description": "NOW - Biden gives Putin a wave after apparently forgetting to turn on his microphone during video call (Daily)",
+          "link": "https://nitter.net/disclosetv/status/1468261640630067207#m",
+          "publishedOn": "2021-12-07T16:50:28.000Z",
+          "wordCount": 180,
+          "title": "NOW - Biden gives Putin a wave after apparently forgetting to turn on his microphone during video call (Daily)"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1468254636805169157#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Fauci: #Omicron \"almost certainly\" not \"more severe\" than Delta.",
+          "link": "https://nitter.net/disclosetv/status/1468254636805169157#m",
+          "publishedOn": "2021-12-07T16:22:38.000Z",
+          "wordCount": 164,
+          "title": "JUST IN - Fauci: #Omicron \"almost certainly\" not \"more severe\" than Delta."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1468241105904979969#m",
+          "author": "@disclosetv",
+          "description": "Pfizer CEO Bourla added in an interview with WSJ that a new vaccine will be available by March \"if needed.\"",
+          "link": "https://nitter.net/disclosetv/status/1468241105904979969#m",
+          "publishedOn": "2021-12-07T15:28:52.000Z",
+          "wordCount": 230,
+          "title": "R to @disclosetv: Pfizer CEO Bourla added in an interview with WSJ that a new vaccine will be available by March \"if needed.\""
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1468239798964047888#m",
+          "author": "@disclosetv",
+          "description": "NEW - Pfizer CEO Bourla claims it is not good for #Omicron to be \"more transmissible but milder\" because mutations could \"arise\" if it spreads to \"billions of people\" (WSJ)",
+          "link": "https://nitter.net/disclosetv/status/1468239798964047888#m",
+          "publishedOn": "2021-12-07T15:23:41.000Z",
+          "wordCount": 284,
+          "title": "NEW - Pfizer CEO Bourla claims it is not good for #Omicron to be \"more transmissible but milder\" because mutations could \"arise\" if it spreads to \"billions of people\" (WSJ)"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1468224529839407116#m",
+          "author": "@disclosetv",
+          "description": "Germany: Father kills family and himself after the employer learns of forged vaccine certificate. \n\ndisclose.tv/forged-vaccine-p…",
+          "link": "https://nitter.net/disclosetv/status/1468224529839407116#m",
+          "publishedOn": "2021-12-07T14:23:00.000Z",
+          "wordCount": 375,
+          "title": "R to @disclosetv: Germany: Father kills family and himself after the employer learns of forged vaccine certificate. \n\nhttps://www.disclose.tv/forged-vaccine-passport-father-kills-family-for-fear-of-prison/"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1468209536175640585#m",
+          "author": "@disclosetv",
+          "description": "Devid R. (40) feared imprisonment and, according to the suicide note, was also afraid that his children would be taken away from him - Attorney General",
+          "link": "https://nitter.net/disclosetv/status/1468209536175640585#m",
+          "publishedOn": "2021-12-07T13:23:26.000Z",
+          "wordCount": 302,
+          "title": "R to @disclosetv: Devid R. (40) feared imprisonment and, according to the suicide note, was also afraid that his children would be taken away from him - Attorney General"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1468208781075095561#m",
+          "author": "@disclosetv",
+          "description": "NEW - Germany: Father shot his wife, 3 children, and himself after employer found out he had forged his wife's #COVID19 vaccination passport (BILD)",
+          "link": "https://nitter.net/disclosetv/status/1468208781075095561#m",
+          "publishedOn": "2021-12-07T13:20:26.000Z",
+          "wordCount": 283,
+          "title": "NEW - Germany: Father shot his wife, 3 children, and himself after employer found out he had forged his wife's #COVID19 vaccination passport (BILD)"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1468188670985482249#m",
+          "author": "@disclosetv",
+          "description": "NEW - Russia: St. Petersburg measured the lowest daily temperature on record today. Thermometers dropped to -20.9°C, breaking the historic record set in 1893.",
+          "link": "https://nitter.net/disclosetv/status/1468188670985482249#m",
+          "publishedOn": "2021-12-07T12:00:31.000Z",
+          "wordCount": 190,
+          "title": "NEW - Russia: St. Petersburg measured the lowest daily temperature on record today. Thermometers dropped to -20.9°C, breaking the historic record set in 1893."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1468162181216849920#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Austria's new chancellor Nehammer: \"The lockdown for vaccinated ends on Sunday. The lockdown for the unvaccinated continues.\"",
+          "link": "https://nitter.net/disclosetv/status/1468162181216849920#m",
+          "publishedOn": "2021-12-07T10:15:15.000Z",
+          "wordCount": 244,
+          "title": "JUST IN - Austria's new chancellor Nehammer: \"The lockdown for vaccinated ends on Sunday. The lockdown for the unvaccinated continues.\""
+        },
         {
           "id": "https://nitter.net/disclosetv/status/1467981938787028999#m",
           "author": "@disclosetv",
