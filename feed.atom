@@ -2,10 +2,984 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://srid.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-12T00:55:18.458Z</updated>
+    <updated>2021-12-13T00:52:52.624Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://srid.github.io/feeds/index.html"/>
     <link rel="self" href="https://srid.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[kadena-io /
+
+      pact]]></title>
+        <id>https://github.com/kadena-io/pact</id>
+        <link href="https://github.com/kadena-io/pact"/>
+        <updated>2021-12-13T00:52:52.585Z</updated>
+        <summary type="html"><![CDATA[The Pact Smart Contract Language
+    
+Language: Haskell
+                            
+Star: 429
+                            
+Fork: 61]]></summary>
+        <author>
+            <name>kadena-io</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kadena-io /
+
+      chainweb-node]]></title>
+        <id>https://github.com/kadena-io/chainweb-node</id>
+        <link href="https://github.com/kadena-io/chainweb-node"/>
+        <updated>2021-12-13T00:52:52.504Z</updated>
+        <summary type="html"><![CDATA[Chainweb: A Proof-of-Work Parallel-Chain Architecture for Massive Throughput
+    
+Language: Haskell
+                            
+Star: 151
+                            
+Fork: 59]]></summary>
+        <author>
+            <name>kadena-io</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kowainik /
+
+      learn4haskell]]></title>
+        <id>https://github.com/kowainik/learn4haskell</id>
+        <link href="https://github.com/kowainik/learn4haskell"/>
+        <updated>2021-12-13T00:52:52.427Z</updated>
+        <summary type="html"><![CDATA[👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
+    
+Language: Haskell
+                            
+Star: 687
+                            
+Fork: 662]]></summary>
+        <author>
+            <name>kowainik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dmjio /
+
+      miso]]></title>
+        <id>https://github.com/dmjio/miso</id>
+        <link href="https://github.com/dmjio/miso"/>
+        <updated>2021-12-13T00:52:52.402Z</updated>
+        <summary type="html"><![CDATA[🍜 A tasty Haskell front-end framework
+    
+Language: Haskell
+                            
+Star: 1,906
+                            
+Fork: 134]]></summary>
+        <author>
+            <name>dmjio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xmonad /
+
+      xmonad-contrib]]></title>
+        <id>https://github.com/xmonad/xmonad-contrib</id>
+        <link href="https://github.com/xmonad/xmonad-contrib"/>
+        <updated>2021-12-13T00:52:52.338Z</updated>
+        <summary type="html"><![CDATA[Contributed modules for xmonad
+    
+Language: Haskell
+                            
+Star: 432
+                            
+Fork: 242]]></summary>
+        <author>
+            <name>xmonad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[grin-compiler /
+
+      ext-stg-interpreter-presentation-demos]]></title>
+        <id>https://github.com/grin-compiler/ext-stg-interpreter-presentation-demos</id>
+        <link href="https://github.com/grin-compiler/ext-stg-interpreter-presentation-demos"/>
+        <updated>2021-12-13T00:52:52.279Z</updated>
+        <summary type="html"><![CDATA[Language: Haskell
+                            
+Star: 10
+                            
+Fork: 1]]></summary>
+        <author>
+            <name>grin-compiler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GaloisInc /
+
+      what4]]></title>
+        <id>https://github.com/GaloisInc/what4</id>
+        <link href="https://github.com/GaloisInc/what4"/>
+        <updated>2021-12-13T00:52:52.245Z</updated>
+        <summary type="html"><![CDATA[Symbolic formula representation and solver interaction library
+    
+Language: Haskell
+                            
+Star: 113
+                            
+Fork: 6]]></summary>
+        <author>
+            <name>GaloisInc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[srid /
+
+      emanote]]></title>
+        <id>https://github.com/srid/emanote</id>
+        <link href="https://github.com/srid/emanote"/>
+        <updated>2021-12-13T00:52:52.219Z</updated>
+        <summary type="html"><![CDATA[Spiritual successor to neuron, based on Ema.
+    
+Language: Haskell
+                            
+Star: 194
+                            
+Fork: 29]]></summary>
+        <author>
+            <name>srid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sentenai /
+
+      riak-solr]]></title>
+        <id>https://github.com/Sentenai/riak-solr</id>
+        <link href="https://github.com/Sentenai/riak-solr"/>
+        <updated>2021-12-13T00:52:52.181Z</updated>
+        <summary type="html"><![CDATA[solr-query integration for riak
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>Sentenai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[olivierverdier /
+
+      zsh-git-prompt]]></title>
+        <id>https://github.com/olivierverdier/zsh-git-prompt</id>
+        <link href="https://github.com/olivierverdier/zsh-git-prompt"/>
+        <updated>2021-12-13T00:52:52.133Z</updated>
+        <summary type="html"><![CDATA[Informative git prompt for zsh
+    
+Language: Haskell
+                            
+Star: 1,547
+                            
+Fork: 371]]></summary>
+        <author>
+            <name>olivierverdier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trolling a crypto scammer into creating a short dramatic play script]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/rf1x89/trolling_a_crypto_scammer_into_creating_a_short/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/rf1x89/trolling_a_crypto_scammer_into_creating_a_short/"/>
+        <updated>2021-12-13T00:01:23.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Mylesfakeaccount  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former BuzzFeed Employees Missed Their Big Payday]]></title>
+        <id>https://news.ycombinator.com/item?id=29534752</id>
+        <link href="https://www.newyorker.com/news/annals-of-communications/how-former-buzzfeed-employees-missed-their-big-payday"/>
+        <updated>2021-12-12T23:22:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/news/annals-of-communications/how-former-buzzfeed-employees-missed-their-big-payday
+Comments URL: https://news.ycombinator.com/item?id=29534752
+Points: 35
+# Comments: 24]]></summary>
+        <author>
+            <name>jrochkind1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stable coin release]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/rf0u3k/stable_coin_release/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/rf0u3k/stable_coin_release/"/>
+        <updated>2021-12-12T23:07:52.000Z</updated>
+        <summary type="html"><![CDATA[How close is a stablecoin to release on Ada? Usdc and usdt have very high fees
+    submitted by    /u/Visual-Grapefruit  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How are slot leaders selected at the beginning of each Epoch?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/rf004y/how_are_slot_leaders_selected_at_the_beginning_of/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/rf004y/how_are_slot_leaders_selected_at_the_beginning_of/"/>
+        <updated>2021-12-12T22:27:28.000Z</updated>
+        <summary type="html"><![CDATA[I have a question regarding how slot leaders are selected. I understand that this selection process happens right before the Epoch begins. I also know that every stake pool has a chance of being a slot leader proportionate to the amount of ADA they have staked with them. 
+ How exactly is this drawing executed in a decentralized and verifiably random way? 
+ If a stake pool isn’t online when it’s their turn to mine a block, how how does the network choose another leader?
+    submitted by    /u/namefacedude  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Directory Opus is a complete replacement for Explorer]]></title>
+        <id>https://news.ycombinator.com/item?id=29534243</id>
+        <link href="https://www.gpsoft.com.au/"/>
+        <updated>2021-12-12T22:18:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.gpsoft.com.au/
+Comments URL: https://news.ycombinator.com/item?id=29534243
+Points: 22
+# Comments: 9]]></summary>
+        <author>
+            <name>doener</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summary of us legislation]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/rezmqe/summary_of_us_legislation/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/rezmqe/summary_of_us_legislation/"/>
+        <updated>2021-12-12T22:09:33.000Z</updated>
+        <summary type="html"><![CDATA[So I'm in the process of building a way for cardano to fight crypto legislation and will post here again when complete.
+ I could use a leg up on a summary of all the crypto bills that exist in the US. 
+ Has anyone seen a google doc breaking down/tracking the blockchain/crypto laws and summarizing the impact? I know Charles has posted an infographic but curious if there is a place to track these.
+    submitted by    /u/billyv1234  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predict civilization collapse with Python and World3 model]]></title>
+        <id>https://news.ycombinator.com/item?id=29534130</id>
+        <link href="https://github.com/cvanwynsberghe/pyworld3"/>
+        <updated>2021-12-12T22:05:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/cvanwynsberghe/pyworld3
+Comments URL: https://news.ycombinator.com/item?id=29534130
+Points: 53
+# Comments: 17]]></summary>
+        <author>
+            <name>maremmano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chemical emitted by babies could make men more docile, women more aggressive]]></title>
+        <id>https://news.ycombinator.com/item?id=29533973</id>
+        <link href="https://www.science.org/content/article/chemical-emitted-babies-could-make-men-more-docile-women-more-aggressive"/>
+        <updated>2021-12-12T21:47:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.science.org/content/article/chemical-emitted-babies-could-make-men-more-docile-women-more-aggressive
+Comments URL: https://news.ycombinator.com/item?id=29533973
+Points: 94
+# Comments: 26]]></summary>
+        <author>
+            <name>chriskanan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: FileFlows – file processing Docker application]]></title>
+        <id>https://news.ycombinator.com/item?id=29533810</id>
+        <link href="https://fileflows.com"/>
+        <updated>2021-12-12T21:29:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fileflows.com
+Comments URL: https://news.ycombinator.com/item?id=29533810
+Points: 10
+# Comments: 2]]></summary>
+        <author>
+            <name>the_reven</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Backblaze restore for Personal Backup is awful]]></title>
+        <id>https://news.ycombinator.com/item?id=29533753</id>
+        <link href="https://news.ycombinator.com/item?id=29533753"/>
+        <updated>2021-12-12T21:23:31.000Z</updated>
+        <summary type="html"><![CDATA[I've been using Backblaze for a few years for my home computer. You know how everyone keeps telling you, a backup is only a true backup once you've done at least one restore? Now I know why (silly me).
+I just got a "Safety Freeze" error [1] - essentially some inconsistency with my backup. Backblaze will not tell me the actual cause of this inconsistency. It's possible that some data might be missing - Backblaze doesn't tell me though.
+The only official solution is to manually check all files (millions in my case). I also can't download a full backup since Backblaze only allows downloads of up to 500GB at once. So my only option is to do a full hard drive restore, costing $189 + customs in Europe, so at the end probably closer to 300€. But even then I won't know if/which of my data was corrupted.
+What bugs me is that the Backblaze desktop software should be able to resolve this - it should be possible to do a hash of all the files that are in the most recent backup, and cross-check it with the hashes of the files on my machine.
+Not sure what I should do now.
+Edit: This is the response from the Backblaze support:
+> I apologize, but this [=manually checking all files] would in fact be the only sure fire way if you are concerned about any deleted files. There wouldn't be a way to compare hashes the way you describe in this case as that mechanism is simply not implemented into the Backblaze software. The Backblaze software is intended to prevent data loss. It would not be intended to be able to automatically cross reference local and server data against each other to display what is and is not backed up on our servers.
+They can't be serious with this?
+[1] https://www.backblaze.com/safety_frozen.html
+Comments URL: https://news.ycombinator.com/item?id=29533753
+Points: 148
+# Comments: 130]]></summary>
+        <author>
+            <name>cloogshicer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s not much, but it’s honest work]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/reyipu/its_not_much_but_its_honest_work/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/reyipu/its_not_much_but_its_honest_work/"/>
+        <updated>2021-12-12T21:16:30.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/notanotherlawyer  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Matrix Is Unreal]]></title>
+        <id>https://news.ycombinator.com/item?id=29533685</id>
+        <link href="https://www.fxguide.com/fxfeatured/the-matrix-is-unreal/"/>
+        <updated>2021-12-12T21:14:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.fxguide.com/fxfeatured/the-matrix-is-unreal/
+Comments URL: https://news.ycombinator.com/item?id=29533685
+Points: 163
+# Comments: 78]]></summary>
+        <author>
+            <name>vblanco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A ghostly galaxy lacking dark matter]]></title>
+        <id>https://news.ycombinator.com/item?id=29533535</id>
+        <link href="https://esahubble.org/images/heic1806a/"/>
+        <updated>2021-12-12T20:57:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://esahubble.org/images/heic1806a/
+Comments URL: https://news.ycombinator.com/item?id=29533535
+Points: 30
+# Comments: 36]]></summary>
+        <author>
+            <name>doener</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hammerspoon – Lua-based powerful tool automation of macOS]]></title>
+        <id>https://news.ycombinator.com/item?id=29533495</id>
+        <link href="https://www.hammerspoon.org/"/>
+        <updated>2021-12-12T20:52:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.hammerspoon.org/
+Comments URL: https://news.ycombinator.com/item?id=29533495
+Points: 98
+# Comments: 24]]></summary>
+        <author>
+            <name>gurjeet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every Schubert Song, Ranked: Listening to 40 hours of lieder]]></title>
+        <id>https://news.ycombinator.com/item?id=29533425</id>
+        <link href="https://van-magazine.com/mag/every-schubert-song-ranked/"/>
+        <updated>2021-12-12T20:44:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://van-magazine.com/mag/every-schubert-song-ranked/
+Comments URL: https://news.ycombinator.com/item?id=29533425
+Points: 16
+# Comments: 9]]></summary>
+        <author>
+            <name>spekcular</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @disclosetv: MORE - SA President #Ramaphosa, who is fully vaccinated, is now in self-isolation in Cape Town.]]></title>
+        <id>https://nitter.net/disclosetv/status/1470129817798520832#m</id>
+        <link href="https://nitter.net/disclosetv/status/1470129817798520832#m"/>
+        <updated>2021-12-12T20:33:56.000Z</updated>
+        <summary type="html"><![CDATA[MORE - SA President #Ramaphosa, who is fully vaccinated, is now in self-isolation in Cape Town.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - South African President #Ramaphosa tests positive for #COVID19 and is receiving treatment for mild symptoms.]]></title>
+        <id>https://nitter.net/disclosetv/status/1470129014727659522#m</id>
+        <link href="https://nitter.net/disclosetv/status/1470129014727659522#m"/>
+        <updated>2021-12-12T20:30:45.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - South African President #Ramaphosa tests positive for #COVID19 and is receiving treatment for mild symptoms.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to import hidden module in your code]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/rexfg9/how_to_import_hidden_module_in_your_code/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/rexfg9/how_to_import_hidden_module_in_your_code/"/>
+        <updated>2021-12-12T20:24:04.000Z</updated>
+        <summary type="html"><![CDATA[Is there any easy way to import the Hidden module to your code
+ Currently, I have to download the package source code and untar it into stackproject/src and I can use those hidden module in my code.
+  
+Obviously, the obvious question is is there any simple way to import hidden module?
+  
+   submitted by    /u/ellipticcode0  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UniFi Network Application 6.5.54]]></title>
+        <id>https://news.ycombinator.com/item?id=29533146</id>
+        <link href="https://community.ui.com/releases/UniFi-Network-Application-6-5-54/d717f241-48bb-4979-8b10-99db36ddabe1"/>
+        <updated>2021-12-12T20:12:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://community.ui.com/releases/UniFi-Network-Application-6-5-54/d717f241-48bb-4979-8b10-99db36ddabe1
+Comments URL: https://news.ycombinator.com/item?id=29533146
+Points: 31
+# Comments: 10]]></summary>
+        <author>
+            <name>doener</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @disclosetv: MORE - "Get boosted now for our freedom," PM Johnson added.]]></title>
+        <id>https://nitter.net/disclosetv/status/1470123984368902155#m</id>
+        <link href="https://nitter.net/disclosetv/status/1470123984368902155#m"/>
+        <updated>2021-12-12T20:10:46.000Z</updated>
+        <summary type="html"><![CDATA[MORE - "Get boosted now for our freedom," PM Johnson added.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOW - UK PM: There is a "tidal wave" of #Omicron coming.]]></title>
+        <id>https://nitter.net/disclosetv/status/1470122400654188544#m</id>
+        <link href="https://nitter.net/disclosetv/status/1470122400654188544#m"/>
+        <updated>2021-12-12T20:04:28.000Z</updated>
+        <summary type="html"><![CDATA[NOW - UK PM: There is a "tidal wave" of #Omicron coming.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do you think Cardano has reached the maturity to build a DAO using it?]]></title>
+        <id>https://www.reddit.com/r/CardanoDevelopers/comments/rewwk8/do_you_think_cardano_has_reached_the_maturity_to/</id>
+        <link href="https://www.reddit.com/r/CardanoDevelopers/comments/rewwk8/do_you_think_cardano_has_reached_the_maturity_to/"/>
+        <updated>2021-12-12T19:59:04.000Z</updated>
+        <summary type="html"><![CDATA[Hi Everybody,
+ I was an Ethereum dev that felt in love with Cardano several months ago. After some hesitations I finally decided to deep dive into Haskell and understand how to create a Plutus Smart Contract. But, you know, it’s a winding road.
+ I’m currently working on the white paper of a new DAO that is basically a VC fund on blockchain. Till now, the logic I put in place (not technical, just conceptual) is blockchain agnostic. In other words, I delayed as much as possible the implementation to focus on the DAO mechanics.
+ Now, the time has arrived and I have to chose between Ethereum and Cardano.
+ Since I was an Ethereum dev it’d be easier to develop it in solidity, but gas cost and the huge number of active DAOs today is scaring me. Cardano is great but I just started studying it, so I really don’t know if it can be suitable for a complex DAO.
+ Do you have any suggestion? Do you think Cardano is a good choice for an investment based DAO?
+ Thank you in advance guys!
+    submitted by    /u/aaron-cesaro  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : CardanoDevelopers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drop-In Replacement for Memcached]]></title>
+        <id>https://news.ycombinator.com/item?id=29532552</id>
+        <link href="https://www.memc.rs"/>
+        <updated>2021-12-12T19:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.memc.rs
+Comments URL: https://news.ycombinator.com/item?id=29532552
+Points: 77
+# Comments: 47]]></summary>
+        <author>
+            <name>mfrw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everyone on Earth is your cousin (2015)]]></title>
+        <id>https://news.ycombinator.com/item?id=29532404</id>
+        <link href="https://qz.com/557639/everyone-on-earth-is-actually-your-cousin/"/>
+        <updated>2021-12-12T18:55:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://qz.com/557639/everyone-on-earth-is-actually-your-cousin/
+Comments URL: https://news.ycombinator.com/item?id=29532404
+Points: 16
+# Comments: 1]]></summary>
+        <author>
+            <name>morkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cabal / haddock questions / how to generate index for all installed local packages?]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/revhdh/cabal_haddock_questions_how_to_generate_index_for/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/revhdh/cabal_haddock_questions_how_to_generate_index_for/"/>
+        <updated>2021-12-12T18:52:25.000Z</updated>
+        <summary type="html"><![CDATA[Hello!
+ I don't understand how to get an index of locally available documentation and installed packages.
+ I added the flag: "Documentation: True", and indeed if I navigate to: '~/.cabal/store/ghc-8.10.7/attoparsec-0.14.3-a88f9f2009aaf50ec4de28c96eaab575e97e192943bebbfec18a608dffd670fd/share/doc/html', all the docs are there, and they even link back to the ghc documentation (in 'file:///home/jurjen/.ghcup/ghc/8.10.7/share/doc/ghc-8.10.7/html/libraries'), which is great!
+ But navigating or exploring to such funky directories is unwieldy and I cannot find a generated index and they are not linked into the standard index living in 'ghcup/.../share/doc/ghc-8.10/html' which is annoying since that is my main source of information for installed packages.
+ I tried to set the options 
+  docdir: /home/jurjen/.ghcup/share/doc/$abi/html/libraries/$libname htmldir: /home/jurjen/.ghcup/share/doc/$abi/html haddockdir: $htmldir 
+ But that didn't seem to do nothing. Anyone know how to make a global index of all (user) installed packages with cabal?
+    submitted by    /u/snhmib  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Signal Identification Guide]]></title>
+        <id>https://news.ycombinator.com/item?id=29532191</id>
+        <link href="https://www.sigidwiki.com/wiki/Signal_Identification_Guide"/>
+        <updated>2021-12-12T18:32:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.sigidwiki.com/wiki/Signal_Identification_Guide
+Comments URL: https://news.ycombinator.com/item?id=29532191
+Points: 46
+# Comments: 4]]></summary>
+        <author>
+            <name>fortran77</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frickin' Shaders with Frickin' Laser Beams]]></title>
+        <id>https://news.ycombinator.com/item?id=29532110</id>
+        <link href="https://acko.net/blog/frickin-shaders-with-frickin-laser-beams/"/>
+        <updated>2021-12-12T18:24:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://acko.net/blog/frickin-shaders-with-frickin-laser-beams/
+Comments URL: https://news.ycombinator.com/item?id=29532110
+Points: 45
+# Comments: 7]]></summary>
+        <author>
+            <name>clebio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tacit knowledge is more important than deliberate practice]]></title>
+        <id>https://news.ycombinator.com/item?id=29531947</id>
+        <link href="https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/"/>
+        <updated>2021-12-12T18:08:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/
+Comments URL: https://news.ycombinator.com/item?id=29531947
+Points: 202
+# Comments: 53]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Old CSS, New CSS (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=29531941</id>
+        <link href="https://eev.ee/blog/2020/02/01/old-css-new-css/"/>
+        <updated>2021-12-12T18:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://eev.ee/blog/2020/02/01/old-css-new-css/
+Comments URL: https://news.ycombinator.com/item?id=29531941
+Points: 173
+# Comments: 43]]></summary>
+        <author>
+            <name>pferde</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peer-to-Peer NAT64 Network]]></title>
+        <id>https://news.ycombinator.com/item?id=29531601</id>
+        <link href="https://p2p.nat64.dk/"/>
+        <updated>2021-12-12T17:36:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://p2p.nat64.dk/
+Comments URL: https://news.ycombinator.com/item?id=29531601
+Points: 66
+# Comments: 11]]></summary>
+        <author>
+            <name>Sami_Lehtinen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[newb here: can I keep a full node wallet offline?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/retq7n/newb_here_can_i_keep_a_full_node_wallet_offline/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/retq7n/newb_here_can_i_keep_a_full_node_wallet_offline/"/>
+        <updated>2021-12-12T17:29:31.000Z</updated>
+        <summary type="html"><![CDATA[Hi all,
+ I want to move some savings into ADA for long term storage. I was going to get a ledger nano to store them but, while it does support ADA, it doesn't support all the coins I'm interested in. I would like to keep everything in one place so I was planning on using something like a raspberry pi with multiple desktop wallets on it, stored offline in a physical safe.
+ Doing some research I have found daedalus that requires you to set up a "full node". I'm new to all of this crypto terminology so I just wanted to double check that I can
+  
+set up a full node on a raspberry pi
+ create a wallet
+ transfer funds from exchange to wallet
+ shutdown pi and put it in a safe for multiple years.
+  
+When I decide to transfer my funds back to an exchange is it as easy as turning on the pi, resyncing the node, and transferring out of my wallet to an exchange?
+ Thanks for the help!
+    submitted by    /u/hh1599  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pool saturation exists for a reason, despite most delegators are not aware of it]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/retmwr/pool_saturation_exists_for_a_reason_despite_most/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/retmwr/pool_saturation_exists_for_a_reason_despite_most/"/>
+        <updated>2021-12-12T17:25:01.000Z</updated>
+        <summary type="html"><![CDATA[Hello,
+ Just a reminder that there is a reason why pool can become saturated - the idea behind it is to tackle centralization which is caused by too many people delegating to one large pool that would be in control of majority of network and could start doing all sorts of nasty things.
+ It doesn't really work, because many large pool operators ignore the saturation limits and simply create a farm of multiple pools. But just because this is technically possible, doesn't mean it's right, they are still a single centralized entity, just spread into more pools.
+ Centralization harms the value of whole chain and also some of the largest farms have so extreme ADA income that they simply sell most of it on CEXes pushing the value even lower, unlike small pools that usually readd their rewards into pledge in order to remain competitive.
+ If you already stake with a pool farm, please consider switching to a single pool. There are many of them that have lowest possible margin and ROI even better than some of the huge pool farms (just check on adapools if the pool is member of "single pool operators", if not, they are a pool farm). Best pools would be those in "single pool alliance" - those pools are committed to never run more than 1 pool - https://adapools.org/alli/cardano-single-pool-alliance/6
+ Thanks for keeping the network decentralized!
+    submitted by    /u/petr_bena  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: AlterClass – A platform for making and selling programming courses]]></title>
+        <id>https://news.ycombinator.com/item?id=29531434</id>
+        <link href="https://alterclass.io/"/>
+        <updated>2021-12-12T17:20:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://alterclass.io/
+Comments URL: https://news.ycombinator.com/item?id=29531434
+Points: 87
+# Comments: 43]]></summary>
+        <author>
+            <name>gdangelo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Win-Vind: Become an instant ninja in operating Windows at the speed of thought]]></title>
+        <id>https://news.ycombinator.com/item?id=29531364</id>
+        <link href="https://github.com/pit-ray/win-vind"/>
+        <updated>2021-12-12T17:13:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/pit-ray/win-vind
+Comments URL: https://news.ycombinator.com/item?id=29531364
+Points: 120
+# Comments: 31]]></summary>
+        <author>
+            <name>philonoist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - UK PM Boris Johnson to address the nation at 8pm tonight.]]></title>
+        <id>https://nitter.net/disclosetv/status/1470077251786055684#m</id>
+        <link href="https://nitter.net/disclosetv/status/1470077251786055684#m"/>
+        <updated>2021-12-12T17:05:04.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - UK PM Boris Johnson to address the nation at 8pm tonight.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - UK raises #COVID19 "alert level" from level 3 to level 4.]]></title>
+        <id>https://nitter.net/disclosetv/status/1470074901885239299#m</id>
+        <link href="https://nitter.net/disclosetv/status/1470074901885239299#m"/>
+        <updated>2021-12-12T16:55:43.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - UK raises #COVID19 "alert level" from level 3 to level 4.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - Chris Wallace leaves Fox News, joins CNN streaming service.]]></title>
+        <id>https://nitter.net/disclosetv/status/1470072573975314442#m</id>
+        <link href="https://nitter.net/disclosetv/status/1470072573975314442#m"/>
+        <updated>2021-12-12T16:46:28.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - Chris Wallace leaves Fox News, joins CNN streaming service.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just got this done! What do y'all think?]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/respee/just_got_this_done_what_do_yall_think/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/respee/just_got_this_done_what_do_yall_think/"/>
+        <updated>2021-12-12T16:40:04.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Pure_Ad927  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing libraries in Haskell]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/rer2v1/designing_libraries_in_haskell/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/rer2v1/designing_libraries_in_haskell/"/>
+        <updated>2021-12-12T15:19:35.000Z</updated>
+        <summary type="html"><![CDATA[After learning Haskell for some time, I would say that grasping most libraries and using them to build applications is a doable task, what really puzzles me is how to cultivate the mindset to enable one to build complex libraries. Some examples would be servant (type-level concept), scotty (monad transformer concept), opaleye (profunctor concept), and a lot more. Many Haskell libraries use sophisticated techniques to achieve DSL, but we seem to lack learning materials (the design parts, not the practical usage parts) that are accessible to everyday programmers.
+    submitted by    /u/fluz1994  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yoroi Staking wouldn’t change amount.]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/req7i9/yoroi_staking_wouldnt_change_amount/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/req7i9/yoroi_staking_wouldnt_change_amount/"/>
+        <updated>2021-12-12T14:34:54.000Z</updated>
+        <summary type="html"><![CDATA[So I have a problem, Im trying to stake for the Sundaeswap airdrop, but when i go to put some ADA to do it the amount is automatically the whole wallet’s amount. How can i change it to a custom amount? If i do stake the whole wallet can i unstake without having to deposit more ADA to unstake?
+ Kinda new btw, thanks though
+ EDIT: answered
+    submitted by    /u/JoJuiceboi  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why does daedalus take forever to load?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/reow6j/why_does_daedalus_take_forever_to_load/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/reow6j/why_does_daedalus_take_forever_to_load/"/>
+        <updated>2021-12-12T13:19:58.000Z</updated>
+        <summary type="html"><![CDATA[Everytime I go to open my wallet I joke with my wife, "welp time ta fire up da ole daedalus wallet and move some funds...". Legit takes like 2 hours to load.
+    submitted by    /u/2-stepTurkey  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/reomk5/_/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/reomk5/_/"/>
+        <updated>2021-12-12T13:03:27.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/NEW_JERSEY_PATRIOT  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thoughts on how this would affect the ecosystem?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/reo4a2/thoughts_on_how_this_would_affect_the_ecosystem/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/reo4a2/thoughts_on_how_this_would_affect_the_ecosystem/"/>
+        <updated>2021-12-12T12:31:49.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/allpotatoesarenice  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW - German police start measuring distances between people with folding rulers in public.]]></title>
+        <id>https://nitter.net/disclosetv/status/1469983528100188160#m</id>
+        <link href="https://nitter.net/disclosetv/status/1469983528100188160#m"/>
+        <updated>2021-12-12T10:52:38.000Z</updated>
+        <summary type="html"><![CDATA[NEW - German police start measuring distances between people with folding rulers in public.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW - Future Bond could be "non-binary" and use the pronoun "they," Barbara Broccoli, 007's producer, has revealed.]]></title>
+        <id>https://nitter.net/disclosetv/status/1469979387445616647#m</id>
+        <link href="https://nitter.net/disclosetv/status/1469979387445616647#m"/>
+        <updated>2021-12-12T10:36:11.000Z</updated>
+        <summary type="html"><![CDATA[NEW - Future Bond could be "non-binary" and use the pronoun "they," Barbara Broccoli, 007's producer, has revealed.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remember to vote each day!]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/reloxn/remember_to_vote_each_day/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/reloxn/remember_to_vote_each_day/"/>
+        <updated>2021-12-12T09:39:37.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/JanPotgieter  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Number of Wallets]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/relfrg/number_of_wallets/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/relfrg/number_of_wallets/"/>
+        <updated>2021-12-12T09:21:15.000Z</updated>
+        <summary type="html"><![CDATA[Cardano has now crossed the 1 million staking wallets milestone. Makes me wonder how many wallets people have. 
+ Like is it common for a whale to keep a million in each of 100 wallets or keep 100 million in one wallet?
+    submitted by    /u/Jojoosaka  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What do you think about Empowa?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/relfmf/what_do_you_think_about_empowa/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/relfmf/what_do_you_think_about_empowa/"/>
+        <updated>2021-12-12T09:21:01.000Z</updated>
+        <summary type="html"><![CDATA[After the meld ispo finished, i decided to stake with one of the Empowa pools until the sundaeswap ispo starts. I personally think that the realfi approach and the ideas regarding housing in Africa are very promising and are in line with my personal ideals. Furthermore, the fact that Empowa is aiming for concrete, real word utility should be pretty valuable when everything gets up and running. 
+ So why is there so little attention being given to Empowa? Is there anything i am missing, or am i misinterpreting the value of the project?
+    submitted by    /u/baggus1991  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are some cool technologies in other projects that you think Cardano would benefit from implementing at some point?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/rekt3y/what_are_some_cool_technologies_in_other_projects/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/rekt3y/what_are_some_cool_technologies_in_other_projects/"/>
+        <updated>2021-12-12T08:37:43.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/rvonm  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Africa and the World... Has Crypto the answer?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/rekl92/africa_and_the_world_has_crypto_the_answer/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/rekl92/africa_and_the_world_has_crypto_the_answer/"/>
+        <updated>2021-12-12T08:21:32.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/roteck  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charles Hoskinson Says IOG Has Started Process of Equipping Cardano to Resist Quantum Attacks]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/rekcig/charles_hoskinson_says_iog_has_started_process_of/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/rekcig/charles_hoskinson_says_iog_has_started_process_of/"/>
+        <updated>2021-12-12T08:04:02.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Tobi_Loba  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why daedalus may not work for you... right now]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/rejtrt/why_daedalus_may_not_work_for_you_right_now/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/rejtrt/why_daedalus_may_not_work_for_you_right_now/"/>
+        <updated>2021-12-12T07:27:56.000Z</updated>
+        <summary type="html"><![CDATA[I have daedalus on my pc. When I first got into ADA and wanted to stake i chose daedalus because I didn't want a light wallet like Yoroi on my phone. It was just a personal preference. Also it is more secure because it is an actual node.
+ I've seen posts about people complaining that daedalus takes to long to load for some. Here is why. I watched Charles' recent AMA on YouTube and a question about daedalus being too slow was asked. Charles replied with why. Downloading a whole node is very heavy software. You have to have the appropriate hardware for it to run. When I first downloaded it, it took about 7 hours to sync. That's normal for the first time. Now it's about 10-15 min.
+ I didn't know why it took so long until Charles said that but, it makes sense now. Heavy software needs decent hardware. He said that using a BTC node or and ETH node is the same. I say again heavy software needs good hardware. 
+ Daedalus being released first was the main focus so that the Cardano network could get fully decentralized faster. Then came the light wallets. In the recent AMA he said that daedalus is a big focus for 2022 to make sync times faster. They are working on it. 
+ Sidebar: anyone else appreciating these discount prices as much as me? 
+ Some transparency: i am in no way shape or form a whale. I buy when I can afford it. I believe in cardano and it's future in making the world a better place. 
+ Much love to the ADAGANG.
+    submitted by    /u/yaboiswigz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardano Daily Discussion - December 12, 2021]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/reiysb/cardano_daily_discussion_december_12_2021/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/reiysb/cardano_daily_discussion_december_12_2021/"/>
+        <updated>2021-12-12T06:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone,
+ Welcome to the Cardano Daily Discussion!
+ The standard sub rules apply here (see sidebar), with the exception that price discussion is allowed in this thread, though we encourage you to try not to make this the focus and talk about the project itself. Please ask questions, help others and be civil - be sure to get involved in Project Catalyst too!
+ If you're new, please make sure you're read through the newbies guide and share it with others (use the ?newbies comment command to reference it).
+ NFTs for Planting Trees
+ https://preview.redd.it/d9l75zowckx71.jpg?width=1600&format=pjpg&auto=webp&s=9a13a91cb371dce5d318b96dea2692dad9348b21
+ You can donate ADA and receive NFTs for doing so, each ADA is a tree planted, it's a win win! Read about veritree here and take part on http…]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can't connect with Daedalus today]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/reigkx/cant_connect_with_daedalus_today/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/reigkx/cant_connect_with_daedalus_today/"/>
+        <updated>2021-12-12T05:57:18.000Z</updated>
+        <summary type="html"><![CDATA[The Daedalus wallet just gets harder and harder to load, but it always eventually loaded, but today I can not get it to load. Every time it takes forever to open and then starts syncing but somewhere around 98% synced it loses connection again. I've been trying since this afternoon, it's now 12:54AM lol. I'm running it on a gaming laptop with 12mb ram. It's always slowed down the computer but I don't use it for anything else other than Daedalus but now its at the point that when it does load I can't use the computer for anything else at all it's that slow.
+ I plan on adding more RAM but for now I'm concerned that I get get the wallet to open and sync at all. I've never had this much trouble. 
+ Am I overlooking something? Any help or advice is greatly appreciated.
+    submitted by    /u/lpass17  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advent of Code 2021 day 12]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/rehk1q/advent_of_code_2021_day_12/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/rehk1q/advent_of_code_2021_day_12/"/>
+        <updated>2021-12-12T05:01:17.000Z</updated>
+        <summary type="html"><![CDATA[https://adventofcode.com
+    submitted by    /u/taylorfausak  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java app to run Cardano transaction?]]></title>
+        <id>https://www.reddit.com/r/CardanoDevelopers/comments/regmsq/java_app_to_run_cardano_transaction/</id>
+        <link href="https://www.reddit.com/r/CardanoDevelopers/comments/regmsq/java_app_to_run_cardano_transaction/"/>
+        <updated>2021-12-12T04:07:19.000Z</updated>
+        <summary type="html"><![CDATA[Is there a tool, or SDK to handle Cardano payments/transactions?
+    submitted by    /u/Aeonitis  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : CardanoDevelopers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nami Wallet First Look and Set Up]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/regk9k/nami_wallet_first_look_and_set_up/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/regk9k/nami_wallet_first_look_and_set_up/"/>
+        <updated>2021-12-12T04:03:20.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/NorbStakePool  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meowswap. Thoughts?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/refugw/meowswap_thoughts/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/refugw/meowswap_thoughts/"/>
+        <updated>2021-12-12T03:21:45.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/abu_alkindi  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Has any experienced their seed phrase no longer working to recover their Yoroi Wallet?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/refrqr/has_any_experienced_their_seed_phrase_no_longer/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/refrqr/has_any_experienced_their_seed_phrase_no_longer/"/>
+        <updated>2021-12-12T03:17:26.000Z</updated>
+        <summary type="html"><![CDATA[Background: A month ago I bought a Nano Ledger and transfered my ADA to a newly created wallet within the device. I was able to recover all the Yoroi Wallet I used or have used to do it. About a week ago I attempted to recover my old Yoroi Wallet to use on the SundaeSwap testnet (at the time I didn't know I could only use Nami). I could not recovery any of my old wallets.
+ I attempted the recovery process again today and I was able to bring back one wallet, but I still can't get my other. I know my recovery phrase is correct because I can pull the wallet up in Adalite. Stranger yet, I know Yoroi is accepting every word except the first.
+ I searched Twitter and this subreddit. I've seen post about Yoroi having synchronization issues, but only one old post really like my issue. Has anyone else had these problems?
+    submitted by    /u/Polarbearblue  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oversaturation and Sundae swap.]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/ref65d/oversaturation_and_sundae_swap/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/ref65d/oversaturation_and_sundae_swap/"/>
+        <updated>2021-12-12T02:43:21.000Z</updated>
+        <summary type="html"><![CDATA[Given the excitement about staking in pools to relieve Sundae's, many, if not all, of the eligible pools are at full saturation (unless I overlooked one), I have a couple questions. I know it's not live but if any of you have any insight I would appreciate it. 1) will Sundae rewards diminish in the same way Ada rewards decrease when a pool is saturated?...... Well I guess that's my only question actually. Thanks!
+    submitted by    /u/Peach_Air  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feature Film: Onboarding Hollywood Proposal. Industry Spotlight Video.]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/ref540/feature_film_onboarding_hollywood_proposal/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/ref540/feature_film_onboarding_hollywood_proposal/"/>
+        <updated>2021-12-12T02:41:38.000Z</updated>
+        <summary type="html"><![CDATA[Another Industry Partner Spotlight video! This one is near and dear to me, worked with this master armorer on countless projects. This film project will tap highly skilled film professionals. Charlie is one of them. Watch to the end 😉 https://www.youtube.com/watch?v=KHWUnpRhSxI
+ https://cardano.ideascale.com/a/dtd/Feature-Film-%F0%9F%91%89Onboarding-Hollywood/381757-48088
+    submitted by    /u/C_Calix  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hi there. If I share my Cardano address, can anyone see my wallet balance? Thanks.]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/redno6/hi_there_if_i_share_my_cardano_address_can_anyone/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/redno6/hi_there_if_i_share_my_cardano_address_can_anyone/"/>
+        <updated>2021-12-12T01:19:17.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Revolutionary-Run163  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[wasp-lang /
 
@@ -185,6 +1159,23 @@ Fork: 3]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Which functors are "strong with respect to Either"?]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/red3at/which_functors_are_strong_with_respect_to_either/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/red3at/which_functors_are_strong_with_respect_to_either/"/>
+        <updated>2021-12-12T00:49:15.000Z</updated>
+        <summary type="html"><![CDATA[I'm reading the Profunctor Optics paper and in it they implement an instance of Strong (they call it Cartesian) for the Star (aka UpStar) of a functor, like so:
+ ``` instance Functor f => Cartesian (UpStar f) where first (UpStar u) = UpStar (rstrength . cross u id) second (UpStar u) = UpStar (lstrength . cross id u)
+ -- some givens: newtype UpStar f a b = UpStar {unUpStar :: a -> f b} newtype Costar f a b = Costar {unCostar :: f a -> b}
+ instance Functor f => Profunctor (UpStar f) where dimap f g (UpStar h) = UpStar (fmap g . h . f)
+ rstrength :: Functor f => (f a, b) -> f (a, b) rstrength (fx, y) = fmap (,y) fx
+ lstrength :: Functor f => (a, f b) -> f (a, b) lstrength (x, fy) = fmap (x,) fy
+ cross :: (t1 -> a) -> (t2 -> b) -> (t1, t2) -> (a, b) cross f g (a,b) = (f a, g b) ```
+ The paper …]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Apple’s Newest OLED Supplier]]></title>
         <id>https://news.ycombinator.com/item?id=29525871</id>
         <link href="https://asianometry.substack.com/p/boe-technology-apples-next-oled-supplier"/>
@@ -195,6 +1186,17 @@ Points: 4
 # Comments: 1]]></summary>
         <author>
             <name>type0</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[the result of *too* much mental health awareness]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/rec9b3/the_result_of_too_much_mental_health_awareness/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/rec9b3/the_result_of_too_much_mental_health_awareness/"/>
+        <updated>2021-12-12T00:03:35.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/lady--macbeth  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
         </author>
     </entry>
     <entry>
