@@ -2,10 +2,1240 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://srid.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-17T00:55:03.626Z</updated>
+    <updated>2021-12-18T00:56:20.559Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://srid.github.io/feeds/index.html"/>
     <link rel="self" href="https://srid.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Simspace /
+
+      on-error]]></title>
+        <id>https://github.com/Simspace/on-error</id>
+        <link href="https://github.com/Simspace/on-error"/>
+        <updated>2021-12-18T00:56:17.243Z</updated>
+        <summary type="html"><![CDATA[Clearly-delineated error-handling
+    
+Language: Haskell
+                            
+Star: 35
+                            
+Fork: 1]]></summary>
+        <author>
+            <name>Simspace</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JustusAdam /
+
+      mustache]]></title>
+        <id>https://github.com/JustusAdam/mustache</id>
+        <link href="https://github.com/JustusAdam/mustache"/>
+        <updated>2021-12-18T00:56:17.206Z</updated>
+        <summary type="html"><![CDATA[Haskell implementation of mustache templates
+    
+Language: Haskell
+                            
+Star: 82
+                            
+Fork: 27]]></summary>
+        <author>
+            <name>JustusAdam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MartifyLabs /
+
+      Martify]]></title>
+        <id>https://github.com/MartifyLabs/Martify</id>
+        <link href="https://github.com/MartifyLabs/Martify"/>
+        <updated>2021-12-18T00:56:17.169Z</updated>
+        <summary type="html"><![CDATA[NFT Marketplace on the Cardano Blockchain. Powered by Plutus Smart Contracts
+    
+Language: Haskell
+                            
+Star: 31
+                            
+Fork: 21]]></summary>
+        <author>
+            <name>MartifyLabs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      cardano-sl]]></title>
+        <id>https://github.com/input-output-hk/cardano-sl</id>
+        <link href="https://github.com/input-output-hk/cardano-sl"/>
+        <updated>2021-12-18T00:56:17.133Z</updated>
+        <summary type="html"><![CDATA[Cryptographic currency implementing Ouroboros PoS protocol
+    
+Language: Haskell
+                            
+Star: 3,733
+                            
+Fork: 617]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[apeschel /
+
+      haskell_euler]]></title>
+        <id>https://github.com/apeschel/haskell_euler</id>
+        <link href="https://github.com/apeschel/haskell_euler"/>
+        <updated>2021-12-18T00:56:14.361Z</updated>
+        <summary type="html"><![CDATA[Haskell solutions to Project Euler
+    
+Language: Haskell
+                            
+Star: 
+                            
+Fork:]]></summary>
+        <author>
+            <name>apeschel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[input-output-hk /
+
+      hydra-poc]]></title>
+        <id>https://github.com/input-output-hk/hydra-poc</id>
+        <link href="https://github.com/input-output-hk/hydra-poc"/>
+        <updated>2021-12-18T00:56:14.328Z</updated>
+        <summary type="html"><![CDATA[Proof of concept for the Hydra Head protocol 👷
+
+    
+Language: Haskell
+                            
+Star: 76
+                            
+Fork: 14]]></summary>
+        <author>
+            <name>input-output-hk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kowainik /
+
+      cake-slayer]]></title>
+        <id>https://github.com/kowainik/cake-slayer</id>
+        <link href="https://github.com/kowainik/cake-slayer"/>
+        <updated>2021-12-18T00:56:14.284Z</updated>
+        <summary type="html"><![CDATA[🍰🔪 Architecture of Haskell backend applications
+    
+Language: Haskell
+                            
+Star: 122
+                            
+Fork: 6]]></summary>
+        <author>
+            <name>kowainik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simspace /
+
+      avaleryar]]></title>
+        <id>https://github.com/Simspace/avaleryar</id>
+        <link href="https://github.com/Simspace/avaleryar"/>
+        <updated>2021-12-18T00:56:14.240Z</updated>
+        <summary type="html"><![CDATA[A logical authorization system
+    
+Language: Haskell
+                            
+Star: 31
+                            
+Fork: 4]]></summary>
+        <author>
+            <name>Simspace</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Melting glaciers may produce thousands of kilometers of new salmon habitat]]></title>
+        <id>https://news.ycombinator.com/item?id=29599757</id>
+        <link href="https://www.science.org/content/article/melting-glaciers-may-produce-thousands-kilometers-new-salmon-habitat"/>
+        <updated>2021-12-17T23:51:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.science.org/content/article/melting-glaciers-may-produce-thousands-kilometers-new-salmon-habitat
+Comments URL: https://news.ycombinator.com/item?id=29599757
+Points: 9
+# Comments: 1]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proposal: Change Ord method defaults]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/ritwua/proposal_change_ord_method_defaults/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/ritwua/proposal_change_ord_method_defaults/"/>
+        <updated>2021-12-17T23:37:28.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Bodigrim  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CCPA Scam – human subject research study conducted by Princeton University]]></title>
+        <id>https://news.ycombinator.com/item?id=29599553</id>
+        <link href="https://blog.freeradical.zone/post/ccpa-scam-2021-12/"/>
+        <updated>2021-12-17T23:23:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.freeradical.zone/post/ccpa-scam-2021-12/
+Comments URL: https://news.ycombinator.com/item?id=29599553
+Points: 32
+# Comments: 9]]></summary>
+        <author>
+            <name>ColinWright</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This week, Haskell developer Matthias Benkort shared that the Cardano Hydra scaling solution may be launching sooner than anticipated! We discuss how Hydra enables blockchain scalability and improved DeFi capability.]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/ritd27/this_week_haskell_developer_matthias_benkort/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/ritd27/this_week_haskell_developer_matthias_benkort/"/>
+        <updated>2021-12-17T23:09:23.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ConvincingCrypto  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[:t elem]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/rit8ce/t_elem/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/rit8ce/t_elem/"/>
+        <updated>2021-12-17T23:02:49.000Z</updated>
+        <summary type="html"><![CDATA[When checking the type for elem, my expectation was:
+ (Eq a) => a -> [a] -> Bool 
+ But terminal gave me this:
+ elem :: (Foldable t, Eq a) => a -> t a -> Bool 
+ I have just started learning Haskell. My best guess is that foldable is a protocol/typeclass to represent a generic container as opposed to a list []. But is there a better explanation?
+    submitted by    /u/hipsydoodle  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postgres is a great pub/sub and job server (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=29599132</id>
+        <link href="https://webapp.io/blog/postgres-is-the-answer/"/>
+        <updated>2021-12-17T22:27:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://webapp.io/blog/postgres-is-the-answer/
+Comments URL: https://news.ycombinator.com/item?id=29599132
+Points: 78
+# Comments: 42]]></summary>
+        <author>
+            <name>anonu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - British Prime Minister Johnson reportedly received a so-called "Plan C" today that includes further Covid restrictions up to and including a lockdown (FT)]]></title>
+        <id>https://nitter.net/disclosetv/status/1471969604683579400#m</id>
+        <link href="https://nitter.net/disclosetv/status/1471969604683579400#m"/>
+        <updated>2021-12-17T22:24:36.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - British Prime Minister Johnson reportedly received a so-called "Plan C" today that includes further Covid restrictions up to and including a lockdown (FT)]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a dapp on Cardano.]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/risbay/building_a_dapp_on_cardano/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/risbay/building_a_dapp_on_cardano/"/>
+        <updated>2021-12-17T22:16:31.000Z</updated>
+        <summary type="html"><![CDATA[Hi,
+ I want to build a simple web app and a simple Plutus contract. I've been reviewing the Plutus Pioneer videos, but they always call the endpoints using the playground.
+ Are there any tutorials on building a real web app to call a contract? Is there a JS library similar to web3.js? What are teams like Sundaeswap using?
+ Appreciate any pointers...
+    submitted by    /u/shadydoglies  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I bought 1000 meters of wire to settle a physics debate [video]]]></title>
+        <id>https://news.ycombinator.com/item?id=29598860</id>
+        <link href="https://www.youtube.com/watch?v=2Vrhk5OjBP8"/>
+        <updated>2021-12-17T21:58:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=2Vrhk5OjBP8
+Comments URL: https://news.ycombinator.com/item?id=29598860
+Points: 146
+# Comments: 71]]></summary>
+        <author>
+            <name>indosauros</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Query Address funds sent from...possible from CLI]]></title>
+        <id>https://www.reddit.com/r/CardanoDevelopers/comments/rirtqi/query_address_funds_sent_frompossible_from_cli/</id>
+        <link href="https://www.reddit.com/r/CardanoDevelopers/comments/rirtqi/query_address_funds_sent_frompossible_from_cli/"/>
+        <updated>2021-12-17T21:52:55.000Z</updated>
+        <summary type="html"><![CDATA[I'm trying to listen for a transaction (which I have implemented so far), but I want to get the address of the sender who sent it. This way if the sender sends the wrong amount, or is unhappy with their purchase they can be refunded.
+ Is there anyway to do this via the CLI, or is this a DBSync, GraphQL problem?
+    submitted by    /u/shawnsblog  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : CardanoDevelopers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EDF shares plunge after faults found at French nuclear power reactor]]></title>
+        <id>https://news.ycombinator.com/item?id=29598777</id>
+        <link href="https://www.reuters.com/world/europe/edf-shares-plunge-after-faults-found-french-nuclear-power-station-2021-12-16/"/>
+        <updated>2021-12-17T21:50:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/europe/edf-shares-plunge-after-faults-found-french-nuclear-power-station-2021-12-16/
+Comments URL: https://news.ycombinator.com/item?id=29598777
+Points: 14
+# Comments: 8]]></summary>
+        <author>
+            <name>sofixa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @disclosetv: The referendum seeks to amend the Swiss constitution to enshrine the fundamental right of every citizen to decide for themselves whether to have something injected or implanted.
+
+https://www.dailymail.co.uk/news/article-10320939/Switzerland-hold-referendum-outlawing-introduction-mandatory-vaccinations.html]]></title>
+        <id>https://nitter.net/disclosetv/status/1471958860856451079#m</id>
+        <link href="https://nitter.net/disclosetv/status/1471958860856451079#m"/>
+        <updated>2021-12-17T21:41:54.000Z</updated>
+        <summary type="html"><![CDATA[The referendum seeks to amend the Swiss constitution to enshrine the fundamental right of every citizen to decide for themselves whether to have something injected or implanted.
+
+dailymail.co.uk/news/article…]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - Switzerland to hold referendum on outlawing mandatory vaccinations and any form of implants without individual's consent.]]></title>
+        <id>https://nitter.net/disclosetv/status/1471957216404152322#m</id>
+        <link href="https://nitter.net/disclosetv/status/1471957216404152322#m"/>
+        <updated>2021-12-17T21:35:22.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - Switzerland to hold referendum on outlawing mandatory vaccinations and any form of implants without individual's consent.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A visual introduction to machine learning]]></title>
+        <id>https://css-tricks.com/?p=359489</id>
+        <link href="https://css-tricks.com/a-visual-introduction-to-machine-learning/"/>
+        <updated>2021-12-17T21:17:31.000Z</updated>
+        <summary type="html"><![CDATA[Just the first sentence alone here from Stepanie Yee and Tony Chu is solid:
+In machine learning, computers apply statistical learning techniques to automatically identify patterns in data. These techniques can be used to make highly accurate predictions.
+
+
+
+
+And what …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - Outbreak Management Team calls for hard lockdown in the Netherlands. Cabinet decision expected tomorrow.]]></title>
+        <id>https://nitter.net/disclosetv/status/1471951629440192525#m</id>
+        <link href="https://nitter.net/disclosetv/status/1471951629440192525#m"/>
+        <updated>2021-12-17T21:13:10.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - Outbreak Management Team calls for hard lockdown in the Netherlands. Cabinet decision expected tomorrow.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TIL ADA can now be spent using flexa network.]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/riqz67/til_ada_can_now_be_spent_using_flexa_network/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/riqz67/til_ada_can_now_be_spent_using_flexa_network/"/>
+        <updated>2021-12-17T21:10:05.000Z</updated>
+        <summary type="html"><![CDATA[Flexa tweeted today that ADA has been added as a supported coin to be spent using the SPEDN app or Gemini. This is great news for ADA!!!!
+    submitted by    /u/isntampgreat  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flow Club (YC S21) is hiring a chief of staff to build the future of work]]></title>
+        <id>https://news.ycombinator.com/item?id=29598293</id>
+        <link href="https://jobs.ashbyhq.com/flowclub/bac6c765-e057-4b0c-85c4-04fc3c915336"/>
+        <updated>2021-12-17T21:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.ashbyhq.com/flowclub/bac6c765-e057-4b0c-85c4-04fc3c915336
+Comments URL: https://news.ycombinator.com/item?id=29598293
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>dtran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wingriders DEX launches on Testnet & new wallet Nu.fi all by the team from Vacuum Labs]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/riqpf4/wingriders_dex_launches_on_testnet_new_wallet/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/riqpf4/wingriders_dex_launches_on_testnet_new_wallet/"/>
+        <updated>2021-12-17T20:56:58.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/astroboysoup  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing LSD]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/riqlxm/announcing_lsd/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/riqlxm/announcing_lsd/"/>
+        <updated>2021-12-17T20:52:12.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/dukerutledge  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - Ghislaine Maxwell will not testify in court. "Your honor the government has not proven its case beyond a reasonable doubt, and so there is no need for me to testify," she said.]]></title>
+        <id>https://nitter.net/disclosetv/status/1471945222703788033#m</id>
+        <link href="https://nitter.net/disclosetv/status/1471945222703788033#m"/>
+        <updated>2021-12-17T20:47:43.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - Ghislaine Maxwell will not testify in court. "Your honor the government has not proven its case beyond a reasonable doubt, and so there is no need for me to testify," she said.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[composing Transformers]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/riptyt/composing_transformers/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/riptyt/composing_transformers/"/>
+        <updated>2021-12-17T20:14:46.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/jumper149  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Passage: A fork of password-store that uses age instead of GnuPG]]></title>
+        <id>https://news.ycombinator.com/item?id=29597729</id>
+        <link href="https://github.com/FiloSottile/passage"/>
+        <updated>2021-12-17T20:10:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/FiloSottile/passage
+Comments URL: https://news.ycombinator.com/item?id=29597729
+Points: 66
+# Comments: 22]]></summary>
+        <author>
+            <name>Shank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Things are starting to ramp up!]]></title>
+        <id>https://www.reddit.com/r/CardanoDevelopers/comments/rippc4/things_are_starting_to_ramp_up/</id>
+        <link href="https://www.reddit.com/r/CardanoDevelopers/comments/rippc4/things_are_starting_to_ramp_up/"/>
+        <updated>2021-12-17T20:08:29.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/PowerSage  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : CardanoDevelopers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Satellite detects large mass of water in Mars canyon]]></title>
+        <id>https://news.ycombinator.com/item?id=29597411</id>
+        <link href="https://www.cnn.com/2021/12/16/world/exomars-water-mars-grand-canyon-scn/index.html"/>
+        <updated>2021-12-17T19:45:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnn.com/2021/12/16/world/exomars-water-mars-grand-canyon-scn/index.html
+Comments URL: https://news.ycombinator.com/item?id=29597411
+Points: 197
+# Comments: 82]]></summary>
+        <author>
+            <name>ChuckMcM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - France's PM Jean Castex announces law to transform the "health pass" (vaccinated, recovered, tested) into a "vaccination only-pass" to "put stress on the unvaccinated."]]></title>
+        <id>https://nitter.net/disclosetv/status/1471924487402795010#m</id>
+        <link href="https://nitter.net/disclosetv/status/1471924487402795010#m"/>
+        <updated>2021-12-17T19:25:19.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - France's PM Jean Castex announces law to transform the "health pass" (vaccinated, recovered, tested) into a "vaccination only-pass" to "put stress on the unvaccinated."]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Payment Gateway on website]]></title>
+        <id>https://www.reddit.com/r/CardanoDevelopers/comments/riot00/payment_gateway_on_website/</id>
+        <link href="https://www.reddit.com/r/CardanoDevelopers/comments/riot00/payment_gateway_on_website/"/>
+        <updated>2021-12-17T19:23:59.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone,
+ sorry if this question was already discussed, but I literally spent the last 2 days trying to find an answer and I wasn't able to find one.
+ I would like to implement on my website a drop of tokens and NFTs, and I saw other websites using this technique: they receive a certain amount of ADA on a wallet and the wallet automatically sends back what the client has purchased. 
+ Let's say: I send 5 ADA and I get back 2 NFTs, or 1 NFT and a certain amount of native tokens.
+ How is this implemented? There's any tutorial around about how to implement this kind of behavior?
+ Thanks for any help.
+    submitted by    /u/UnlistedSpecimen  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : CardanoDevelopers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why start a new database conference?]]></title>
+        <id>https://news.ycombinator.com/item?id=29597119</id>
+        <link href="https://www.scattered-thoughts.net/writing/why-start-a-new-database-conference/"/>
+        <updated>2021-12-17T19:23:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.scattered-thoughts.net/writing/why-start-a-new-database-conference/
+Comments URL: https://news.ycombinator.com/item?id=29597119
+Points: 75
+# Comments: 12]]></summary>
+        <author>
+            <name>luu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The rise and fall of rationality in language]]></title>
+        <id>https://news.ycombinator.com/item?id=29596779</id>
+        <link href="https://www.pnas.org/content/118/51/e2107848118"/>
+        <updated>2021-12-17T19:03:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pnas.org/content/118/51/e2107848118
+Comments URL: https://news.ycombinator.com/item?id=29596779
+Points: 51
+# Comments: 2]]></summary>
+        <author>
+            <name>olifante</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOW - White House Covid Response Team declares "winter of severe illness and death" for the unvaccinated.]]></title>
+        <id>https://nitter.net/disclosetv/status/1471916627562315781#m</id>
+        <link href="https://nitter.net/disclosetv/status/1471916627562315781#m"/>
+        <updated>2021-12-17T18:54:05.000Z</updated>
+        <summary type="html"><![CDATA[NOW - White House Covid Response Team declares "winter of severe illness and death" for the unvaccinated.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WingRiders - DEX on testnet built by VacuumLabs. Experts in Cardano development.]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/rio4dv/wingriders_dex_on_testnet_built_by_vacuumlabs/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/rio4dv/wingriders_dex_on_testnet_built_by_vacuumlabs/"/>
+        <updated>2021-12-17T18:51:39.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Stormpressure  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notches Gone Wild]]></title>
+        <id>https://news.ycombinator.com/item?id=29596511</id>
+        <link href="https://blog.iconfactory.com/2021/12/notches-gone-wild/"/>
+        <updated>2021-12-17T18:48:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.iconfactory.com/2021/12/notches-gone-wild/
+Comments URL: https://news.ycombinator.com/item?id=29596511
+Points: 102
+# Comments: 39]]></summary>
+        <author>
+            <name>hzlatar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mid Month Development Update – December]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/rinme5/mid_month_development_update_december/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/rinme5/mid_month_development_update_december/"/>
+        <updated>2021-12-17T18:27:47.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/SL13PNIR  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW - Sweden-based Epicenter proudly presents an implanted chip that can "conveniently" hold your vaccination status "always accessible."]]></title>
+        <id>https://nitter.net/disclosetv/status/1471909488978448405#m</id>
+        <link href="https://nitter.net/disclosetv/status/1471909488978448405#m"/>
+        <updated>2021-12-17T18:25:43.000Z</updated>
+        <summary type="html"><![CDATA[NEW - Sweden-based Epicenter proudly presents an implanted chip that can "conveniently" hold your vaccination status "always accessible."]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - Ireland imposes an 8pm curfew for hospitality and 50% capacity limit on events - Prime Minister]]></title>
+        <id>https://nitter.net/disclosetv/status/1471907108832612355#m</id>
+        <link href="https://nitter.net/disclosetv/status/1471907108832612355#m"/>
+        <updated>2021-12-17T18:16:16.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - Ireland imposes an 8pm curfew for hospitality and 50% capacity limit on events - Prime Minister]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardano Yearly total transaction fees growth compare to previous Y. 2021 up till now 937% tot.fees growth in ADA, 2020 was 167% growth in ADA. What is your calculation for 2022Y transaction growth in ADA after Dapps are online compare to 2021? if same trend then+-800% growth, or will it accelerate?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/rine78/cardano_yearly_total_transaction_fees_growth/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/rine78/cardano_yearly_total_transaction_fees_growth/"/>
+        <updated>2021-12-17T18:16:14.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/33nmakkie  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ADA | THIS IS WHAT I'M WAITING FOR WITH CARDANO]]></title>
+        <id>https://www.reddit.com/r/CardanoDevelopers/comments/rin2b8/ada_this_is_what_im_waiting_for_with_cardano/</id>
+        <link href="https://www.reddit.com/r/CardanoDevelopers/comments/rin2b8/ada_this_is_what_im_waiting_for_with_cardano/"/>
+        <updated>2021-12-17T18:00:49.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Independent-Scale799  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : CardanoDevelopers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW - Germany: Administrative Court in Baden-Württemberg rules that it is unlawful to allow only vaccinated and recovered students to attend classes at universities.]]></title>
+        <id>https://nitter.net/disclosetv/status/1471901306206011399#m</id>
+        <link href="https://nitter.net/disclosetv/status/1471901306206011399#m"/>
+        <updated>2021-12-17T17:53:12.000Z</updated>
+        <summary type="html"><![CDATA[NEW - Germany: Administrative Court in Baden-Württemberg rules that it is unlawful to allow only vaccinated and recovered students to attend classes at universities.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open letter from the BMJ to Mark Zuckerberg]]></title>
+        <id>https://news.ycombinator.com/item?id=29595598</id>
+        <link href="https://www.bmj.com/content/375/bmj.n2635/rr-80"/>
+        <updated>2021-12-17T17:49:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bmj.com/content/375/bmj.n2635/rr-80
+Comments URL: https://news.ycombinator.com/item?id=29595598
+Points: 1042
+# Comments: 439]]></summary>
+        <author>
+            <name>DrHilarius</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A labelling tool to easily extract and label Wikipedia data]]></title>
+        <id>https://news.ycombinator.com/item?id=29595512</id>
+        <link href="https://news.ycombinator.com/item?id=29595512"/>
+        <updated>2021-12-17T17:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN! I am Maria, solo founder of DataQA (https://dataqa.ai/), a tool to search and label documents for various NLP tasks (e.g. entity extraction, entity linking, etc).
+I have worked as a data scientist and ML engineer for the better part of a decade, and over that time have specialised mainly in applications involving natural language processing (NLP). One of the key questions I have always had at the back of my mind is whether my time was well spent. Whenever I spent more time on feature engineering or trying different models, I always wondered whether I would get better return on investment by simply labelling more data. I have created DataQA to enhance exploration & labelling of documents. It is open-source and ships with the elasticsearch text search engine which I have packaged as a…]]></summary>
+        <author>
+            <name>mariarmestre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fashion, art cycles are driven by counter-dominance signals of elite competition]]></title>
+        <id>https://news.ycombinator.com/item?id=29595399</id>
+        <link href="https://royalsocietypublishing.org/doi/10.1098/rsif.2018.0731"/>
+        <updated>2021-12-17T17:34:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://royalsocietypublishing.org/doi/10.1098/rsif.2018.0731
+Comments URL: https://news.ycombinator.com/item?id=29595399
+Points: 122
+# Comments: 49]]></summary>
+        <author>
+            <name>hncurious</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Danger: Meowswap is not using Smart Contracts]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/rimi3u/danger_meowswap_is_not_using_smart_contracts/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/rimi3u/danger_meowswap_is_not_using_smart_contracts/"/>
+        <updated>2021-12-17T17:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Attention MeowSwap is using a normal wallet - no smart contract
+ Today I spent some time trying to understand how MeowSwap works. While no concurrency is a big problem the even more problematic thing is that they are not using smart contracts! That means you are sending your ADA to the wallet of the MeowSwap devs. I tried reaching out to ask how user funds can be safe and they just pointed me to a whitepaper without an answer.
+ That means NO SMART CONTRACTS are used. You are directly sending money to a normal wallet. They can just steal your funds. No guarantee at all.
+ I can only urge everybody to stay away from this. You are just sending money to a normal wallet and your funds can be stolen. This is even worse than a normal rug pull.
+ Despite this, they are claiming to use an Automated Market Maker but no one except the developers can provide liquidity. This means they can manipulate the price however they want. I tried buying MEOW on their page but only received 1/2 of what the page told me because they do not guarantee price slippage protection.
+ Here is the wallet address you are sending money to: (no contract)
+ addr1q986slz3la092el6990hjetfpw5eygnv0ydyqkmssvn5y3ds9tpmq8lmdx5rcj0kh45xs2yrpfhz00l2zutzpva4av5q8a9ayx
+ This is the worst thing I have ever seen. If you are sending money to a single wallet it's not decentralized. I can only repeat: DO NOT SEND MONEY TO MEOWSWAP. You need to have full trust in the developers. Which is the opposite of what crypto stands for! Also they do not want to release any of their code.
+ If my analysis is wrong please correct me then I will update the post accordingly
+    submitted by    /u/Forward_Midnight2714  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardano vs Ethereum Comparison For Beginners]]></title>
+        <id>https://www.reddit.com/r/CardanoDevelopers/comments/rim1nu/cardano_vs_ethereum_comparison_for_beginners/</id>
+        <link href="https://www.reddit.com/r/CardanoDevelopers/comments/rim1nu/cardano_vs_ethereum_comparison_for_beginners/"/>
+        <updated>2021-12-17T17:11:55.000Z</updated>
+        <summary type="html"><![CDATA[The following guide taking a dive into these two cryptocurrencies, breaking them down and comparing their fundamentals, history and success to answer is Cardano better than Ethereum and whether it will take over the second largest cryptocurrency: Cardano vs Ethereum: How Are They Different?
+    submitted by    /u/thumbsdrivesmecrazy  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : CardanoDevelopers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kinesis Advantage 360]]></title>
+        <id>https://news.ycombinator.com/item?id=29594983</id>
+        <link href="https://kinesis-ergo.com/keyboards/advantage360/"/>
+        <updated>2021-12-17T17:07:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kinesis-ergo.com/keyboards/advantage360/
+Comments URL: https://news.ycombinator.com/item?id=29594983
+Points: 260
+# Comments: 212]]></summary>
+        <author>
+            <name>ndrake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why does every bar and restaurant in liberal cities look like this?]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/riluxf/why_does_every_bar_and_restaurant_in_liberal/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/riluxf/why_does_every_bar_and_restaurant_in_liberal/"/>
+        <updated>2021-12-17T17:03:13.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/sirenboi12  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a simple room-based chat application in Nim (using HTMX)]]></title>
+        <id>https://news.ycombinator.com/item?id=29594763</id>
+        <link href="https://arhamjain.com/2021/11/22/nim-simple-chat.html"/>
+        <updated>2021-12-17T16:51:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arhamjain.com/2021/11/22/nim-simple-chat.html
+Comments URL: https://news.ycombinator.com/item?id=29594763
+Points: 104
+# Comments: 23]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - BMJ, one of the world's most influential general medical journals, urges Facebook's Zuckerberg to act over inaccurate, incompetent, and irresponsible "fact check" of the journal's Pfizer vaccine trial investigation in an open letter.
+
+https://www.bmj.com/content/375/bmj.n2635/rr-80]]></title>
+        <id>https://nitter.net/disclosetv/status/1471882727595163659#m</id>
+        <link href="https://nitter.net/disclosetv/status/1471882727595163659#m"/>
+        <updated>2021-12-17T16:39:23.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - BMJ, one of the world's most influential general medical journals, urges Facebook's Zuckerberg to act over inaccurate, incompetent, and irresponsible "fact check" of the journal's Pfizer vaccine trial investigation in an open letter.
+
+bmj.com/content/375/bmj.n263…]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tokio Console]]></title>
+        <id>https://news.ycombinator.com/item?id=29594389</id>
+        <link href="https://tokio.rs/blog/2021-12-announcing-tokio-console"/>
+        <updated>2021-12-17T16:28:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tokio.rs/blog/2021-12-announcing-tokio-console
+Comments URL: https://news.ycombinator.com/item?id=29594389
+Points: 515
+# Comments: 80]]></summary>
+        <author>
+            <name>hasheddan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sending Metadata with Daedalus]]></title>
+        <id>https://www.reddit.com/r/CardanoDevelopers/comments/ril2jo/sending_metadata_with_daedalus/</id>
+        <link href="https://www.reddit.com/r/CardanoDevelopers/comments/ril2jo/sending_metadata_with_daedalus/"/>
+        <updated>2021-12-17T16:26:41.000Z</updated>
+        <summary type="html"><![CDATA[Is it possible to send a transaction with metadata to an address with Daedalus? Looking, and it appears I can only send tokens or ADA...but I can't attach a metadata object?
+    submitted by    /u/shawnsblog  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : CardanoDevelopers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[old American Apparel ads vs Egon Schiele nudes]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/rikt0t/old_american_apparel_ads_vs_egon_schiele_nudes/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/rikt0t/old_american_apparel_ads_vs_egon_schiele_nudes/"/>
+        <updated>2021-12-17T16:13:57.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Dont_Mug_Urself  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using an ETL framework vs. writing yet another ETL script]]></title>
+        <id>https://news.ycombinator.com/item?id=29593987</id>
+        <link href="https://airbyte.io/blog/etl-framework-vs-etl-script"/>
+        <updated>2021-12-17T16:03:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://airbyte.io/blog/etl-framework-vs-etl-script
+Comments URL: https://news.ycombinator.com/item?id=29593987
+Points: 88
+# Comments: 47]]></summary>
+        <author>
+            <name>Arimbr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meowswap launch]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/rijv4s/meowswap_launch/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/rijv4s/meowswap_launch/"/>
+        <updated>2021-12-17T15:28:54.000Z</updated>
+        <summary type="html"><![CDATA[Anybody try using Meowswap on the teat net? They have just announced that they will be launching earlier than expected. Thought it was the good news until I read the comments and saw many comments stated that they still have concurrency issue and is not ready. I am just looking for some clarification.
+    submitted by    /u/dipaulnix  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['cardanocliJs queryUtxo' issue]]></title>
+        <id>https://www.reddit.com/r/CardanoDevelopers/comments/rijs16/cardanoclijs_queryutxo_issue/</id>
+        <link href="https://www.reddit.com/r/CardanoDevelopers/comments/rijs16/cardanoclijs_queryutxo_issue/"/>
+        <updated>2021-12-17T15:24:40.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I'm trying to query an address I just made, I'm using this function cardanocliJs.queryUtxo(nft.address) and I'm getting an empty array as a result when I print it.
+ nft.address is a new wallet address I funded with test ada, this is all happening in the testnet.
+ The magical thing is, that if I'm using a standard string instead of a variable string, e.g. "the address goes here" it gives me a good result with the query being answered, but when I use the address it doesn't.
+ I am also using promises to delay the query after the address is created, and I have checked nft.address with typeof and it's a string, I got it from wallet.paymentAddr
+ Not really sure what's the issue with that one, my first guess was that it's happening too fast before the address gets funded, but after using promises to delay it for an additional minute, I don't know anymore.
+    submitted by    /u/SaHaRzZz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : CardanoDevelopers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuite: a tool for finding memory leaks in web apps]]></title>
+        <id>https://news.ycombinator.com/item?id=29593341</id>
+        <link href="https://nolanlawson.com/2021/12/17/introducing-fuite-a-tool-for-finding-memory-leaks-in-web-apps/"/>
+        <updated>2021-12-17T15:21:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nolanlawson.com/2021/12/17/introducing-fuite-a-tool-for-finding-memory-leaks-in-web-apps/
+Comments URL: https://news.ycombinator.com/item?id=29593341
+Points: 156
+# Comments: 26]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maybe Nothing]]></title>
+        <id>https://css-tricks.com/?p=357625</id>
+        <link href="https://css-tricks.com/maybe-nothing/"/>
+        <updated>2021-12-17T15:21:15.000Z</updated>
+        <summary type="html"><![CDATA[What’s one thing we can do to make our site better? Maybe nothing at all!
+Our websites keep getting bigger and bigger! When we have a team with so many exciting ideas and such interesting technology, it can be easy …]]></summary>
+        <author>
+            <name>Jenn Lukas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are some active and popular Cardano applications?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/rijo8j/what_are_some_active_and_popular_cardano/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/rijo8j/what_are_some_active_and_popular_cardano/"/>
+        <updated>2021-12-17T15:19:48.000Z</updated>
+        <summary type="html"><![CDATA[I feel like I’m out of the loop when it comes to real Cardano projects. What’s real and practical right now?
+    submitted by    /u/bostoncommon902  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The surprising behavior of !important in CSS custom property values]]></title>
+        <id>https://css-tricks.com/?p=359430</id>
+        <link href="https://css-tricks.com/the-surprising-behavior-of-important-in-css-custom-property-values/"/>
+        <updated>2021-12-17T15:19:08.000Z</updated>
+        <summary type="html"><![CDATA[Huh! I did not realize that CSS custom properties had their own resolution behavior for how !important works in their values. Uh, despite writing a guide about them. 😬 But hey it’s now updated.
+Stefan Judis documents it clearly. …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forth BBS 2 (1985)]]></title>
+        <id>https://news.ycombinator.com/item?id=29593032</id>
+        <link href="https://github.com/RickCarlino/fbbs2"/>
+        <updated>2021-12-17T15:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/RickCarlino/fbbs2
+Comments URL: https://news.ycombinator.com/item?id=29593032
+Points: 86
+# Comments: 12]]></summary>
+        <author>
+            <name>eatonphil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did Meowswap just pulled a minswap testnet?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/riiw8v/did_meowswap_just_pulled_a_minswap_testnet/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/riiw8v/did_meowswap_just_pulled_a_minswap_testnet/"/>
+        <updated>2021-12-17T14:42:58.000Z</updated>
+        <summary type="html"><![CDATA[Apparently Meoswap is limited to one transaction per block, am I right?
+    submitted by    /u/patrickstarispink  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚨Be careful about this meow swap🚨]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/riiljx/be_careful_about_this_meow_swap/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/riiljx/be_careful_about_this_meow_swap/"/>
+        <updated>2021-12-17T14:28:28.000Z</updated>
+        <summary type="html"><![CDATA[A lot of complaints because of their very slow slippage, people are getting transactions rejected so be warned you can lose money on this thing.
+ ​
+ https://preview.redd.it/tfjlc36x44681.jpg?width=1440&format=pjpg&auto=webp&s=3b7317799a793775c72716bd25d30bf1b37131ef
+ https://twitter.com/Meow\_Swap/status/1471834374312189961?s=20
+    submitted by    /u/WiseCapitalOrg  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Only on Cardano. Aada Finance overwhelmed mainnet ledger with decentralized IDO. Distributed in just 87 minutes!]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/rii0iv/only_on_cardano_aada_finance_overwhelmed_mainnet/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/rii0iv/only_on_cardano_aada_finance_overwhelmed_mainnet/"/>
+        <updated>2021-12-17T13:59:15.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Shiferiz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Essay: The power of Cardano and Blockchain]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/rihglw/essay_the_power_of_cardano_and_blockchain/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/rihglw/essay_the_power_of_cardano_and_blockchain/"/>
+        <updated>2021-12-17T13:29:28.000Z</updated>
+        <summary type="html"><![CDATA[What does decentralization mean to us?
+ Yesterday we had an experience of life. Yesterday we built a feature on Cardano Mainnet, launched it, used it, and most importantly, we did so with the safety and stability of Cardano. 
+ First, let me tell you about the freedom blockchain, and Cardano gives us. It's not about the freedom of speech or freedom from financial institutions that blockchain is so proud of. It's a freedom of interactions, exchange, and ownership. Take a moment to realize that blockchain enables ANYONE to 'give' something to a person on the other side of the globe. You could hear it from many people who talk about crypto. However, only recently, it clicked what power it is. 
+ Think of giving a pencil to your colleague who sits in the same office as you. You hand the pencil; …]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Haskell Interlude: Episode 7 – José Calderón]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/rihbvu/the_haskell_interlude_episode_7_josé_calderón/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/rihbvu/the_haskell_interlude_episode_7_josé_calderón/"/>
+        <updated>2021-12-17T13:22:04.000Z</updated>
+        <summary type="html"><![CDATA[José Calderón is interviewed by Niki Vazou and Wouter Swierstra . José has been working on functional programming at Galois and University of Maryland. He tells us about his research background in many different continents, his experience with teaching compilers, the relation between music and functional programming and the “Recursive Programming Techniques” book that in the 1970s captured the essence of functional programming.
+ https://haskell.foundation/podcast/7/
+    submitted by    /u/kosmikus  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What does it exactly mean for Cardano to be a platform?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/rih9ou/what_does_it_exactly_mean_for_cardano_to_be_a/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/rih9ou/what_does_it_exactly_mean_for_cardano_to_be_a/"/>
+        <updated>2021-12-17T13:18:45.000Z</updated>
+        <summary type="html"><![CDATA[Cardano has entered the Goguen era in 2021 with it becoming a smart contracts platform. This brings many benefits and the potential is tremendous, but it requires some caution from users. Let’s explain what the platform is and what it means for users. 
+ TLDR:
+  
+A platform is a kind of environment in which a program can be executed. You can use smart contracts on a Cardano platform.
+ Smart contract apps are created by third-party developers and their intentions may not always be honest.
+ Cardano may be the most secure platform in the world, but that doesn’t mean it will automatically apply to third-party applications.
+ The IOG team takes no responsibility for third-party applications. IOG is only responsible for the Cardano platform. Everyone in the world is free to decide how to use it.
+ …]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - Germany's conservative CDU party elects Friedrich Merz (66), former German BlackRock chairman, as its new leader.]]></title>
+        <id>https://nitter.net/disclosetv/status/1471832123938115585#m</id>
+        <link href="https://nitter.net/disclosetv/status/1471832123938115585#m"/>
+        <updated>2021-12-17T13:18:18.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - Germany's conservative CDU party elects Friedrich Merz (66), former German BlackRock chairman, as its new leader.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stake Pool Loyalty Programs?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/rigyc9/stake_pool_loyalty_programs/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/rigyc9/stake_pool_loyalty_programs/"/>
+        <updated>2021-12-17T13:01:24.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/TheTurboToad  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Haskell a Good Choice for Software Security?]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/rigbel/is_haskell_a_good_choice_for_software_security/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/rigbel/is_haskell_a_good_choice_for_software_security/"/>
+        <updated>2021-12-17T12:23:27.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/kate_galkina  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are there any projects working on decentralized health insurance being built on Cardano?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/riga7g/are_there_any_projects_working_on_decentralized/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/riga7g/are_there_any_projects_working_on_decentralized/"/>
+        <updated>2021-12-17T12:21:27.000Z</updated>
+        <summary type="html"><![CDATA[Sorry if this has been asked before. I know of Solve, which is an erc-20 token and not a true decentralized insurance blockchain company. 
+ I am in healthcare and see daily the problem commercial health insurance companies are to how prices are determined. Big bureaucracies with more middlemen than we can count can be cut out with proper smart contracts. I would be an early investor of a project like that if it exists.
+    submitted by    /u/discusandshotput  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @disclosetv: South Africa: MUCH lower rate of hospital admissions and signs that the #Omicron wave of infections may be peaking.
+
+https://www.bloomberg.com/news/articles/2021-12-17/s-africa-says-hospitalizations-in-omicron-wave-much-lower]]></title>
+        <id>https://nitter.net/disclosetv/status/1471815403546587144#m</id>
+        <link href="https://nitter.net/disclosetv/status/1471815403546587144#m"/>
+        <updated>2021-12-17T12:11:51.000Z</updated>
+        <summary type="html"><![CDATA[South Africa: MUCH lower rate of hospital admissions and signs that the #Omicron wave of infections may be peaking.
+
+bloomberg.com/news/articles/…]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - South Africa hospitalization rate plunges to only 1.7% in #Omicron wave, compared with 19% in previous "Delta-driven" wave - Health Minister]]></title>
+        <id>https://nitter.net/disclosetv/status/1471814636433518594#m</id>
+        <link href="https://nitter.net/disclosetv/status/1471814636433518594#m"/>
+        <updated>2021-12-17T12:08:48.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - South Africa hospitalization rate plunges to only 1.7% in #Omicron wave, compared with 19% in previous "Delta-driven" wave - Health Minister]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW - German producer price inflation jumps 19.2% year over year in November, highest increase since 1951.]]></title>
+        <id>https://nitter.net/disclosetv/status/1471812465331691527#m</id>
+        <link href="https://nitter.net/disclosetv/status/1471812465331691527#m"/>
+        <updated>2021-12-17T12:00:11.000Z</updated>
+        <summary type="html"><![CDATA[NEW - German producer price inflation jumps 19.2% year over year in November, highest increase since 1951.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How can I restore a Daedalus Paper Wallet in Yoroi?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/rifodo/how_can_i_restore_a_daedalus_paper_wallet_in_yoroi/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/rifodo/how_can_i_restore_a_daedalus_paper_wallet_in_yoroi/"/>
+        <updated>2021-12-17T11:44:47.000Z</updated>
+        <summary type="html"><![CDATA[I tried many times but an error occurs every time. I even tried two wallets now and the recovery phrase is 10000% correct. 
+ Please help!
+    submitted by    /u/Hampi0815  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is the metaverse in a bubble?]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/rif9m7/is_the_metaverse_in_a_bubble/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/rif9m7/is_the_metaverse_in_a_bubble/"/>
+        <updated>2021-12-17T11:17:22.000Z</updated>
+        <summary type="html"><![CDATA[I'm doing some research about metaverses in Cardano.
+ I think there is a huge hype around this and it is understandable since metaverses probably represent the future. 
+ Let's take a couple of examples. Just thinking about those because they are the ones I'm currently following.
+ ​
+ Pavia (https://www.pavia.io/)
+ According to the latest release, those are the features added:
+ ​
+  
+v2.1.0 
+  
+Complete World 
+ 
+Inter-parcel messaging 
+ 
+Single Parcel Images (off map) 
+ 
+Social Tags 
+ 
+My Profile 
+ 
+Loading improvements 
+ 
+Make estate bug fix 
+ 
+Default Santa layer toggle off
+ 
+  
+​
+ It looks to me that the real point is the first one. Others are just very few things added/fixed. So it seems that the project is only raising funds with the trade of the lands.
+ I can't find any white paper or information about the team. Discord channel looks focused only on trading lands. I've already pointed this doubt in a previous post.
+ ​
+ Cornucopias (https://www.cornucopias.io/)
+ This project has much more information and it's more transparent about what the team does and who is working on that. There is also an interesting white paper about it. But nonetheless the project is at very early stages.
+ ​
+ The point here is: we are at the very beginning of something big but timing is important. 
+ Are we in the right time for this thing? Are those metaverses actually for everyone at the moment
+ - December 2021? Does a land worths actually hundreds/thousands of dollars at the moment? 
+ Looking at roadmaps it seems that many projects will see the light of the sun maybe next year in some sort of beta or available on only mobile or only on specific OS.
+ Are we in a "dot-com" bubble ?
+ Curious to know your opinion.
+    submitted by    /u/pierroberto  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @disclosetv: MORE - Russia and U.S. must not deploy nuclear weapons outside their own territories and return those already outside their territories.]]></title>
+        <id>https://nitter.net/disclosetv/status/1471800492917497859#m</id>
+        <link href="https://nitter.net/disclosetv/status/1471800492917497859#m"/>
+        <updated>2021-12-17T11:12:36.000Z</updated>
+        <summary type="html"><![CDATA[MORE - Russia and U.S. must not deploy nuclear weapons outside their own territories and return those already outside their territories.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @disclosetv: MORE - Russia offers NATO to abandon military activities in #Ukraine, Eastern Europe, Transcaucasia, and Central Asia.]]></title>
+        <id>https://nitter.net/disclosetv/status/1471799840950702083#m</id>
+        <link href="https://nitter.net/disclosetv/status/1471799840950702083#m"/>
+        <updated>2021-12-17T11:10:01.000Z</updated>
+        <summary type="html"><![CDATA[MORE - Russia offers NATO to abandon military activities in #Ukraine, Eastern Europe, Transcaucasia, and Central Asia.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN - Russia: U.S./NATO must not set up military bases in, offer membership to ex-Soviet states - security draft agreement.]]></title>
+        <id>https://nitter.net/disclosetv/status/1471799751679037444#m</id>
+        <link href="https://nitter.net/disclosetv/status/1471799751679037444#m"/>
+        <updated>2021-12-17T11:09:40.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN - Russia: U.S./NATO must not set up military bases in, offer membership to ex-Soviet states - security draft agreement.]]></summary>
+        <author>
+            <name>@disclosetv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New blog post: Type-level sharing in Haskell, now]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/rieyxu/new_blog_post_typelevel_sharing_in_haskell_now/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/rieyxu/new_blog_post_typelevel_sharing_in_haskell_now/"/>
+        <updated>2021-12-17T10:57:53.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/edsko  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circulating supply ~question]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/rie992/circulating_supply_question/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/rie992/circulating_supply_question/"/>
+        <updated>2021-12-17T10:06:15.000Z</updated>
+        <summary type="html"><![CDATA[​
+ https://preview.redd.it/gk9amwkqt2681.png?width=310&format=png&auto=webp&s=cb6ae62f1d9ea123d8c2721abf9fd0ed8f3e2306
+ The current circulating supply of ADA is around 33.4B so where are the remaining ADAs ? Will they be brought into the circulating supply through staking rewards or..?
+ P.S : This could be a noob question but I just wanted to clear this doubt of mine.
+    submitted by    /u/vuLTureGOD_  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFTs in yoroi how to view]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/ric257/nfts_in_yoroi_how_to_view/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/ric257/nfts_in_yoroi_how_to_view/"/>
+        <updated>2021-12-17T07:30:17.000Z</updated>
+        <summary type="html"><![CDATA[I've got a few NFTs in my yoroi wallet, I can see them, as in I can see the txt under the assets tab and when I click on it it sends me to cardanoscan, but how do I actually see the picture?
+    submitted by    /u/timbojimbojones  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardano and Land]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/ribr40/cardano_and_land/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/ribr40/cardano_and_land/"/>
+        <updated>2021-12-17T07:11:29.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ArmyofSpies  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardano Daily Discussion - December 17, 2021]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/rib3db/cardano_daily_discussion_december_17_2021/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/rib3db/cardano_daily_discussion_december_17_2021/"/>
+        <updated>2021-12-17T06:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone,
+ Welcome to the Cardano Daily Discussion!
+ The standard sub rules apply here (see sidebar), with the exception that price discussion is allowed in this thread, though we encourage you to try not to make this the focus and talk about the project itself. Please ask questions, help others and be civil - be sure to get involved in Project Catalyst too!
+ If you're new, please make sure you're read through the newbies guide and share it with others (use the ?newbies comment command to reference it).
+ NFTs for Planting Trees
+ https://preview.redd.it/d9l75zowckx71.jpg?width=1600&format=pjpg&auto=webp&s=9a13a91cb371dce5d318b96dea2692dad9348b21
+ You can donate ADA and receive NFTs for doing so, each ADA is a tree planted, it's a win win! Read about veritree here and take part on http…]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stack overflow / OOM with UndecidableSuperClasses on GHC 9.2.1]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/riaw00/stack_overflow_oom_with_undecidablesuperclasses/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/riaw00/stack_overflow_oom_with_undecidablesuperclasses/"/>
+        <updated>2021-12-17T06:17:24.000Z</updated>
+        <summary type="html"><![CDATA[Running the following with stack script --resolver=ghc-9.0.1 works, but running with stack script --resolver=ghc-9.2.1 results in a stack overflow. Oddly, it works on ghc-9.2.1 compiling with -O2 but hangs when compiling with -O0.
+ This behavior is surprising to me because, to my understanding, UndecidableSuperClasses carries the risk of infinite loops when type-checking, but at compile-time, it should concretize m and FooM m and the constraints should be erased. Is this not what happens? And did anything change in GHC 9.2 regarding UndecidableSuperClasses?
+ I've also dumped out -ddump-tc for both -O2 and -O0, but I don't see any meaningful differences.
+ Repro:
+ {-# LANGUAGE FlexibleContexts #-} {-# LANGUAGE GeneralizedNewtypeDeriving #-} {-# LANGUAGE TypeFamilies #-} {-# LANGUAGE UndecidableSuperClasses #-} import Data.Kind (Type) class (Monad m, MonadFoo (FooM m)) => MonadFoo m where type FooM m :: Type -> Type runFoo :: FooM m a -> m a newtype MyMonad m a = MyMonad { runMyMonad :: m a } deriving (Functor, Applicative, Monad) instance Monad m => MonadFoo (MyMonad m) where type FooM (MyMonad m) = MyMonad m runFoo = id main :: IO () main = runMyMonad foo foo :: MonadFoo m => m () foo = runFoo $ return () 
+ Update: It seems reproducible with even main = runMyMonad $ runFoo $ return ()
+    submitted by    /u/brandonchinn178  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advent of Code 2021 day 17]]></title>
+        <id>https://www.reddit.com/r/haskell/comments/ri9l7i/advent_of_code_2021_day_17/</id>
+        <link href="https://www.reddit.com/r/haskell/comments/ri9l7i/advent_of_code_2021_day_17/"/>
+        <updated>2021-12-17T05:01:13.000Z</updated>
+        <summary type="html"><![CDATA[https://adventofcode.com
+    submitted by    /u/taylorfausak  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : haskell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We're a bigger sub, why are we falling behind? And we're closer to end of the vote. You can vote every day, so go vote.]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/ri9icm/were_a_bigger_sub_why_are_we_falling_behind_and/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/ri9icm/were_a_bigger_sub_why_are_we_falling_behind_and/"/>
+        <updated>2021-12-17T04:57:10.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Chizmiz1994  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CTBF]]></title>
+        <id>https://www.reddit.com/r/redscarepod/comments/ri6wof/ctbf/</id>
+        <link href="https://www.reddit.com/r/redscarepod/comments/ri6wof/ctbf/"/>
+        <updated>2021-12-17T02:35:56.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/dontunderestimateass  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : redscarepod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Mobile Token]]></title>
+        <id>https://www.reddit.com/r/cardano/comments/ri5l1q/world_mobile_token/</id>
+        <link href="https://www.reddit.com/r/cardano/comments/ri5l1q/world_mobile_token/"/>
+        <updated>2021-12-17T01:27:42.000Z</updated>
+        <summary type="html"><![CDATA[I understand that WMT cannot yet be purchased by US citizens (me). However, I see that it is listed on Muesliswap and capable of being purchased. Is this the actual World Mobile Token, or is it something else completely? Sry if it’s a dumb question, but I was not aware that I was capable of purchasing WMT and would like to do so in the near future if that is the case.
+    submitted by    /u/rerkrerrerrerrerk  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : cardano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[digital-asset /
 
