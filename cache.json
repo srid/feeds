@@ -306,6 +306,51 @@
       "siteUrl": "https://www.reddit.com/r/haskell/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/haskell/comments/roint4/the_tuple_operator_whats_really_going_on/",
+          "author": null,
+          "description": "How is this actually happening?\n data (,) a b = (,) a b \n At first sight, it seems circular. But then it works\n λ> (,) 1 2 (1,2) \n I found this, but then I don't follow how Solo is/becomes (,). I understand that (,) is a product type since it's definitely not a sum type of any sort. Can someone point me to some details on the whole product type theory, as well as how the (,) data type definition results in the two arguments being surrounded in parens and separated by a comma, and treated as a tuple.\n    submitted by    /u/teilchen010  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/roint4/the_tuple_operator_whats_really_going_on/",
+          "publishedOn": "2021-12-25T22:14:39.000Z",
+          "wordCount": 399,
+          "title": "The tuple operator (,), what's really going on?"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/roil6u/announcement_ghc_902_is_now_available/",
+          "author": null,
+          "description": "submitted by    /u/bgamari  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/roil6u/announcement_ghc_902_is_now_available/",
+          "publishedOn": "2021-12-25T22:10:29.000Z",
+          "wordCount": 139,
+          "title": "[ANNOUNCEMENT] GHC 9.0.2 is now available!"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/robv92/just_change_the_damn_variable_from_true_to_false/",
+          "author": null,
+          "description": "Screw you.\n >Posting to reddit\n >1. Remember the human\n you didn't do that. Screw you.\n    submitted by    /u/korejou  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/robv92/just_change_the_damn_variable_from_true_to_false/",
+          "publishedOn": "2021-12-25T15:39:35.000Z",
+          "wordCount": 1057,
+          "title": "Just change the damn variable from True to False you fuckshit of a language when I go Blah = False after initializing it anywhere, = is a function to me. It assigns something new."
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/robsic/fast_counting_with_postgresql_and_haskell/",
+          "author": null,
+          "description": "submitted by    /u/_jgt  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/robsic/fast_counting_with_postgresql_and_haskell/",
+          "publishedOn": "2021-12-25T15:34:42.000Z",
+          "wordCount": 209,
+          "title": "Fast Counting with PostgreSQL and Haskell"
+        },
+        {
+          "id": "https://www.reddit.com/r/haskell/comments/ro2uvb/advent_of_code_2021_day_25/",
+          "author": null,
+          "description": "https://adventofcode.com\n    submitted by    /u/taylorfausak  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/haskell/comments/ro2uvb/advent_of_code_2021_day_25/",
+          "publishedOn": "2021-12-25T05:01:14.000Z",
+          "wordCount": 1021,
+          "title": "Advent of Code 2021 day 25"
+        },
+        {
           "id": "https://www.reddit.com/r/haskell/comments/rnu1b3/when_running_ghci_i_receive_a_weird_warningmessage/",
           "author": null,
           "description": "Please bear with me, I'm only starting to learn haskell. (Note: My machine is a M1 Macbook Air)\n Recently, after following a guide and installing haskell and necessary stuff from here, I tried to compile a small program and found out that I needed to install LLVM, I did it and by trial-and-error I managed to get everything working, but though it works, if I run GHCi I get this message.\n % ghci GHCi, version 8.10.7: https://www.haskell.org/ghc/ :? for help objc[67464]: Class AMSupportURLConnectionDelegate is implemented in both /usr/lib/libamsupport.dylib (0x1f8097130) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x107c742c8). One of the two will be used. Which one is undefined. objc[67464]: Class AMSupportURLSession is implemented in both /usr/lib/libamsupport.dylib (0x1f8097180) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x107c74318). One of the two will be used. Which one is undefined. \n *edit: just after posting this, when I launched GHCi again, this didn't happen, but yesterday at first this took place, then it didn't and today it did again\n Do you know what's responsible for it? What should I do?\n    submitted by    /u/throwoutsjdfk  \n [link]   [comments]",
@@ -628,6 +673,33 @@
       "siteUrl": "https://www.reddit.com/r/CardanoDevelopers/top/?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/robqgh/idea_for_protocol/",
+          "author": null,
+          "description": "idk if its the right forum(im new here) but anyway , I had an idea about the double spending problem and needed someone to tell me if its already exist or what we can do about that. So when person A who has X amount send a transaction(T) to person B, before this transaction enter the waiting to be validated pool the protocol checking if person A has X-T amount and if not this transaction automatically canceled so only true transactions can get to enter the waiting pool.\n    submitted by    /u/Daydreann  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/robqgh/idea_for_protocol/",
+          "publishedOn": "2021-12-25T15:30:59.000Z",
+          "wordCount": 189,
+          "title": "idea for protocol"
+        },
+        {
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/roaouc/could_someone_help_me_audit_the_code_of_these/",
+          "author": null,
+          "description": "The guys on archlinux subs just say 'check the code yourself bro' and get testy if you ask what you are supposed to look for.\n I have no idea what would be rogue code from not except for looking at the source= urls and seeing something untoward there.\n So could those with a better eye for such things confirm/deny if the packages are safe to use?\n I was told by the arch guys that I should not build from the official site and rather prefer the aur packages (after auditing) because it will mean the packages stay up to date. I thought that the risk of using non official packages outweighed that risk but they say no and to use them once I have audited them, which I don't know how to do confidently.\n Here are the links:\n https://aur.archlinux.org/packages/cardano-wallet/\n https://aur.archlinux.org/packages/cardano-node/\n https://aur.archlinux.org/packages/cardano-addresses/\n https://aur.archlinux.org/packages/cncli/\n    submitted by    /u/Hobbies_n_stuff  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/roaouc/could_someone_help_me_audit_the_code_of_these/",
+          "publishedOn": "2021-12-25T14:25:05.000Z",
+          "wordCount": 516,
+          "title": "Could someone help me audit the code of these archlinux aur cardano packages to tell me if they are safe or not?"
+        },
+        {
+          "id": "https://www.reddit.com/r/CardanoDevelopers/comments/ro6sm1/lightweight_wallet_for_python/",
+          "author": null,
+          "description": "I want to generate a Cardano address with its keys and I found this lightweight wallet extension written in TypeScript. Does anybody know any similar sources for python?\n    submitted by    /u/coming_after_u  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/CardanoDevelopers/comments/ro6sm1/lightweight_wallet_for_python/",
+          "publishedOn": "2021-12-25T09:41:30.000Z",
+          "wordCount": 256,
+          "title": "Lightweight wallet for python"
+        },
+        {
           "id": "https://www.reddit.com/r/CardanoDevelopers/comments/rnddbl/questions_about_nft_holder_verification/",
           "author": null,
           "description": "Hello,\n I am a Cardano enthusiast trying to mint some NFTs on the Cardano network and test some of its functionalities out. Please excuse me if this sounds really stupid as I have a little coding experience. I had a questions which I wasn't sure where to ask about. \n Let's just say I had 100 NFTs minted and sent to 100 different wallets as a raffle ticket to win a PS5. I select the winner and announce that its #11 NFT. Now let's say person A is the winner and DMs me and say she has the winning NFT. How can I actually verify this person is the #11 NFT holder? \n Because I'm thinking that lets Person B sees the announcement before person A, so person B looks up the #11 NFT on cardanoscan and see all the necessary information to pretend like Person A? \n So I'm thinking the only way to verify the winner is if Person A send shipping information and is it only confirmed when Person A send back the #11 NFT(winning) back to me so I know it's that person wallet and I ship out the winning prize. Is that the logic? I feel like I'm overcomplicating things.\n    submitted by    /u/Aclrsy  \n [link]   [comments]",
@@ -733,6 +805,204 @@
       "feedUrl": "https://www.reddit.com/r/cardano/top/.rss?sort=top&t=day",
       "siteUrl": "https://www.reddit.com/r/cardano/top/?sort=top&t=day",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/rokbvb/twitterspace_recording_ceo_cmo_of_cardano/",
+          "author": null,
+          "description": "Many people have the feeling that Cardano Foundation has been operating in a black box and it is difficult to know what they are doing. Fortunately, Cardano Foundation is aware of this and has been trying to be more connected with the community. \n This Dumpling Twitter Space welcomed the CEO (Frederik Gregaard) and Head of Marketing (David Taylor aka DT) from the Cardano Foundation. The goal is to share progress/insights and to connect with the community. \n This is Frederik’s first-ever Twitter Space, I’m honored and excited that he joined us. Frederik and DT shared insights about regulation, marketing, a recap of 2021, successes of the Foundation in 2021, and plans for 2022. Later the floor was open for audience questions, many community members asked amazing questions. \n A huge thank you to Frederik and DT for taking the time to talk to the community, and as you can hear from the recording, they have been forming great partnerships for Cardano. Big shoutout to everybody at the Foundation, look forward to a prosperous 2022 for Cardano. \n ​\n ​\n https://preview.redd.it/5lle3l1rzr781.jpg?width=320&format=pjpg&auto=webp&s=234825a01f0049d28751c9efabc945309f5c833b\n    submitted by    /u/BullishDumpling  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/rokbvb/twitterspace_recording_ceo_cmo_of_cardano/",
+          "publishedOn": "2021-12-25T23:46:52.000Z",
+          "wordCount": 381,
+          "title": "TwitterSpace recording: CEO & CMO of Cardano Foundation"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/roi5ls/does_anybody_stake_cardano_via_safepal/",
+          "author": null,
+          "description": "I was trying to find this information, but I didn't succeed. So I ask you..\n Merry Christmas to all of you!\n    submitted by    /u/Met202114  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/roi5ls/does_anybody_stake_cardano_via_safepal/",
+          "publishedOn": "2021-12-25T21:45:34.000Z",
+          "wordCount": 322,
+          "title": "Does anybody stake cardano via safepal?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/roi41t/do_you_have_to_always_pay_to_stake_your_ada/",
+          "author": null,
+          "description": "I am relatively new to cardano and I have recently set up my Yoroi wallet and transferred my ada to it.\n I was going to stake my ada but all the pools I’ve seen, I think you need to pay 340 ada to stake with the pool.\n I’m a very small fish but say there is a 5% annual return, you would need to stake 6,800 ADA to make back your initial cost in a year, which is a pretty long timeframe just to break even. And to be locked into the pool for.\n Am I understanding this correctly? \n Thanks so much.\n    submitted by    /u/BJJnoob1990  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/roi41t/do_you_have_to_always_pay_to_stake_your_ada/",
+          "publishedOn": "2021-12-25T21:43:00.000Z",
+          "wordCount": 1465,
+          "title": "Do you have to always pay to stake your ADA?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/roglwe/yoroi_help_devastated/",
+          "author": null,
+          "description": "I have a little Cardano saved up which I am staking from Yoroi on my mobile. its roughly 372 ADA. Recently a typhoon devasted our area and flooded our house. quite simply put we lost a lot, a real lot. I have a little saved up in the bank which could help but it is not enough, so I decided to sell my ADA. I was a fool and a noob, I factory reset my phone to try and fix ghost touch that appeared recently. I didnt know that doing that erases the saved Yoroi wallet. It installed Yoroi again, but now I need to restore the old wallet. Here is where the problem begins, I had my seed phrased stored in 3 different \"places\". 1) my laptop 2) my mobile and 3) in a paper i stuck in a book in the library at our house. 1) the laptop got destroyed by the flood. 2) the saved file got deleted by factory reset 3) everything is flooded in the house so its gone now. It was my last hope. Is there really no other way to restore the wallet? i have the password, the pin but I dont have the seed phrase. I really hope someone knows how and hope its really possible.\n    submitted by    /u/OldNotNewNotYoung  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/roglwe/yoroi_help_devastated/",
+          "publishedOn": "2021-12-25T20:16:47.000Z",
+          "wordCount": 876,
+          "title": "Yoroi help. Devastated"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/rofijw/mtv_vs_ada_vs_all_other_blockchains/",
+          "author": null,
+          "description": "What is so special about Cardano that truly sets it a part? \n I’ve heard a lot about MTV in the recent days and I was wondering how these two stack up against one another?\n In general I’m also just wondering how they stack up against all other chains. There are SO MANY now, that it is a bit mind boggling to even figure out what-is-what. The information overload is pretty… yeah.\n —————————\n Added: I still don’t understand the underlying backbone of blockchain, so any more technical/scholarly explanations are welcomed. As I have found intro/basic YouTube resources very unhelpful for the most part.\n Thanks in advance for any thoughts or resources!\n    submitted by    /u/kainos_ktisis  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/rofijw/mtv_vs_ada_vs_all_other_blockchains/",
+          "publishedOn": "2021-12-25T19:13:29.000Z",
+          "wordCount": 953,
+          "title": "MTV vs ADA vs all other Blockchain’s"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/rof49j/newbie_questions_daedalus_wallet/",
+          "author": null,
+          "description": "So I am in the process of installing Daedalus wallet on my machine; Some questions I have ...\n  \nI understand it is a full node wallet, but does this also mean that if I keep my laptop on, will I also be running a Cardano node?\n Below screenshot is from my installation; is my hardware sufficient? what happens if I keep this setup, and lets say after a year and the full blockchain data volume increases significantly?\n  \nhttps://preview.redd.it/diuf5cd5iq781.png?width=2610&format=png&auto=webp&s=8955641a760896a4f5fe5b9ca0da8790b3274e59\n    submitted by    /u/houcok  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/rof49j/newbie_questions_daedalus_wallet/",
+          "publishedOn": "2021-12-25T18:51:00.000Z",
+          "wordCount": 331,
+          "title": "Newbie questions - Daedalus wallet"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/roeaj9/just_spilled_on_recovery_words_for_dae_wallet/",
+          "author": null,
+          "description": "I got everything staked in daedalus wallet\n pretty sure I remember my password but haven't tried in a while\n I just spilled all over those recovery words it gave me at first\n What should I do? Guessing I should set up a new dae wallet now to get new recovery words right before a decade passes and it's gone forever. If so, can anyone ELI5 on how to do that?\n Thank you!\n    submitted by    /u/thursdayisgod  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/roeaj9/just_spilled_on_recovery_words_for_dae_wallet/",
+          "publishedOn": "2021-12-25T18:00:52.000Z",
+          "wordCount": 484,
+          "title": "Just spilled on recovery words for dae wallet"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/robbkk/how_to_send_cnft_asset_in_transaction_with_more/",
+          "author": null,
+          "description": "My first go at an CNFT. So any help is appreciated. I got a present on the under the tree NFT project. Now I am trying to do the swapper (unwrapping). Where I send the asset to an address with a designated amount of ADA. I have the NFT in a Yorio wallet and I can only send with 1 ADA. How do I change the amount of ADA in the asset sending transaction? Or do I need to send token to different wallet to do this? Thanks.\n    submitted by    /u/S1gmundDROID  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/robbkk/how_to_send_cnft_asset_in_transaction_with_more/",
+          "publishedOn": "2021-12-25T15:05:15.000Z",
+          "wordCount": 483,
+          "title": "How to send CNFT asset in transaction with more than 1ADA on Yorio (Shelley) wallet"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/roamam/i_am_trying_to_set_up_a_node_but_its_a_no/",
+          "author": null,
+          "description": "Merry Xmas everyone \n ​\n I am trying to set up a node in order to support the network but it is proving to be a major undertaking even though I have 'some' skills in Linux server administration.\n I followed each and every instruction found in the developers' documentation found here\n https://developers.cardano.org/docs/get-started/installing-cardano-node/\n but I have a suspicion that I haven't completely mastered that task since the cardano-node service is not found even though the cardano-node is running\n The output looks like this \n [da1a7ddc:cardano.node.ChainDB:Notice:35] [2021-12-25 13:57:20.67 UTC] Chain extended, new tip: 9c6baff34e8366739225865b5c8b866cb32c0ed3a29119cfbf1a9108cc3f1ec9 at slot 15751\n [da1a7ddc:cardano.node.ChainDB:Notice:35] [2021-12-25 13:57:21.93 UTC] Chain extended, new tip: 9cc453a1e0b37b7de0202db5dc2a96efa1ed0adbe52095b005228f2bcd2ae32c at slot 17021\n [da1a7ddc:cardano.node.ChainDB:Notice:35] [2021-12-25 13:57:23.18 UTC] Chain extended, new tip: f583c1d8df0aa1b599e4b59a28dcc9b7ec5dc885c4aa695c614abc48a1efbe42 at slot 18210\n [da1a7ddc:cardano.node.ChainDB:Notice:35] [2021-12-25 13:57:24.43 UTC] Chain extended, new tip: 0c237f4c4d6623e59154c7521859d517b7269e34b\n ​\n I have a VPS [root] with 16gb of ram and I manage everything via Putty.\n ​\n ​\n Any help would be more than appreciated\n    submitted by    /u/Viper2014  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/roamam/i_am_trying_to_set_up_a_node_but_its_a_no/",
+          "publishedOn": "2021-12-25T14:20:35.000Z",
+          "wordCount": 491,
+          "title": "I am trying to set up a node but it's a no?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/roakx1/lower_staking_rewards/",
+          "author": null,
+          "description": "Hi. Has anyone noticed much lower staking rewards lately?\n I am staking in Bloom2 which is only at a Saturation level of 60%. But lately rewards have come down quite sharply over the past 5 epochs.\n I know it oscillates with luck etc, but never had such a long spell with less than average rewards.\n Is this only a Bloom2 thing or is it more generalized?\n Cheers\n    submitted by    /u/ezmario  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/roakx1/lower_staking_rewards/",
+          "publishedOn": "2021-12-25T14:18:12.000Z",
+          "wordCount": 611,
+          "title": "Lower Staking Rewards"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/roaf3d/could_someone_help_me_audit_the_code_of_these/",
+          "author": null,
+          "description": "The guys on archlinux subs just say 'check the code yourself bro' and get testy if you ask what you are supposed to look for.\n I have no idea what would be rogue code from not except for looking at the source= urls and seeing something untoward there.\n So could those with a better eye for such things confirm/deny if the packages are safe to use?\n I was told by the arch guys that I should not build from the official site and rather prefer the aur packages (after auditing) because it will mean the packages stay up to date. I thought that the risk of using non official packages outweighed that risk but they say no and to use them once I have audited them, which I don't know how to do confidently.\n Here are the links:\n https://aur.archlinux.org/packages/cardano-wallet/\n https://aur.archlinux.org/packages/cardano-node/\n https://aur.archlinux.org/packages/cardano-addresses/\n https://aur.archlinux.org/packages/cncli/\n    submitted by    /u/Hobbies_n_stuff  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/roaf3d/could_someone_help_me_audit_the_code_of_these/",
+          "publishedOn": "2021-12-25T14:07:52.000Z",
+          "wordCount": 708,
+          "title": "Could someone help me audit the code of these archlinux aur cardano packages to tell me if they are safe or not?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/ro9z1g/daedalus_slow_as_fk/",
+          "author": null,
+          "description": "Hey, I want to get rid off my Cardano. So I opened Daedalus for sending my ADA to an exchange. But there come \"Your transaction history for this wallet is being synced with the blockchain\"\n Atm 98,14% but the progress is phenomenal slow. 0,05% each hour\n Why?\n    submitted by    /u/Many-Examination-976  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/ro9z1g/daedalus_slow_as_fk/",
+          "publishedOn": "2021-12-25T13:39:14.000Z",
+          "wordCount": 728,
+          "title": "Daedalus slow as f**k"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/ro9sk5/wallets_with_cnfts_for_my_family_for_xmas/",
+          "author": null,
+          "description": "submitted by    /u/cede0n  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/ro9sk5/wallets_with_cnfts_for_my_family_for_xmas/",
+          "publishedOn": "2021-12-25T13:27:04.000Z",
+          "wordCount": 670,
+          "title": "Wallets with CNFTs for my family for Xmas!"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/ro951g/failed_transaction_in_yoroi/",
+          "author": null,
+          "description": "So, Yoroi has a new bug it seems?\n All my transactions are now failed.\n The status of a recent transaction is as follows:\n \"Failed. 100254 confirmations\"\n The transaction definitely went through and it was properly displayed previously. Not sure, why Yoroi now decides, that the transaction failed.\n    submitted by    /u/Randomized_Emptiness  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/ro951g/failed_transaction_in_yoroi/",
+          "publishedOn": "2021-12-25T12:41:37.000Z",
+          "wordCount": 349,
+          "title": "Failed transaction in Yoroi?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/ro8r2a/yoroi_wallet_access_help_needed/",
+          "author": null,
+          "description": "Hey guys, \n Recently I created an Yoroi wallet for purposes of staking my ADA. I've succesfully set it up, sent my ADA to it, but now I'm trying to access it from my second PC. I have all the needed stuff (name, phrase, PWs), but when I go to recover the wallet, in the last step it asks me to input a new password. For now, I used a Phantom wallet and it allowed me to log in normally with phrase and a password, on Yoroi it seems like its asking for a new password. If I enter a new password, I'm guessing I'll get logged out of my first PC? I'm fairly new to wallets and DEXes so it might sound noobish but...is it even possible to have Yoroi logged in on multiple machines?\n Thanks in advance and all the best during the holidays!\n    submitted by    /u/LeFabio  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/ro8r2a/yoroi_wallet_access_help_needed/",
+          "publishedOn": "2021-12-25T12:12:52.000Z",
+          "wordCount": 518,
+          "title": "Yoroi wallet access help needed"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/ro7uph/help_wanted_cardanos_for_web_30/",
+          "author": null,
+          "description": "Hello everyone,I am a UX designer who has been working on a project to push the reality of a decentralized web 3.0\n My project started from something small, a quick simpler solution for VRchat users to create their avatars and upload them into this amazing social platform.\n One of the first thoughts I had was creating a more intuitive 3D modeling platform via cloud computing which will directly export creations into VRchat. However, as I started to dig deeper in my research and interviewed multiple different users this project scope grew.\n Different use cases from this community required different solutions aside from a 3D modeling platform, for some required a marketplace to get VR assets, some wanted to gain more knowledge and others to share theirs, and for many others, they wanted a pl…",
+          "link": "https://www.reddit.com/r/cardano/comments/ro7uph/help_wanted_cardanos_for_web_30/",
+          "publishedOn": "2021-12-25T11:03:51.000Z",
+          "wordCount": 763,
+          "title": "HELP WANTED: Cardano's for web 3.0"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/ro73ty/can_i_use_my_staked_ada_for_voting_in_project/",
+          "author": null,
+          "description": "Hello)\n I am intrigued by the Project catalyst and I would really like to participate in the upcoming voting. As I can see there is a minimum of 500 ADA to participate. My question can I use my 500 ADA which are staked in Daedalus for the registration, or only non-staked ADA can by used?\n By the way Merry Christmas to all)\n    submitted by    /u/TheofanousAnt  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/ro73ty/can_i_use_my_staked_ada_for_voting_in_project/",
+          "publishedOn": "2021-12-25T10:05:16.000Z",
+          "wordCount": 427,
+          "title": "Can I use my staked ADA for voting in Project Catalyst?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/ro6d2b/why_cardano_great_twitter_post_from_ada_whale/",
+          "author": null,
+          "description": "submitted by    /u/82626w8  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/ro6d2b/why_cardano_great_twitter_post_from_ada_whale/",
+          "publishedOn": "2021-12-25T09:07:51.000Z",
+          "wordCount": 561,
+          "title": "Why Cardano? - Great Twitter Post from ADA Whale"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/ro4e68/lightweight_wallet_for_python/",
+          "author": null,
+          "description": "I want to generate a Cardano address with its keys and I found this lightweight wallet extension written in TypeScript. Does anybody know any similar sources for python?\n    submitted by    /u/coming_after_u  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/ro4e68/lightweight_wallet_for_python/",
+          "publishedOn": "2021-12-25T06:44:13.000Z",
+          "wordCount": 228,
+          "title": "Lightweight wallet for python"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/ro46oj/cardano_daily_discussion_december_25_2021/",
+          "author": null,
+          "description": "Hello everyone,\n Welcome to the Cardano Daily Discussion!\n The standard sub rules apply here (see sidebar), with the exception that price discussion is allowed in this thread, though we encourage you to try not to make this the focus and talk about the project itself. Please ask questions, help others and be civil - be sure to get involved in Project Catalyst too!\n If you're new, please make sure you're read through the newbies guide and share it with others (use the ?newbies comment command to reference it).\n NFTs for Planting Trees\n https://preview.redd.it/d9l75zowckx71.jpg?width=1600&format=pjpg&auto=webp&s=9a13a91cb371dce5d318b96dea2692dad9348b21\n You can donate ADA and receive NFTs for doing so, each ADA is a tree planted, it's a win win! Read about veritree here and take part on http…",
+          "link": "https://www.reddit.com/r/cardano/comments/ro46oj/cardano_daily_discussion_december_25_2021/",
+          "publishedOn": "2021-12-25T06:30:18.000Z",
+          "wordCount": 919,
+          "title": "Cardano Daily Discussion - December 25, 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/ro155u/daedalus_wallet_how_do_you_get_a_list_of_all/",
+          "author": null,
+          "description": "I tried to look up my wallet address in cardanoscan, but nothing shows up. Any suggestions?\n    submitted by    /u/jbenk07  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/ro155u/daedalus_wallet_how_do_you_get_a_list_of_all/",
+          "publishedOn": "2021-12-25T03:11:04.000Z",
+          "wordCount": 418,
+          "title": "Daedalus wallet. How do you get a list of all transactions (including stake rewards)?"
+        },
+        {
+          "id": "https://www.reddit.com/r/cardano/comments/rnzhct/daedalus_wallet_ram_usage/",
+          "author": null,
+          "description": "I used to have no problem syncing daedalus wallet on my 8gb RAM laptop once a week. Over time it's using more and more RAM. It now uses all my RAM, runs like a slug, takes hours and i can't use any other application while daedalus syncing. Have daedalus system requirements recently changed from 8gb to 16gb RAM? any advice? Guess I'm not using daedalus anymore. \n Is my selected staking pool and ledger wallet all just as accessible on yoroi wallet?\n    submitted by    /u/mookizee  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/cardano/comments/rnzhct/daedalus_wallet_ram_usage/",
+          "publishedOn": "2021-12-25T01:25:51.000Z",
+          "wordCount": 675,
+          "title": "Daedalus wallet ram usage"
+        },
         {
           "id": "https://www.reddit.com/r/cardano/comments/rntqgv/ada_staking_curve/",
           "author": null,
@@ -1641,6 +1911,33 @@
       "siteUrl": "https://www.reddit.com/r/redscarepod/top/?sort=top&t=day&limit=3",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redscarepod/comments/ro7si6/unironically/",
+          "author": null,
+          "description": "submitted by    /u/BigRedThrowaway230  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/ro7si6/unironically/",
+          "publishedOn": "2021-12-25T11:00:08.000Z",
+          "wordCount": 651,
+          "title": "Unironically:"
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/ro1gai/elliot_page_showed_his_surgeon_the_jawline_on_the/",
+          "author": null,
+          "description": "submitted by    /u/Renaissance8  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/ro1gai/elliot_page_showed_his_surgeon_the_jawline_on_the/",
+          "publishedOn": "2021-12-25T03:30:11.000Z",
+          "wordCount": 452,
+          "title": "Elliot Page showed his surgeon the jawline on the Chad comic and said \"I want that\""
+        },
+        {
+          "id": "https://www.reddit.com/r/redscarepod/comments/ro1bvn/these_new_warnings_on_old_movies_are_so_gay_lol/",
+          "author": null,
+          "description": "submitted by    /u/gentilet  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redscarepod/comments/ro1bvn/these_new_warnings_on_old_movies_are_so_gay_lol/",
+          "publishedOn": "2021-12-25T03:22:42.000Z",
+          "wordCount": 425,
+          "title": "These new warnings on old movies are so gay lol"
+        },
+        {
           "id": "https://www.reddit.com/r/redscarepod/comments/rnoy0g/did_this_get_posted_yet/",
           "author": null,
           "description": "submitted by    /u/sixtyandnine  \n [link]   [comments]",
@@ -1753,8 +2050,62 @@
     {
       "title": "Trending Haskell repositories on GitHub today · GitHub",
       "feedUrl": "https://rsshub.app/github/trending/daily/haskell",
-      "siteUrl": "https://github.com/trending/haskell?since=daily&spoken_language_code=",
+      "siteUrl": "https://github.com/trending/haskell?since=daily",
       "articles": [
+        {
+          "id": "https://github.com/haskell/cabal",
+          "author": "haskell",
+          "description": "Official upstream development repository for Cabal and cabal-install\n    \nLanguage: Haskell\n                            \nStar: 1,323\n                            \nFork: 580",
+          "link": "https://github.com/haskell/cabal",
+          "publishedOn": "2021-12-26T00:57:18.918Z",
+          "wordCount": 1003,
+          "title": "haskell /\n\n      cabal"
+        },
+        {
+          "id": "https://github.com/imsut/starthaskell",
+          "author": "imsut",
+          "description": "Language: Haskell\n                            \nStar: 1\n                            \nFork:",
+          "link": "https://github.com/imsut/starthaskell",
+          "publishedOn": "2021-12-26T00:57:18.855Z",
+          "wordCount": 291,
+          "title": "imsut /\n\n      starthaskell"
+        },
+        {
+          "id": "https://github.com/ollef/sixten",
+          "author": "ollef",
+          "description": "Functional programming with fewer indirections\n    \nLanguage: Haskell\n                            \nStar: 694\n                            \nFork: 27",
+          "link": "https://github.com/ollef/sixten",
+          "publishedOn": "2021-12-26T00:57:18.787Z",
+          "wordCount": 2541,
+          "title": "ollef /\n\n      sixten"
+        },
+        {
+          "id": "https://github.com/brendanhay/gogol",
+          "author": "brendanhay",
+          "description": "A comprehensive Google Services SDK for Haskell.\n    \nLanguage: Haskell\n                            \nStar: 250\n                            \nFork: 92",
+          "link": "https://github.com/brendanhay/gogol",
+          "publishedOn": "2021-12-26T00:57:18.740Z",
+          "wordCount": 789,
+          "title": "brendanhay /\n\n      gogol"
+        },
+        {
+          "id": "https://github.com/bitnomial/prometheus",
+          "author": "bitnomial",
+          "description": "Prometheus.io Haskell client.\n    \nLanguage: Haskell\n                            \nStar: 50\n                            \nFork: 22",
+          "link": "https://github.com/bitnomial/prometheus",
+          "publishedOn": "2021-12-26T00:57:18.625Z",
+          "wordCount": 725,
+          "title": "bitnomial /\n\n      prometheus"
+        },
+        {
+          "id": "https://github.com/obsidiansystems/obelisk",
+          "author": "obsidiansystems",
+          "description": "Functional reactive web and mobile applications, with batteries included.\n    \nLanguage: Haskell\n                            \nStar: 660\n                            \nFork: 83",
+          "link": "https://github.com/obsidiansystems/obelisk",
+          "publishedOn": "2021-12-26T00:57:18.575Z",
+          "wordCount": 2834,
+          "title": "obsidiansystems /\n\n      obelisk"
+        },
         {
           "id": "https://github.com/polysemy-research/polysemy",
           "author": "polysemy-research",
@@ -2275,6 +2626,186 @@
       "feedUrl": "https://hnrss.org/frontpage",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=29688150",
+          "author": "bryanrasmussen",
+          "description": "Article URL: https://github.com/philip-huang/PIXOR\nComments URL: https://news.ycombinator.com/item?id=29688150\nPoints: 3\n# Comments: 0",
+          "link": "https://github.com/philip-huang/PIXOR",
+          "publishedOn": "2021-12-25T23:43:35.000Z",
+          "wordCount": 811,
+          "title": "Pixor: Real-Time 3D Object Detection from Point Clouds"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29688048",
+          "author": "Jugurtha",
+          "description": "Article URL: https://fakeyou.com\nComments URL: https://news.ycombinator.com/item?id=29688048\nPoints: 7\n# Comments: 1",
+          "link": "https://fakeyou.com",
+          "publishedOn": "2021-12-25T23:29:31.000Z",
+          "wordCount": 14,
+          "title": "Use deep fake tech to say stuff with your favorite characters"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29687960",
+          "author": "harryruhr",
+          "description": "Article URL: https://ptribble.blogspot.com/2021/12/the-cost-of-cloud.html\nComments URL: https://news.ycombinator.com/item?id=29687960\nPoints: 8\n# Comments: 0",
+          "link": "https://ptribble.blogspot.com/2021/12/the-cost-of-cloud.html",
+          "publishedOn": "2021-12-25T23:16:42.000Z",
+          "wordCount": 1470,
+          "title": "The Cost of Cloud"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29687875",
+          "author": "yabones",
+          "description": "Article URL: https://nbailey.ca/post/simple-alerts/\nComments URL: https://news.ycombinator.com/item?id=29687875\nPoints: 10\n# Comments: 1",
+          "link": "https://nbailey.ca/post/simple-alerts/",
+          "publishedOn": "2021-12-25T23:05:08.000Z",
+          "wordCount": 2053,
+          "title": "Simple server alerts on a need-to-know basis"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29687840",
+          "author": "jarbus",
+          "description": "Article URL: https://jarbus.net/blog/write-latex-without-latex/\nComments URL: https://news.ycombinator.com/item?id=29687840\nPoints: 8\n# Comments: 10",
+          "link": "https://jarbus.net/blog/write-latex-without-latex/",
+          "publishedOn": "2021-12-25T23:00:03.000Z",
+          "wordCount": 473,
+          "title": "How to write LaTeX without writing LaTeX"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29687613",
+          "author": "malshe",
+          "description": "Article URL: https://arxiv.org/abs/1909.10140\nComments URL: https://news.ycombinator.com/item?id=29687613\nPoints: 96\n# Comments: 19",
+          "link": "https://arxiv.org/abs/1909.10140",
+          "publishedOn": "2021-12-25T22:30:28.000Z",
+          "wordCount": 605,
+          "title": "A New Coefficient of Correlation"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29687282",
+          "author": "picture",
+          "description": "Article URL: https://www.righto.com/2021/12/christmas-shopping-ibm-way-computerized.html\nComments URL: https://news.ycombinator.com/item?id=29687282\nPoints: 46\n# Comments: 3",
+          "link": "https://www.righto.com/2021/12/christmas-shopping-ibm-way-computerized.html",
+          "publishedOn": "2021-12-25T21:49:07.000Z",
+          "wordCount": 1233,
+          "title": "Christmas shopping the IBM way: computerized gift selection in 1962"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29687061",
+          "author": "rammy1234",
+          "description": "Article URL: https://github.com/marktext/marktext\nComments URL: https://news.ycombinator.com/item?id=29687061\nPoints: 32\n# Comments: 22",
+          "link": "https://github.com/marktext/marktext",
+          "publishedOn": "2021-12-25T21:23:28.000Z",
+          "wordCount": 1399,
+          "title": "Marktext – Elegant Markdown Editor for Linux, macOS, Windows"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29686921",
+          "author": "jstreebin",
+          "description": "Article URL: https://www.easypost.com/careers\nComments URL: https://news.ycombinator.com/item?id=29686921\nPoints: 1\n# Comments: 0",
+          "link": "https://www.easypost.com/careers",
+          "publishedOn": "2021-12-25T21:01:48.000Z",
+          "wordCount": 381,
+          "title": "EasyPost (YC S13) Is Hiring Remote"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29686891",
+          "author": "mortonstreet",
+          "description": "Article URL: https://www.reuters.com/markets/us/new-york-city-set-ban-natural-gas-new-buildings-2021-12-15/\nComments URL: https://news.ycombinator.com/item?id=29686891\nPoints: 121\n# Comments: 260",
+          "link": "https://www.reuters.com/markets/us/new-york-city-set-ban-natural-gas-new-buildings-2021-12-15/",
+          "publishedOn": "2021-12-25T20:57:06.000Z",
+          "wordCount": 1047,
+          "title": "New York City bans natural gas in new buildings"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29686862",
+          "author": "jandeboevrie",
+          "description": "Article URL: https://raymii.org/s/blog/Selling_GPL_Software_part_1_lots_of_hurdles.html\nComments URL: https://news.ycombinator.com/item?id=29686862\nPoints: 62\n# Comments: 18",
+          "link": "https://raymii.org/s/blog/Selling_GPL_Software_part_1_lots_of_hurdles.html",
+          "publishedOn": "2021-12-25T20:53:30.000Z",
+          "wordCount": 1815,
+          "title": "Selling my own GPL software, part 1: a lot of hurdles"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29685927",
+          "author": "marinesebastian",
+          "description": "Article URL: https://aws.amazon.com/blogs/aws/aws-repost-a-reimagined-qa-experience-for-the-aws-community/\nComments URL: https://news.ycombinator.com/item?id=29685927\nPoints: 67\n# Comments: 46",
+          "link": "https://aws.amazon.com/blogs/aws/aws-repost-a-reimagined-qa-experience-for-the-aws-community/",
+          "publishedOn": "2021-12-25T18:59:51.000Z",
+          "wordCount": 1078,
+          "title": "Amazon Introduces Re:Post, a “Stack Overflow” for AWS"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29685632",
+          "author": "picture",
+          "description": "Article URL: https://www.righto.com/2021/12/reverse-engineering-tiny-1980s-chip.html\nComments URL: https://news.ycombinator.com/item?id=29685632\nPoints: 209\n# Comments: 44",
+          "link": "https://www.righto.com/2021/12/reverse-engineering-tiny-1980s-chip.html",
+          "publishedOn": "2021-12-25T18:30:05.000Z",
+          "wordCount": 3349,
+          "title": "Reverse-engineering a tiny 1980s chip that plays Christmas tunes"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29685021",
+          "author": "aj_nikhil",
+          "description": "I have worked in many different fields(web dev, analytics, product management) but can't seem to stick to one. Is it about the field or something about myself that I need to change? How do I go about solving this??\nComments URL: https://news.ycombinator.com/item?id=29685021\nPoints: 155\n# Comments: 127",
+          "link": "https://news.ycombinator.com/item?id=29685021",
+          "publishedOn": "2021-12-25T17:30:20.000Z",
+          "wordCount": 11561,
+          "title": "Ask HN: Have you found something you love to do? If yes how?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29683936",
+          "author": "sandworm101",
+          "description": "I made a similar post last year at this time and, again, I am in my office on Christmas morning.\nThere are a few days every year that really show which jobs are vital and which can be left aside for a day.  I started my car this morning (-32, -40 with wind chill).  On my way to work I drove past a hospital and a care home, both were manned.  The dairy farm had its lights on.  A cop with his flashers drove past me on the way to some emergency.  The macdonalds drive-through was open too.  I had to be at work by 0600, but I was relieving someone who had been sitting in another office since 1800.  On my computer were the same dozen emails I get every morning, each from someone else who drew the short straw.\nThere aren't many of us on HN that work weekends let alone Christmas morning, but If you too are sitting in a dark office remember that all across the world are millions of other people working the truly important jobs.\nComments URL: https://news.ycombinator.com/item?id=29683936\nPoints: 729\n# Comments: 160",
+          "link": "https://news.ycombinator.com/item?id=29683936",
+          "publishedOn": "2021-12-25T15:17:24.000Z",
+          "wordCount": 8694,
+          "title": "25-Dec. Shout-out to everyone else at work"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29683471",
+          "author": "mkdirp",
+          "description": "Article URL: https://github.com/microsoft/grpc_bench/commit/04c7143a39a0bb243369e31f3b3b797449468fdb\nComments URL: https://news.ycombinator.com/item?id=29683471\nPoints: 1214\n# Comments: 498",
+          "link": "https://github.com/microsoft/grpc_bench/commit/04c7143a39a0bb243369e31f3b3b797449468fdb",
+          "publishedOn": "2021-12-25T14:12:18.000Z",
+          "wordCount": 3771,
+          "title": "Microsoft forked MIT licensed repo and changed the copyright [fixed]"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29683331",
+          "author": "doener",
+          "description": "Article URL: https://prototypefund.de/en/\nComments URL: https://news.ycombinator.com/item?id=29683331\nPoints: 126\n# Comments: 26",
+          "link": "https://prototypefund.de/en/",
+          "publishedOn": "2021-12-25T13:46:39.000Z",
+          "wordCount": 2855,
+          "title": "We Fund Public Interest Tech"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29682920",
+          "author": "sebiw",
+          "description": "Article URL: https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/\nComments URL: https://news.ycombinator.com/item?id=29682920\nPoints: 440\n# Comments: 62",
+          "link": "https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/",
+          "publishedOn": "2021-12-25T12:56:56.000Z",
+          "wordCount": 1214,
+          "title": "Ruby 3.1"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29682917",
+          "author": "stared",
+          "description": "Article URL: https://neuroclastic.com/its-a-spectrum-doesnt-mean-what-you-think/\nComments URL: https://news.ycombinator.com/item?id=29682917\nPoints: 226\n# Comments: 269",
+          "link": "https://neuroclastic.com/its-a-spectrum-doesnt-mean-what-you-think/",
+          "publishedOn": "2021-12-25T12:56:32.000Z",
+          "wordCount": 4809,
+          "title": "“Autism is a spectrum” doesn’t mean what you think (2019)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29682508",
+          "author": "giuliomagnifico",
+          "description": "Article URL: https://www.fraunhofer.de/en/press/research-news/2021/december-2021/mems-microspeakers-for-the-future-of-the-mobile-internet.html\nComments URL: https://news.ycombinator.com/item?id=29682508\nPoints: 19\n# Comments: 3",
+          "link": "https://www.fraunhofer.de/en/press/research-news/2021/december-2021/mems-microspeakers-for-the-future-of-the-mobile-internet.html",
+          "publishedOn": "2021-12-25T11:51:11.000Z",
+          "wordCount": 1752,
+          "title": "MEMS Microspeakers Made from Silicon"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=29678970",
           "author": "osivertsson",
@@ -3002,6 +3533,69 @@
       "feedUrl": "https://nitter.net/disclosetv/rss",
       "siteUrl": "https://nitter.net/disclosetv",
       "articles": [
+        {
+          "id": "https://nitter.net/disclosetv/status/1474894098830086147#m",
+          "author": "@disclosetv",
+          "description": "NEW - 3 football players died of heart attacks in the last 5 days.\n\n- Croatian Marin Cacic, 23 years old.\n- Algerian Soufiane Lokar, 30 years old.\n- Omani Makhlid Al Raqadi, 29 years old.",
+          "link": "https://nitter.net/disclosetv/status/1474894098830086147#m",
+          "publishedOn": "2021-12-26T00:05:30.000Z",
+          "wordCount": 244,
+          "title": "NEW - 3 football players died of heart attacks in the last 5 days.\n\n- Croatian Marin Cacic, 23 years old.\n- Algerian Soufiane Lokar, 30 years old.\n- Omani Makhlid Al Raqadi, 29 years old."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1474889936360910853#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Ministers plan to send Covid teams armed with Covid jabs door-to-door to reach five million unvaccinated Britons.\n\ndailymail.co.uk/news/article…",
+          "link": "https://nitter.net/disclosetv/status/1474889936360910853#m",
+          "publishedOn": "2021-12-25T23:48:57.000Z",
+          "wordCount": 269,
+          "title": "JUST IN - Ministers plan to send Covid teams armed with Covid jabs door-to-door to reach five million unvaccinated Britons.\n\nhttps://www.dailymail.co.uk/news/article-10344567/Door-door-Covid-jab-teams-sent-homes-five-million-unvaccinated-Britons.html"
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1474798671652958209#m",
+          "author": "@disclosetv",
+          "description": "NEW - Volcano eruption on the island of La Palma has officially been declared over by Spanish authorities.",
+          "link": "https://nitter.net/disclosetv/status/1474798671652958209#m",
+          "publishedOn": "2021-12-25T17:46:18.000Z",
+          "wordCount": 219,
+          "title": "NEW - Volcano eruption on the island of La Palma has officially been declared over by Spanish authorities."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1474717039457718277#m",
+          "author": "@disclosetv",
+          "description": "NOW - James Webb Space Telescope blasts off into space on Ariane 5 rocket.",
+          "link": "https://nitter.net/disclosetv/status/1474717039457718277#m",
+          "publishedOn": "2021-12-25T12:21:55.000Z",
+          "wordCount": 259,
+          "title": "NOW - James Webb Space Telescope blasts off into space on Ariane 5 rocket."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1474712017936265216#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - Austria: Parliament is flooded with complaints against compulsory vaccination. As of today, over 35,000 complaints have been filed.",
+          "link": "https://nitter.net/disclosetv/status/1474712017936265216#m",
+          "publishedOn": "2021-12-25T12:01:58.000Z",
+          "wordCount": 220,
+          "title": "JUST IN - Austria: Parliament is flooded with complaints against compulsory vaccination. As of today, over 35,000 complaints have been filed."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1474709069743198212#m",
+          "author": "@disclosetv",
+          "description": "JUST IN - China has reportedly blocked access to Steam Global - the communist regime's biggest blow yet against the gaming industry.",
+          "link": "https://nitter.net/disclosetv/status/1474709069743198212#m",
+          "publishedOn": "2021-12-25T11:50:15.000Z",
+          "wordCount": 255,
+          "title": "JUST IN - China has reportedly blocked access to Steam Global - the communist regime's biggest blow yet against the gaming industry."
+        },
+        {
+          "id": "https://nitter.net/disclosetv/status/1474551139719086084#m",
+          "author": "@disclosetv",
+          "description": "NEW - Florida Gov. DeSantis deploys state law enforcement to assist Santa's deliveries.",
+          "link": "https://nitter.net/disclosetv/status/1474551139719086084#m",
+          "publishedOn": "2021-12-25T01:22:42.000Z",
+          "wordCount": 257,
+          "title": "NEW - Florida Gov. DeSantis deploys state law enforcement to assist Santa's deliveries."
+        },
         {
           "id": "https://nitter.net/disclosetv/status/1474453625338478601#m",
           "author": "@disclosetv",
